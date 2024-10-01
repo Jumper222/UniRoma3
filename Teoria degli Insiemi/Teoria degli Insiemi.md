@@ -1,4 +1,4 @@
-La teoria degli insiemi rappresenta la branca della matematica che si occupa di definire gruppi <font color="#548dd4">S</font> con al loro interni degli <font color="#548dd4">Elementi</font>. jh
+La teoria degli insiemi rappresenta la branca della matematica che si occupa di definire gruppi <font color="#548dd4">S</font> con al loro interni degli <font color="#548dd4">Elementi</font>. 
 
 #### Notazioni delle Teoria degli Insiemi
 Dato un insieme S,
@@ -33,4 +33,7 @@ Da queste operazioni si hanno varie **proprietà**
 **DISTRIBUTIVA**
 	A∪(B∩C) = (A∪B)∩(A∪C), A∩(B∪C) = (A∩B)∪(A∩C)
 
-Nella teoria degli insiemi è anche importante il concetto di [[Coppie Ordinate]], fondamentale per capire l' operazione del' [[Prodotto Cartesiano]]
+Nella teoria degli insiemi è anche importante il concetto di [[Sequenze Ordinate]], fondamentale per capire l' operazione del' [[Prodotto Cartesiano]]
+
+
+[[Insiemi Numerici]]

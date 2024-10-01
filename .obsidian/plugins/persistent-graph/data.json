@@ -1,0 +1,50 @@
+{
+  "nodePositions": [
+    {
+      "id": "Analisi I.md",
+      "x": 51.984580993652344,
+      "y": -111.45945739746094
+    },
+    {
+      "id": "Fondamenti di Informatica.md",
+      "x": -301.05096435546875,
+      "y": -61.45907974243164
+    },
+    {
+      "id": "Geometria e Combinatoria.md",
+      "x": -79.4473876953125,
+      "y": -329.5904235839844
+    },
+    {
+      "id": "Home.md",
+      "x": -142.6866455078125,
+      "y": -156.9635009765625
+    },
+    {
+      "id": "Teoria degli Insiemi/Insiemi Numerici.md",
+      "x": 231.53768920898438,
+      "y": -7.204275608062744
+    },
+    {
+      "id": "Teoria degli Insiemi/Prodotto Cartesiano.md",
+      "x": -10.056668281555176,
+      "y": 302.2515563964844
+    },
+    {
+      "id": "Teoria degli Insiemi/Sequenze Ordinate.md",
+      "x": -159.30975341796875,
+      "y": 189.29580688476562
+    },
+    {
+      "id": "Teoria degli Insiemi/Teoria degli Insiemi.md",
+      "x": 44.55408477783203,
+      "y": 101.19815826416016
+    },
+    {
+      "id": "Teoria degli Insiemi/Definizioni degli insiemi.md",
+      "x": 319.9355163574219,
+      "y": 151.821533203125
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

@@ -3,5 +3,11 @@
   "obsidian-latex-suite",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "homepage"
+  "homepage",
+  "share-note",
+  "table-editor-obsidian",
+  "obsidian-linter",
+  "obsidian-smart-typography",
+  "obsidian-plugin-update-tracker",
+  "persistent-graph"
 ]
