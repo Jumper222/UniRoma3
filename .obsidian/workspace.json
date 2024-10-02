@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometria e Combinatoria.md",
+                "file": "Teoria degli Insiemi/Insiemi Numerici.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometria e Combinatoria.md",
+                "file": "Teoria degli Insiemi/Insiemi Numerici.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometria e Combinatoria.md",
+                "file": "Teoria degli Insiemi/Insiemi Numerici.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometria e Combinatoria.md"
+                "file": "Teoria degli Insiemi/Insiemi Numerici.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +167,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Teoria degli Insiemi/Insiemi Numerici.md",
+    "Teoria degli Insiemi/Definizioni degli insiemi.md",
     "Geometria e Combinatoria.md",
+    "Teoria degli Insiemi/Insiemi Numerici.md",
     "Analisi I.md",
     "Fondamenti di Informatica.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
     "Home.md",
-    "Teoria degli Insiemi/Definizioni degli insiemi.md",
     "Teoria degli Insiemi/Sequenze Ordinate.md",
     "Teoria degli Insiemi/Prodotto Cartesiano.md",
     "Teoria degli Insiemi/Coppie Ordinate.md",
