@@ -37,7 +37,13 @@ Nella teoria degli insiemi è anche importante il concetto di [[Sequenze Ordinat
 
 ### <font color="#4f81bd">Insieme delle parti</font>
 
-L' insieme delle parti 
+L' insieme delle parti è definito t.c.:
+se A è un insieme,
+P(A) = {S | S ⊆ A } → se  A ={1,2,3}
+l’ insieme della parti sarà:
+{{1,2,3},{1},{2},{3},{1,2},{2,3},{1,3},$\emptyset$}
+
+- Quindi la grandezza dell’ insieme della parti è grande quanto $2^n$ dove n è il numero di elementi di A.
 
 
 
