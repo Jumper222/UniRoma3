@@ -54,4 +54,6 @@ Per ogni <font color="#ff0000">coppia di naturali</font> esiste un numero n che 
 ### <font color="#4f81bd">Assioma di Completezza</font>
 
 Dati A $\subseteq$ $\mathbb{R}$ e B $\subseteq \mathbb{R}$ sottoinsiemi,
-t.c. che $a\leq b\; \forall a \in A lan$
+t.c. che $a\leq b\; \forall a \in A \; \land \; \forall b \in B$
+$\exists$ almeno un numero reale $c\in \mathbb{R} \text{ t.c. } a\leq c\leq b \; \forall a\in A \; \land \; \forall b\in B$
+Esiste sempre almeno un elemento c tra a e b nell' insieme $\mathbb{R}$
