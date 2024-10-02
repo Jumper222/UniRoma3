@@ -35,6 +35,10 @@ Da queste operazioni si hanno varie **proprietà**
 
 Nella teoria degli insiemi è anche importante il concetto di [[Sequenze Ordinate]], fondamentale per capire l' operazione del' [[Prodotto Cartesiano]]
 
+### <font color="#4f81bd">Insieme delle parti</font>
+
+L' insieme delle parti 
+
 
 
 

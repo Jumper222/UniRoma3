@@ -58,3 +58,15 @@ t.c. che $a\leq b\; \forall a \in A \; \land \; \forall b \in B$
 $\exists$ almeno un numero reale $c\in \mathbb{R} \text{ t.c. } a\leq c\leq b \; \forall a\in A \; \land \; \forall b\in B$
 - L' <font color="#ff0000">Assioma</font> afferma che ogni insieme non vuoto di numeri Reali ha sempre un limite superiore (numero più grande). questo significa che non ci sono vuoti nei numeri reali.
 - In altre parole non è possibile avere un insieme di numeri reali che non raggiunge il suo limite in <font color="#ff0000">R</font>
+
+
+### <font color="#4f81bd"> Modi di descrivere un insieme</font>
+(Argomento di Geometria e Combinatoria)
+
+
+Si hanno 2  modi per descrivere un insieme:
+
+$A=$ {2;4;6;8}
+B = {$x\in\mathbb{N} \;| \;1\leq x\leq 9 \; \land x \; pari$}
+
+Questi due insiemi sono uguali, però sono definiti in modo diverso
