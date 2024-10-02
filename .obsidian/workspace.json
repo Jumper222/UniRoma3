@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Fondamenti di Informatica.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Fondamenti di Informatica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Fondamenti di Informatica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Fondamenti di Informatica.md"
               }
             }
           },
@@ -167,12 +167,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Analisi I.md",
+    "Fondamenti di Informatica.md",
+    "Home.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Geometria e Combinatoria",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
-    "Home.md",
     "Teoria degli Insiemi/Insiemi Numerici.md",
-    "Fondamenti di Informatica.md",
     "Teoria degli Insiemi/Definizioni degli insiemi.md",
     "Teoria degli Insiemi/Sequenze Ordinate.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
@@ -180,7 +181,6 @@
     "Excalidraw/Drawing 2024-10-01 23.07.54.excalidraw.md",
     "Teoria degli Insiemi/Insieme Z.md",
     "Excalidraw",
-    "Analisi I.md",
     "Excalidraw/Drawing 2024-10-01 21.15.46.excalidraw.md",
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Teoria degli Insiemi",
