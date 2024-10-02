@@ -56,4 +56,5 @@ Per ogni <font color="#ff0000">coppia di naturali</font> esiste un numero n che 
 Dati A $\subseteq$ $\mathbb{R}$ e B $\subseteq \mathbb{R}$ sottoinsiemi,
 t.c. che $a\leq b\; \forall a \in A \; \land \; \forall b \in B$
 $\exists$ almeno un numero reale $c\in \mathbb{R} \text{ t.c. } a\leq c\leq b \; \forall a\in A \; \land \; \forall b\in B$
-L' <font color="#ff0000">Assioma</font> afferma che ogni insieme non vuoto di numeri Reali ha sempre un limite superiore (numero più grande). questo significa 
+- L' <font color="#ff0000">Assioma</font> afferma che ogni insieme non vuoto di numeri Reali ha sempre un limite superiore (numero più grande). questo significa che non ci sono vuoti nei numeri reali.
+- In altre parole non è possibile avere un insieme di numeri reali che non raggiunge il suo limite in <font color="#ff0000">R</font>

@@ -36,4 +36,6 @@ Da queste operazioni si hanno varie **proprietà**
 Nella teoria degli insiemi è anche importante il concetto di [[Sequenze Ordinate]], fondamentale per capire l' operazione del' [[Prodotto Cartesiano]]
 
 
+
+
 [[Insiemi Numerici]]
