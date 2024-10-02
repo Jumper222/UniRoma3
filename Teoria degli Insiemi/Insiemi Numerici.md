@@ -50,3 +50,8 @@ Esiste almeno un <font color="#ff0000">numero z</font> tra qualsiasi dato numero
 ### <font color="#4f81bd">Proprietà Archimede</font> 
 $$\forall x,y\in\mathbb{Q}\;allora \;x,y>0 \;\exists \;n\in\mathbb{N}:n*x>y$$
 Per ogni <font color="#ff0000">coppia di naturali</font> esiste un numero n che moltiplicato per x supera y
+
+### <font color="#4f81bd">Assioma di Completezza</font>
+
+Dati A $\subseteq$ $\mathbb{R}$ e B $\subseteq \mathbb{R}$ sottoinsiemi,
+t.c. che $a\leq b\; \forall a \in A lan$
