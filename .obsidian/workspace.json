@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0a5b70b6318f16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni/Definizioni fondamentali delle Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,10 +203,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e786c03b9c5e20e5",
+  "active": "c0a5b70b6318f16a",
   "lastOpenFiles": [
     "Funzioni/Funzioni.md",
+    "Excalidraw/Dominio,Codominio,Immagine e Controimmagine.md",
     "Funzioni/Definizioni fondamentali delle Funzioni.md",
+    "Excalidraw",
     "Funzioni",
     "Analisi I.md",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",

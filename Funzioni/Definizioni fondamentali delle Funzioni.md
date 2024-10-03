@@ -20,4 +20,12 @@ L’ <font color="#f79646">Immagine</font> di una funzione ($\mathrm{Im}(f)$) è
 #### <font color="#4f81bd">Controimmagine</font> 
 La <font color="#f79646">Controimmagine</font> di una funzione ($f^{-1}(B)$) è l’ insieme dei valori del dominio che hanno un valore corrispondente all’ interno dell’ immagine.
 
-- Per capire meglio questi concetti, ci forniamo di un 
+- Per capire meglio questi concetti, ci forniamo di un esempio:
+
+![[Dominio,Codominio,Immagine e Controimmagine]]
+
+In questo insieme, i due insiemi maggiori sono rispettivamente il <font color="#f79646">Dominio</font> a sinistra ed il <font color="#f79646">Codominio</font> a destra.
+
+L’ insieme con {3,6,7} è l’ immagine della funzione, in quanto è la parte del <font color="#f79646">Codominio</font> dentro al quale è definita la funzione $f$.
+
+L’ insieme con {1,4,2} è la controimmagine della funzione, in quanto è la parte del <font color="#f79646">Dominio</font> 
