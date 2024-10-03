@@ -1,3 +1,4 @@
+#Analisi_1 #Geometria_e_Combinatoria 
 ### <font color="#4f81bd">Insieme Z</font>
 $\mathbb{Z} = \{\pm n \text{ : n}\in \mathbb{N}  \}$
 $\exists$  numeri opposti : $\forall a \exists$ opposto $(-a)$ t.c. $a+(-a)=0$
