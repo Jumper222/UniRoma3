@@ -12,7 +12,12 @@ Il <font color="#f79646">Dominio</font> di una funzione ($Dom(f)$) è l’ insie
 ed è definito come il più grande sottoinsieme di $\mathbb{R}$ dove la funzione è definita.
 
 #### <font color="#4f81bd">Codominio</font>
-il <font color="#f79646">Codominio</font> di una funzione ($Cod(f)$) è l’ insieme di valori che la funzione può assumere, ma non assume necessariamente. al suo interno è contenuta l’ immagine della funzione.
+il <font color="#f79646">Codominio</font> di una funzione ($Cod(f)$) è l’ insieme di valori dentro al quale la funzione può assumere valori, ma non assume necessariamente. al suo interno è contenuta l’ immagine della funzione.
 
 #### <font color="#4f81bd">Immagine</font>
-L’ <font color="#f79646">Immagine</font> di una funzione ($\mathrm{Im}(f)$) è l’insieme dei valori assunti dalla funzione,
+L’ <font color="#f79646">Immagine</font> di una funzione ($\mathrm{Im}(f)$) è l’insieme dei valori assunti dalla funzione, ed è contenuta nel Codominio della funzione.
+
+#### <font color="#4f81bd">Controimmagine</font> 
+La <font color="#f79646">Controimmagine</font> di una funzione ($f^{-1}(B)$) è l’ insieme dei valori del dominio che hanno un valore corrispondente all’ interno dell’ immagine.
+
+- Per capire meglio questi concetti, ci forniamo di un 
