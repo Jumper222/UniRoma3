@@ -23,10 +23,11 @@
             "id": "1fafc832c273dbfc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".gitignore.txt",
-                "staged": true
+                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md"
+              }
             }
           },
           {
@@ -158,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
