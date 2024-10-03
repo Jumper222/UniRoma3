@@ -16,6 +16,7 @@ Sono fondamentali in questa branca gli **Operatori Logici** <font color="#ff0000
 
 ### <font color="#4f81bd">AND</font>
 L’ Operatore Logico <font color="#4f81bd">AND</font> ($\land$) è un operatore con 2 input e un output, la cui tabella di verità è t.c:
+<font color="#ff0000">N.B</font>: L’ operazione di doppia implicazione ($\iff$) che indica il caso di SE e solo SE, ha una tabella di verità uguale all’ AND.
 
 | <center>P</center> | <center>Q</center> | P$\land$Q          |
 | ------------------ | ------------------ | ------------------ |
@@ -43,4 +44,16 @@ L’ Operatore Logico <font color="#4f81bd">NOT</font> ($\lnot$) è un operatore
 | <center>0</center> | <center>1</center> |
 
 ### <font color="#4f81bd">IMPLICAZIONE</font>
-L’ Operatore logico della Implicazione ($\implies$)
+L’ Operatore logico della Implicazione ($\implies$) è un operatore con 2 input ed un output, la cui tabella di verità è t.c:
+
+| <center>P</center> | <center>Q</center> | P$\implies$Q       |
+| ------------------ | ------------------ | ------------------ |
+| <center>1</center> | <center>1</center> | <center>1</center> |
+| <center>1</center> | <center>0</center> | <center>0</center> |
+| <center>0</center> | <center>1</center> | <center>1</center> |
+| <center>0</center> | <center>0</center> | <center>1</center> |
+
+### <font color="#4f81bd">TAUTOLOGIA E CONTRADDIZIONE</font>
+Non sono operatori logici, piuttosto proprietà di una data operazione logica,
+<font color="#f79646">Tautologia</font> è usata per indicare una proposizione sempre vera,
+<font color="#f79646">Contraddizione</font> è usata per indicare una proposizione sempre falsa.
