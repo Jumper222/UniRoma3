@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fondamenti di Informatica.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fondamenti di Informatica.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fondamenti di Informatica.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fondamenti di Informatica.md"
+                "file": "Home.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Analisi I.md",
+    "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
+    "Argomenti di Fondamenti di Informatica",
     "Fondamenti di Informatica.md",
+    "Analisi I.md",
     "Home.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Geometria e Combinatoria",
