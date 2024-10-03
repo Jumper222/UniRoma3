@@ -1,3 +1,4 @@
+#Analisi_1 
 ### <font color="#4f81bd">Iniettiva</font>
 Una funzione $f: X\to Y$ si dice <font color="#f79646">Iniettiva</font> solo se elementi <font color="#ffff00">distinti</font> del dominio hanno immagini <font color="#ffff00">distinte</font>
 Ha tali <font color="#ffff00">definizioni</font> equivalenti:

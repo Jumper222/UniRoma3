@@ -5,13 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:#Analisi_1  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14642175
+      }
+    },
+    {
+      "query": "tag:#Geometria_e_Combinatoria  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#Fondamenti_di_Informatica  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 12.9166666666667,
   "linkStrength": 1,
   "linkDistance": 172,
-  "scale": 0.7132754626224432,
-  "close": false
+  "scale": 0.7132754626224439,
+  "close": true
 }
