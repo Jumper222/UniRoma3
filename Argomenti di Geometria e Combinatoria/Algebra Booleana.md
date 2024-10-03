@@ -14,8 +14,8 @@ Ad esempio <font color="#ff0000">NON SONO</font>  proposizioni:
 
 Sono fondamentali in questa branca gli **Operatori Logici** <font color="#ff0000">AND</font>, <font color="#ff0000">OR</font>, <font color="#ff0000">NOT</font>
 
-<font color="#4f81bd">AND</font>
-L’ Operatore Logico <font color="#4f81bd">AND</font> () è un operatore con 2 input e un output, la cui tabella di verita è t.c:
+### <font color="#4f81bd">AND</font>
+L’ Operatore Logico <font color="#4f81bd">AND</font> ($\land$) è un operatore con 2 input e un output, la cui tabella di verità è t.c:
 
 | <center>P</center> | <center>Q</center> | P$\land$Q          |
 | ------------------ | ------------------ | ------------------ |
@@ -24,4 +24,23 @@ L’ Operatore Logico <font color="#4f81bd">AND</font> () è un operatore con 2 
 | <center>0</center> | <center>1</center> | <center>0</center> |
 | <center>0</center> | <center>0</center> | <center>0</center> |
 
-<font color="#4f81bd">OR</font>
+### <font color="#4f81bd">OR</font>
+L’ Operatore Logico <font color="#4f81bd">OR</font> ($\lor$) è un operatore con 2 input ed un output, la cui tabella di verità è t.c:
+
+| <center>P</center> | <center>Q</center> | P$\lor$Q           |
+| ------------------ | ------------------ | ------------------ |
+| <center>1</center> | <center>1</center> | <center>1</center> |
+| <center>1</center> | <center>0</center> | <center>1</center> |
+| <center>0</center> | <center>1</center> | <center>1</center> |
+| <center>0</center> | <center>0</center> | <center>0</center> |
+
+### <font color="#4f81bd">NOT</font>
+L’ Operatore Logico <font color="#4f81bd">NOT</font> ($\lnot$) è un operatore con un input ed un output, la cui tabella di verità è t.c:
+
+| <center>P</center> | $\lnot$P           |
+| ------------------ | ------------------ |
+| <center>1</center> | <center>0</center> |
+| <center>0</center> | <center>1</center> |
+
+### <font color="#4f81bd">IMPLICAZIONE</font>
+L’ Operatore logico della Implicazione ($\implies$)
