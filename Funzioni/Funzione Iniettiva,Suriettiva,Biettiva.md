@@ -11,11 +11,16 @@ Ha tali <font color="#ffff00">definizioni</font> equivalenti:
 - $\forall  y\in Y \;\exists x\in X:f(x)=y$
 - $im(f)=f(x)=y$
 - $f^{-1}({y}) \neq \emptyset \; \forall y\in Y$
+![[Funzione Suriettiva]]
 
 ### <font color="#4f81bd">Biettiva</font>
 Una funzione $f:X\to Y$ è <font color="#f79646">Biettiva</font> se è sia <font color="#f79646">Uniettiva</font> che <font color="#f79646">Suriettiva</font>
 Ed è <font color="#ffff00">definita</font> t.c:
 $$\forall y\in Y\;\exists! x:f(x)=y$$
+Esempio di funzione Biettiva:
+
+![[Funzione Biettiva]]
+
 
 <font color="#ff0000">NB</font>: 
 - **Iniettiva**: Se tracci delle **rette orizzontali** sul grafico della funzione e una retta interseca il grafico in **più di un punto**, allora la funzione **non è iniettiva**. Per essere iniettiva, **ogni retta orizzontale deve intersecare al massimo un punto**.

@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "abe6d1c74a69a532",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Funzioni/Funzione Biettiva.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Funzione Biettiva.md",
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Funzione Biettiva.md",
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funzioni/Funzione Biettiva.md"
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md"
               }
             }
           },
@@ -177,14 +166,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a73c33d925e554b0",
+  "active": "eb9c1d0a8b663a52",
   "lastOpenFiles": [
+    "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-    "Funzioni/Funzione Biettiva.md",
+    "Funzioni/Definizioni fondamentali delle Funzioni.md",
+    "Funzioni/Funzioni.md",
+    "Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
     "Excalidraw",
     "Analisi I.md",
-    "Funzioni/Funzioni.md",
-    "Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
     "Funzioni/Excalidraw Funzioni",
     "Funzioni",
