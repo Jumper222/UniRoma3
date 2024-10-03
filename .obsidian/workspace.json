@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni/Definizioni fondamentali delle Funzioni.md",
+                "file": "Funzioni/Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb9c1d0a8b663a52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Definizioni fondamentali delle Funzioni.md",
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Definizioni fondamentali delle Funzioni.md",
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funzioni/Definizioni fondamentali delle Funzioni.md"
+                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md"
               }
             }
           },
@@ -203,11 +215,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0a5b70b6318f16a",
+  "active": "eb9c1d0a8b663a52",
   "lastOpenFiles": [
     "Funzioni/Funzioni.md",
-    "Excalidraw/Dominio,Codominio,Immagine e Controimmagine.md",
+    "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
+    "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
     "Funzioni/Definizioni fondamentali delle Funzioni.md",
+    "Funzioni/Excalidraw Funzioni",
     "Excalidraw",
     "Funzioni",
     "Analisi I.md",

@@ -26,6 +26,6 @@ La <font color="#f79646">Controimmagine</font> di una funzione ($f^{-1}(B)$) è 
 
 In questo insieme, i due insiemi maggiori sono rispettivamente il <font color="#f79646">Dominio</font> a sinistra ed il <font color="#f79646">Codominio</font> a destra.
 
-L’ insieme con {3,6,7} è l’ immagine della funzione, in quanto è la parte del <font color="#f79646">Codominio</font> dentro al quale è definita la funzione $f$.
+L’ insieme con {3,6,7} è l’ <font color="#f79646">Immagine</font> della funzione, in quanto è la parte del <font color="#f79646">Codominio</font> dentro al quale è definita la funzione $f$.
 
-L’ insieme con {1,4,2} è la controimmagine della funzione, in quanto è la parte del <font color="#f79646">Dominio</font> 
+L’ insieme con {1,4,2} è la <font color="#f79646">Controimmagine</font> della funzione, in quanto è la parte del <font color="#f79646">Dominio</font> dentro al quale la funzione $f$ ha valori con una corrispondenza nel <font color="#f79646">Dominio</font>.
