@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb9c1d0a8b663a52",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d98ad5ae978a0678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md"
+                "file": "Home.md"
               }
             }
           },
@@ -178,9 +165,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d98ad5ae978a0678",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
+    "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
     "Funzioni/Funzioni.md",
     "Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
     "Excalidraw",
@@ -191,7 +179,6 @@
     "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
     "Funzioni/Excalidraw Funzioni",
     "Funzioni",
-    "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
     "Geometria e Combinatoria.md",
     "conflict-files-obsidian-git.md",
     "Argomenti di Geometria e Combinatoria",
