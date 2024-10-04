@@ -5,5 +5,10 @@
   "obsidian-git",
   "homepage",
   "obsidian-smart-typography",
-  "share-note"
+  "share-note",
+  "persistent-graph",
+  "obsidian-plugin-update-tracker",
+  "obsidian-linter",
+  "table-editor-obsidian",
+  "obsidian-charts"
 ]
