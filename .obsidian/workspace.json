@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Funzioni/Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0783e9438c83fea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni/Funzioni Composte.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Funzioni/Funzioni Composte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Funzioni/Funzioni Composte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Funzioni/Funzioni Composte.md"
               }
             }
           },
@@ -166,15 +179,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0783e9438c83fea4",
   "lastOpenFiles": [
+    "Funzioni/Funzioni.md",
+    "Funzioni/Funzioni Composte.md",
+    "Home.md",
     "Teoria degli Insiemi/Definizioni degli insiemi.md",
     "Fondamenti di Informatica.md",
     "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
     "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
     "Geometria e Combinatoria.md",
     "Analisi I.md",
-    "Funzioni/Funzioni.md",
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
     "Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
@@ -185,7 +200,6 @@
     "Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
     "Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
     "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
-    "Home.md",
     "Funzioni/Excalidraw Funzioni",
     "Funzioni",
     "Argomenti di Fondamenti di Informatica",
