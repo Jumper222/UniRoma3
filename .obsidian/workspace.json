@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df059a91035d8aa7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-04 12.15.43.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Funzioni Composte.md",
+                "file": "Excalidraw/Drawing 2024-10-04 12.15.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Funzioni Composte.md",
+                "file": "Excalidraw/Drawing 2024-10-04 12.15.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funzioni/Funzioni Composte.md"
+                "file": "Excalidraw/Drawing 2024-10-04 12.15.43.excalidraw.md"
               }
             }
           },
@@ -179,10 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0783e9438c83fea4",
+  "active": "df059a91035d8aa7",
   "lastOpenFiles": [
-    "Funzioni/Funzioni.md",
     "Funzioni/Funzioni Composte.md",
+    "Excalidraw/Drawing 2024-10-04 12.15.43.excalidraw.md",
+    "Excalidraw",
+    "Funzioni/Funzioni.md",
     "Home.md",
     "Teoria degli Insiemi/Definizioni degli insiemi.md",
     "Fondamenti di Informatica.md",
@@ -206,7 +218,6 @@
     "Argomenti di Geometria e Combinatoria",
     "Excalidraw/Drawing 2024-10-01 23.07.54.excalidraw.md",
     "Teoria degli Insiemi/Insieme Z.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-10-01 21.15.46.excalidraw.md",
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Teoria degli Insiemi",

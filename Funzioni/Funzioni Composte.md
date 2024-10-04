@@ -17,4 +17,6 @@ Si hanno due funzioni $f: X\to Y \;e\; g: V\to Z$, Allora:
 $h(x):  g \circ f$ ha senso<font color="#e36c09"> SE E SOLO SE</font> $\mathrm{Im}(f) \subseteq V = Dom(g)$
 Che sta a significare che può esistere una funzione h(x), composta di g su f(x) se e solo se l’ immagine di f è contenuta dentro V, e V è il dominio di g.
 
+Si ha quindi il seguente grafico:
+
 
