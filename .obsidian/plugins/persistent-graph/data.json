@@ -2,48 +2,123 @@
   "nodePositions": [
     {
       "id": "Analisi I.md",
-      "x": 51.984580993652344,
-      "y": -111.45945739746094
+      "x": -24.57509994506836,
+      "y": 116.664794921875
+    },
+    {
+      "id": "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
+      "x": -604.8989868164062,
+      "y": 40.368412017822266
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
+      "x": -250.1615447998047,
+      "y": 387.78753662109375
     },
     {
       "id": "Fondamenti di Informatica.md",
-      "x": -301.05096435546875,
-      "y": -61.45907974243164
+      "x": -479.6364440917969,
+      "y": 181.42861938476562
+    },
+    {
+      "id": "Funzioni/Definizioni fondamentali delle Funzioni.md",
+      "x": -245.1951904296875,
+      "y": -125.82044982910156
+    },
+    {
+      "id": "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
+      "x": -427.93994140625,
+      "y": -222.14544677734375
+    },
+    {
+      "id": "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
+      "x": 350.1637268066406,
+      "y": 67.62877655029297
+    },
+    {
+      "id": "Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
+      "x": 447.36199951171875,
+      "y": -54.14371871948242
+    },
+    {
+      "id": "Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
+      "x": 411.97314453125,
+      "y": -207.68052673339844
+    },
+    {
+      "id": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
+      "x": 245.89227294921875,
+      "y": -98.67704772949219
+    },
+    {
+      "id": "Funzioni/Funzioni.md",
+      "x": -7.491252899169922,
+      "y": -164.34825134277344
     },
     {
       "id": "Geometria e Combinatoria.md",
-      "x": -79.4473876953125,
-      "y": -329.5904235839844
+      "x": -69.83425903320312,
+      "y": 303.7347106933594
     },
     {
       "id": "Home.md",
-      "x": -142.6866455078125,
-      "y": -156.9635009765625
-    },
-    {
-      "id": "Teoria degli Insiemi/Insiemi Numerici.md",
-      "x": 231.53768920898438,
-      "y": -7.204275608062744
-    },
-    {
-      "id": "Teoria degli Insiemi/Prodotto Cartesiano.md",
-      "x": -10.056668281555176,
-      "y": 302.2515563964844
-    },
-    {
-      "id": "Teoria degli Insiemi/Sequenze Ordinate.md",
-      "x": -159.30975341796875,
-      "y": 189.29580688476562
-    },
-    {
-      "id": "Teoria degli Insiemi/Teoria degli Insiemi.md",
-      "x": 44.55408477783203,
-      "y": 101.19815826416016
+      "x": -263.1026916503906,
+      "y": 176.93438720703125
     },
     {
       "id": "Teoria degli Insiemi/Definizioni degli insiemi.md",
-      "x": 319.9355163574219,
-      "y": 151.821533203125
+      "x": 410.4067687988281,
+      "y": 373.1832275390625
+    },
+    {
+      "id": "Teoria degli Insiemi/Insiemi Numerici.md",
+      "x": 214.9003448486328,
+      "y": 343.81768798828125
+    },
+    {
+      "id": "Teoria degli Insiemi/Prodotto Cartesiano.md",
+      "x": 92.87898254394531,
+      "y": 620.258544921875
+    },
+    {
+      "id": "Teoria degli Insiemi/Sequenze Ordinate.md",
+      "x": -94.54257202148438,
+      "y": 585.90234375
+    },
+    {
+      "id": "Teoria degli Insiemi/Teoria degli Insiemi.md",
+      "x": 53.3143424987793,
+      "y": 414.2229919433594
+    },
+    {
+      "id": "Funzioni/Esempi su Funzioni Composte.md",
+      "x": 200.20338439941406,
+      "y": -555.12744140625
+    },
+    {
+      "id": "Funzioni/Funzioni Composte.md",
+      "x": 142.16123962402344,
+      "y": -342.78326416015625
+    },
+    {
+      "id": "Funzioni/Excalidraw Funzioni/Funzioni composte.md",
+      "x": 386.4820251464844,
+      "y": -515.8677978515625
+    },
+    {
+      "id": "Funzioni/Funzione Inversa.md",
+      "x": -10.939428329467773,
+      "y": -400.71954345703125
+    },
+    {
+      "id": "Funzioni/Funzione di Identità.md",
+      "x": -170.94107055664062,
+      "y": -380.6605224609375
+    },
+    {
+      "id": "Funzioni/Monotonia delle Funzioni.md",
+      "x": -177.07550048828125,
+      "y": -247.63525390625
     }
   ],
   "automaticallyRestoreNodePositions": true
