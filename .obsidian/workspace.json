@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md"
+                "file": "Home.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +168,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Funzioni/Funzioni.md",
     "Funzioni/Funzioni Composte.md",
     "Funzioni/Definizioni fondamentali delle Funzioni.md",
@@ -178,7 +178,6 @@
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
     "Funzioni/Funzione Inversa.md",
     "Funzioni/Monotonia delle Funzioni.md",
-    "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Untitled.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Home.md",
