@@ -9,7 +9,9 @@ Difatti, h(x) è convenzionalmente usata per rappresentare una funzione composta
 Questo primo esempio di funzione composta è anche detta composizione semplice.
 Infatti l’ insieme $Y$ sarà sia DOM(g) che Im(f).
 
-<font color="#ff0000">NB</font>: nell’ esempio sopracitato f(x) è l’ <font color="#ffff00">argomento</font> di g.
+<font color="#ff0000">NB</font>: Nell’ esempio sopracitato f(x) è l’ <font color="#ffff00">argomento</font> di g.
+<font color="#ff0000">NB</font>: La composizione non è commutativa.
 
 
 ![[Esempi su Funzioni Composte]]
+

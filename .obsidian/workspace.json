@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni/Esempi su Funzioni Composte.md",
+                "file": "Funzioni/Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b1ad63a57561440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni/Funzione Inversa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Esempi su Funzioni Composte.md",
+                "file": "Funzioni/Funzione Inversa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Esempi su Funzioni Composte.md",
+                "file": "Funzioni/Funzione Inversa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funzioni/Esempi su Funzioni Composte.md"
+                "file": "Funzioni/Funzione Inversa.md"
               }
             }
           },
@@ -167,9 +180,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a73c33d925e554b0",
   "lastOpenFiles": [
+    "Funzioni/Funzioni.md",
+    "Funzioni/Funzione Inversa.md",
     "Funzioni/Funzioni Composte.md",
+    "Funzioni/Esempi su Funzioni Composte.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
@@ -183,7 +199,6 @@
     "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
     "Funzioni/Definizioni fondamentali delle Funzioni.md",
-    "Funzioni/Funzioni.md",
     "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
     "Analisi I.md",

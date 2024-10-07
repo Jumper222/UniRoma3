@@ -24,4 +24,6 @@ Sostanzialmente bisogna verificare  i valori di $f$ che hanno senso dentro la fu
 
 ### <font color="#ff0000">Esempio 03</font>
 Si hanno:
-$f(x)=\sqrt{ x} \;e \;g(x)=1-x$
+$f(x)=\sqrt{ x} \;e \;g(x)=1-x^2$
+Quindi i domani solo tali che:
+dom(f) = {$x\geq 0$} e dom(g) = {$\mathbb{R}$}

@@ -2,3 +2,4 @@
 [[Definizioni fondamentali delle Funzioni]]
 [[Funzione Iniettiva,Suriettiva,Biettiva]]
 [[Funzioni/Funzioni Composte]]
+[[Funzione Inversa]]
