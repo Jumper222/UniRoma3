@@ -1,3 +1,4 @@
+#Analisi_1 #Geometria_e_Combinatoria 
 La Sequenza Ordinata è una serie di elementi che appartengono secondo l' ordine di scrittura ad insiemi diversi.
 La notazione matematica è (a,b) con a∈A e b∈B
 <font color="#ff0000">ATTENZIONE</font>, {a,b} è l' insieme degli elementi, ed è diverso dalla coppia ordinata

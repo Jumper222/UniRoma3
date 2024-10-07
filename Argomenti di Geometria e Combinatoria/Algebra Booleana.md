@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria
 L’ Algebra  Booleana è un ramo della matematica dove le variabili possono assumere solo i valori 0 ed 1 ( Vero o Falso.)
 
 L’ <font color="#f79646">Algebra Booleana</font> prende in esame solo le proposizioni t.c. possano avere una risposta logica VERO/FALSO.

@@ -1,7 +1,4 @@
----
-share_link: https://share.note.sx/9em8vcgd#zevjnY6vunMV2/8LmhtFwRzN9dx50qoua4RhY9t5kqc
-share_updated: 2024-10-02T11:52:06+02:00
----
+#Analisi_1 #Geometria_e_Combinatoria
 ##### Insiemi Numerici
 Esistono degli insiemi fondamentali nella Matematica, chiamati Insiemi Numerici.
 Essi sono:

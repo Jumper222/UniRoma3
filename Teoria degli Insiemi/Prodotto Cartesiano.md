@@ -1,3 +1,4 @@
+#Analisi_1 #Geometria_e_Combinatoria 
 Il Prodotto Cartesiano rappresenta l' insieme di tutte le  [[Sequenze Ordinate]] tra i due insiemi, con il primo elemento in A ed il secondo in B.
 A×B:{(a,b):a∈A e b∈B}
 
