@@ -18,4 +18,4 @@ La cui funzione composta sarà:
 $$h(x)=g(f(x)) =\sqrt{ x+1 }$$
 - Trovare Dom(h).
 
-Per 
+Per trovare il dominio di una funzione composta h 
