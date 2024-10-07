@@ -28,6 +28,8 @@ Esempio di funzione Biettiva:
 
 - **Suriettiva**: Se tracci delle **rette orizzontali** e una retta **non interseca** mai il grafico della funzione (ossia, passa in una zona del codominio dove la funzione non ha valori), allora la funzione **non è suriettiva**. Per essere suriettiva, **ogni retta orizzontale** deve intersecare il grafico **almeno in un punto**.
 
+- La funzione Inversa di una funzione Biettiva è sempre Biettiva.
+
 <font color="#ff0000">NB</font>:
 - Una funzione potrebbe non essere Iniettiva o Suriettiva se definita in $\mathbb{R}$, ma lo può diventare se ristretta in un certo range di valori, ad esempio la funzione $y=x^2$ è suriettiva se limitata per
 	$COD(f)$ = $\mathbb{R_{+}}$ 

@@ -5,3 +5,5 @@
 [[Funzione di Identità]]
 [[Funzione Inversa]]
 [[Monotonia delle Funzioni]]
+[[Dominio Simmetrico]]
+[[Funzioni Pari e Dispari]]
