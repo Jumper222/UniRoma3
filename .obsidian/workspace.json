@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Funzioni/Funzioni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "013e0067f760a7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funzioni/Funzioni Pari e Dispari.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbeb19e7841262e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Funzioni/Dominio Simmetrico.md",
+                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Funzioni/Funzioni Pari e Dispari.md",
+                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Funzioni/Funzioni Pari e Dispari.md",
+                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Funzioni/Funzioni Pari e Dispari.md"
+                "file": "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md"
               }
             }
           },
@@ -192,18 +167,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "013e0067f760a7f2",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Funzioni/Funzioni.md",
+    "Funzioni/Funzioni Composte.md",
+    "Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Funzioni/Dominio Simmetrico.md",
-    "Funzioni/Funzioni Pari e Dispari.md",
+    "Funzioni/Esempi su Funzioni Composte.md",
+    "Funzioni/Funzione di Identità.md",
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
     "Funzioni/Funzione Inversa.md",
     "Funzioni/Monotonia delle Funzioni.md",
+    "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Untitled.md",
-    "Funzioni/Esempi su Funzioni Composte.md",
-    "Funzioni/Funzione di Identità.md",
-    "Funzioni/Funzioni Composte.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
@@ -215,7 +191,6 @@
     "Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
     "Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
     "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
-    "Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
     "Analisi I.md",

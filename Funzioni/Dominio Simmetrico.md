@@ -1,3 +1,4 @@
+#Analisi_1 
 $X \subseteq \mathbb{R}$ è simmetrico <font color="#ff0000">SE</font> $-x\in X\;\forall\;x\in X$ 
 ### <font color="#ff0000">ATTENZIONE</font>
 

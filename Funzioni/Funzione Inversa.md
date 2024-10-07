@@ -1,3 +1,4 @@
+#Analisi_1 
 La funzione Inversa è una funzione $f^{-1}$ t.c:
 Se $f: X\to Y$ allora $f^{-1}: Y\to X$
 <font color="#ff0000">DEF</font>:

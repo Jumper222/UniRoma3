@@ -1,3 +1,4 @@
+#Analisi_1 
 Esistono 4 tipi di Monotonia di una Funzione.
 1. $f$ <font color="#ffff00">CRESCENTE</font> in A se $f(x_{1})\leq f(x_{2}) \; \forall x_{1}x_{2} \in A \; x_{1} \leq x_{2}$
 2. $f$ <font color="#ffff00">STRETTAMENTE CRESCENTE</font> in A se $f(x_{1}) < f(x_{2}) \; \forall x_{1}x_{2} \in A \; x_{1} < x_{2}$

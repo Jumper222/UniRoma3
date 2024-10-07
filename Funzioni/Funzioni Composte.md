@@ -1,3 +1,4 @@
+#Analisi_1 
 Una funzione composta è una funzione h(x) T.C:
 $$h(x)=  f \circ g $$
 <font color="#4f81bd">Leggasi</font>: f <font color="#9bbb59">composta</font> g
