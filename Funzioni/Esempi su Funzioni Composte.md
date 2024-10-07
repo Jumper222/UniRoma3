@@ -18,4 +18,10 @@ La cui funzione composta sarà:
 $$h(x)=g(f(x)) =\sqrt{ x+1 }$$
 - Trovare Dom(h).
 
-Per trovare il dominio di una funzione composta h 
+Per trovare il dominio di una funzione composta h dobbiamo imporre la funzione $f$ dentro al dominio di $g$In questo caso dobbiamo imporre $x+1\geq 0$ perché 0 è il minimo della funzione g.
+Si ha quindi che Dom(h) =  $x+1\geq 0$
+Sostanzialmente bisogna verificare  i valori di $f$ che hanno senso dentro la funzione $g$
+
+### <font color="#ff0000">Esempio 03</font>
+Si hanno:
+$f(x)=\sqrt{ x} \;e \;g(x)=1-x$
