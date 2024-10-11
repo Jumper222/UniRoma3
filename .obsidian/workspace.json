@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,6 +170,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+    "Untitled.md",
+    "Home.md",
     "Funzioni/Funzioni.md",
     "Funzioni/Funzioni Composte.md",
     "Funzioni/Definizioni fondamentali delle Funzioni.md",
@@ -178,9 +181,7 @@
     "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
     "Funzioni/Funzione Inversa.md",
     "Funzioni/Monotonia delle Funzioni.md",
-    "Untitled.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Home.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
