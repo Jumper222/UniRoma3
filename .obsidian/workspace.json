@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Argomenti di Analisi I/Funzioni/Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6044d10dd325130d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estremi di una funzione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Estremi di una funzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Estremi di una funzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Estremi di una funzione.md"
               }
             }
           },
@@ -150,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,22 +180,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6044d10dd325130d",
   "lastOpenFiles": [
+    "Argomenti di Analisi I/Funzioni/Funzioni.md",
+    "Estremi di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
+    "Home.md",
     "Argomenti di Analisi I/Valore Assoluto.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni.md",
     "Analisi I.md",
     "Argomenti di Analisi I",
     "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
     "Argomenti di Geometria e Combinatoria/Relazioni.md",
-    "Home.md",
     "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",

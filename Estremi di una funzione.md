@@ -1,0 +1,1 @@
+<font color="#ff0000">DEF</font>: $A\subseteq \mathbb{R}, A \neq \varnothing}$
