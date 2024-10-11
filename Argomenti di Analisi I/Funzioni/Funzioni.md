@@ -6,4 +6,4 @@
 [[Monotonia delle Funzioni]]
 [[Simmetria delle Funzioni, Pari e Dispari]]
 [[Maggiorante e Minorante di una funzione]]
-[[Funzioni elementali]]
+[[Funzioni di radici n-esime]]
