@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisi I.md",
+                "file": "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Analisi I/Valore Assoluto.md",
+                "file": "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Analisi I/Valore Assoluto.md",
+                "file": "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Analisi I/Valore Assoluto.md"
+                "file": "Argomenti di Analisi I/Funzioni/Funzioni Composte.md"
               }
             }
           },
@@ -180,21 +179,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e686cb37ade39fd",
+  "active": "e2f58be11d39e51d",
   "lastOpenFiles": [
-    "Argomenti di Analisi I",
+    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni.md",
     "Analisi I.md",
+    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Argomenti di Analisi I/Valore Assoluto.md",
+    "Argomenti di Analisi I",
     "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
     "Argomenti di Geometria e Combinatoria/Relazioni.md",
     "Home.md",
-    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Untitled.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",
@@ -220,7 +219,6 @@
     "Teoria degli Insiemi",
     "Untitled.canvas",
     "Immagine.png",
-    "Teoria degli Insiemi (Immagini)",
-    "Nuova cartella"
+    "Teoria degli Insiemi (Immagini)"
   ]
 }
