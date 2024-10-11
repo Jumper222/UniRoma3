@@ -9,5 +9,14 @@ Si suppone quindi che $P_{n}$ sia vera per $n=1$
 Quindi si controlla che $P_{n}$ sia vera per $n+1$ 
 Allora si ha una verità per tutto $\mathbb{N}$
 
-Possiamo prendere per esempio la Serie di Gauss:
+Possiamo prendere per esempio la Serie di Gauss, ovvero la somma dei primi $n$ numeri naturali.
+
+$$\sum_{k=1}^{n} k = \frac{n(n+1)}{2}$$
+
+Iniziamo quindi a controllare se per 1 il ragionamento ha senso:
+
+$$1=\frac{1*(1+1)}{2}=1$$
+In questo esempio il primo 1 è detto “base di induzione”
+
+Si ha quindi il passo induttivo:
 
