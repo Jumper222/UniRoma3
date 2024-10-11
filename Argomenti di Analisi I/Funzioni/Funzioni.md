@@ -5,4 +5,4 @@
 [[Funzione Inversa]]
 [[Monotonia delle Funzioni]]
 [[Simmetria delle Funzioni, Pari e Dispari]]
-[[Estremi di una funzione]]
+[[Maggiorante e Minorante di una funzione]]

@@ -11,4 +11,10 @@ E.g:
 	-  Avrà come maggiorante $\mathbb{R}-\{x<5\}$
 	-  Avrà come minorante     $\mathbb{R} - \{x>2\}$
 
-2. A= ($-$)
+2. A= ($-\infty ;0$)
+	- Avrà come maggiorante $\mathbb{R}-\{x<0\}$
+	- Non avrà minorante
+
+Partendo da questa definizione possiamo definire il concetto di [[Massimo e Minimo di una funzione|Massimo e Minimo]]
+
+
