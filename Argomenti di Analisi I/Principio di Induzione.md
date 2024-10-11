@@ -20,3 +20,5 @@ In questo esempio il primo 1 è detto “base di induzione”
 
 Si ha quindi il passo induttivo:
 
+$$\sum_{k=1}^{n+1} k = \frac{(n+1)(n+2)}{2}$$
+Ovvero si prova ad usare $n+1$ al posto di $n$
