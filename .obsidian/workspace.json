@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2a7eb34702e74e5d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e2f58be11d39e51d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometria e Combinatoria.md",
+                "file": "Analisi I.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95c1bae5df224861",
+            "id": "3e686cb37ade39fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permutazioni.md",
+                "file": "Argomenti di Analisi I/Valore Assoluto.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permutazioni.md",
+                "file": "Argomenti di Analisi I/Valore Assoluto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permutazioni.md",
+                "file": "Argomenti di Analisi I/Valore Assoluto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permutazioni.md"
+                "file": "Argomenti di Analisi I/Valore Assoluto.md"
               }
             }
           },
@@ -180,42 +180,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95c1bae5df224861",
+  "active": "3e686cb37ade39fd",
   "lastOpenFiles": [
+    "Argomenti di Analisi I",
+    "Analisi I.md",
+    "Argomenti di Analisi I/Valore Assoluto.md",
+    "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
     "Geometria e Combinatoria.md",
-    "Permutazioni.md",
+    "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
     "Argomenti di Geometria e Combinatoria/Relazioni.md",
     "Home.md",
-    "Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Untitled.md",
-    "Funzioni/Funzioni.md",
-    "Funzioni/Funzioni Composte.md",
-    "Funzioni/Definizioni fondamentali delle Funzioni.md",
-    "Funzioni/Dominio Simmetrico.md",
-    "Funzioni/Esempi su Funzioni Composte.md",
-    "Funzioni/Funzione di Identità.md",
-    "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-    "Funzioni/Funzione Inversa.md",
-    "Funzioni/Monotonia delle Funzioni.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
+    "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
+    "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
+    "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",
+    "Argomenti di Analisi I/Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
+    "Argomenti di Analisi I/Funzioni/Funzione Inversa.md",
+    "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
-    "Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
-    "Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
-    "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
+    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
+    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
+    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
+    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
     "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
-    "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
-    "Analisi I.md",
-    "Funzioni/Excalidraw Funzioni",
-    "Funzioni",
+    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
+    "Argomenti di Analisi I/Funzioni",
     "Argomenti di Geometria e Combinatoria",
     "Argomenti di Fondamenti di Informatica",
-    "Teoria degli Insiemi/Insiemi Numerici.md",
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Teoria degli Insiemi",
     "Untitled.canvas",

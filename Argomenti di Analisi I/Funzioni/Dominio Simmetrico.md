@@ -7,3 +7,4 @@ $\mathbb{R}$ è simmetrico, $\mathbb{R} -\{\dots\}$ non lo è.
 ad esempio il dominio della funzione $\frac{1}{x+3}$ è $\mathbb{R}-\{3\}$
 $\mathbb{R}-\{3\}$ non è un dominio simmetrico.
 Quindi questa funzione non ha un dominio simmetrico.
+Sarebbe simmetrico invece un dominio $\mathbb{R}- \{3,-3\}$

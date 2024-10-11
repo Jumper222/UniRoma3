@@ -6,7 +6,7 @@ $h(x):  g \circ f$ ha senso<font color="#e36c09"> SE E SOLO SE</font> $\mathrm{I
 Che sta a significare che può esistere una funzione h(x), composta di g su f(x) se e solo se l’ immagine di f è contenuta dentro V, e V è il dominio di g.
 
 Si ha quindi il seguente grafico:
-![[Funzioni/Excalidraw Funzioni/Funzioni composte|Funzioni composte]]
+![[Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzioni composte|Funzioni composte]]
 
 Questa funzione composta <font color="#ff0000">NON</font> è una composizione semplice, perché DOM(g) non è  uguale a $\mathrm{Im}(f)$
 
