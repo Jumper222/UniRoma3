@@ -15,3 +15,9 @@ Allora avremo:
 
 Quindi:
 m = $\min A \to \begin{cases}a \geq m \; \forall a \in A \\ m\in A\end{cases}$
+
+<font color="#ff0000">NB</font>:
+- $A=(2;5)$ non ha ne max ne min
+- $B= (2;5]$ ha max = 5, ma nessun min.
+
+Avute queste definizioni possiamo definire il concetto di [[Estremo Superiore ed Inferiore di una funzione |Estremo superiore ed inferiore]]
