@@ -4,5 +4,6 @@ Analisi I è un esame che comprende gli argomenti di:
 - [[Funzioni]]
 -  [[Valore Assoluto]]
 - [[Proprietà delle Potenze]]
+- [[Principio di Induzione]]
   
 https://www.math.ucla.edu/~tat/Docs/symbols.pdf
