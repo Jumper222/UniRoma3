@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "496d154504f843bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +180,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a73c33d925e554b0",
+  "active": "4554bb1b0f596a9a",
   "lastOpenFiles": [
     "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
-    "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
+    "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
     "Argomenti di Analisi I/Funzioni/Funzioni.md",
