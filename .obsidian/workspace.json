@@ -11,11 +11,28 @@
             "id": "c2ab9cbd4d9ca8ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Argomenti di Analisi I/Funzioni/Funzioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bfaed2654abce21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Funzioni elementali.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Funzioni elementali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Funzioni elementali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Funzioni elementali.md"
+              }
             }
           },
           {
@@ -159,13 +180,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2ab9cbd4d9ca8ef",
+  "active": "1bfaed2654abce21",
   "lastOpenFiles": [
+    "Argomenti di Analisi I/Funzioni/Funzioni.md",
+    "Funzioni elementali.md",
+    "Analisi I.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
     "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
     "Home.md",
     "Argomenti di Analisi I/Valore Assoluto.md",
@@ -173,7 +196,6 @@
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
-    "Analisi I.md",
     "Argomenti di Analisi I",
     "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
@@ -191,7 +213,6 @@
     "Excalidraw",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
-    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
     "Argomenti di Analisi I/Funzioni",
     "Argomenti di Geometria e Combinatoria",
