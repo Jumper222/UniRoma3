@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f11b74fb56a0e10",
+  "active": "f816b7ffa903fbbc",
   "lastOpenFiles": [
     "Argomenti di Analisi I/Proprietà delle Potenze.md",
     "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
