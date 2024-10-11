@@ -14,4 +14,6 @@ Si hanno 2 principali funzioni periodiche:
 - $\cos:\mathbb{R}\to[-1;1]$
 Dove in entrambe il periodo è uguale a $T=2\pi$
 
-Si ha poi $\$
+Si ha poi $\tan: \mathbb{R}-\{\frac{{\pi}}{2}+k\pi\} \to \mathbb{R}$
+dove ovviamente $x\to \tan x = \frac{\sin x}{\cos x}$
+con periodicità con $T = \pi$
