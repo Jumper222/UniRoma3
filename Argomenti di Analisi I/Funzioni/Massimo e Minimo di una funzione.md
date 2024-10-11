@@ -1,3 +1,4 @@
+backlink: [[Maggiorante e Minorante di una funzione]]
 ## <font color="#ffff00">Massimo</font>
 
 <font color="#ff0000">DEF</font>: $A \subseteq \mathbb{R}, A\neq \varnothing$
