@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
+                "file": "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2ab9cbd4d9ca8ef",
+  "active": "4554bb1b0f596a9a",
   "lastOpenFiles": [
     "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
