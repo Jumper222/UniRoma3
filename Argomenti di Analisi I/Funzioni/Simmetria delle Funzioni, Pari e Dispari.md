@@ -13,4 +13,6 @@ Allora $f\pm g$:
 - Ne pari ne dispari se $f$ pari e $g$ dispari (e viceversa)
 
 Per quanto concerne $f \circ g$:
-- 
+- è pari se $f,g$ pari o dispari
+- è dispari se $f$ pari e $g$ dispari
+- Ne pari ne dispari se nessuno dei due è pari.

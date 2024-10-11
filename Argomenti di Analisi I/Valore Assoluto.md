@@ -1,3 +1,4 @@
+#Analisi_1 
 Il valore assoluto è una operazione t.c:
 $f(x) = |x|$ = $f(x) = \begin{cases} x & \text{se } x \geq 0 \\-x & \text{se } x < 0\end{cases}$
 vi sono quindi 4 proprietà:
