@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
+                "file": "Analisi I.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "163af689adcd92ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proprietà delle Potenze.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3086c848116eef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
+                "file": "Proprietà delle Potenze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
+                "file": "Proprietà delle Potenze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md"
+                "file": "Proprietà delle Potenze.md"
               }
             }
           },
@@ -167,21 +192,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bfaed2654abce21",
+  "active": "163af689adcd92ce",
   "lastOpenFiles": [
-    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
-    "Argomenti di Analisi I/Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni.md",
     "Analisi I.md",
-    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
     "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
+    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
+    "Proprietà delle Potenze.md",
+    "Fondamenti di Informatica.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
+    "Argomenti di Analisi I/Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
     "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
     "Home.md",
     "Argomenti di Analisi I/Valore Assoluto.md",
-    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Analisi I",
@@ -198,8 +225,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
-    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
     "Argomenti di Analisi I/Funzioni",
     "Argomenti di Geometria e Combinatoria",
