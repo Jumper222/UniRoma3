@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea58924f73fb5cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,12 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77d84af9eb696140",
+  "active": "ea58924f73fb5cc1",
   "lastOpenFiles": [
-    "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Sottrazione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Unità Immaginaria.md",
     "Argomenti di Analisi I/Fattoriale.md",
     "Argomenti di Analisi I/Numeri Complessi",
@@ -220,7 +233,6 @@
     "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
-    "Geometria e Combinatoria.md",
     "Argomenti di Analisi I",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
