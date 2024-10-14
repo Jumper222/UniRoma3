@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Coniugato.md",
+                "file": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Coniugato.md",
+                "file": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Coniugato.md",
+                "file": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Coniugato.md"
+                "file": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md"
               }
             }
           },
@@ -206,13 +206,13 @@
   },
   "active": "ea58924f73fb5cc1",
   "lastOpenFiles": [
-    "Argomenti di Analisi I/Numeri Complessi/Sottrazione in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Coniugato.md",
-    "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Unità Immaginaria.md",
+    "Argomenti di Analisi I/Numeri Complessi/Sottrazione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Coniugato e modulo.md",
+    "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Fattoriale.md",
     "Argomenti di Analisi I/Numeri Complessi",
     "Argomenti di Analisi I/Principio di Induzione.md",

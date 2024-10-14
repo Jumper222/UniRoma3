@@ -1,1 +1,0 @@
-Dato $z=x+iy$, avremo il 
