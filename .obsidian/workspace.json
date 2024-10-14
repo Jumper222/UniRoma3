@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Analisi I/Fattoriale.md",
+                "file": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b681831bcbd92c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Analisi I/Fattoriale.md",
+                "file": "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Analisi I/Fattoriale.md",
+                "file": "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Analisi I/Fattoriale.md"
+                "file": "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md"
               }
             }
           },
@@ -167,9 +180,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a73c33d925e554b0",
+  "active": "3b681831bcbd92c4",
   "lastOpenFiles": [
-    "Argomenti di Analisi I/Untitled",
+    "Argomenti di Analisi I/Numeri Complessi/Unità Immaginaria.md",
+    "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
+    "Argomenti di Analisi I/Fattoriale.md",
+    "Argomenti di Analisi I/Numeri Complessi",
     "Argomenti di Analisi I/Principio di Induzione.md",
     "Argomenti di Analisi I/Proprietà delle Potenze.md",
     "Argomenti di Analisi I/Valore Assoluto.md",
@@ -179,7 +196,6 @@
     "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
-    "Argomenti di Analisi I/Fattoriale.md",
     "Analisi I.md",
     "Home.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
@@ -194,8 +210,6 @@
     "Argomenti di Analisi I",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
     "Argomenti di Geometria e Combinatoria/Relazioni.md",
-    "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
-    "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -207,7 +221,6 @@
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Teoria degli Insiemi",
     "Untitled.canvas",
-    "Immagine.png",
-    "Teoria degli Insiemi (Immagini)"
+    "Immagine.png"
   ]
 }
