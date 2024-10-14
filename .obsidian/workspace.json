@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Argomenti di Analisi I/Fattoriale.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Argomenti di Analisi I/Fattoriale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Argomenti di Analisi I/Fattoriale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Argomenti di Analisi I/Fattoriale.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,35 +167,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a73c33d925e554b0",
   "lastOpenFiles": [
+    "Argomenti di Analisi I/Untitled",
     "Argomenti di Analisi I/Principio di Induzione.md",
     "Argomenti di Analisi I/Proprietà delle Potenze.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
-    "Analisi I.md",
+    "Argomenti di Analisi I/Valore Assoluto.md",
+    "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
+    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
+    "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
+    "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
+    "Argomenti di Analisi I/Fattoriale.md",
+    "Analisi I.md",
+    "Home.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
     "Fondamenti di Informatica.md",
     "Argomenti di Analisi I/Funzioni/Funzioni.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-    "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
     "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
-    "Home.md",
-    "Argomenti di Analisi I/Valore Assoluto.md",
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Analisi I",
-    "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
     "Teoria degli Insiemi/Teoria degli Insiemi.md",
     "Argomenti di Geometria e Combinatoria/Relazioni.md",
-    "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",
-    "Argomenti di Analisi I/Funzioni/Funzione Inversa.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
