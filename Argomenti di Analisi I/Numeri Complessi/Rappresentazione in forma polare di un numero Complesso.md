@@ -8,4 +8,13 @@ E.g:
 È molto importante avere ben chiaro il concetto di [[Coniugato e modulo|Modulo di un numero complesso]], in quanto per trovare $r$ useremo la stessa formula, avremo quindi per un dato numero $z=a+bi$
 
 $$r=\sqrt{ a^2+b^2 }$$
-Questa è sostanzialmente la formula del teorema di pitagora, infatti il motivo è presto detto:
+Questa è sostanzialmente la formula del teorema di Pitagora, infatti il motivo è presto detto:
+
+![[Teorema di Pitagora Numeri Complessi.excalidraw]]
+
+Da qui quindi possiamo trovare i valori di $\sin$ e $\cos$ usando semplici identità trigonometriche:
+
+$\theta= \tan^-1\left( \frac{b}{a} \right)$ descrivibile anche come $\arctan\left( \frac{b}{a} \right)$
+
+Avremo così i valori dell’ angolo theta.
+
