@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "759af331725f3dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma rettangolare di un numero Complesso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb163b3addb7b6e",
+            "id": "4bf16d25243400c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,17 +20,17 @@
             }
           },
           {
-            "id": "4bf16d25243400c9",
+            "id": "bcacc9b04cc7b54b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-15 10.49.50.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-15 11.00.28.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-15 10.49.50.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-15 11.00.28.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-15 10.49.50.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-15 11.00.28.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-15 10.49.50.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-15 11.00.28.excalidraw.md"
               }
             }
           },
@@ -202,21 +178,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bf16d25243400c9",
+  "active": "bcacc9b04cc7b54b",
   "lastOpenFiles": [
     "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md",
-    "Excalidraw/Drawing 2024-10-15 10.49.50.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-15 11.00.28.excalidraw.md",
+    "Argomenti di Analisi I/Numeri Complessi/Coniugato e modulo.md",
+    "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
     "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma rettangolare di un numero Complesso.md",
+    "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Rappresentazione polare.md",
     "Argomenti di Analisi I/Numeri Complessi/Sottrazione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Piano Complesso.md",
     "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Piano Complesso forma Rettangolare.excalidraw.md",
     "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi",
     "Excalidraw",
-    "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
     "Argomenti di Analisi I/Principio di Induzione.md",
     "Argomenti di Analisi I/Numeri Complessi/Valori ed identità fondamentali in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Coniugato e modulo.md",
     "Analisi I.md",
     "Argomenti di Analisi I/Numeri Complessi/Unità Immaginaria.md",
     "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
@@ -232,7 +209,6 @@
     "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
     "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
     "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
-    "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
     "Argomenti di Analisi I",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
