@@ -4,5 +4,5 @@ Al’ interno dei numeri Complessi, esistono varie operazioni:
 - [[Divisione in C]]
 - [[Sottrazione in C]]
 
-Non sono propriamente operazioni, però esistono 2 altre rappresentazioni diverse:
+Non sono propriamente operazioni, però esistono 2 altri modi di lavorare con i numeri Complessi:
 - [[Coniugato e modulo]]
