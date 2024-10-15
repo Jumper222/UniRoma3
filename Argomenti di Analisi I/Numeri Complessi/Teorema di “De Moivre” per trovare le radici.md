@@ -3,4 +3,5 @@ Similmente alle potenze, il Teorema di De Moivre è <font color="#ffff00">fondam
 Poniamo quindi il caso:
 $z=r[\cos \theta+i\sin \theta]$
 
-Allora
+Allora:
+$$\sqrt[n]{z}= \sqrt[n]{r}\left[ \cos (\frac{\theta+2\pi k}{n})+i\sin (\frac{\theta+2\pi k}{n}) \right]$$
