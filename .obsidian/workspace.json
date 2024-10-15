@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcacc9b04cc7b54b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5692494f07f131e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9899e60f0f623110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,13 +159,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9899e60f0f623110",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma rettangolare di un numero Complesso.md",
-    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md",
-    "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le radici.md",
+    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le potenze.md",
+    "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le radici.md",
+    "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma rettangolare di un numero Complesso.md",
     "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
     "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Teorema di Pitagora Numeri Complessi.excalidraw.md",

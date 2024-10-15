@@ -4,4 +4,4 @@ Poniamo quindi il caso:
 $z=r[\cos \theta+i\sin \theta]$
 
 Allora:
-$$\sqrt[n]{z}= \sqrt[n]{r}\left[ \cos (\frac{\theta+2\pi k}{n})+i\sin (\frac{\theta+2\pi k}{n}) \right]$$
+$$z_{k}= \sqrt[n]{r}\left[ \cos (\frac{\theta+2\pi k}{n})+i\sin (\frac{\theta+2\pi k}{n}) \right]$$
