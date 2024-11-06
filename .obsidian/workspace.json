@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "3d96b37f964fa480",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c6bc7da3213a2589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometria e Combinatoria.md",
+                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2fd6ef2755674598",
+            "id": "9f402af6d1ead92d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98b7d3c4195653a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae601388c7f55b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
+                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
+                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md"
+                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md"
               }
             }
           },
@@ -204,13 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae601388c7f55b2b",
+  "active": "c6bc7da3213a2589",
   "lastOpenFiles": [
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Calcolo Combinatorio.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Coefficiente Binomiale.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio",
