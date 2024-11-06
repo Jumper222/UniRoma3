@@ -1,3 +1,5 @@
+
+
 Si dice permutazione di n una corrispondenza biettiva di A = {$a_{1},a_{2},a_{3},\dots, a_{n}$} in se.
 In altre parole, una permutazione di $n$ oggetti è un ordinamento degli $n$ oggetti.
 
