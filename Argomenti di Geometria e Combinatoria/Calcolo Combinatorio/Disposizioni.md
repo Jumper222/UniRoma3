@@ -8,4 +8,9 @@ Già qui si ha una diversificazione delle disposizioni: se sono ammesse ripetizi
 
 Diamo quindi la definizione di Disposizione tramite un semplice esempio:
 
-Si considera l’ insieme $A = \{a,b,c\}$, che quindi ha $n=3$ elementi e $$
+Si considera l’ insieme $A = \{a,b,c\}$, che quindi ha $n=3$ elementi e di classe $k=2$.
+
+- Avremo quindi le disposizioni di classe 2 degli elementi di A, ovvero tutti i possibili sottoinsiemi formati da 2 lettere dell’ insieme.
+
+- Se non fossero ammesse ripetizioni avremmo le coppie: {a,b} ; {a,c} ; {b,a} ; {b,c} ; {c,a} ; {c,b}
+- Se invece fosser ammesse le ripetizioni avremmo {a,a} ; {a,b} ; {a,c} ; {b,a} ; {b,b} ; {b,c} ; {c,a} ; {c,b} ; {c,c}
