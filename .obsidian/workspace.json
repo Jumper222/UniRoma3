@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni con Ripetizione.md",
+                "file": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disposizioni con Ripetizione"
+              "title": "Combinazioni"
             }
           }
         ]
@@ -189,12 +189,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni Semplici.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni con Ripetizione.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni.md",
     "Home.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni con Ripetizione.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni Semplici.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Calcolo Combinatorio.md",
