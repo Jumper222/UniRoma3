@@ -7,3 +7,7 @@ Vi sono 3 principali modi per organizzare gli elementi di un dato insieme, ovver
 - [[Combinazioni|Combinazione]]
 
 è anche fondamentale conoscere il concetto di [[Coefficiente Binomiale]]
+
+
+![[Pasted image 20241112115810.png]]
+Questa è una semplice tabella utile per ricordarsi quando usare cosa
