@@ -12,4 +12,4 @@ Studiamo tutte le combinazioni semplici di classe 2 degli elementi dell’ insie
 Allora abbiamo k=2 e n=4
 Per carcolarne il numero useremo la formula del Coefficiente Binomiale:
 
-$$C_{4,2}=\frac{n!}{k!(n-k)!} =\frac{4!}{4!(4-2)!} =$$
+$$C_{4,2}=\frac{n!}{k!(n-k)!} =\frac{4!}{2!(4-2)!} =6$$
