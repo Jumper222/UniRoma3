@@ -5,4 +5,10 @@ Un esempio di combinazione potrebbe essere il SuperEnalotto, dove vengono estrat
 
 Se volessimo dare una definizione di Combinazione più rigorosa:
 
-Una combinazione è un raggruppamento di classe k di n elementi distinti.
+Una combinazione è un raggruppamento di classe k di n elementi distinti, tali che:
+- Ogni raggruppamento contenga esattamente k elementi
+- I vari raggruppamenti differiscano tra loro per almeno un elemento, ma non per l’ ordine.
+
+
+Proprio come per le Disposizioni e le Permutazioni, esistono 2 tipi di Combinazioni: 
+Quelle con le [[Combinazioni con Ripetizione|Ripetizioni]] e quelle [[Combinazioni Semplici|Senza]]

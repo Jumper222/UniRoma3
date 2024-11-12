@@ -19,4 +19,4 @@ Abbiamo quindi:
 $$\binom{n}{k}=\frac{n!}{k!(n-k)!}$$
 Oppure, se n < k il Coeff. Binomiale restituirà 0 per definizione.
 
-<font color="#ff0000">NB</font>: il Coeff. Binomiale fornisce il numero di combinazioni semplici di n elementi distinti presi k alla volta.
+<font color="#ff0000">NB</font>: il Coeff. Binomiale fornisce il numero di [[Combinazioni Semplici]] di n elementi distinti presi k alla volta.
