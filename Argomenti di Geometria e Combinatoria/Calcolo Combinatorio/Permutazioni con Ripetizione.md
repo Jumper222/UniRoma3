@@ -11,7 +11,12 @@ Si hanno quindi 3 combinazioni: baa, aab e aba.
 
 La formula che è dietro questo calcolo è:
 
-$$\frac{3!}{2!*1!}$$ dove 3 sono gli elementi totali, 2 è il numero di elementi ripetuti del primo elemento e 1 è il numero di elementi ripetuti del secondo elemento.
+$$\frac{n!}{n_{1}!*n_{2}!\dots n_{k}!}$$
+Dove quindi si divide n! per ogni numero di elementi ripetuti nella parola, in questo caso la formula applicata infatti sarebbe:
+
+$$\frac{3!}{2!*1!}=3$$
+
+dove 3 sono gli elementi totali, 2 è il numero di elementi ripetuti del primo elemento e 1 è il numero di elementi ripetuti del secondo elemento.
 
 Un altro esempio potrebbe essere per l’ anagramma della parola cassa:
 
