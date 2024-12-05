@@ -1,2 +1,2 @@
-[[Definizione di un Vettore]]
+[[Vettore Applicato]]
 [[Operazioni con Vettori]]

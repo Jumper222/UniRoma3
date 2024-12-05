@@ -1,0 +1,1 @@
+I vettori sono oggetti matematici particolari definiti all’ interno dell’ insieme $V$
