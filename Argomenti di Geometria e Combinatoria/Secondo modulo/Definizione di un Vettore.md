@@ -1,0 +1,1 @@
+Un vettore è sostanzialmente una distanza con un verso all’ interno di un piano.
