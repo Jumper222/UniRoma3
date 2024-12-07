@@ -248,10 +248,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Moltiplicazione di un vettore per uno scalare.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Moltiplicazione di un vettore per uno scalare"
             }
           },
           {
@@ -269,7 +269,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,17 +286,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f816b7ffa903fbbc",
+  "active": "cfc59bce9e3e5075",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Parallelogramma degenere.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettore opposto.md",
+    "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Coniugato e modulo.md",
+    "Argomenti di Analisi I/Fattoriale.md",
+    "Argomenti di Analisi I/Valore Assoluto.md",
+    "Argomenti di Analisi I/Proprietà delle Potenze.md",
+    "Teoria degli Insiemi/Insiemi Numerici.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Moltiplicazione di un vettore per uno scalare.md",
     "conflict-files-obsidian-git.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettore opposto.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Regola del parallelogramma.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Parallelogramma degenere.md",
     "Excalidraw",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
@@ -315,12 +322,6 @@
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni Semplici.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni con Ripetizione.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni Semplici.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Coefficiente Binomiale.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni con Ripetizione.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Calcolo Combinatorio.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio",
     "Argomenti di Geometria e Combinatoria/Argomenti di Geometria e Combinatoria (Immagini)/Pasted image 20241112120012.png",
     "Argomenti di Geometria e Combinatoria/Argomenti di Geometria e Combinatoria (Immagini)",
