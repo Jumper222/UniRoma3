@@ -11,4 +11,4 @@ Allora possiamo definire il <font color="#76923c">vettore</font> $h\vec{v}\in V^
   - se $h<0$ allora $d(O,A)=-h*d(O,A)$ (Esattamente come nel caso precedente, però il vettore prima diventa opposto a se stesso, e poi viene moltiplicato per lo <font color="#92cddc">scalare</font> h.)
 
 
-Anche questa operazione ha delle [[Proprietà della moltiplicazione di un vettore per uno scalare]]:
+Anche questa operazione ha delle [[Proprietà della moltiplicazione di un vettore per uno scalare|Proprietà]]:

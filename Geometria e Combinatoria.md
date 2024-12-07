@@ -5,3 +5,4 @@ Geometria e Combinatoria è un esame che comprende gli argomenti di:
 - [[Algebra Booleana]]
 - [[Calcolo Combinatorio]]
 - [[Permutazioni]]
+- [[Vettori]]
