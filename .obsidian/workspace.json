@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2263e4262f38f56",
+            "id": "4057a8701c18cd97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Operazioni con Vettori"
             }
+          },
+          {
+            "id": "03ea0bb6da7a115a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Somma tra vettori"
+            }
+          },
+          {
+            "id": "452b52e1d44459ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Insieme dei vettori"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md"
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Operazioni con Vettori"
+              "title": "Outline of Somma tra vettori"
             }
           },
           {
@@ -187,18 +216,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2263e4262f38f56",
+  "active": "03ea0bb6da7a115a",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini",
-    "conflict-files-obsidian-git.md",
-    "Analisi I.md",
+    "Pasted image 20241205120540.png",
     "Argomenti di Geometria e Combinatoria/Permutazioni.md",
+    "conflict-files-obsidian-git.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini",
+    "Analisi I.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
@@ -219,14 +251,12 @@
     "Home.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzioni composte.md",
-    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
     "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi",
     "Argomenti di Analisi I/Funzioni",
     "Argomenti di Analisi I/Numeri Complessi",
     "Argomenti di Analisi I",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Excalidraw/Scripts/Downloaded",
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Untitled.canvas",
     "Immagine.png"
