@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Una disposizione semplice, o senza ripetizione è il più semplice tipo di Disposizione, infatti si utilizza per calcolare ad esempio il numero di parole che si possono ottenere usando k lettere di una parola con n lettere.
 
 ### <font color="#4f81bd">Esempio 1</font>:

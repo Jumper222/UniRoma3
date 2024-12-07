@@ -4,5 +4,4 @@ Geometria e Combinatoria è un esame che comprende gli argomenti di:
 - [[Teoria degli Insiemi#<font color=" 4f81bd">Insieme delle parti</font>|Insieme delle parti]]
 - [[Algebra Booleana]]
 - [[Calcolo Combinatorio]]
-- [[Permutazioni]]
 - [[Vettori]]

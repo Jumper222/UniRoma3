@@ -1,124 +1,384 @@
 {
   "nodePositions": [
     {
-      "id": "Analisi I.md",
-      "x": -24.57509994506836,
-      "y": 116.664794921875
+      "id": "Argomenti di Analisi I/Funzioni/Definizioni fondamentali delle Funzioni.md",
+      "x": 16.300804138183594,
+      "y": -782.035400390625
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
+      "x": -370.1767883300781,
+      "y": -580.6409912109375
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
+      "x": -412.2674255371094,
+      "y": -873.2421875
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
+      "x": 462.5840759277344,
+      "y": 89.57647705078125
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
+      "x": -130.28616333007812,
+      "y": -947.3489379882812
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
+      "x": 71.5531234741211,
+      "y": -1043.705322265625
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
+      "x": 221.8233642578125,
+      "y": -1085.58203125
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
+      "x": 371.9763488769531,
+      "y": -1002.4699096679688
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzioni composte.md",
+      "x": -601.65673828125,
+      "y": -926.4044189453125
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
+      "x": 203.4459991455078,
+      "y": -878.7693481445312
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Funzione Inversa.md",
+      "x": 326.99920654296875,
+      "y": -684.0253295898438
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",
+      "x": 512.284423828125,
+      "y": -774.5595703125
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
+      "x": -163.4563446044922,
+      "y": -721.3211059570312
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
+      "x": -43.162879943847656,
+      "y": -620.8323974609375
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Funzioni.md",
+      "x": 122.97350311279297,
+      "y": -549.8526000976562
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
+      "x": 309.51373291015625,
+      "y": -325.42376708984375
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
+      "x": 427.8045349121094,
+      "y": -119.26649475097656
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
+      "x": 314.6395568847656,
+      "y": -522.48876953125
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
+      "x": -155.4630584716797,
+      "y": -521.6972045898438
+    },
+    {
+      "id": "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
+      "x": 15.2183837890625,
+      "y": -395.56622314453125
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Addizione in C.md",
+      "x": 1062.510498046875,
+      "y": 340.63604736328125
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Coniugato e modulo.md",
+      "x": 1025.2476806640625,
+      "y": 76.70577239990234
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
+      "x": 732.0504150390625,
+      "y": 427.2474365234375
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Piano Complesso forma Rettangolare.excalidraw.md",
+      "x": 832.0523681640625,
+      "y": -797.7582397460938
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Rappresentazione polare.md",
+      "x": 1170.2523193359375,
+      "y": -176.71441650390625
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Teorema di Pitagora Numeri Complessi.excalidraw.md",
+      "x": 1038.2705078125,
+      "y": -386.14752197265625
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
+      "x": 843.4520874023438,
+      "y": 492.9050598144531
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
+      "x": 700.02294921875,
+      "y": -82.75880432128906
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
+      "x": 874.4946899414062,
+      "y": 274.6900634765625
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Piano Complesso.md",
+      "x": 852.7803955078125,
+      "y": -603.8195190429688
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma polare di un numero Complesso.md",
+      "x": 977.0078735351562,
+      "y": -176.1439666748047
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Rappresentazione in forma rettangolare di un numero Complesso.md",
+      "x": 841.9502563476562,
+      "y": -369.984130859375
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Sottrazione in C.md",
+      "x": 969.1739501953125,
+      "y": 463.4336853027344
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le potenze.md",
+      "x": 671.0579223632812,
+      "y": 109.85382843017578
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le radici.md",
+      "x": 853.5811767578125,
+      "y": 18.756738662719727
+    },
+    {
+      "id": "Argomenti di Analisi I/Numeri Complessi/Unità Immaginaria.md",
+      "x": 666.1666259765625,
+      "y": -268.4511413574219
+    },
+    {
+      "id": "Argomenti di Analisi I/Principio di Induzione.md",
+      "x": 98.9294204711914,
+      "y": 101.86028289794922
+    },
+    {
+      "id": "Argomenti di Analisi I/Proprietà delle Potenze.md",
+      "x": 272.9042053222656,
+      "y": 133.80455017089844
+    },
+    {
+      "id": "Argomenti di Analisi I/Valore Assoluto.md",
+      "x": 37.897674560546875,
+      "y": -136.54119873046875
     },
     {
       "id": "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
-      "x": -604.8989868164062,
-      "y": 40.368412017822266
+      "x": -389.025390625,
+      "y": -257.3851623535156
     },
     {
       "id": "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
-      "x": -250.1615447998047,
-      "y": 387.78753662109375
+      "x": -518.6240234375,
+      "y": 343.1331787109375
     },
     {
       "id": "Fondamenti di Informatica.md",
-      "x": -479.6364440917969,
-      "y": 181.42861938476562
-    },
-    {
-      "id": "Funzioni/Definizioni fondamentali delle Funzioni.md",
-      "x": -245.1951904296875,
-      "y": -125.82044982910156
-    },
-    {
-      "id": "Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
-      "x": -427.93994140625,
-      "y": -222.14544677734375
-    },
-    {
-      "id": "Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
-      "x": 350.1637268066406,
-      "y": 67.62877655029297
-    },
-    {
-      "id": "Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
-      "x": 447.36199951171875,
-      "y": -54.14371871948242
-    },
-    {
-      "id": "Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
-      "x": 411.97314453125,
-      "y": -207.68052673339844
-    },
-    {
-      "id": "Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-      "x": 245.89227294921875,
-      "y": -98.67704772949219
-    },
-    {
-      "id": "Funzioni/Funzioni.md",
-      "x": -7.491252899169922,
-      "y": -164.34825134277344
+      "x": -270.4342041015625,
+      "y": -95.90145874023438
     },
     {
       "id": "Geometria e Combinatoria.md",
-      "x": -69.83425903320312,
-      "y": 303.7347106933594
+      "x": -339.1123352050781,
+      "y": 281.5234069824219
     },
     {
       "id": "Home.md",
-      "x": -263.1026916503906,
-      "y": 176.93438720703125
+      "x": -119.05132293701172,
+      "y": 77.94395446777344
     },
     {
       "id": "Teoria degli Insiemi/Definizioni degli insiemi.md",
-      "x": 410.4067687988281,
-      "y": 373.1832275390625
+      "x": -4.47867488861084,
+      "y": 519.1130981445312
     },
     {
       "id": "Teoria degli Insiemi/Insiemi Numerici.md",
-      "x": 214.9003448486328,
-      "y": 343.81768798828125
+      "x": -123.69761657714844,
+      "y": 365.3484802246094
     },
     {
       "id": "Teoria degli Insiemi/Prodotto Cartesiano.md",
-      "x": 92.87898254394531,
-      "y": 620.258544921875
+      "x": 377.007568359375,
+      "y": 537.8499145507812
     },
     {
       "id": "Teoria degli Insiemi/Sequenze Ordinate.md",
-      "x": -94.54257202148438,
-      "y": 585.90234375
+      "x": 256.4493103027344,
+      "y": 649.5250854492188
     },
     {
       "id": "Teoria degli Insiemi/Teoria degli Insiemi.md",
-      "x": 53.3143424987793,
-      "y": 414.2229919433594
+      "x": 118.78579711914062,
+      "y": 368.8111267089844
     },
     {
-      "id": "Funzioni/Esempi su Funzioni Composte.md",
-      "x": 200.20338439941406,
-      "y": -555.12744140625
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Calcolo Combinatorio.md",
+      "x": -775.6821899414062,
+      "y": 159.06149291992188
     },
     {
-      "id": "Funzioni/Funzioni Composte.md",
-      "x": 142.16123962402344,
-      "y": -342.78326416015625
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni con Ripetizione.md",
+      "x": -1124.7196044921875,
+      "y": 340.156005859375
     },
     {
-      "id": "Funzioni/Excalidraw Funzioni/Funzioni composte.md",
-      "x": 386.4820251464844,
-      "y": -515.8677978515625
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Coefficiente Binomiale.md",
+      "x": -994.4548950195312,
+      "y": 30.1667537689209
     },
     {
-      "id": "Funzioni/Funzione Inversa.md",
-      "x": -10.939428329467773,
-      "y": -400.71954345703125
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni Semplici.md",
+      "x": -1173.4248046875,
+      "y": -44.51408386230469
     },
     {
-      "id": "Funzioni/Funzione di Identità.md",
-      "x": -170.94107055664062,
-      "y": -380.6605224609375
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni.md",
+      "x": -1037.230224609375,
+      "y": 175.26638793945312
     },
     {
-      "id": "Funzioni/Monotonia delle Funzioni.md",
-      "x": -177.07550048828125,
-      "y": -247.63525390625
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni con Ripetizione.md",
+      "x": -1025.5936279296875,
+      "y": -317.8061218261719
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni Semplici.md",
+      "x": -887.4241943359375,
+      "y": -367.0245361328125
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni.md",
+      "x": -895.9727172851562,
+      "y": -151.53623962402344
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
+      "x": -705.1578369140625,
+      "y": 10.64540958404541
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
+      "x": -606.7122192382812,
+      "y": -148.07286071777344
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
+      "x": -544.3921508789062,
+      "y": 99.56419372558594
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
+      "x": -605.0220947265625,
+      "y": 837.9514770507812
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
+      "x": -235.32101440429688,
+      "y": 656.6692504882812
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
+      "x": -58.791873931884766,
+      "y": 752.8573608398438
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
+      "x": -432.4695129394531,
+      "y": 628.9039916992188
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
+      "x": -445.147216796875,
+      "y": 943.4148559570312
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
+      "x": -138.20004272460938,
+      "y": 1002.9586791992188
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Regola del parallelogramma.md",
+      "x": -187.15377807617188,
+      "y": 1183.639892578125
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Parallelogramma degenere.md",
+      "x": 15.458271026611328,
+      "y": 1127.2601318359375
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
+      "x": 131.6053924560547,
+      "y": 1003.8388061523438
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettore opposto.md",
+      "x": 339.3656921386719,
+      "y": 1015.0313110351562
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Moltiplicazione di un vettore per uno scalare.md",
+      "x": -677.9150390625,
+      "y": 983.1954345703125
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Proprietà della moltiplicazione di un vettore per uno scalare.md",
+      "x": -844.1708984375,
+      "y": 858.4226684570312
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
+      "x": -628.7556762695312,
+      "y": 583.1676025390625
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
+      "x": -299.814208984375,
+      "y": 837.5161743164062
+    },
+    {
+      "id": "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Fattoriale.md",
+      "x": -663.59228515625,
+      "y": -354.18341064453125
+    },
+    {
+      "id": "Analisi I.md",
+      "x": 204.6734161376953,
+      "y": -53.51325607299805
     }
   ],
   "automaticallyRestoreNodePositions": true

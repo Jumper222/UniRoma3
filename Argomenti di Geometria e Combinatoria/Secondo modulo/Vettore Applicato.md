@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Un vettore Applicato è definito come una distanza su un piano, che si estende da un punto di origine <font color="#ff0000">O</font> fino ad  un punto <font color="#ff0000">A</font>.
 
 In questo caso vogliamo chiamare il punto <font color="#ffc000">O</font> la <font color="#ffc000">Coda</font> o <font color="#ffc000">Origine</font> ed il punto <font color="#ffc000">A</font> la <font color="#ffc000">Testa</font> o <font color="#ffc000">Vertice</font>

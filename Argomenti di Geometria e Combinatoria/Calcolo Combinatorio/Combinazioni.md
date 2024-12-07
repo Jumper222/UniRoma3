@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Una combinazione è un raggruppamento di k elementi presi in qualsiasi ordine, formato a partire da n elementi distinti.
 
 La particolarità delle combinazioni è che l’ ordine degli elementi non è importante.

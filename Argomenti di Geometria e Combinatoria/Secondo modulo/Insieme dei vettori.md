@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 I vettori sono oggetti matematici particolari definiti all’ interno dell’ insieme $V^n(O)$ <font color="#e36c09">notazione generica</font>
 
 Dalla notazione che descrive l’ insieme possiamo discernere i seguenti particolari:

@@ -5,5 +5,6 @@
 [[Funzione Inversa]]
 [[Monotonia delle Funzioni]]
 [[Simmetria delle Funzioni, Pari e Dispari]]
+[[Simmetria delle Funzioni, Periodicità]]
 [[Maggiorante e Minorante di una funzione]]
 [[Funzioni di radici n-esime]]

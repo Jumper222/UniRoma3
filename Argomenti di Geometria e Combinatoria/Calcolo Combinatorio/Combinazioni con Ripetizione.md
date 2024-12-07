@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Una combinazione con ripetizione è un tipo di raggruppamento di classe k di un insieme con elementi n
 Dove gli elementi si possono ripetere.
 

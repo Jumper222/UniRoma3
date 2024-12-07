@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Dato un <font color="#76923c">vettore</font> $v:=\overrightarrow{OA}$ e uno <font color="#92cddc">scalare</font> $h \in \mathbb{R}$
 Allora possiamo definire il <font color="#76923c">vettore</font> $h\vec{v}\in V^2(O)$.
 

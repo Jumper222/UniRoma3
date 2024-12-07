@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Notiamo ora alcune utili osservazioni riguardo le <font color="#ffff00">rette</font> passanti per l’ <font color="#f79646">origine</font> $O$.
 Queste osservazioni non verranno dimostrate, però se ne aspetta una totale comprensione dal materiali successivi.
 

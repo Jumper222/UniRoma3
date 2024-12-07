@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Una disposizione con ripetizione è un tipo particolare di disposizione, dove vengono create dei sottoinsiemi di n di cardinalità k che ammettono delle ripetizioni al loro interno.
 
 ### <font color="#4f81bd">Esempio</font>:

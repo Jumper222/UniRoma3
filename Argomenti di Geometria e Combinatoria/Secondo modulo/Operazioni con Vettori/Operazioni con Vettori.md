@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Vogliamo ora introdurre all’ interno dell’ insieme [[Insieme dei vettori|V]]  delle operazioni di calcolo.
 
 Come prima operazione andiamo a descrivere la [[Somma tra vettori|Somma]]

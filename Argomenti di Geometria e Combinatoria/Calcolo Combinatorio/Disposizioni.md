@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Una disposizione è una sequenza <font color="#ffff00">ordinata</font> di k elementi estratti da un insieme che ne contiene n.
 Le Disposizioni sono quindi i raggruppamenti di classe k che si possono formare a partire da n elementi,
 
