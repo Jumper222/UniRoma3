@@ -16,7 +16,7 @@ Esistono però casi dove la regola del parallelogramma non si può applicare, in
 
 In una situazione come questa è utile tornare alla definizione di parallelogramma, infatti
 è utile ricordare che: 
-“le diagonali di un parallelogramma si intersecano in un punto M che è punto medio dei vertici opposti.”
+“le diagonali di un parallelogramma si intersecano in un punto M che è [[Punto Medio]] dei vertici opposti.”
 
 Nel primo esempio, il punto M giacerebbe a metà tra O e C.
 - Quindi abbiamo il punto M come punto intermedio dei punti A e B (diagonale secondaria)
