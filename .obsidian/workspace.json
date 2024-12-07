@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "4ef81b09b05d1d2d",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e2263e4262f38f56",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Operazioni con Vettori"
             }
           }
         ]
@@ -147,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le potenze.md"
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Teorema di “De Moivre” per trovare le potenze"
+              "title": "Outline of Operazioni con Vettori"
             }
           },
           {
@@ -168,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,45 +187,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2263e4262f38f56",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini",
+    "conflict-files-obsidian-git.md",
+    "Analisi I.md",
+    "Argomenti di Geometria e Combinatoria/Permutazioni.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni Semplici.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Disposizioni con Ripetizione.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni Semplici.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Coefficiente Binomiale.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Combinazioni con Ripetizione.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Calcolo Combinatorio.md",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio",
+    "Argomenti di Geometria e Combinatoria/Argomenti di Geometria e Combinatoria (Immagini)/Pasted image 20241112120012.png",
+    "Argomenti di Geometria e Combinatoria/Argomenti di Geometria e Combinatoria (Immagini)",
     "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le potenze.md",
     "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le radici.md",
     "Home.md",
-    "Argomenti di Geometria e Combinatoria/Permutazioni.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Suriettiva.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzioni composte.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Iniettiva.md",
-    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Funzione Biettiva.md",
-    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni/Dominio,Codominio,Immagine e Controimmagine.md",
-    "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Teorema di Pitagora Numeri Complessi.excalidraw.md",
-    "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Piano Complesso forma Rettangolare.excalidraw.md",
-    "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi/Rappresentazione polare.md",
-    "Argomenti di Analisi I/Funzioni/Massimo e Minimo di una funzione.md",
-    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
-    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
-    "Argomenti di Analisi I/Funzioni/Monotonia delle Funzioni.md",
-    "Argomenti di Analisi I/Funzioni/Maggiorante e Minorante di una funzione.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni di radici n-esime.md",
-    "Argomenti di Analisi I/Funzioni/Funzioni Composte.md",
-    "Argomenti di Analisi I/Funzioni/Funzione Inversa.md",
-    "Argomenti di Analisi I/Funzioni/Funzione Iniettiva,Suriettiva,Biettiva.md",
-    "Argomenti di Analisi I/Funzioni/Funzione di Identità.md",
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
-    "Argomenti di Analisi I/Funzioni/Estremo Superiore ed Inferiore di una funzione.md",
-    "Argomenti di Analisi I/Funzioni/Dominio Simmetrico.md",
-    "Argomenti di Analisi I/Funzioni/Esempi su Funzioni Composte.md",
     "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi",
     "Argomenti di Analisi I/Funzioni",
     "Argomenti di Analisi I/Numeri Complessi",
     "Argomenti di Analisi I",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
-    "Funzioni/Excalidraw Funzioni",
-    "Funzioni",
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Untitled.canvas",
     "Immagine.png"

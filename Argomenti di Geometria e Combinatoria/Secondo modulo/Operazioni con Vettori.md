@@ -1,0 +1,1 @@
+Vogliamo ora introdurre all’ interno di [[Insieme dei vettori|]]
