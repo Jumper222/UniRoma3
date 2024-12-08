@@ -23,7 +23,7 @@ Nel primo esempio, il punto M giacerebbe a metà tra O e C.
 - Quindi abbiamo il punto M come punto intermedio dei punti A e B (diagonale secondaria)
   ed il punto C che è il simmetrico di O rispetto ad M (sono i due vertici della diagonale principale)
 
-Allora possiamo definire l’ addizione tra vettori anche in questi casi, che utilizzano la definizione di
+Allora l’ addizione tra vettori è definita anche in questi casi, che utilizzano la definizione di
 “<font color="#ffff00">Parallelogramma degenere</font>”.
 
 In casi come questi quindi sulla retta giacerà il punto M, punto medio tra A e B.
