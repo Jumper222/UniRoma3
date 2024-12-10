@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/plugins/obsidian-plugin-update-tracker/data.json",
-                "staged": false
+                "file": ".gitignore",
+                "staged": true
               },
               "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "title": "Diff View (.gitignore)"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettori linearmente indipendenti nel piano.md",
@@ -193,7 +194,6 @@
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Regola del parallelogramma.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Proprietà della moltiplicazione di un vettore per uno scalare.md",
