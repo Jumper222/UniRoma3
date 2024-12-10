@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/1kcjwtv7#pmvC7LL+jsSrBrI7ySGk8CsS1WDI/VnaL6TtmRoKmzc
-share_updated: 2024-12-10T23:58:32+01:00
----
 Prendiamo in considerazione gli insiemi delle matrici $M(p,q,\mathbb{R})$, ovvero di matrici con coefficiente reale a $p$ righe e $q$ colonne e $V^2(O)$,$V^3(O)$.
 
 Questi 3 insiemi godono delle stesse proprietà.
