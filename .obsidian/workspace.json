@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-plugin-update-tracker/data.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e6d0f9604456b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce3412596a4828e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73c33d925e554b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32e50f278ef4aaa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "305ec82b1c72147e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d9344d4f081a942b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0c8cbb927726c4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e01e45d3b709833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab9b0f12b2ba441",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le potenze.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Teorema di “De Moivre” per trovare le potenze"
+            }
+          },
+          {
+            "id": "1d82a4dbb7f2fa6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Argomenti di Analisi I/Numeri Complessi/Teorema di “De Moivre” per trovare le potenze.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Teorema di “De Moivre” per trovare le potenze"
+            }
+          },
+          {
+            "id": "9251edaac48111a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa2333d0cf0f5af6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f816b7ffa903fbbc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Home.md",
+    "conflict-files-obsidian-git.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettori linearmente indipendenti nel piano.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Drawing 2024-12-10 11.17.06.excalidraw.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Dipendenza ed indipendenza lineare dei vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Regola del parallelogramma.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Proprietà della moltiplicazione di un vettore per uno scalare.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Moltiplicazione di un vettore per uno scalare.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Parallelogramma degenere.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
+    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
+    "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
+    "Argomenti di Analisi I/Numeri Complessi/Piano Complesso.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
+    "Teoria degli Insiemi/Insiemi Numerici.md",
+    "Geometria e Combinatoria.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
+    "Excalidraw",
+    "vector_graph.svg",
+    "image_black_bg.png",
+    "Pasted image 20241205120540.png",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo",
+    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio",
+    "Argomenti di Geometria e Combinatoria/Argomenti di Geometria e Combinatoria (Immagini)/Pasted image 20241112120012.png",
+    "Argomenti di Geometria e Combinatoria/Argomenti di Geometria e Combinatoria (Immagini)",
+    "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
+    "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi",
+    "Argomenti di Analisi I/Funzioni",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Teoria degli Insiemi (Immagini)/Immagine.png",
+    "Untitled.canvas",
+    "Immagine.png"
+  ]
+}
