@@ -10,4 +10,4 @@ Nella figura abbiamo $v_{1}:=\overrightarrow{OP_{1}},v_{2}:=\overrightarrow{OP_{
 Questo è quindi un <font color="#ffc000">perfetto</font> esempio di una combinazione lineare di vettori.
 
 - Esiste anche la possibilità di vedere il vettore nullo come combinazione lineare di vettori con tutti i coefficienti uguali a 0, ed è definita tale che: $$0v_{1}+0v_{2}+\dots+0v_{n}=0$$
-Comprendere a pieno le combinazioni lineari tra vettori è fondamentale per poter apprendere il concetto di [[Indipendenza lineare dei vettori]]
+Comprendere a pieno le combinazioni lineari tra vettori è fondamentale per poter apprendere il concetto di [[Dipendenza ed indipendenza lineare dei vettori]]
