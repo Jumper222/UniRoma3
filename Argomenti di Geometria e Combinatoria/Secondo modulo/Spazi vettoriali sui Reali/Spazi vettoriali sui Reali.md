@@ -22,4 +22,12 @@ Dato per assodato ciò, possiamo quindi unificare questi 2 concetti con una defi
   Quindi questo insieme $V$ con queste operazioni di <font color="#ffff00">addizione</font> e <font color="#ffff00">moltiplicazione</font> di un vettore per uno scalare è detto spazio vettoriale su $\mathbb{R}$.
 
 
-Date queste definizioni possiamo iniziare ad individuare degli spazi vettoriali tra gli insieme
+Date queste definizioni possiamo iniziare ad individuare degli spazi vettoriali tra gli insiemi che già conosciamo:
+
+- $M(p,q,\mathbb{R})$, come già detto in precedenza l’ insieme delle matrici con coefficiente reale di p righe e q colonne è uno spazio vettoriale.
+- $V^2(O),V^3(O)$ anche gli insiemi dei vettori sono spazi vettoriali ovviamente.
+- $\mathbb{R}$ Pure l’ insieme dei reali è uno spazio vettoriale, dove i numeri reali sono sia vettori che scalari contemporaneamente.
+- $\mathbb{R}[x]$, Di conseguenza l’ insieme dei polinomi con indeterminata x e coefficiente reale è considerabile uno spazio vettoriale.
+
+Valgono quindi per gli spazi vettoriali le seguenti proprietà:
+
