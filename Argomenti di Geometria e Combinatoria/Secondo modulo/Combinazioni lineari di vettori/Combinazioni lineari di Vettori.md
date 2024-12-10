@@ -8,3 +8,5 @@ Viene chiamata Combinazione lineare di Vettori il vettore $v$ risultante dalla s
 
 Nella figura abbiamo $v_{1}:=\overrightarrow{OP_{1}},v_{2}:=\overrightarrow{OP_{2}},a_{1}v_{1}=\overrightarrow{OP'_{1}},a_{2}v_{2}=\overrightarrow{OP'_{2}},v=a_{1}v_{1}+a_{2}v_{2}=\overrightarrow{OP}$
 Questo è quindi un <font color="#ffc000">perfetto</font> esempio di una combinazione lineare di vettori.
+
+Anche le combinazioni lineari di vettori hanno delle [[Proprietà delle combinazioni lineari di vettori|Proprietà]]
