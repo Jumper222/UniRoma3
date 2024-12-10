@@ -10,5 +10,9 @@ Dato per assodato ciò, possiamo quindi unificare questi 2 concetti con una defi
   
   Allora possiamo definire le <font color="#76923c">operazioni</font> binaria interne ed esterne.
 
-  - <font color="#00b0f0">BinInterna</font>:   
-   
+  - <font color="#00b0f0">Operazione Binaria Interna</font>:   
+   Una operazione binaria interna è definita all’ interno dell’ insieme $V$ come una legge che lega una qualsiasi coppia di vettori $(v,w)$ ad un altro vettore indicato con il simbolo $v+w$.
+   Questa operazione viene chiamata addizione in $V$, ed il risultato viene detto somma dei vettori $v$ e $w$.
+
+  - <font color="#00b0f0">Operazione Binaria Esterna</font>:
+   Una operazione binarie esterna è definita all’ 
