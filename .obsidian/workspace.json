@@ -39,12 +39,14 @@
             "id": "a4968caa8d2de93d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-10 11.17.06.excalidraw.md"
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-10 11.17.06.excalidraw"
+              "icon": "lucide-file",
+              "title": "Combinazioni lineari di Vettori"
             }
           }
         ],
@@ -176,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-10 11.17.06.excalidraw.md"
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-12-10 11.17.06.excalidraw"
+              "title": "Outline of Combinazioni lineari di Vettori"
             }
           },
           {
@@ -216,8 +218,10 @@
   },
   "active": "a4968caa8d2de93d",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Drawing 2024-12-10 11.17.06.excalidraw.md",
+    "Pasted image 20241205120538.png",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
-    "Excalidraw/Drawing 2024-12-10 11.17.06.excalidraw.md",
     "Excalidraw",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
@@ -243,8 +247,6 @@
     "Geometria e Combinatoria.md",
     "Argomenti di Analisi I/Funzioni/Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
-    "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
     "vector_graph.svg",
     "image_black_bg.png",
     "Pasted image 20241205120540.png",
