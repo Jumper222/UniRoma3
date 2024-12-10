@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Punto Medio"
+              "title": "Vettori"
+            }
+          },
+          {
+            "id": "fc6796d8eeef2568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combinazioni lineari di Vettori"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,9 +163,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Combinazioni lineari di Vettori"
             }
           },
           {
@@ -159,8 +176,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -173,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -180,38 +198,39 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fc6796d8eeef2568",
   "lastOpenFiles": [
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
+    "Home.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Proprietà della moltiplicazione di un vettore per uno scalare.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Moltiplicazione di un vettore per uno scalare.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Regola del parallelogramma.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Parallelogramma degenere.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
     "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
     "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
     "Argomenti di Analisi I/Numeri Complessi/Piano Complesso.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
-    "Home.md",
     "Teoria degli Insiemi/Insiemi Numerici.md",
     "Geometria e Combinatoria.md",
     "Argomenti di Analisi I/Funzioni/Funzioni.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Periodicità.md",
     "Argomenti di Analisi I/Funzioni/Simmetria delle Funzioni, Pari e Dispari.md",
     "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni Semplici.md",
-    "Argomenti di Geometria e Combinatoria/Calcolo Combinatorio/Permutazioni con Ripetizione.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
     "Excalidraw",
     "vector_graph.svg",
@@ -226,7 +245,6 @@
     "Argomenti di Analisi I/Funzioni/Excalidraw Funzioni",
     "Argomenti di Analisi I/Numeri Complessi/Excalidraw Numeri Complessi",
     "Argomenti di Analisi I/Funzioni",
-    "Argomenti di Analisi I/Numeri Complessi",
     "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Teoria degli Insiemi (Immagini)/Immagine.png",
     "Untitled.canvas",
