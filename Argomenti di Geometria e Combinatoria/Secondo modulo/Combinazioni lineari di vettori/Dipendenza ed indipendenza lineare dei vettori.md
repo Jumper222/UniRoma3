@@ -15,7 +15,7 @@ Un’ altra osservazione molto utile per capire il concetto di <font color="#9bb
 
 Questo stesso concetto vale per lo spazio, a terne di 3, questo può essere riassunto matematicamente così:
 
-- Dato uno spazio $V^n$ allora un numero $m$ di vettori è linearmente dipendente se $m$
+- Dato uno spazio $V^n$ allora un numero $m$ di vettori è linearmente dipendente se $m > n$
 
-Oltretutto, si può immediatamente notare la dipendenza lineare di 2 vettori se i loro vertici giaciono sulla stessa retta passante per l’ <font color="#fac08f">origine</font> O.
+Oltretutto, si può immediatamente notare la <font color="#f79646">dipendenza</font> lineare di 2 vettori se i loro vertici giaciono sulla stessa retta passante per l’ <font color="#fac08f">origine</font> O.
 
