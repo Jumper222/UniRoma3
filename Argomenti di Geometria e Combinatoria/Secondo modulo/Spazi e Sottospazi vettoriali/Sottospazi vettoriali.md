@@ -14,6 +14,9 @@ Che non è una matrice che appartiene ad $E$.
 
 Volessimo quindi dare una definizione di <font color="#ffff00">sottospazio vettoriale</font> sarebbe la seguente:
 
-- Un sottospazio vettoriale $E$ può essere considerato tale se rispetta le seguenti proprietà:
+- Un <font color="#ffff00">sottospazio vettoriale</font> $E$ può essere considerato tale se rispetta tutte le proprietà di uno <font color="#9bbb59">spazio vettoriale</font>, con particolare attenzione alle seguenti:
   - $u+v\in E \ \ \forall u,v\in E$
-  - $ku$
+  - $ku\in E \ \ \forall u\in E, \ \ \forall k\in\mathbb{R}$
+  - $u+0=u, \\ \forall u,0\in E$ (Esistenza dell’ elemento neutro nell’ addizione)
+  - $u+(-u)=0, \\ \forall u,-u\in E$ (Esistenza dell’ opposto)
+
