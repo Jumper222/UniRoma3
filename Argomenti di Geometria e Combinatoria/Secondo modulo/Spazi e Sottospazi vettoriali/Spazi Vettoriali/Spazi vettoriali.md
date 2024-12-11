@@ -30,3 +30,5 @@ Date queste definizioni possiamo iniziare ad individuare degli <font color="#769
 - $\mathbb{R}[x]$, Di conseguenza l’ insieme dei polinomi con indeterminata x e coefficiente reale è considerabile uno <font color="#76923c">spazio vettoriale</font>.
 
 Valgono quindi per gli spazi vettoriali le seguenti [[Proprietà degli Spazi Vettoriali]]
+
+Una volta data la definizione agli spazi vettoriali possiamo definire i [[Sottospazi vettoriali]]
