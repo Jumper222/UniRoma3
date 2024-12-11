@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Sottospazi vettoriali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combinazioni lineari di Vettori"
+              "title": "Sottospazi vettoriali"
             }
           }
         ]
@@ -187,8 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a73c33d925e554b0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
+    "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali/Spazi vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Sottospazi vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali/Proprietà degli Spazi Vettoriali.md",
@@ -199,7 +203,6 @@
     "Home.md",
     "conflict-files-obsidian-git.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettori linearmente indipendenti nel piano.md",
@@ -214,9 +217,6 @@
     "Argomenti di Analisi I/Numeri Complessi/Piano Complesso.md",
     "Argomenti di Analisi I/Numeri Complessi/Numeri Complessi.md",
     "Argomenti di Analisi I/Numeri Complessi/Operazioni in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Moltiplicazione in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Divisione in C.md",
-    "Argomenti di Analisi I/Numeri Complessi/Coniugato e modulo.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
     "Pasted image 20241205120538.png",
     "Excalidraw",
