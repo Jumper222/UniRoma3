@@ -8,4 +8,13 @@ Dove:
 
 Ogni sistema lineare può essere trascritto nella forma matriciale:
 
+$$AX=B$$
+Dove:
+- $A$ è la matrice dei coefficienti $(m\times n)$,
+- $X$ è il vettore colonna delle incognite $(n\times 1)$,
+- $B$ è il vettore colonna dei termini noti $(m\times1)$
+
+Alcune definizioni importanti:
+- Un sistema lineare $S$ si dice omogeneo se i termini noti di tutte le equazioni che compongono il sistema $S$ sono nulli.
+- Un sistema lineare omogeneo $S:AX=0$ è sempre risolvibile perché ammette almeno la soluzione $X=0$, detta soluzione banale.
 
