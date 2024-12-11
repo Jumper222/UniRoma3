@@ -20,3 +20,4 @@ Volessimo quindi dare una definizione di <font color="#ffff00">sottospazio vetto
   - $u+0=u, \\ \forall u,0\in E$ (Esistenza dell’ elemento neutro nell’ addizione)
   - $u+(-u)=0, \\ \forall u,-u\in E$ (Esistenza dell’ opposto)
 
+Data la definizione di un sottospazio vettoriale, possiamo [[Esempi di sottospazi vettoriali|Elencarne]] alcuni molto usati
