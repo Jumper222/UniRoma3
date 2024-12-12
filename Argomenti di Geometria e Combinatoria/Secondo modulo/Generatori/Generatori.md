@@ -5,6 +5,6 @@ Il concetto di <font color="#ffff00">generatore</font> è intimamente collegato 
 Poniamo quindi un esempio per fissare subito il concetto:
 
 - Volessimo descrivere l’ insieme dei vettori di $\mathbb{R}^2$, ovvero un insieme dove esistono tutti i vettori (x,y),
-  Allora l’insieme in questione sarebbe {(1,0),(0,1)},
+  Allora l’insieme in questione sarebbe $ \langle (1,0),(0,1)},$
   Questo perchè ogni vettore del sistema poi potrebbe essere descritto come combinazione lineare di quest’insieme
   
