@@ -3,7 +3,7 @@ Un insieme di <font color="#ffff00">generatori</font> è un insieme grazie al cu
 Il concetto di <font color="#ffff00">generatore</font> è intimamente collegato al concetto di combinazione lineare dei singoli vettori.
 
 Nello specifico:
-- L’ insieme $L$ delle combinazioni lineari dei vettori $v_{1},v_{2},\dots,v_{r}$ al variare dei coefficienti $k_{1},k_{2},\dots,k_{r}$       è un sottospazio vettoriale di $V$ chiamato sottospazio vettoriale <font color="#f79646">generato</font> dai vettori $v_{1},v_{2},\dots,v_{r}$
+- L’ insieme $L$ delle combinazioni lineari dei vettori $v_{1},v_{2},\dots,v_{r}$ al variare dei coefficienti $k_{1},k_{2},\dots,k_{r}$       è un sottospazio vettoriale di $V$ chiamato sottospazio vettoriale <font color="#ffff00">generato</font> dai vettori $v_{1},v_{2},\dots,v_{r}$
   <font color="#ff0000">NB</font>: tale sottospazio vettoriale contiene i vettori $v_{1},v_{2},\dots,v_{r}$ ed è contenuto in <font color="#ff0000">tutti</font> i sottospazi vettoriali di $V$ contenenti $v_{1},v_{2},\dots,v_{r}$.
 
 Facciamo un esempio generalizzato della definizione per capire meglio il concetto.
@@ -23,4 +23,7 @@ Facciamo un esempio generalizzato della definizione per capire meglio il concett
 
 ### <font color="#4bacc6">Esempio 2 di un generatore</font>
 
-- Data una retta $r$ passante per l’ origine $O$ del piano, e dato un punto $A$ della retta $r$ distinto da $O$, l’ insieme dei vettori $\overrightarrow{OP}$ con $P$ giacente su $r$ è un sottospazio vettoriale generato dal vettore $\overrightarrow{OA}$.
+- Data una retta $r$ passante per l’ origine $O$ del piano, e dato un punto $A$ della retta $r$ distinto da $O$,
+  l’insieme dei <font color="#e36c09">vettori</font> $\overrightarrow{OP}$ con $P$ giacente su $r$ è un sottospazio vettoriale <font color="#ffff00">generato</font> dal vettore $\overrightarrow{OA}$
+  Possiamo quindi dire che dati in $V^2(O)$ due <font color="#e36c09">vettori</font> $\overrightarrow{OP}_{1}$ e $\overrightarrow{OP}_{2}$ con $O$, $P_{1}$ e $P_{2}$ non allineati, i <font color="#e36c09">vettori</font> $\overrightarrow{OP}_{1}$ e $\overrightarrow{OP}_{2}$ <font color="#ffff00">generano</font> $V^2(O)$.
+
