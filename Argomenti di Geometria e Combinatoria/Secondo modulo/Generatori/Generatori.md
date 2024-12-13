@@ -6,7 +6,14 @@ Nello specifico:
 - L’ insieme $L$ delle combinazioni lineari dei vettori $v_{1},v_{2},\dots,v_{r}$ al variare dei coefficienti $k_{1},k_{2},\dots,k_{r}$       è un sottospazio vettoriale di $V$ chiamato sottospazio vettoriale <font color="#ffff00">generato</font> dai vettori $v_{1},v_{2},\dots,v_{r}$
   <font color="#ff0000">NB</font>: tale sottospazio vettoriale contiene i vettori $v_{1},v_{2},\dots,v_{r}$ ed è contenuto in <font color="#ff0000">tutti</font> i sottospazi vettoriali di $V$ contenenti $v_{1},v_{2},\dots,v_{r}$.
 
-Facciamo un esempio generalizzato della definizione per capire meglio il concetto.
+Inoltre c’è da ricordare che solo gli spazi finitamente generati possono avere dei <font color="#ffff00">generatori</font>:
+- Uno spazio vettoriale $V$ lo diciamo <font color="#00b050">finitamente generato</font> se esistono $v_{}$
+- $V^2(O)$ è finitamente generato;
+- $V^3(O)$ è finitamente generato;
+- 
+
+
+Facciamo degli esempi per capire meglio il concetto.
 ### <font color="#4bacc6">Esempio 1 di un generatore</font>
 
 - Abbiamo l’ insieme $L(v_{1},v_{2},\dots v_{r})$
