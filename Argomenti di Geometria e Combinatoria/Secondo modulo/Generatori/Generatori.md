@@ -2,10 +2,5 @@ Un insieme di <font color="#ffff00">generatori</font> è un insieme grazie al cu
 
 Il concetto di <font color="#ffff00">generatore</font> è intimamente collegato al concetto di combinazione lineare dei singoli vettori.
 
-Poniamo quindi un esempio per fissare subito il concetto:
-
-- Volessimo descrivere l’ insieme dei vettori di $\mathbb{R}^2$, ovvero un insieme dove esistono tutti i vettori $(x,y)$,
-  Allora l’insieme in questione sarebbe $\langle(1,0),(0,1)\rangle$
-  Questo perchè ogni vettore del sistema poi potrebbe essere descritto come combinazione lineare di quest’insieme
-
-
+Nello specifico:
+- L’ insieme $L$ delle combinazioni lineari dei vettori $v_{1},v_{2},\dots,v_{r}$ al variare dei coefficienti $k_{1},k_{2},\dots,k_{r}$ 
