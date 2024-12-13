@@ -27,3 +27,8 @@ Facciamo un esempio generalizzato della definizione per capire meglio il concett
   l’insieme dei <font color="#e36c09">vettori</font> $\overrightarrow{OP}$ con $P$ giacente su $r$ è un sottospazio vettoriale <font color="#ffff00">generato</font> dal vettore $\overrightarrow{OA}$
   Possiamo quindi dire che dati in $V^2(O)$ due <font color="#e36c09">vettori</font> $\overrightarrow{OP}_{1}$ e $\overrightarrow{OP}_{2}$ con $O$, $P_{1}$ e $P_{2}$ non allineati, i <font color="#e36c09">vettori</font> $\overrightarrow{OP}_{1}$ e $\overrightarrow{OP}_{2}$ <font color="#ffff00">generano</font> $V^2(O)$.
 
+### <font color="#4bacc6">Esempio 3 di un generatore</font>
+
+- Consideriamo le seguenti tre matrici di $M(2,2,\mathbb{R})$
+  $A_{1}:=\begin{pmatrix}1&2\\2&0\end{pmatrix}, \quad A_{2}:=\begin{pmatrix}3 &1\\1 &0\end{pmatrix}, \quad A_{3}:=\begin{pmatrix}0&2\\2&0\end{pmatrix}$
+  Allora il sottospazio vettoriale che esse generano è formato dalle matrici del tipo $k_{1}A_{1}+k_{2}A_{2}+K_{3}A_{3}$
