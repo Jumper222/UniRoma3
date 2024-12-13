@@ -41,4 +41,4 @@ Facciamo un esempio generalizzato della definizione per capire meglio il concett
   Vediamo che le loro combinazioni lineare sono tutti i polinomi del tipo:
   $$k_{1}+k_{2}x+k_{3}x^2$$
   Dunque abbiamo che $1,x,x^2$ <font color="#ffff00">generano</font> $R^3[x]$ ovvero il sottospazio vettoriale di $R[x]$ formato dai polinomi di grado minore di 3.
-  - Analogamente si potrebbe verificare che $1,x,x^2,\dots,x^n$ <font color="#ffff00">generano</font> $R^(nì)$
+  - Analogamente si potrebbe verificare che $1,x,x^2,\dots,x^n$ <font color="#ffff00">generano</font> $R^{n+1}[x]$
