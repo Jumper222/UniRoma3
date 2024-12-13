@@ -31,4 +31,14 @@ Facciamo un esempio generalizzato della definizione per capire meglio il concett
 
 - Consideriamo le seguenti tre matrici di $M(2,2,\mathbb{R})$
   $A_{1}:=\begin{pmatrix}1&2\\2&0\end{pmatrix}, \quad A_{2}:=\begin{pmatrix}3 &1\\1 &0\end{pmatrix}, \quad A_{3}:=\begin{pmatrix}0&2\\2&0\end{pmatrix}$
-  Allora il sottospazio vettoriale che esse generano è formato dalle matrici del tipo $k_{1}A_{1}+k_{2}A_{2}+K_{3}A_{3}$
+  Allora il sottospazio vettoriale che esse <font color="#ffff00">generano</font> è formato dalle matrici del tipo $k_{1}A_{1}+k_{2}A_{2}+K_{3}A_{3}$ infatti:
+  $$\begin{pmatrix}k_{1}+3k_{2} &2k_{1}+k_{2}+2k_{3}\\2k_{1}+k_{2}+2k_{3} &0\end{pmatrix}$$
+  (I coefficienti sono dati dai numeri all’ interno delle matrici)
+
+
+### <font color="#4bacc6">Esempio 4 di un generatore</font>
+- Consideriamo i tre polinomi $1,x,x^2$.
+  Vediamo che le loro combinazioni lineare sono tutti i polinomi del tipo:
+  $$k_{1}+k_{2}x+k_{3}x^2$$
+  Dunque abbiamo che $1,x,x^2$ <font color="#ffff00">generano</font> $R^3[x]$ ovvero il sottospazio vettoriale di $R[x]$ formato dai polinomi di grado minore di 3.
+  - Analogamente si potrebbe verificare che $1,x,x^2,\dots,x^n$ <font color="#ffff00">generano</font> $R^(nì)$
