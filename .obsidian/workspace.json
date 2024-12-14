@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Operazioni con Vettori"
             }
           }
         ]
@@ -187,8 +187,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Generatori/Esempi di generatori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Generatori/Generatori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
+    "Home.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Dipendenza ed indipendenza lineare dei vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali/Spazi vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali/Proprietà degli Spazi Vettoriali.md",
@@ -199,16 +209,10 @@
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Sistemi Lineari/Sistemi Lineari.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Sistemi Lineari",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Generatori",
-    "Home.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi vettoriali sui Reali/Proprietà degli Spazi Vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi vettoriali sui Reali/Spazi vettoriali sui Reali.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi vettoriali sui Reali",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Untitled.canvas",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
     "conflict-files-obsidian-git.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettori linearmente indipendenti nel piano.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Drawing 2024-12-10 11.17.06.excalidraw.md",
@@ -216,10 +220,6 @@
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Regola del parallelogramma.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Proprietà della moltiplicazione di un vettore per uno scalare.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Moltiplicazione di un vettore per uno scalare.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Prioprietà della somma tra vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Parallelogramma degenere.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Operazioni con Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
     "Excalidraw",
     "vector_graph.svg",
