@@ -57,5 +57,14 @@ $$\begin{cases}
 $$A:=\begin{pmatrix}
 3 & 1 & 0 \\
 2 & 0 & 1 \\
-
+2 & 1 & 1 \\
+1 & -1 & 2
+\end{pmatrix} \quad \quad A':=\begin{pmatrix}
+3 &1 &0 &0 \\
+2 &0 &1 &1 \\
+2&1&1&0 \\
+1&-1&2&2
 \end{pmatrix}$$
+- Dopo aver fatto tutti i calcoli del caso, scopriamo che entrambe le matrici hanno rango 3.
+- Infine, scegliamo di risolvere con il metodo Rouché–Capelli, che ci da le seguenti soluzioni:$$k_{1}=\frac{1}{3},k_{2}=-1,k_{3}=\frac{1}{3}$$
+- Ed allora possiamo dire che: $v=\frac{1}{3}v_{1}-v_{2}+\frac{1}{3}v_{3}$
