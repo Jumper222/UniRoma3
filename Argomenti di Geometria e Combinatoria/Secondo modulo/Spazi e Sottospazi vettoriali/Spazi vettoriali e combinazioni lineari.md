@@ -12,3 +12,18 @@ Facciamo un esempio di 3 vettori linearmente dipendenti:
 
 Facciamo ora un esempio:
 
+### <font color="#4bacc6">Esempio 1</font>:
+Ci chiediamo se $v_{1}:=(1,2,1,0),v_{2}:=(2,3,0,1),v_{3}:=\left( 1, \frac{5}{2},2, -\frac{1}{2} \right)$
+sono linearmente dipendenti tra loro.
+Quindi scriviamo una loro combinazione lineare e poniamola = 0.
+$$k_{1}(1,2,1,0)+k_{2}(2,3,0,1)+k_{3}\left( 1, \frac{5}{2},2,-\frac{1}{2} \right)=(0,0,0,0)$$
+di conseguenza: $$\left( k_{1}+2k_{2}+k_{3},2k_{1}+3k_{2}+ \frac{5}{2}k_{3},k_{1}+2k_{3},k_{2}-\frac{1}{2}k_{3} \right)$$
+Poi si va a risolvere il sistema associato: 
+$$\begin{cases}
+\phantom{2}k_{1}+2k_{2}+\phantom{\frac{5}{3}}k_{3}&=0 \\
+2k_{1}+3k_{2}+\frac{5}{2}k_{3}&=0 \\
+\phantom{1}k_{1}+\phantom{3k_{2}}+ \ 2k_{3}&=0 \\
+\phantom{1k_{1}}+\phantom{3}k_{2}-\frac{1}{2}k_{3} &=0\end{cases}$$
+La cui soluzione è $$\begin{cases}
+k_{1}=
+\end{cases}$$
