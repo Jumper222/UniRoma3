@@ -10,6 +10,8 @@ Facciamo un esempio di 3 vettori linearmente dipendenti:
 
 <font color="#ff0000">NB</font>: Si noti che nella definizione di vettori linearmente dipendenti non si richiede che tutti i coefficienti siano diversi da 0, ma solo che qualcuno di essi (almeno uno) sia diverso da 0.
 
+<font color="#ff0000">NB</font>: due vettori $v_{1}$ e $v_{2}$ sono linearmente dipendenti se e solo se uno di essi è multiplo dell’ altro.
+
 Facciamo ora un esempio:
 
 ### <font color="#4bacc6">Esempio 1</font>:
