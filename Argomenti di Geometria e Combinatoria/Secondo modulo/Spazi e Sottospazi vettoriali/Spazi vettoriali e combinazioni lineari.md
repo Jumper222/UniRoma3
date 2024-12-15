@@ -3,3 +3,6 @@ Come abbiamo visto in [[Dipendenza ed indipendenza lineare dei vettori|precedenz
 - Da questa nozione deriva che:
   se $V$ è generato dai vettori $v_{1},v_{2},\dots,v_{r}$,
   ed uno di essi è combinazione lineare degli altri, allora possiamo scartarlo ed ottenere $r-1$ vettori che generano $V$. Questo ovviamente possiamo continuare a farlo finché non si possono più scartare vettori.
+
+Facciamo un esempio di 2 vettori linearmente dipendenti:
+- 
