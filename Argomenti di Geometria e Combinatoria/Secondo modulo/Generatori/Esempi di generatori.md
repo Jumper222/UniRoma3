@@ -33,3 +33,18 @@
   $$k_{1}+k_{2}x+k_{3}x^2$$
   Dunque abbiamo che $1,x,x^2$ <font color="#ffff00">generano</font> $R^3[x]$ ovvero il sottospazio vettoriale di $R[x]$ formato dai polinomi di grado minore di 3.
   - Analogamente si potrebbe verificare che $1,x,x^2,\dots,x^n$ <font color="#ffff00">generano</font> $R^{n+1}[x]$
+
+
+### <font color="#4bacc6">Esempio 5 di un generatore</font>
+- Ora vediamo un’ esercizio che può verosimilmente uscire all’ esame.
+
+- Sia $E$ il sottospazio vettoriale di $R^4$ generato dai vettori:
+- $v_{1}:=(3,2,2,1),v_{2}:=(1,0,1,-1) \ e \ v_{3}:=(0,1,1,2)$
+- Stabilire se il vettore $v:=(0,1,0,2)\in E$
+
+- Per risolvere l’ esercizio innanzitutto poniamoci la domanda in forma di una combinazione lineare:
+- $(0,1,0,2)=k_{1}(3,2,2,1)+k_{2}(1,0,1,-1)+k_{3}(0,1,1,2)$
+  Ovvero:
+  $(0,1,0,2)=(3k_{1}+k_{2},\ 2k_{1}+k_{3},\ 2k_{1}+k_{2}+k_{3},\ k_{1}-k_{2}+2k_{3})$
+  Quindi possiamo andare a risolvere il sistema correlato:
+  $$$$
