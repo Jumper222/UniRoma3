@@ -47,4 +47,15 @@
   Ovvero:
   $(0,1,0,2)=(3k_{1}+k_{2},\ 2k_{1}+k_{3},\ 2k_{1}+k_{2}+k_{3},\ k_{1}-k_{2}+2k_{3})$
   Quindi possiamo andare a risolvere il sistema correlato:
-  $$$$
+$$\begin{cases}
+3k_{1}+k_{2}&=0 \\
+2k_{1}+\phantom{k_{2}}+k_{3}&=0 \\
+2k_{1}+k_{2} +k_{3}&=0 \\
+\phantom{1} k_{1}-k_{2}+2k_{3}&=0
+\end{cases}$$
+- Poi controlliamo che i ranghi della matrice incompleta e di quella completa siano uguali, in tal caso il sistema potrà essere risolto.
+$$A:=\begin{pmatrix}
+3 & 1 & 0 \\
+2 & 0 & 1 \\
+
+\end{pmatrix}$$
