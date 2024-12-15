@@ -25,5 +25,8 @@ $$\begin{cases}
 \phantom{1}k_{1}+\phantom{3k_{2}}+ \ 2k_{3}&=0 \\
 \phantom{1k_{1}}+\phantom{3}k_{2}-\frac{1}{2}k_{3} &=0\end{cases}$$
 La cui soluzione è $$\begin{cases}
-k_{1}=
+k_{1}&=-2t \\
+k_{2}&=\frac{1}{2}t \\
+k_{3}&=t
 \end{cases}$$
+Ed essendo tutte e tre le variabili descrivibili da una sola variabile allora sono <font color="#f79646">linearmente dipendenti</font>.
