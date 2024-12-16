@@ -19,3 +19,4 @@ Questo stesso concetto vale per lo spazio, a terne di 3, questo può essere rias
 
 Oltretutto, si può immediatamente notare la <font color="#f79646">dipendenza</font> lineare di 2 vettori se i loro vertici giaciono sulla stessa retta passante per l’ <font color="#fac08f">origine</font> O.
 
+

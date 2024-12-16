@@ -29,6 +29,8 @@ Date queste definizioni possiamo iniziare ad individuare degli <font color="#769
 - $\mathbb{R}$ Pure l’ insieme dei reali è uno <font color="#76923c">spazio vettoriale</font>, dove i numeri reali sono sia <font color="#4bacc6">vettori</font> che <font color="#c0504d">scalari</font> contemporaneamente.
 - $\mathbb{R}[x]$, Di conseguenza l’ insieme dei polinomi con indeterminata x e coefficiente reale è considerabile uno <font color="#76923c">spazio vettoriale</font>.
 
+<font color="#ff0000">NB</font>: Ogni <font color="#76923c">spazio vettoriale</font> può essere descritto come una combinazione lineare di tutti i vettori [[Spazi vettoriali e combinazioni lineari|Linearmente Indipendenti]] tra loro all’ interno dello spazio
+
 Valgono quindi per gli spazi vettoriali le seguenti [[Proprietà degli Spazi Vettoriali]]
 
 Una volta data la definizione agli spazi vettoriali possiamo definire i [[Sottospazi vettoriali]]
