@@ -51,3 +51,6 @@ Quindi le 6 matrici sono linearmente indipendenti e formano una base (canonica) 
 
 - Da questo esempio possiamo trarre una utile osservazione: una base per $M(p,q,R)$ è formata dalle $pq$ matrici $E_{ij}$ dove $E_{ij}$ è la matrice in cui tutti gli elementi sono 0 tranne quello di posto $(i,j)=1$
 
+- Inoltre, data una base canonica per l’ insieme delle matrici, allora qualsiasi matrice all’ interno di tale insieme potrà essere descritta usando gli elementi della matrice stessa.
+
+

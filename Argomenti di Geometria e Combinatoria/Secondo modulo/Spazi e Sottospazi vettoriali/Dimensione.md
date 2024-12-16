@@ -1,0 +1,1 @@
+La dimensione di uno spazio vettoriale è la
