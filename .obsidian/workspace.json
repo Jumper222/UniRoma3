@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori/Basi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Basi"
             }
           }
         ]
@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,13 +189,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensione.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori/Basi.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori/Base Canonica.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi vettoriali e combinazioni lineari.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Untitled.md",
     "conflict-files-obsidian-git.md",
-    "Home.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori/Esempi di generatori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori/Generatori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori",
