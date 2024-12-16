@@ -1,1 +1,3 @@
-La dimensione di uno spazio vettoriale è la
+La dimensione di uno spazio vettoriale è il numero di vettori contenuti nella base dello spazio:
+
+Dato uno spazio con al suo interno 3 punti: $A,B,C$ non complanari tra loro, allora i vettori $v_{1}:=\overrightarrow{OA},v_{2}:=\overrightarrow{OB},v_{3}:=\overrightarrow{OC}$ sono linearmente indipendenti quindi ogni vettore all’ interno dello spazio è descritto da $v_{1},v_{2},v_{3}$, che essendo 3 vettori 
