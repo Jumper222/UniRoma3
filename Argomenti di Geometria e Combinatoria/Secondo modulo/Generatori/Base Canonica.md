@@ -11,7 +11,10 @@ Ogni vettore $v=v_{1},v_{2},\dots,v_{r}\in\mathbb{R}$ può quindi essere descrit
 
 Facciamo ora un esempio di una base canonica:
 
-Siano date le seguenti matrici:$$E_{11}:=\begin{pmatrix}
+
+### <font color="#4bacc6">Esempio di base canonica</font>
+Siano date le seguenti matrici all’ interno di $M(3,2,R)$:
+$$E_{11}:=\begin{pmatrix}
 1&0 \\
 0&0 \\
 0&0
@@ -24,7 +27,6 @@ Siano date le seguenti matrici:$$E_{11}:=\begin{pmatrix}
 1&0 \\
 0&0
 \end{pmatrix},
-\\[10pt]
 \quad E_{22}:=\begin{pmatrix}
 0&0 \\
 0&1 \\
@@ -38,3 +40,14 @@ Siano date le seguenti matrici:$$E_{11}:=\begin{pmatrix}
 0&0 \\
 0&1
 \end{pmatrix}$$
+Allora  se volessimo descrivere la matrice $$A=\begin{pmatrix}
+a&b \\
+c&d \\
+e&f
+\end{pmatrix}$$
+La descriveremo:
+$$A=aE_{11}+bE_{12}+cE_{21}+dE_{22}+eE_{31}+fE_{32}$$
+Quindi le 6 matrici sono linearmente indipendenti e formano una base (canonica) di $M(3,2,R)$
+
+- Da questo esempio possiamo trarre una utile osservazione: una base per $M(p,q,R)$ è formata dalle $pq$ matrici $E_{ij}$ dove $E_{ij}$ è la matrice in cui tutti gli elementi sono 0 tranne quello di posto $(i,j)=1$
+
