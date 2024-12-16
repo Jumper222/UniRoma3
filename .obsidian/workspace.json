@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -185,6 +189,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Argomenti di Fondamenti di Informatica/Parole Chiave dell’ Informatica.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori/Basi.md",
     "Home.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensione.md",
@@ -215,7 +220,6 @@
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Vettori linearmente indipendenti nel piano.md",
-    "Excalidraw/Drawing 2024-12-10 11.32.51.excalidraw.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Immagini/Pasted image 20241205120540.png",
     "Pasted image 20241205120538.png",
     "Excalidraw",
