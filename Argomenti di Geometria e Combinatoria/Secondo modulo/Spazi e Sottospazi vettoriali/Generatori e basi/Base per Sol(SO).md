@@ -45,13 +45,15 @@ w=\phantom{22222_{22}}h_{2} \\
 t=\phantom{22222222222_{222}}h_{3}
 \end{cases}$$
 Quindi possiamo scrivere le soluzioni come matrici di M(5,1,R):
-$$Sol(SO)=\begin{cases}
+$$Sol(SO)=\begin{pmatrix}
 2h_{1}+\frac{1}{5}h_{2}+\frac{4}{5}h_{3}  \\
 h_{1} \\
 \frac{3}{5}h_{2}+\frac{2}{5}h_{3} \\
 h_{2} \\
 h_{3}
-\end{cases}$$
+
+\end{pmatrix}
+$$
 Descrivibile anche come:
 
 $$Sol(SO)= \left\{h_{1}\begin{pmatrix}
@@ -93,3 +95,20 @@ $$S_{1}:=\begin{pmatrix}
 0 \\
 1
 \end{pmatrix}$$
+Quindi stabiliamo se essi formano una base per Sol(SO), verificando se sono linearmente indipendenti: $h_{1}S_{1}+h_{2}S_{2}+h_{3}S_{3}=0$
+$$\begin{pmatrix}
+2h_{1}+\frac{1}{5}h_{2}+\frac{4}{5}h_{3} \\
+h_{1} \\
+\frac{3}{5}h_{2}+\frac{2}{5}h_{3} \\
+h_{2} \\
+h_{3}
+\end{pmatrix}=\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0 \\
+0
+\end{pmatrix}$$
+Ovviamente questa uguaglianza si verifica solo quando $h_{1}=h_{2}=h_{3}=0$.
+
+- <font color="#9bbb59">Si ha quindi</font> che $S_{1},S_{2},S_{3}$ sono una base di Sol(SO), e che esso ha $dim=3$
