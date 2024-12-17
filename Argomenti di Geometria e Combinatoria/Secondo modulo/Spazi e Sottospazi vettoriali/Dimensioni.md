@@ -25,3 +25,16 @@ Se $dim \ V=n$ allora:
 - Dati comunque $r$ vettori con $r<n$ (anche se linearmente indipendenti), essi non possono essere generatori (e quindi tantomeno una base) di $V$
 - Dati comunque $n$ vettori linearmente indipendenti, essi costituiscono una base di $V$
 - Dati comunque $n$ generatori, essi formano una base di $V$
+
+Dunque, se volessimo controllare se dati $n$ vettori di uno spazio $v$ essi formano una base allora possiamo controllare:
+- Che gli $n$ vettori siano generatori,
+- Oppure che gli $n$ vettori siano linearmente indipendenti
+
+
+Potrebbe essere utile anche studiare 2 semplici esempi per comprendere meglio come trovare la dimensione di uno spazio vettoriale
+### <font color="#4bacc6">Esempio 1</font>
+
+Dati i seguenti vettori appartenenti a $\mathbb{R}^3$: $$v_{1}:=(1,2,1),v_{2}:=(1,1,1),v_{3}:=(0,1,2),v_{4}:=(1,1,3) $$
+Stabilire se sono linearmente indipendenti.
+
+Possiamo subito stabilire che $dim \ \mathbb{R}^3$

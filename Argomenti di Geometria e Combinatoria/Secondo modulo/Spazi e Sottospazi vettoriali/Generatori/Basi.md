@@ -11,4 +11,4 @@ Più formalmente, un insieme di vettori $v_{1},v_{2},\dots,v_{r}$ costituisce un
  - Le componenti di un vettore $v_{i}$ rispetto la base $v_{1},v_{2},\dots,v_{r}$ sono $(0,\dots,0,1,0,\dots,0)$, dove l’ unico 1 compare al posto ($i$-esimo)
 
 Un particolare esempio di base è la [[Base Canonica]]
-è inoltre importante conoscere il concetto di [[Dimensione]].
+è inoltre importante conoscere il concetto di [[Dimensioni]].
