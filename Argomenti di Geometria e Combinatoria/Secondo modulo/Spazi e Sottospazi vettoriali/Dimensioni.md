@@ -37,4 +37,22 @@ Potrebbe essere utile anche studiare 2 semplici esempi per comprendere meglio co
 Dati i seguenti vettori appartenenti a $\mathbb{R}^3$: $$v_{1}:=(1,2,1),v_{2}:=(1,1,1),v_{3}:=(0,1,2),v_{4}:=(1,1,3) $$
 Stabilire se sono linearmente indipendenti.
 
-Possiamo subito stabilire che $dim \ \mathbb{R}^3$
+Possiamo subito stabilire che $dim \ \mathbb{R}^3=3$, che impone quindi che possano esistere solo fino a 3 vettori linearmente indipendenti nello stesso momento all’ interno dello spazio, di conseguenza si evince subito essi non possono essere linearmente indipendenti.
+
+
+### <font color="#4bacc6">Esempio 2</font>
+
+Date le seguenti matrici, stabilire se esse generano $M(2,2,R)$:
+$$A_{1}:=\begin{pmatrix}
+1&1 \\
+0&0
+\end{pmatrix}, \quad A_{2}:=\begin{pmatrix}
+0&1 \\
+1&-1
+\end{pmatrix}, \quad A_{3}:=\begin{pmatrix}
+0&2 \\
+2&0
+\end{pmatrix}$$
+Sappiamo che $dim \ M(2,2,R)=4$,
+Quindi per poter generare questo spazio vettoriale sono necessari come base almeno 4 vettori linearmente indipendenti tra loro.
+Avendo noi qui soltanto 3 matrici, ovviamente esse non possono generare $M(2,2,R)$.
