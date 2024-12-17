@@ -10,5 +10,7 @@ Più formalmente, un insieme di vettori $v_{1},v_{2},\dots,v_{r}$ costituisce un
 
  - Le componenti di un vettore $v_{i}$ rispetto la base $v_{1},v_{2},\dots,v_{r}$ sono $(0,\dots,0,1,0,\dots,0)$, dove l’ unico 1 compare al posto ($i$-esimo)
 
+<font color="#ff0000">NB</font>: l’ unica differenza tra una base ed un insieme di generatori è che la base richiede l’indipendenza lineare tra tutti i vettori al suo interno, mentre l’ insieme di generatori può avere delle ridondanze
+
 Un particolare esempio di base è la [[Base Canonica]]
 è inoltre importante conoscere il concetto di [[Dimensioni]].
