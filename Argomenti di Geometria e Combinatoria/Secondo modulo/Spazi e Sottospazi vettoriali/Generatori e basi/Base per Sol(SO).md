@@ -48,6 +48,48 @@ Quindi possiamo scrivere le soluzioni come matrici di M(5,1,R):
 $$Sol(SO)=\begin{cases}
 2h_{1}+\frac{1}{5}h_{2}+\frac{4}{5}h_{3}  \\
 h_{1} \\
-\frac{3}{5}
-
+\frac{3}{5}h_{2}+\frac{2}{5}h_{3} \\
+h_{2} \\
+h_{3}
 \end{cases}$$
+Descrivibile anche come:
+
+$$Sol(SO)= \left\{h_{1}\begin{pmatrix}
+2 \\
+1 \\
+0 \\
+0 \\
+0
+\end{pmatrix}+h_{2}\begin{pmatrix}
+\frac{1}{5} \\
+0 \\
+\frac{3}{5} \\
+1 \\
+0
+\end{pmatrix}+h_{3}\begin{pmatrix}
+\frac{4}{5} \\
+0 \\
+\frac{2}{5} \\
+0 \\
+1
+\end{pmatrix}\right\}$$
+E quindi possiamo finalmente dire che Sol(SO) è generato da $S_{1},S_{2},S_{3}$:
+$$S_{1}:=\begin{pmatrix}
+2 \\
+1 \\
+0 \\
+0 \\
+0
+\end{pmatrix},\quad S_{2}:=\begin{pmatrix}
+\frac{1}{5} \\
+0 \\
+\frac{3}{5} \\
+1 \\
+0
+\end{pmatrix},\quad S_{3}:=\begin{pmatrix}
+\frac{4}{5} \\
+0 \\
+\frac{2}{5} \\
+0 \\
+1
+\end{pmatrix}$$
