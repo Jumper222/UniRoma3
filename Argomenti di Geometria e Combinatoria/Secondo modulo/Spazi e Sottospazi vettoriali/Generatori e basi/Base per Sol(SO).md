@@ -23,3 +23,9 @@ $$\begin{cases}
 \phantom{2x-2y}-\frac{5}{2}z+\frac{3}{2}w+\phantom{1}t&=0
 \end{cases}$$
 Essendo ora la 2° e la terza riga identiche, possiamo sottrarre la 3° riga alla seconda ed avremo risolto il sistema.
+$$\begin{cases}
+2x-4y+\phantom{\frac{5}{2}}z-\phantom{\frac{3}{2}}w-2t&=0 \\
+\phantom{2x-2y}-\frac{5}{2}z+\frac{3}{2}w+\phantom{1}t&=0 \\
+\phantom{2x-2y-\frac{5}{2}z+\frac{3}{2}w+3}0&=0
+\end{cases}$$
+Ora bisogna prestare <font color="#f79646">moltissima</font> attenzione
