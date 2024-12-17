@@ -29,3 +29,25 @@ $$\begin{cases}
 \phantom{2x-2y-\frac{5}{2}z+\frac{3}{2}w+3}0&=0
 \end{cases}$$
 Ora bisogna prestare <font color="#f79646">moltissima</font> attenzione:
+
+Assegniamo a $w$ e $t$ i valori parametrici $h_{2},h_{3}$, questo perché mancano 2 “scalini” perché diventi una matrice triangolare.
+Fatto ciò risolviamo $z$ in funzione di $w$ e $t$, $z=\frac{3}{5}h_{2}+\frac{2}{5}h_{3}$
+Ora assegniamo a $y$ il valore parametrico $h_{1}$ e quindi risolviamo per $x$ la equazione:
+$x=2h_{1}+\frac{1}{5}h_{2}+\frac{4}{5}h_{3}$
+
+Il sistema risolto quindi sarà:
+
+$$\begin{cases}
+x=2h_{1}+\frac{1}{5}h_{2}+\frac{4}{5}h_{3} \\
+y=\phantom{1}h_{1} \\
+z=\phantom{2h_{3}3+}\frac{3}{5}h_{2}+\frac{2}{5}h_{3} \\
+w=\phantom{22222_{22}}h_{2} \\
+t=\phantom{22222222222_{222}}h_{3}
+\end{cases}$$
+Quindi possiamo scrivere le soluzioni come matrici di M(5,1,R):
+$$Sol(SO)=\begin{cases}
+2h_{1}+\frac{1}{5}h_{2}+\frac{4}{5}h_{3}  \\
+h_{1} \\
+\frac{3}{5}
+
+\end{cases}$$
