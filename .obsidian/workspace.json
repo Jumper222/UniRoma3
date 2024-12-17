@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori e basi/Base per Sol(SO).md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base per Sol(SO)"
+              "title": "Combinazioni lineari di Vettori"
             }
           }
         ],
@@ -204,8 +204,10 @@
   },
   "active": "1ec2a8f348e0b49c",
   "lastOpenFiles": [
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Esempi di sottospazi vettoriali.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Dipendenza ed indipendenza lineare dei vettori.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori e basi/Base per Sol(SO).md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Esempi di sottospazi vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Sottospazi vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali/Spazi vettoriali.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Sistemi Lineari/Sistemi Lineari.md",
@@ -227,11 +229,9 @@
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Punto Medio.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
     "Argomenti di Geometria e Combinatoria/Algebra Booleana.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Combinazioni lineari di Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Insieme dei vettori.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Combinazioni lineari di vettori/Dipendenza ed indipendenza lineare dei vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
