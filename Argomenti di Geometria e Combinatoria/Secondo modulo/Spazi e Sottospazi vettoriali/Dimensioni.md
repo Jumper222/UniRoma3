@@ -56,3 +56,5 @@ $$A_{1}:=\begin{pmatrix}
 Sappiamo che $dim \ M(2,2,R)=4$,
 Quindi per poter generare questo spazio vettoriale sono necessari come base almeno 4 vettori linearmente indipendenti tra loro.
 Avendo noi qui soltanto 3 matrici, ovviamente esse non possono generare $M(2,2,R)$.
+
+Ora andiamo a vedere come si relazionano le [[Dimensioni di sottospazi vettoriali|Dimensione e sottospazi vettoriali]]
