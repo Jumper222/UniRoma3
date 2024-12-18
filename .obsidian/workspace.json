@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni/Dimensioni.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dimensioni di sottospazi vettoriali.md",
+                "file": "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni/Dimensioni di sottospazi vettoriali.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,10 +200,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44ada674a49eded9",
+  "active": "a73c33d925e554b0",
   "lastOpenFiles": [
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni.md",
-    "Dimensioni di sottospazi vettoriali.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Untitled.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni/Dimensioni di sottospazi vettoriali.md",
+    "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Dimensioni/Dimensioni.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori e basi/Generatori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori e basi/Basi.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Generatori e basi/Esempi di generatori.md",
@@ -228,8 +230,6 @@
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Operazioni con Vettori/Somma tra vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettori.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Nullo.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Vettore Applicato.md",
-    "Argomenti di Geometria e Combinatoria/Secondo modulo/Rette e piani per l’ origine.md",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali/Spazi Vettoriali",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Spazi e Sottospazi vettoriali",
     "Argomenti di Geometria e Combinatoria/Secondo modulo/Sistemi Lineari",

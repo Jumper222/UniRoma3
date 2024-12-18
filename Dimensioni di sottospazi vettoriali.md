@@ -1,1 +1,0 @@
-Sia $V$ uno spazio vettoriale di dimensione finita, con al suo interno il sottospazio vettoriale $E$ 
