@@ -47,4 +47,5 @@ $$S_{3}:=\begin{pmatrix}
 a&b \\
 b&c
 \end{pmatrix}$$
-- Possiamo finalmente dire che questo 
+- Possiamo finalmente dire che questo sottospazio coincide con $S(2,R)$. Questo sottospazio vettoriale avrà quindi $dim=3$ perché è descrivibile dalla base canonica $S_{1},S_{2},S_{3}$.
+
