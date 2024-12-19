@@ -22,4 +22,29 @@ Facciamo ora qualche esempio:
 Definiamo $S(2,R)$ come sottospazio vettoriale all’ interno di $M(2,2,R)$ composto dalle sole matrici simmetriche. vogliamo ora determinarne una base.
 
 - Procederemo per step, andando ad aumentare volta in volta le dimensioni dello spazio che stiamo studiando.
-- Innanzitutto prendiamo in considerazione il sottospazio vettoriale $V_{1},$
+- Innanzitutto prendiamo in considerazione il sottospazio vettoriale $V_{1},$ con base $S_{1}$ definita tc:
+$$S_{1}:=\begin{pmatrix}
+0 & 1 \\
+1& 0
+\end{pmatrix}$$
+- Possiamo subito notare che $V_{1}$ non può costituire la base di $S(2,R)$ perché ci sarebbero alcune matrici non all’ interno di $V_{1}$ ma all’ interno di $S(2,R)$, come $S_{2}$:
+$$S_{2}:=\begin{pmatrix}
+1&0 \\
+0&0
+\end{pmatrix}$$
+- Allora studiamo il sottospazio di $S(2,R)$: $V_{2}$, con base $S_{1},S_{2}$:
+$$V_{2}=\begin{pmatrix}
+a&b \\
+b&0
+\end{pmatrix}$$
+- Anche in questo caso purtroppo non riusciamo ancora a descrivere l’ intero sottospazio vettoriale $S(2,R)$, in quanto abbiamo $S_{3}$ non descritta:
+$$S_{3}:=\begin{pmatrix}
+0&0 \\
+0&1
+\end{pmatrix}$$
+- Ed allora espandiamo ancora lo spazio vettoriale studiato, analizzando $V_{3}$ con base $S_{1},S_{2},S_{3}$:
+ $$V_{3}=\begin{pmatrix}
+a&b \\
+b&c
+\end{pmatrix}$$
+- Possiamo finalmente dire che questo 
