@@ -17,4 +17,9 @@ Un esempio di queste proprietà sarebbe il seguente:
 
 Facciamo ora qualche esempio:
 
-### E
+### <font color="#4bacc6">Esempio 1</font>
+
+Definiamo $S(2,R)$ come sottospazio vettoriale all’ interno di $M(2,2,R)$ composto dalle sole matrici simmetriche. vogliamo ora determinarne una base.
+
+- Procederemo per step, andando ad aumentare volta in volta le dimensioni dello spazio che stiamo studiando.
+- Innanzitutto prendiamo in considerazione il sottospazio vettoriale $V_{1},$
