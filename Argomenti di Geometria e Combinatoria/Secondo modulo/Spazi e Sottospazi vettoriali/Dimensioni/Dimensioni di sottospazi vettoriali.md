@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Diamo alcune utili osservazioni riguardo le dimensioni dei sottospazi vettoriali
 
 - Sia $V$ uno spazio vettoriale di dimensione finita, con al suo interno il <font color="#ffff00">sottospazio</font> vettoriale $E$ 

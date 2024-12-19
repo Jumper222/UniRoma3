@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Un sistema lineare è un insieme di equazioni lineari, nella forma:
 $$\begin{aligned}a_{11}x_1 + a_{12}x_2 + \dots + a_{1n}x_n &= b_1 \\a_{21}x_1 + a_{22}x_2 + \dots + a_{2n}x_n &= b_2 \\&\vdots \\a_{m1}x_1 + a_{m2}x_2 + \dots + a_{mn}x_n &= b_m\end{aligned}$$
 Dove:
