@@ -1,7 +1,7 @@
-Diamo alcune utili osservazioni riguardo le dimensioni dei sottospazi vettoriali
+Diamo alcune utili osservazioni riguardo le <font color="#ffff00">dimensioni</font> dei sottospazi vettoriali
 
-- Sia $V$ uno spazio vettoriale di dimensione finita, con al suo interno il sottospazio vettoriale $E$ 
-  Allora $E$ ha dimensione finita e $dim \ E\leq dim \ V$
+- Sia $V$ uno spazio vettoriale di <font color="#ffff00">dimensione</font> finita, con al suo interno il sottospazio vettoriale $E$ 
+  Allora $E$ ha <font color="#ffff00">dimensione</font> finita e $dim \ E\leq dim \ V$
 
 - Sia $V$ uno spazio vettoriale e $dim \ V=n$, allora:
   - Esiste un sottospazio $E$ con $dim \ E=0$, formato dal vettore nullo.
@@ -14,4 +14,6 @@ Un esempio di queste proprietà sarebbe il seguente:
   - L’unico sottospazio di $dim=0$ consiste nel vettore nullo.
   - I sottospazi di $dim=1$ sono quelli di tipo $\{\overrightarrow{OP}\ |P\in r\}$
   - L’unico sottospazio di $dim=2$ è $V^2(O)$
+
+Stessa cosa vale per $V^3(O)$
 
