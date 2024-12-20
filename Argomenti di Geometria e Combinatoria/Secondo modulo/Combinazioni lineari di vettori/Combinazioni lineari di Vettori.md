@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Viene chiamata Combinazione lineare di Vettori il vettore $v$ risultante dalla seguente definizione:
 
 - Dati $n$ vettori: $v_{1},v_{2}\dots v_{n}$ e dati i $n$ numeri reali: $a_{1},a_{2}\dots a_{n}$.
