@@ -12,4 +12,4 @@ Per stabilire se una applicazione sia o meno un <font color="#ffff00">omomorfism
 Facciamo un banale esempio:
 - Se $V$ e $W$ sono due spazi vettoriali, è facile vedere che l’ applicazione $f:V \to W$ che associa ad ogni vettore di $V$ il vettore nullo di $W$ è un <font color="#ffff00">omomorfismo</font>, esso è infatti detto <font color="#ffff00">omomorfismo nullo</font>.
 
-Facciamo degli [[Esempi sugli Omomorfismi|esempi]] più complessi per comprendere meglio:
+Facciamo degli [[Esempi sugli Omomorfismi|esempi]] più complessi per comprendere meglio
