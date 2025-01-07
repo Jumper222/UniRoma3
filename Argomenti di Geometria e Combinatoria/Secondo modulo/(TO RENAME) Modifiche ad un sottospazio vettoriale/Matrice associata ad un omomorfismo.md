@@ -13,3 +13,14 @@ $$f(k_{1}v_{1}+k_{2}v_{2}+\dots+k_{n}v_{n})=k_{1}f(v_{1})+k_{2}f(v_{2})+\dots+k_
 Si evince subito quindi che conoscendo $f(v_{1}),f(v_{2}),\dots,f(v_{n})$ potremmo calcolare l’ immagine di tutti i vettori che sono comb. lineare di $v_{1},v_{2},\dots,v_{n}$.
 
 
+### <font color="#9bbb59">Proposizione e dimostrazione di f=g</font>
+
+Enunciamo e dimostriamo la seguente proposizione:
+
+- Siano $f:V\to W$ e $g:V\to W$ due omomorfismi di spazi vettoriali. avremo quindi che se $v_{1},v_{2},\dots,v_{n}$ generano $V$ e $f(v_{j})=g(v_{J})$ per $1\leq j\leq n$ allora $f=g$ 
+
+Dimostriamo quindi che $f(v)=g(v)$ per ogni vettore $v\in V$
+
+Sappiamo che $v$ è descrivibile come comb. lineare di $v_{1},v_{2},\dots,v_{n}$:
+$v=k_{1}v_{1}+k_{2}v_{2}+\dots+k_{n}v_{n}$
+
