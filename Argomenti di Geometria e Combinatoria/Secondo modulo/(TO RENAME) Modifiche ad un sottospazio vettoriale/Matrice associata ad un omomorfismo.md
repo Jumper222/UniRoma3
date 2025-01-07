@@ -24,3 +24,10 @@ Dimostriamo quindi che $f(v)=g(v)$ per ogni vettore $v\in V$
 Sappiamo che $v$ è descrivibile come comb. lineare di $v_{1},v_{2},\dots,v_{n}$:
 $v=k_{1}v_{1}+k_{2}v_{2}+\dots+k_{n}v_{n}$
 
+Allora possiamo espandere la proposizione appena enunciata:
+
+$$\begin{align}
+f(v) = f(k_1v_1 + k_2v_2 + ... + k_nv_n) = k_1f(v_1) + k_2f(v_2) + ... + k_nf(v_n) \\
+g(v) = g(k_1v_1 + k_2v_2 + ... + k_nv_n) = k_1g(v_1) + k_2g(v_2) + ... + k_ng(v_n)
+\end{align}$$
+Quindi, poiché $f(v_{1})=g(v_{1}),\dots,f(v_{n})=g(v_{n})$ potremo dire che $f(v)=g(v)$
