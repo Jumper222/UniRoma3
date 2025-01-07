@@ -11,3 +11,5 @@ Si avrà quindi che il <font color="#ffff00">sottospazio affine</font> sarà pas
 Due esempi di<font color="#ffff00"> sottospazio affine</font> potrebbero essere:
 - Un sottospazio affine di $dim=1$ di $V^2(O)$ oppure di $V^3(O)$ è costituito da tutti i vettori  i cui punti finali appartengono ad una retta $r$ fissata.
 - Un sottospazio affine di $dim=2$ di $V^3(O)$ è costituito da tutti i vettori i cui punti finali appartengono ad un piano $\pi$ fissato.
+
+Un esempio applicato ad un sistema di sottospazio affine potrebbe essere: [[Insieme delle soluzioni di un sistema]]

@@ -65,4 +65,41 @@ k
 \middle| h \in \mathbb{R}, k \in \mathbb{R}
 \right\}
 $$
-Quindi abbiamo c
+Quindi abbiamo che l’ insieme $E$ formato dalle matrici
+$$h \begin{pmatrix}
+2 \\
+-1 \\
+1 \\
+0
+\end{pmatrix}
++ k \begin{pmatrix}
+-1 \\
+0 \\
+0 \\
+1
+\end{pmatrix}$$
+è l’ insieme delle combinazioni lineari delle matrici
+$$\begin{pmatrix}
+2 \\
+-1 \\
+1 \\
+0
+\end{pmatrix}
+\ e\  
+\begin{pmatrix}
+-1 \\
+0 \\
+0 \\
+1
+\end{pmatrix}$$
+<font color="#9bbb59">DUNQUE</font> $E$ è un sottospazio vettoriale di $M(4,1,\mathbb{R})$ di $dim=2$, pertanto abbiamo che:
+$$Sol(S) = \begin{pmatrix}
+-1 \\
+2 \\
+0 \\
+0
+\end{pmatrix}
++ E$$
+<font color="#f79646">QUINDI</font>  Sol(S) è un sottospazio affine.
+
+- Generalmente
