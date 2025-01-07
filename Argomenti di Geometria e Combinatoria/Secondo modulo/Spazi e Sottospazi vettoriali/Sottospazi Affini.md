@@ -1,0 +1,1 @@
+Un sottospazio affine è definito come
