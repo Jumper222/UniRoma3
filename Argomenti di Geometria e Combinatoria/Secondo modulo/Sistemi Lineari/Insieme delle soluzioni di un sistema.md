@@ -104,9 +104,16 @@ $$Sol(S) = \begin{pmatrix}
 
 - Si può allora generalmente dire che  l’ insieme delle soluzioni $Sol(S)$ di un sistema parametrico è sempre un sottospazio affine.
 
-Nell’ esempio appena discusso abbiamo una soluzione particolare nel momento in cui poniamo i parametri = 0.
+Nell’ esempio appena discusso abbiamo una soluzione particolare nel momento in cui poniamo i parametri = 0, ossia la matrice $(-1,2,0,0)$
 
 Qui possiamo dare una nuova definizione: [[Sistema Omogeneo Associato]] 
 
 Allora si può enunciare il seguente teorema:
 - Sia $S:AX+B$ un sistema lineare risolubile e sia $X_{0}$ una soluzione particolare di $S$.
+  Se $SO:AX=0$ è il sistema omogeneo associato ad $S$, si avrà:
+  $$Sol(S)=X_{0}+Sol(SO)$$
+  Dunque l’ insieme delle soluzioni di $S$ è un sottospazio affine parallelo al sottospazio vettoriale $Sol(SO)$.
+
+Una utile nota sarebbe:
+- Sia $S$ il sistema lineare risolubile di $p$ equazioni in $q$ incognite.
+  Se la matrice del sistema ha rango $r$ allora il sottospazio affine $Sol(S)$ avrà $dim=q-r$.
