@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/ywqjhhsg#95J7HC5V7WTzldTNSuDTG6p492ve7MSgDVYXdmnLqd8
-share_updated: 2025-01-07T15:17:16+01:00
----
 Tra le applicazioni $f:V\to W$ tra due spazi vettoriali sono particolarmente importanti gli <font color="#ffff00">Omomorfismi</font>:
 
 Allora iniziamo a definire cosa è un omomorfismo:
