@@ -13,4 +13,17 @@ Facciamo un banale esempio:
 - Se $V$ e $W$ sono due spazi vettoriali, è facile vedere che l’ applicazione $f:V \to W$ che associa ad ogni vettore di $V$ il vettore nullo di $W$ è un <font color="#ffff00">omomorfismo</font>, esso è infatti detto <font color="#ffff00">omomorfismo nullo</font>.
 
 Facciamo un esempio più complesso per comprendere meglio:
-- Consideriamo 
+- Consideriamo $f:\mathbb{R^3}\to\mathbb{R}^2$ definita t.c:
+$$f(x,y,z):=(x+y,y+z)$$
+- Studiamo due vettori di $\mathbb{R}^3$:
+  - $u:=(x_{1}+y_{1}+z_{1})$
+  - $v:=(x_{2}+y_{2}+z_{2})$
+
+- Allora verifichiamo se rispetta l’ addizione:
+   $$f(u+v)=f((x_{1},y_{1},z_{1})+(x_{2},y_{2},z_{2}))$$
+
+- Che per definizione di somma in $\mathbb{R}^3$:
+$$f(x_{1}+x_{2},y_{1}+y_{2},z_{1}+z_{2})$$
+- Ora applichiamo $f$:
+$$(x_{1}+x_{2}+y_{1}+y_{2},y_{1}+y_{2}+z_{1}+z_{2})$$
+- Quindi confermiamo che rispetti la seconda parte dell’ add
