@@ -102,4 +102,11 @@ $$Sol(S) = \begin{pmatrix}
 + E$$
 <font color="#f79646">QUINDI</font>  Sol(S) è un sottospazio affine.
 
-- Generalmente
+- Si può allora generalmente dire che  l’ insieme delle soluzioni $Sol(S)$ di un sistema parametrico è sempre un sottospazio affine.
+
+Nell’ esempio appena discusso abbiamo una soluzione particolare nel momento in cui poniamo i parametri = 0.
+
+Qui possiamo dare una nuova definizione: [[Sistema Omogeneo Associato]] 
+
+Allora si può enunciare il seguente teorema:
+- Sia $S:AX+B$ un sistema lineare risolubile e sia $X_{0}$ una soluzione particolare di $S$.
