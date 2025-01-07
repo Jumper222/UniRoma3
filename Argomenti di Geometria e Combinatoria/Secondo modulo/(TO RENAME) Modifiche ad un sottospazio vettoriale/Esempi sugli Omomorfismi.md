@@ -53,3 +53,18 @@ kf(A) &= k(A + A^t) \\
 \end{align}$$
 Quindi abbiamo che $f$ rispetta entrambe le proprietà, allora è un omomorfismo.
 
+### <font color="#00b0f0">Esempio 3</font>
+
+Consideriamo l’ applicazione $f:\mathbb{R}^2\to\mathbb{R}^2$, definita t.c:
+$$f(x,y)=(x^2,x+y)$$
+Quindi verifichiamo che $f$ sia un omomorfismo, per verificare l’ addizione consideriamo i vettori $u:=(x_{1},y_{1})$ e $v:=(x_{2},y_{2})$:
+$$\begin{align}
+f(u+v) &= f((x_1, y_1) + (x_2, y_2)) \\
+&= f(x_1+x_2, y_1+y_2) \\
+&= ((x_1+x_2)^2, x_1+x_2+y_1+y_2) \\
+&= (x_1^2 + 2x_1x_2 + x_2^2, x_1+x_2+y_1+y_2), \\
+f(u) + f(v) &= f(x_1, y_1) + f(x_2, y_2) \\
+&= (x_1^2, x_1+y_1) + (x_2^2, x_2+y_2) \\
+&= (x_1^2 + x_2^2, x_1+x_2+y_1+y_2).
+\end{align}$$
+In questo caso possiamo notare che la relazione non è sempre verificata, basta considerare i vettori $u:=(1,0)$ e $v:=(1,0)$ dunque $f$ non è un omomorfismo.
