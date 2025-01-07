@@ -12,5 +12,4 @@ $$f(k_{1}v_{1}+k_{2}v_{2}+\dots+k_{n}v_{n})=k_{1}f(v_{1})+k_{2}f(v_{2})+\dots+k_
 
 Si evince subito quindi che conoscendo $f(v_{1}),f(v_{2}),\dots,f(v_{n})$ potremmo calcolare l’ immagine di tutti i vettori che sono comb. lineare di $v_{1},v_{2},\dots,v_{n}$.
 
-Questa proposizione è proposizione può essere resa più esplicita dalla seguente:
 
