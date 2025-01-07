@@ -31,3 +31,5 @@ f(v) = f(k_1v_1 + k_2v_2 + ... + k_nv_n) = k_1f(v_1) + k_2f(v_2) + ... + k_nf(v_
 g(v) = g(k_1v_1 + k_2v_2 + ... + k_nv_n) = k_1g(v_1) + k_2g(v_2) + ... + k_ng(v_n)
 \end{align}$$
 Quindi, poiché $f(v_{1})=g(v_{1}),\dots,f(v_{n})=g(v_{n})$ potremo dire che $f(v)=g(v)$
+
+È importantissimo conoscere la definizione della [[Matrice Rappresentativa]] 
