@@ -13,3 +13,6 @@ Facciamo un banale esempio:
 - Se $V$ e $W$ sono due spazi vettoriali, è facile vedere che l’ applicazione $f:V \to W$ che associa ad ogni vettore di $V$ il vettore nullo di $W$ è un <font color="#ffff00">omomorfismo</font>, esso è infatti detto <font color="#ffff00">omomorfismo nullo</font>.
 
 Facciamo degli [[Esempi sugli Omomorfismi|esempi]] più complessi per comprendere meglio
+
+
+Una volta capito cosa è un omomorfismo possiamo concentrarci sul come trovare la [[Matrice associata ad un omomorfismo|matrice associata ad un omomorfismo]]
