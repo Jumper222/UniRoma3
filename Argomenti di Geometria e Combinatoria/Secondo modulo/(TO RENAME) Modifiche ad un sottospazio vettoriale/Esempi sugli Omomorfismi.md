@@ -38,4 +38,18 @@ Quindi possiamo dire che $f$ è un omomorfismo di spazi vettoriali su $\mathbb{R
 
 ### <font color="#00b0f0">Esempio 2</font>
 Consideriamo l’ applicazione $f:M(2,2,\mathbb{R})\to M(2,2,\mathbb{R})$, definita t.c:
-$$f(A):=A+^tA$$
+$$f(A) = A + A^t.$$
+Verifichiamo la somma: $$\begin{align}
+f(A+B) &= A + B + (A+B)^t \\
+&= A + B + A^t + B^t, \\
+f(A) + f(B) &= A + A^t + B + B^t.
+\end{align}$$
+Quindi $f$ rispetta la somma. Ora verifichiamo la moltiplicazione:
+$$\begin{align}
+f(kA) &= kA + (kA)^t \\
+&= kA + kA^t, \\
+kf(A) &= k(A + A^t) \\
+&= kA + kA^t.
+\end{align}$$
+Quindi abbiamo che $f$ rispetta entrambe le proprietà, allora è un omomorfismo.
+
