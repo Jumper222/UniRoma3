@@ -42,4 +42,12 @@ $$A:=\begin{pmatrix}
 \end{pmatrix}$$
 
 <font color="#f79646">Nota bene</font>: La matrice rappresentativa di una applicazione è legata alle basi scelte, quindi una applicazione avrà sempre varie matrici rappresentative.
-<font color="#f79646">Nota bene</font>:
+<font color="#f79646">Nota bene</font>: Se per descrivere la matrice rappresentativa usassimo solo basi canoniche avremmo una matrice molto particolare, con delle colonne che danno $f(e_{1})$,$f(e_{2})$,$f(e_{3})$, se rifacessimo l’ esempio appena discusso con le basi canoniche avremmo:
+$f(e_{1})=f(1,0,0)=(1,0)=f_{1}$
+$f(e_{2})=f(0,1,0)=(1,1)=f_{1}+f_{2}$
+$f(e_{3})=f(0,0,1)=(0,1)=f_{2}$
+
+$$A:=\begin{cases}
+1 & 1 & 0 \\
+0 & 1 & 1
+\end{cases}$$
