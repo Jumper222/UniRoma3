@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria  
 Prendiamo in considerazione gli insiemi delle matrici $M(p,q,\mathbb{R})$, ovvero di matrici con coefficiente reale a $p$ righe e $q$ colonne e $V^2(O)$,$V^3(O)$.
 
 Questi 3 insiemi godono delle stesse proprietà.
@@ -36,3 +37,5 @@ Valgono quindi per gli spazi vettoriali le seguenti [[Proprietà degli Spazi Vet
 Una volta data la definizione agli spazi vettoriali possiamo definire i [[Sottospazi vettoriali]]
 
 Inoltre uno spazio vettoriale può essere modificato da una legge o applicazione: [[Tipi di applicazione su spazi vettoriali]]
+
+Ogni spazio vettoriale ha dei [[Generatori]]

@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Un insieme di <font color="#ffff00">generatori</font> è un insieme grazie al cui ogni vettore di uno spazio vettoriale può essere descritto come combinazione lineare dei vettori contenuti nel sistema.
 
 Il concetto di <font color="#ffff00">generatore</font> è intimamente collegato al concetto di combinazione lineare dei singoli vettori.
@@ -15,3 +16,5 @@ Inoltre c’è da ricordare che solo gli spazi finitamente generati possono aver
 
 
 Facciamo degli [[Esempi di generatori|Esempi]] per capire meglio il concetto.
+
+Un tipo particolare di generatore sono le [[Basi]]

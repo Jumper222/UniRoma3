@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Una <font color="#ffff00">base canonica</font> è una base definita per l’insieme $\mathbb{R}^n$:
 $\{e_{1},e_{2},\dots,e_{n}\}$
 formato dai seguenti vettori:

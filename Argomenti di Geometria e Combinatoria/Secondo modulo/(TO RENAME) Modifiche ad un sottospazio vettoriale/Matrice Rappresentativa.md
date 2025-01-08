@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 La <font color="#ffff00">matrice rappresentativa</font> di un omomorfismo è la matrice che, quando moltiplicata per un vettore espresso rispetto a una base dell'insieme di partenza produce il vettore immagine nell'insieme di arrivo, espresso rispetto a una base dell'insieme di arrivo. Per spiegare bene cosa è la matrice rappresentativa, studiamo meglio un [[Esempi sugli Omomorfismi|esempio]] già fatto in precedenza:
 
 

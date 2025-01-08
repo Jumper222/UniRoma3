@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Un <font color="#ffff00">sottospazio affine</font> è definito come la translazione di tutti i vettori di uno spazio vettoriale tramite la somma con un sottospazio vettoriale $E$, ossia:
 
 $$v_{0}+E:=\{v_{0}+v' \ | \ v'\in E \}$$

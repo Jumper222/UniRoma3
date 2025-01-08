@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Tra le applicazioni $f:V\to W$ tra due spazi vettoriali sono particolarmente importanti gli <font color="#ffff00">Omomorfismi</font>:
 
 Allora iniziamo a definire cosa è un omomorfismo:
@@ -49,3 +50,4 @@ $$\begin{pmatrix}
 Notiamo subito che essi <font color="#9bbb59">formano</font> una base per $R^3$, avendo il det. <font color="#d99694">non</font> nullo.
 Se essi avessero avuto un det. nullo allora non sarebbe esistito nessun omomorfismo.
 
+È utile ricordare cosa è l’ [[Immagine di un omomorfismo]]

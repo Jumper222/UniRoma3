@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Supponiamo di avere un omomorfismo $f:V\to W$ di spazi vettoriali. Se conosciamo l’ <font color="#f79646">immagine</font> di due vettori $u$ e $v$ tramite $f$ allora ovviamente conosciamo anche l’ immagine di $u+v$.
 Inoltre possiamo determinare la anche l’ <font color="#f79646">immagine</font> di vettori del tipo $ku$.
 

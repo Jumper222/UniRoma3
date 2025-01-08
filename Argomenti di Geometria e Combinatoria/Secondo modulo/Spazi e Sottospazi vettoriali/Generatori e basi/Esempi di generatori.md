@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 ### <font color="#4bacc6">Esempio 1 di un generatore</font>
 
 - Abbiamo l’ insieme $L(v_{1},v_{2},\dots v_{r})$

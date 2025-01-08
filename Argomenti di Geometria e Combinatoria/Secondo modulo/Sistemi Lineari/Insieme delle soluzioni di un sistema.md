@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Sappiamo già che dato un sistema lineare [[Sistema Lineare Omogeneo|omogeneo]] avremo l’ insieme delle soluzioni $S$ come sottospazio vettoriale di $M(q,1,\mathbb{R})$.
 Invece per quanto riguarda i sistemi lineari [[Sistema Lineare Omogeneo#Sistema lineare non omogeneo|non omogenei]], sappiamo che il loro insieme delle soluzioni $S$ non è considerabile sottospazio vettoriale.
 

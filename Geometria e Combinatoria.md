@@ -6,3 +6,4 @@ Geometria e Combinatoria è un esame che comprende gli argomenti di:
 - [[Calcolo Combinatorio]]
 - [[Vettori]]
 - [[Sistemi Lineari]]
+- [[Spazi vettoriali]]

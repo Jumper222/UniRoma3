@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Come abbiamo visto in [[Dipendenza ed indipendenza lineare dei vettori|precedenza]] una combinazione lineari di tutti i vettori dello spazio indipendenti fra loro è il modo per generare lo spazio stesso.
 
 - Da questa nozione deriva che:

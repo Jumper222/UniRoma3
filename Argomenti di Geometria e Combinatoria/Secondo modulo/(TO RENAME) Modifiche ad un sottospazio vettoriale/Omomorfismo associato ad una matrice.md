@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Siano dati $V,W$, due spazi vettoriali di dimensione <font color="#9bbb59">finita</font>.
 Sia quindi data una <font color="#4bacc6">base</font>  per $V$ formata da $e_{1},e_{2},\dots,e_{n}$
 Ed una <font color="#4bacc6">base</font> per $W$ formata da $f_{1},f_{2},\dots,f_{m}$

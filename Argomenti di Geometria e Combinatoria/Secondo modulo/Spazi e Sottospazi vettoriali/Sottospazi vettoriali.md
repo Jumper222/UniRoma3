@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 I <font color="#ffff00">sottospazi vettoriali</font>, come dice il nome sono i sottoinsiemi di uno<font color="#76923c"> spazio vettoriale</font>, con essi stessi definibili come spazi vettoriali.
 
 Innanzitutto, un sottoinsieme di uno spazio vettoriale non è per forza un <font color="#ffff00">sottospazio vettoriale</font>.
