@@ -44,3 +44,7 @@ a - b + c&= 0 \\
 \phantom{a+.} b - c + d&= 0 \\
 \phantom{a\,b.\.,\,\,.} c - d + e&=0
 \end{cases}$$
+- Avendo però più incognite che equazioni, ci avvarremo dell’ uso dei parametri, ed il risultato finale sarà:
+$$ker\ f=\{-t,-u,t-u,t,u\ |\ t\in R,u\in R  \}$$
+- Ed allora, per trovare la base daremo studieremo prima il sistema con $(1,0)$ e poi con $(0,1)$. Scopriremo quindi che la base è formata da:
+-$$$$
