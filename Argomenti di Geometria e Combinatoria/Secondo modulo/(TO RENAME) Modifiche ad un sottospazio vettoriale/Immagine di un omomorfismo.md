@@ -12,5 +12,11 @@ x-y=c
 \end{cases}\to \begin{cases}
 x+2y=a \\
 -y=a-b \\
-0=2
+0=2a-3b+c
 \end{cases}$$
+- Abbiamo quindi che questo sistema è risolubile se e solo se $0=2a-3b+c$
+- Possiamo allora descrivere l’ insieme immagine di questo omomorfismo:
+$$f(\mathbb{R}^{2})=\{(a,b,c)|2a-3b+c=0\}$$
+- I vettori che quindi appartengono a questo sottoinsieme sono tutti immagini di $f$.
+
+<font color="#f79646">Attenzione</font>:nonostante l’ insieme immagine sia interno ad uno spazio vettoriale, non è detto che esso stesso sia un sottospazio vettoriale, in quanto potrebbe come potrebbe non verifica
