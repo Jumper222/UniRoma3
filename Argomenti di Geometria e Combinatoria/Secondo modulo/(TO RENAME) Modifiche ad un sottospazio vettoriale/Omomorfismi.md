@@ -15,4 +15,4 @@ Facciamo un banale esempio:
 Facciamo degli [[Esempi sugli Omomorfismi|esempi]] più complessi per comprendere meglio
 
 
-Una volta capito cosa è un omomorfismo possiamo concentrarci sul come trovare la [[Matrice associata ad un omomorfismo|matrice associata ad un omomorfismo]]
+Una volta capito cosa è un omomorfismo possiamo concentrarci sul come trovare la [[Matrice associata ad un omomorfismo|matrice associata ad un omomorfismo]], ed anche la sua operazione inversa, ovvero trovare l’ [[Omomorfismo associato ad una matrice|omomorfismo associato ad una matrice]]
