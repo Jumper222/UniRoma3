@@ -19,4 +19,8 @@ $f(x,y):=(xy,x)$
 
 Questa legge rispetta la regola del nucleo: $f(0,0)=(0,0)$
 
-<font color="#f79646">ATTENZIONE PERÒ</font>: nemmeno questo è un omomorfismo, in quanto:
+<font color="#f79646">ATTENZIONE PERÒ</font>: nemmeno questo è un omomorfismo, in quanto non rispetta l’ addizione:
+- $f(0,1)+f(1,0)=(0,0)+(0,1)=(0,1)$
+- $f((0,1)+(1,0))=f(1,1)=(1,1)$
+
+Da questi due esempi quindi capiamo che anche se viene rispettato il nucleo, non è detto che stiamo parlando di un’ applicazione lineare.
