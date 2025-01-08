@@ -1,5 +1,4 @@
-Una matrice Rappresentativa è 
-$$$$
+Una matrice Rappresentativa è un modo di descrivere un vettore risultante dall’ applicazione di una funzione $f$.
 
 $$A = \begin{pmatrix}
 a_{11} & a_{12} & \cdots & a_{1n} \\
