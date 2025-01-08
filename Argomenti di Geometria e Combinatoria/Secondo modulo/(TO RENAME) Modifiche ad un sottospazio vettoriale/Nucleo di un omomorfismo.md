@@ -1,0 +1,1 @@
+Il <font color="#ffff00">nucleo</font> di un omomorfismo è il sottoinsieme dello spazio vettoriale di partenza la cui immagine è il <font color="#4bacc6">vettore</font> nullo.

@@ -54,3 +54,4 @@ Notiamo subito che essi <font color="#9bbb59">formano</font> una base per $R^3$,
 Se essi avessero avuto un det. nullo allora non sarebbe esistito nessun omomorfismo.
 
 È utile ricordare cosa è l’ [[Immagine di un omomorfismo]]
+È fondamentale sapere cosa è il [[Nucleo di un omomorfismo]]
