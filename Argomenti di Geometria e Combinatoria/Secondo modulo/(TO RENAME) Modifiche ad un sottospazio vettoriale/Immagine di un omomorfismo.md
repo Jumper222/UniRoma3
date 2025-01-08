@@ -1,3 +1,16 @@
 #Geometria_e_Combinatoria 
-Per Immagine di un omomorfismo si intende un insieme all’ interno dell’ insieme di arrivo che contiene tutti gli elementi immagine della legge. Solitamente ha delle regole o condizioni particolari, che rispettano quelle dell’ omomorfismo.
+Per Immagine di un <font color="#ffff00">omomorfismo</font> si intende un insieme all’ interno dell’ insieme di arrivo che contiene tutti gli elementi immagine della legge. Solitamente ha delle regole o condizioni particolari, che rispettano quelle dell’ <font color="#ffff00">omomorfismo</font>.
 
+Facciamo un esempio:
+
+Dato l’ <font color="#ffff00">omomorfismo</font> $f:R^2\to R^3$, definito da: $f(x,y):=(x+2y,x+y,x-y)$.
+L’ insieme immagine sarà quindi composto da tutti quei <font color="#4bacc6">vettori</font> $w:=(a,b,c)$ di $R^3$ per cui esiste un <font color="#4bacc6">vettore</font> $v:=(x,y)$ di $R^2$ tale che $f(v)=w$, ossia $(x+2y,x+y,x-y)=(a,b,c)$. Andiamo quindi a scrivere questo sistema:
+$$\begin{cases}
+x+2y=a \\
+x+y=b \\
+x-y=c
+\end{cases}\to \begin{cases}
+x+2y=a \\
+-y=a-b \\
+0=2
+\end{cases}$$
