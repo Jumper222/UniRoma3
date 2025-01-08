@@ -18,4 +18,9 @@ Sia $f:R^3\to R^2$ l’ omomorfismo t.c: $f(x,y,z)=(x+y,y+z)$
    $f(e_{1})=(1,0)=a(1,1)+b(2,1)$
    $f(e_{2})=(2,1)=a(1,1)+b(2,1)$
    $f(e_{3})=(2,2)=a(1,1)+b(2,1)$
-5. 
+5. Per fare ciò potrebbe risultare utile scomporre in un sistema le immagini di $e_{1},e_{2},e_{3}$:
+$$f(e_{1})=(1,0):\begin{cases}
+a + 2b = 1 \\
+a + b = 0
+\end{cases}$$
+$$$$
