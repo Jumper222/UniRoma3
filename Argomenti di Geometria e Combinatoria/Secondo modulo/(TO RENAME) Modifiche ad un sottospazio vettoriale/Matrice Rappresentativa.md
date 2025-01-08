@@ -41,8 +41,31 @@ $$A:=\begin{pmatrix}
 1 & 1 & 0
 \end{pmatrix}$$
 
+- Ora che abbiamo la matrice rappresentativa possiamo prendere un qualsiasi vettore $v$ e moltiplicarlo per quest’ultima per avere il risultato della applicazione lineare:
+
+8. Prendiamo il vettore $v:=(2e_{1}+3e_{2}-1e_{3})$ e moltiplichiamolo per $A$:
+$$\begin{pmatrix}
+-1 & 0 & 2 \\
+1 & 1 & 0
+\end{pmatrix}
+\begin{pmatrix}
+2 \\
+3 \\
+-1
+\end{pmatrix}
+=
+\begin{pmatrix}
+-4 \\
+5
+\end{pmatrix}$$
+9. Quindi troviamo $f(v)=-4f_{1}+5f_{2}$, che se quindi moltiplicata ad $f_{1}$ ed $f_{2}$ troveremo l’ immagine di $v$:
+$$-4f_{1}+5f_{2}=-4(1,1)+5(2,1)=(6,1), \quad\quad\quad f(v)=6,1$$
+
+
+
+
 <font color="#f79646">Nota bene</font>: La matrice rappresentativa di una applicazione è legata alle basi scelte, quindi una applicazione avrà sempre varie matrici rappresentative.
-<font color="#f79646">Nota bene</font>: Se per descrivere la matrice rappresentativa usassimo solo basi canoniche avremmo una matrice molto particolare, con delle colonne che danno $f(e_{1})$,$f(e_{2})$,$f(e_{3})$, se rifacessimo l’ esempio appena discusso con le basi canoniche avremmo:
+<font color="#f79646">Nota bene</font>: Se per descrivere la matrice rappresentativa usassimo<font color="#ffff00"> solo basi canoniche</font> avremmo una matrice molto particolare, con delle colonne che danno $f(e_{1})$,$f(e_{2})$,$f(e_{3})$, e con delle righe che corrispondono ai coefficienti di $x,y,z$ nelle espressioni $x+y$ e $y+z$ se rifacessimo l’ esempio appena discusso con le basi canoniche avremmo:
 $f(e_{1})=f(1,0,0)=(1,0)=f_{1}$
 $f(e_{2})=f(0,1,0)=(1,1)=f_{1}+f_{2}$
 $f(e_{3})=f(0,0,1)=(0,1)=f_{2}$
