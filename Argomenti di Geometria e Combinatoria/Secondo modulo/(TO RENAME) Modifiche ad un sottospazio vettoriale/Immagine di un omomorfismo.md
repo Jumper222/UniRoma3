@@ -20,3 +20,13 @@ $$f(\mathbb{R}^{2})=\{(a,b,c)|2a-3b+c=0\}$$
 - I vettori che quindi appartengono a questo sottoinsieme sono tutti immagini di $f$.
 
 <font color="#f79646">Attenzione</font>:nonostante l’ insieme immagine sia interno ad uno spazio vettoriale, non è detto che esso stesso sia un sottospazio vettoriale, in quanto potrebbe come potrebbe non verificare le proprietà dei sottospazi vettoriali, bisogna quindi valutare caso per caso.
+
+Facciamo ora un esempio di come calcolare la base dell’ immagine di un omomorfismo:
+
+
+Sia $V$ uno spazio vettoriale con base formata da $e_{1},e_{2},e_{3},e_{4}$
+Sia $W$ uno spazio vettoriale con base formata dai vettori $f_{1},f_{2},f_{3}$.
+Sia $f:V\to W$ l’ omomorfismo t.c:
+- $f(e_{1})=f_{1}+f_{2}+f_{3}$
+- $$
+- - 
