@@ -24,3 +24,15 @@ Questa legge rispetta la regola del nucleo: $f(0,0)=(0,0)$
 - $f((0,1)+(1,0))=f(1,1)=(1,1)$
 
 Da questi due esempi quindi capiamo che anche se viene rispettato il nucleo, non è detto che stiamo parlando di un’ applicazione lineare.
+
+--- 
+
+<font color="#ffff00">Studiati</font> i casi limite possiamo quindi iniziare a dare una definizione del nucleo, inteso come insieme:
+- Chiameremo nucleo di $f$ ($ker\ f$) l’ insieme t.c: $ker\ f:=\{v\in V\  |\ f(v)=0_{w}\}$
+
+---
+
+Facciamo un vero esempio del nucleo di un omomorfismo:
+
+- Prendiamo l’ omomorfismo $f:R^5\to R^3$, definito da:
+- $f(a,b,c,d,e):=(a-b+c)+(b-c+d)x+(c-d)$
