@@ -47,4 +47,4 @@ a - b + c&= 0 \\
 - Avendo però più incognite che equazioni, ci avvarremo dell’ uso dei parametri, ed il risultato finale sarà:
 $$ker\ f=\{-t,-u,t-u,t,u\ |\ t\in R,u\in R  \}$$
 - Ed allora, per trovare la base daremo studieremo prima il sistema con $(1,0)$ e poi con $(0,1)$. Scopriremo quindi che la base è formata da:
--$$$$
+$$(-1,0,1,1,0) \ e \ (0,-1,-1,0,1) $$
