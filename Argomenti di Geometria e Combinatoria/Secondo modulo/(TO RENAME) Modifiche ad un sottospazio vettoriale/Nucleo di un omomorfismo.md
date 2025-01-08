@@ -35,4 +35,12 @@ Da questi due esempi quindi capiamo che anche se viene rispettato il nucleo, non
 Facciamo un vero esempio del nucleo di un omomorfismo:
 
 - Prendiamo l’ omomorfismo $f:R^5\to R^3$, definito da:
-- $f(a,b,c,d,e):=(a-b+c)+(b-c+d)x+(c-d)$
+$$f(a,b,c,d,e):=(a-b+c)+(b-c+d)x+(c-d+e)x^2$$
+- Possiamo quindi dire che il vettore $(a,b,c,d,e)$ appartiene a $ker\ f$ se e solo se:
+$$(a-b+c)+(b-c+d)x+(c-d+e)x^2=0$$
+- Quindi:
+$$\begin{cases}
+a - b + c&= 0 \\
+\phantom{a+.} b - c + d&= 0 \\
+\phantom{a\,b.\.,\,\,.} c - d + e&=0
+\end{cases}$$
