@@ -19,4 +19,4 @@ x+2y=a \\
 $$f(\mathbb{R}^{2})=\{(a,b,c)|2a-3b+c=0\}$$
 - I vettori che quindi appartengono a questo sottoinsieme sono tutti immagini di $f$.
 
-<font color="#f79646">Attenzione</font>:nonostante l’ insieme immagine sia interno ad uno spazio vettoriale, non è detto che esso stesso sia un sottospazio vettoriale, in quanto potrebbe come potrebbe non verifica
+<font color="#f79646">Attenzione</font>:nonostante l’ insieme immagine sia interno ad uno spazio vettoriale, non è detto che esso stesso sia un sottospazio vettoriale, in quanto potrebbe come potrebbe non verificare le proprietà dei sottospazi vettoriali, bisogna quindi valutare caso per caso.

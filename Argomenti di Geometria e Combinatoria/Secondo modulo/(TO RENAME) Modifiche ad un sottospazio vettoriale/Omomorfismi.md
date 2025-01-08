@@ -18,6 +18,9 @@ Facciamo degli [[Esempi sugli Omomorfismi|esempi]] più complessi per comprender
 
 Una volta capito cosa è un omomorfismo possiamo concentrarci sul come trovare la [[Matrice associata ad un omomorfismo|matrice associata ad un omomorfismo]], ed anche la sua operazione inversa, ovvero trovare l’ [[Omomorfismo associato ad una matrice|omomorfismo associato ad una matrice]]
 
+Utili informazioni sui <font color="#ffff00">omomorfismi</font>:
+- Se $f:V\to W$ è un omomorfismo, e la $dim\ V$ è finita, allora $dim\ f(V)\leq dim\ V$
+- Se $f:V\to W$ è un omomorfismo e $dim \ V <dim \ W$ allora $f$ <font color="#d99694">non</font> può essere suriettivo ($f(V)\neq W$)
 ### Possibili esercizi:
 #### Stabilire  la linearità:
 
