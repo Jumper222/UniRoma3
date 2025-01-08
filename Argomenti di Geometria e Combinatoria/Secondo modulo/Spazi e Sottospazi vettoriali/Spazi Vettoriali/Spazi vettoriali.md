@@ -34,3 +34,5 @@ Date queste definizioni possiamo iniziare ad individuare degli <font color="#769
 Valgono quindi per gli spazi vettoriali le seguenti [[Proprietà degli Spazi Vettoriali]]
 
 Una volta data la definizione agli spazi vettoriali possiamo definire i [[Sottospazi vettoriali]]
+
+Inoltre uno spazio vettoriale può essere modificato da una legge o applicazione: [[Tipi di applicazione su spazi vettoriali]]

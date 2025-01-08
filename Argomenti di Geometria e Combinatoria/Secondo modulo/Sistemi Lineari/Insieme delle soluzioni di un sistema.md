@@ -117,3 +117,5 @@ Allora si può enunciare il seguente teorema:
 Una utile nota sarebbe:
 - Sia $S$ il sistema lineare risolubile di $p$ equazioni in $q$ incognite.
   Se la matrice del sistema ha rango $r$ allora il sottospazio affine $Sol(S)$ avrà $dim=q-r$.
+
+Si può inoltre calcolare la [[Base per Sol(SO)]]
