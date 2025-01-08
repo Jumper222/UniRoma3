@@ -46,4 +46,4 @@ y
 6. Infine applichiamo ad $f_{1}$,$f_{2}$:
 $$f(x,y,z)=(z+x-y)(1,1)+y(1,-1)=(z+x,z+x-2y)$$
 
-Abbiamo qindi 
+Abbiamo quindi finito l’ esercizio.

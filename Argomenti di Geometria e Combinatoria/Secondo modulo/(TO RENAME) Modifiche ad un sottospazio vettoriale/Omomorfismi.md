@@ -16,3 +16,19 @@ Facciamo degli [[Esempi sugli Omomorfismi|esempi]] più complessi per comprender
 
 
 Una volta capito cosa è un omomorfismo possiamo concentrarci sul come trovare la [[Matrice associata ad un omomorfismo|matrice associata ad un omomorfismo]], ed anche la sua operazione inversa, ovvero trovare l’ [[Omomorfismo associato ad una matrice|omomorfismo associato ad una matrice]]
+
+### Possibili esercizi:
+#### Stabilire  la linearità:
+
+Potrebbero capitare degli <font color="#9bbb59">esercizi</font> dove si cerca di stabilire la <font color="#ffff00">linearità</font> di un dato omomorfismo,
+Essi sono <font color="#f79646">facilmente</font> risolubili con una semplice regola, le espressioni all’ interno dell’ omomorfismo devono essere polinomi omogeni di primo grado, ossia:
+$$0,-x,2x-y$$
+è l’ esempio <font color="#ffff00">perfetto</font>.
+
+Alcuni esempi errati:
+- $2x-y+1$ <font color="#d99694">non</font> è omogeneo perché c’è l’1
+- $xy$ <font color="#d99694">non</font> è di primo grado, ma di secondo.
+
+
+### Stabilire l’ esistenza di omomorfismi:
+Dati
