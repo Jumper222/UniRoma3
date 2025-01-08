@@ -21,12 +21,30 @@ $$f(\mathbb{R}^{2})=\{(a,b,c)|2a-3b+c=0\}$$
 
 <font color="#f79646">Attenzione</font>:nonostante l’ insieme immagine sia interno ad uno spazio vettoriale, non è detto che esso stesso sia un sottospazio vettoriale, in quanto potrebbe come potrebbe non verificare le proprietà dei sottospazi vettoriali, bisogna quindi valutare caso per caso.
 
-Facciamo ora un esempio di come calcolare la base dell’ immagine di un omomorfismo:
+---
+
+Facciamo ora un esempio di come calcolare la base dell’immagine di un omomorfismo:
 
 
 Sia $V$ uno spazio vettoriale con base formata da $e_{1},e_{2},e_{3},e_{4}$
 Sia $W$ uno spazio vettoriale con base formata dai vettori $f_{1},f_{2},f_{3}$.
 Sia $f:V\to W$ l’ omomorfismo t.c:
 - $f(e_{1})=f_{1}+f_{2}+f_{3}$
-- $$
-- - 
+- $f(e_{2})=f_{1}+2f_{2}+3f_{3}$
+- $f(e_{3})=3f_{1}+4f_{2}+5f_{3}$
+- $f(e_{4})=-f_{2}-2f_{3}$
+
+Per determinare la base dell’ immagine di $f$ consideriamo la matrice con colonne le componenti di $f_{1},f_{2},f_{3},f_{4}$
+
+$$A := \begin{pmatrix}
+1 & 1 & 3 & 0 \\
+1 & 2 & 4 & -1 \\
+1 & 3 & 5 & -2
+\end{pmatrix}$$
+Fatto ciò la riduciamo a scalini:
+$$B := \begin{pmatrix}
+1 & 1 & 3 & 0 \\
+0 & 1 & 1 & -1 \\
+0 & 0 & 0 & 0
+\end{pmatrix}$$
+Ora vediamo dove appaiono gli “scalini”, ovvero in prima e seconda posizione.
