@@ -54,4 +54,4 @@ Ora vediamo dove appaiono gli “scalini”, ovvero in prima e seconda posizione
 Fissiamo quindi una base per $V$ ed una per $W$.
 Prendiamo allora la matrice rappresentativa a di $f$ rispetto le basi date.
 
-Risulterà quindi che $dim\ f(V)=rk\ A$, in particolare $f$ è suriettivo se e solo se $$
+Risulterà quindi che $dim\ f(V)=rk\ A$, in particolare $f$ è suriettivo se e solo se $rk\ A=dim \ W$
