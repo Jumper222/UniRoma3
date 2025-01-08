@@ -48,3 +48,6 @@ $$B := \begin{pmatrix}
 0 & 0 & 0 & 0
 \end{pmatrix}$$
 Ora vediamo dove appaiono gli “scalini”, ovvero in prima e seconda posizione.
+- Da qui troviamo la base per $f(V)$, che è quindi data da $f(e_{1}),f(e_{2})$: $f_{1}+f_{2}+f_{3},f_{1}+2f_{2}+3f_{3}$
+
+<font color="#f79646">Nota bene</font>: 
