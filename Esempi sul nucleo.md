@@ -28,3 +28,5 @@ $$\begin{cases}
 0 & t \\
 -t & 0
 \end{pmatrix}\}$$
+Quindi possiamo dire che $ker \ f$ è un sottospazio vettoriale dell’ insieme di partenza.
+Si può inoltre notare che $ker\ f$ è formato dalle matrici $A$ tali che $A+A^t=0$, cioè le matrici <font color="#f79646">antisimmetriche</font> tali che $A^t=-A$
