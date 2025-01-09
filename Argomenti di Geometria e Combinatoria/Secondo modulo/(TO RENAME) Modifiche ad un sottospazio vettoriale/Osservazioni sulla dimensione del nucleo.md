@@ -20,4 +20,21 @@ Possiamo quindi dare per equivalenti le seguenti definizioni:
 - $dim\ f(V)=dim\ V$.
 
 
-Alcuni stupidi esempi potrebbe
+Alcuni stupidi esempi potrebbero essere:
+- $f:R[x]\to R^3$, non è iniettivo perché va da un insieme infinito ad uno finito
+- $f:M(2,2,R)\to R^3$, non è iniettivo perché $dim\ M(2,2,R)>dim\ R^3$
+
+Non possiamo però escludere a priori che $R^3\to M(2,2,R)$ non sia iniettivo, esplichiamolo:
+
+$$f(a,b,c):=\begin{pmatrix}
+a-4b & b-2c \\
+a+3c & a+b+c
+\end{pmatrix}$$
+Quindi usiamo la matrice rappresentativa $A$ rispetto le basi canoniche:
+$$A:=\begin{pmatrix}
+1 & -4 & 0 \\
+0 & 1 & -2 \\
+1 & 0 & 3 \\
+1 & 1 & 1
+\end{pmatrix}$$
+Possiamo calcolare che essa ha $rk=3$ quindi $rk\ A=dim\ V$, quindi  $f$ è iniettivo
