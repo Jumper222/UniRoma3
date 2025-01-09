@@ -24,4 +24,7 @@ $$\begin{cases}
 \phantom{2x+}y + z &= 0 \\
 \phantom{2x+}y + z &= 0 \\
 \phantom{2x+y+z} 2w &= 0
-\end{cases}$$
+\end{cases}\to ker\ f=\{\begin{pmatrix}
+0 & t \\
+-t & 0
+\end{pmatrix}\}$$
