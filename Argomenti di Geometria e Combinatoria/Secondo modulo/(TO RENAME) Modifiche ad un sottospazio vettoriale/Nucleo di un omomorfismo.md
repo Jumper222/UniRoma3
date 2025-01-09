@@ -51,3 +51,5 @@ $$ker\ f=\{-t,-u,t-u,t,u\ |\ t\in R,u\in R  \}$$
 $$(-1,0,1,1,0) \ e \ (0,-1,-1,0,1) $$
 
 Altri [[Esempi sul nucleo|esempi]].
+
+è importantissimo il saper calcolare la [[Calcolo della base del nucleo|base del nucleo]]
