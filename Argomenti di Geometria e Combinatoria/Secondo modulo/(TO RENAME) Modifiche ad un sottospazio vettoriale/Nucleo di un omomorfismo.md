@@ -36,6 +36,7 @@ Da questi due esempi quindi capiamo che anche se viene rispettato il nucleo, non
 
 <font color="#ffff00">Si</font> può inoltre [[Come stabilire l’ iniettività di un omomorfismo||stabilire]] l’ iniettività di un omomorfismo:
 
+<font color="#ffff00">Esistono</font> delle utili [[Osservazioni sulla dimensione del nucleo|osservazioni]] riguardanti la dimensione del nucleo
 
 ---
 

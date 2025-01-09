@@ -37,6 +37,7 @@ $$(kx + ky, ky + kz)$$
 
 Quindi possiamo dire che $f$ è un omomorfismo di spazi vettoriali su $\mathbb{R}$
 
+---
 ### <font color="#00b0f0">Esempio 2</font>
 Consideriamo l’ applicazione $f:M(2,2,\mathbb{R})\to M(2,2,\mathbb{R})$, definita t.c:
 $$f(A) = A + A^t.$$
