@@ -54,4 +54,35 @@ w
 \end{pmatrix}$$
 Risolviamo quindi e troviamo il vettore $(-2t-u,-t+u,t,u)$. Allora poniamo prima $t=1,u=0$ e poi $t=0,u=1$
 
-Allora 
+Allora avremo le basi per $ker\ f$:
+$$ker\ f: -2e_{1}-1e_{2}+1e_{3}+0e_{4};-1e_{1}+1e_{2}+0e_{3}+1e_{4}$$
+### <font color="#4bacc6">Esempio 2</font>
+
+Sia l’ omomorfismo $f:R^3\to R^4[x]$, definito da:
+$$f(a,b,c):=(2a+b+8c)+(3a-b+7c)x+(-a-3c)x^2+(b+2c)x^3$$
+Troviamo allora la matrice rappresentativa:
+$$A:=\begin{pmatrix}
+2 & 1 & 8 \\
+3 & -1 & 7 \\
+-1 & 0 & -3 \\
+0 & 1 & 2
+\end{pmatrix}$$
+Quindi riduciamola a scalini: 
+$$\begin{pmatrix}
+2 & 1 & 8 \\
+0 & -\frac{5}{2} & 5 \\
+0 & 0 & 0 \\
+0 & 0 & 0
+\end{pmatrix}\begin{pmatrix}
+x_{1} \\
+x_{2} \\
+x_{3}
+\end{pmatrix}=\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0
+\end{pmatrix}$$
+Da calcoliamo il risultato che è uguale a:
+$$(-3t,-2t,t)$$
+E allora sappiamo che la base di $ker\ f$ è uguale a $(-3,-2,1)$
