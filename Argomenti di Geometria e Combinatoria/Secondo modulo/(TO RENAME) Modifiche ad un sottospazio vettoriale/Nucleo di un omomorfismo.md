@@ -29,7 +29,7 @@ Da questi due esempi quindi capiamo che anche se viene rispettato il nucleo, non
 
 <font color="#ffff00">Studiati</font> i casi limite possiamo quindi iniziare a dare una definizione del nucleo, inteso come insieme:
 - Chiameremo nucleo di $f$ ($ker\ f$) l’ insieme t.c: $ker\ f:=\{v\in V\  |\ f(v)=0_{w}\}$
-<font color="#ffff00">Oltretutto</font> possiamo dire che se $ker\ f$ di un omomorfismo $f:V\to W$ allora $ker\ f$ sarà un sottospazio vettoriale di $V$.
+<font color="#ffff00">Oltretutto</font> [[Dimostrazione sottospazio vettoriale del nucleo|possiamo dire]] che se $ker\ f$ di un omomorfismo $f:V\to W$ allora $ker\ f$ sarà un sottospazio vettoriale di $V$.
 
 ---
 
