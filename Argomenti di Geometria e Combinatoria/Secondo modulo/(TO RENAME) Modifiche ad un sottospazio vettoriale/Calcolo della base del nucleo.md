@@ -30,3 +30,28 @@ $$A:=\begin{pmatrix}
 1 & 2 & 4 & -1 \\
 1 & 3 & 5 & -2
 \end{pmatrix}$$
+Che quindi possiamo ridurre a scalini:
+$$A'=\begin{pmatrix}
+1 & 1 & 3 & 0 \\
+0 & 1 & 1 & -1 \\
+0 & 0 & 0 & 0
+\end{pmatrix}$$
+Quindi lo <font color="#ffff00">moltiplichiamo</font> con il vettore di incognite, che ha <font color="#f79646">4 valori</font> perché sono 4 le dimensioni dello spazio vettoriale di partenza, e cerchiamo come risultato un <font color="#4bacc6">vettore</font> nullo di grandezza 3, ovvero le dimensioni del sistema di arrivo.
+
+$$\begin{pmatrix}
+1 & 1 & 3 & 0 \\
+0 & 1 & 1 & -1 \\
+0 & 0 & 0 & 0
+\end{pmatrix}\begin{pmatrix}
+x \\
+y \\
+z \\
+w
+\end{pmatrix}=\begin{pmatrix}
+0 \\
+0 \\
+0
+\end{pmatrix}$$
+Risolviamo quindi e troviamo il vettore $(-2t-u,-t+u,t,u)$. Allora poniamo prima $t=1,u=0$ e poi $t=0,u=1$
+
+Allora 
