@@ -32,8 +32,6 @@ Da questi due esempi quindi capiamo che anche se viene rispettato il nucleo, non
 
 <font color="#ffff00">Oltretutto</font> [[Dimostrazione sottospazio vettoriale del nucleo|possiamo dire]] che se $ker\ f$ di un omomorfismo $f:V\to W$ allora $ker\ f$ sarà un sottospazio vettoriale di $V$.
 
-<font color="#ffff00">Inoltre</font> possiamo dire che dato un omomorfismo $f:V\to W$, sia $A$ la matrice rappresentativa rispetto le basi fissate, risulterà: $dim\ ker\ f=dim\ V-rk\ A$
-
 <font color="#ffff00">Si</font> può inoltre [[Come stabilire l’ iniettività di un omomorfismo||stabilire]] l’ iniettività di un omomorfismo:
 
 <font color="#ffff00">Esistono</font> delle utili [[Osservazioni sulla dimensione del nucleo|osservazioni]] riguardanti la dimensione del nucleo
