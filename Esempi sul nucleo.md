@@ -18,3 +18,10 @@ z & w
 2x & y+z \\
 y+z & 2w
 \end{pmatrix}$$
+Quindi impostiamo il sistema lineare omogeneo:
+$$\begin{cases}
+2x &= 0 \\
+\phantom{2x+}y + z &= 0 \\
+\phantom{2x+}y + z &= 0 \\
+\phantom{2x+y+z} 2w &= 0
+\end{cases}$$
