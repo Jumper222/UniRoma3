@@ -9,4 +9,10 @@ $$f(v_{1}+v_{2})=f(v_{1})+f(v_{2})=0_{w}+0_{w}=0_{w}$$
 Ora abbiamo dimostrato che rispetta l' addizione
 ```
 
-5. 
+5. Dimostriamo che rispetta la moltiplicazione:
+6. Sappiamo che $f(v)=0_{w}$, e dobbiamo dimostrare che $f(kv)=0_{w}$
+7. Quindi $f(kv)=kf(v)=k0_{w}=0_{w}$
+
+```ad-success
+Avendo dimostrato che rispetta la moltiplicazione, abbiamo finito la dimostrazione.
+```
