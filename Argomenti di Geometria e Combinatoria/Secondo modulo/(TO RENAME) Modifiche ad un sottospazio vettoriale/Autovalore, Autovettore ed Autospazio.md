@@ -14,6 +14,7 @@ in caso affermativo determinare l’ <font color="#4bacc6">autovettore</font> co
 
 ---
 
-```ad-definizione
-Sia $f$
+```ad-important
+title: Definizione
+
 ```
