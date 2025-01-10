@@ -43,3 +43,14 @@ $$M:=\begin{pmatrix}
 
 
 Se si volesse rieffettuare il cambio dalla seconda base alla prima, sapremo che la nuova matrice rappresentativa sarà $M^{-1}$, ossia la matrice inversa. Per ottenere questa matrice ci basterà esprimere i vettori della prima base come comb. lineare dei vettori della seconda.
+
+---
+
+Se si volesse calcolare un endomorfismo in un’ altra base:
+
+Data una matrice $A$, rappresentativa di $f$ nella base iniziale
+Data una matrice $M$, la matrice di passaggio dalla prima alla seconda base
+
+Allora avremo la matrice $A'$, rappresentativa di $f$ nella seconda base tale che:
+$$A'=M^{-1}A\ M$$
+
