@@ -42,6 +42,8 @@ $$M:=\begin{pmatrix}
 <font color="#f79646">NB</font>: La matrice di passaggio sarà sempre invertibile, e ci viene in aiuto il seguente [[Teorema sull’ invertibilità della matrice di passaggio|teorema]]
 
 
+---
+
 Se si volesse rieffettuare il cambio dalla seconda base alla prima, sapremo che la nuova matrice rappresentativa sarà $M^{-1}$, ossia la matrice inversa. Per ottenere questa matrice ci basterà esprimere i vettori della prima base come comb. lineare dei vettori della seconda.
 
 ---
