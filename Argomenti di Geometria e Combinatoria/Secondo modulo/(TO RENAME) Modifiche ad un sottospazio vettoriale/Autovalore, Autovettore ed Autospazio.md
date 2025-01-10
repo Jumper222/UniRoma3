@@ -25,7 +25,13 @@ Vediamo ora cosa è un’ autospazio:
 <font color="#f79646">Dimostrazione</font>: $E(\lambda)$ è non vuoto perché contiene il vettore nullo.
 se $v_{1},v_{2}$ sono vettori di $E(\lambda)$ allora anche $v_{1}+v_{2}\in E(\lambda)$? 
 
-Sappiamo che $f(v_{1})=\lambda v_{1},f_{2}=\lambda v_{2}$ e dobbiamo mostrare che $f(v_{1}+v_{2})=f(v_{1})+f(v_{2})=\lambda v_{1}+\lambda v_{2}=\lambda(v_{1}+v_{2})$
+Sappiamo che $f(v_{1})=\lambda v_{1},f_{2}=\lambda v_{2}$ e dobbiamo mostrare che $f(v_{1}+v_{2})=\lambda(v_{1}+v_{2})$
+Infatti: $$f(v_{1}+v_{2})=f(v_{1})+f(v_{2})=\lambda v_{1}+\lambda v_{2}=\lambda(v_{1}+v_{2})$$
 
 Ora che sappiamo che rispetta l’ addizione, controlliamo la moltiplicazione:
+Se $v\in E(\lambda),kv\in E(\lambda)$?
+
+Sappiamo che $f(v)=\lambda(v)$. dobbiamo mostrare che $f(kv)=\lambda(kv)$.
+Infatti: $$f(kv)=kf(v)=k\lambda v=\lambda(kv)$$
+
 
