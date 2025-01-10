@@ -16,11 +16,27 @@ Facciamo un semplicissimo esempio:
 
 Consideriamo $R^3[x]$:
 
-Vogliamo effettuare il cambio di base tra la sua base canonica:
+Vogliamo effettuare il <font color="#ffff00">cambio di base</font> tra la sua base canonica:
 - $q_{1}(x):=1$
 - $q_{2}(x):=x$
-- $q_{3}(x)=x^2$
-ed una seconda base formata da:
+- $q_{3}(x):=x^2$
+ed una seconda <font color="#ffff00">base</font> formata da:
 - $p_{1}(x):=(1,x,x^2)$
-- $p_{2}(x)=(1,x)$
-- $p_{3}(x)=(1)$
+- $p_{2}(x):=(1,x)$
+- $p_{3}(x):=(1)$
+
+Il nostro obiettivo sarà quello di trovare la matrice $M$ di passaggio tra la prima e la seconda base, <font color="#f79646">dovremo quindi</font> esprimere $p_{1},p_{2},p_{3}$ come comb. lineari di $q_{1},q_{2},q_{3}$:
+
+- $p_{1}(x)=1q_{1}(x)+1q_{2}(x)+1q_{3}(x)$
+- $p_{2}(x)=1q_{1}(x)+q_{2}(x)$
+- $p_{3}(x)=1q_{1}(x)$
+
+Ed allora la matrice rappresentativa risulterà:
+
+$$M:=\begin{pmatrix}
+1 & 1 & 1 \\
+1 & 1 & 0 \\
+1 & 0 & 0
+\end{pmatrix}$$
+
+<font color="#f79646">NB</font>: La matrice di passaggio sarà sempre invertibile, e ci viene in aiuto il seguente [[Teorema sull’ invertibilità della matrice di passaggio|teorema]]
