@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 <font color="#f79646">Def</font>: Siano date due matrici $A,B$ appartenenti a $M(n,n,R)$
 
 Allora la matrice $B$ si dice simile alla matrice $A$ se e solo se

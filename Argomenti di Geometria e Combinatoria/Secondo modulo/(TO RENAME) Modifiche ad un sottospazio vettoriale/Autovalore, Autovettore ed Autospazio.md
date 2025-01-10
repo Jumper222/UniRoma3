@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Sappiamo già che gli <font color="#9bbb59">autovalori</font> servono per diagonalizzare una matrice, e che si indicano con $\lambda$.
 Studiamo un esempio e poi andiamo a definirli meglio.
 

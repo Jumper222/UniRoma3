@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Dobbiamo dimostrare che il nucleo di uno spazio vettoriale è sempre un sottospazio vettoriale dello spazio stesso.
 
 1. Dato un omomorfismo $f:V\to W$

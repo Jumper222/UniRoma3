@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Per <font color="#9bbb59">cambio di base</font> si intende appunto un cambiamento alla base di un <font color="#92d050">endomorfismo</font> che va poi a modificare la matrice rappresentativa.
 
 Ed è definita tale che:

@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Dato un omomorfismo $f:V\to W$, e fissata una base per $V,W$
 Sia $A$ la matrice rappresentativa di $f$ rispetto tali basi.
 Allora avremo $dim\ ker\ f=dim\ V-rk\ A$

@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Il <font color="#ffff00">nucleo</font> di un omomorfismo è il sottoinsieme dello spazio vettoriale di partenza la cui immagine è il <font color="#4bacc6">vettore</font> nullo.
 
 Se $f:V\to W$ è un omomorfismo allora $f(0_{v})=0_{w}$
