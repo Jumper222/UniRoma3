@@ -1,6 +1,6 @@
 #Geometria_e_Combinatoria 
 
-<font color="#f79646">NB</font>: è necessario avere bene a mente il concetto di [[Autovalore ed Autovettore|autovalore ed autovettore]]
+<font color="#f79646">NB</font>: è necessario avere bene a mente il concetto di [[Autovalore, Autovettore ed Autospazio|autovalore ed autovettore]]
 
 ---
 
@@ -48,4 +48,4 @@ $$\begin{pmatrix}
 \vdots & \vdots & \ddots & \vdots \\
 0 & 0 & \cdots & \lambda_n
 \end{pmatrix}$$
-Qui ci è utile studiare più nel dettaglio gli [[Autovalore ed Autovettore|autovalori ed autovettori]]
+Qui ci è utile studiare più nel dettaglio gli [[Autovalore, Autovettore ed Autospazio|autovalori ed autovettori]]
