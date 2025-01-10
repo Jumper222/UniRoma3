@@ -56,3 +56,10 @@ Data una matrice $M$, la matrice di passaggio dalla prima alla seconda base
 Allora avremo la matrice $A'$, rappresentativa di $f$ nella seconda base tale che:
 $$A'=M^{-1}A\ M$$
 
+---
+
+Un altro utile concetto è che se le matrici $A,B$ rappresentano lo stesso endomorfismo rispetto basi diverse,
+
+Allora esisterà una matrice invertibile $M$ tale che $B=M^{-1}A\ M$
+
+E quindi nasce il concetto di [[Matrici Simili|matrici simili]].
