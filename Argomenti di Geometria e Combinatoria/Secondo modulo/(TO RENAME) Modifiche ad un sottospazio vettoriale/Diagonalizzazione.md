@@ -32,4 +32,20 @@ Questo perché $f(p_{1}(x)),f(p_{2}(x))$ sono multipli di $p_{1}(x),p_{2}(x)$.
 
 ---
 
-Allora diamo 
+Allora diamo una più corretta definizione:
+
+Sia $f$ un endomorfismo di uno spazio vettoriale $V$ di dim. finita.
+Data una base di $V$ formata da $e_{1},e_{2},\dots,e_{n}$,
+La matrice rappresentativa di $f$ rispetto tale base è <font color="#ffff00">diagonale</font> se e solo se $f(e_{i})$ è multiplo di $e_{i},$
+questo per $1\leq i\leq n$.
+
+<font color="#f79646">Ossia</font> se e solo se esistono scalari $\lambda_{1},\lambda_{2},\dots,\lambda_{n}$ tali che $f(e_{i})=\lambda_{i}\ e_{i}$ per $1\leq i\leq n$
+
+Ogni matrice <font color="#ffff00">diagonalizzata</font> apparirà nella forma:
+$$\begin{pmatrix}
+\lambda_1 & 0 & \cdots & 0 \\
+0 & \lambda_2 & \cdots & 0 \\
+\vdots & \vdots & \ddots & \vdots \\
+0 & 0 & \cdots & \lambda_n
+\end{pmatrix}$$
+Qui ci è utile studiare più nel dettaglio gli [[Autovalore ed Autovettore|autovalori ed autovettori]]
