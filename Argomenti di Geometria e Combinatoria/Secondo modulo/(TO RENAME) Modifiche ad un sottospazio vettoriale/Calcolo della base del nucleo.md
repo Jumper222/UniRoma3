@@ -1,3 +1,6 @@
+---
+sticker: lucide//file
+---
 #Geometria_e_Combinatoria 
 Riflettiamo meglio su cosa stiamo cercando:
 Dato un <font color="#ffff00">omomorfismo</font> $f:V\to W$, data una base per $V$ formata da $v_{1},v_{2},\dots,v_{n}$
