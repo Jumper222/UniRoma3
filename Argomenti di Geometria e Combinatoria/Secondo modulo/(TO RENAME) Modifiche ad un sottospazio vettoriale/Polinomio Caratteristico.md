@@ -45,7 +45,36 @@ a_{3}
 che possiamo esplicitare in un sistema:
 $$\begin{cases}
 a_0 + a_1 &= \lambda a_0 \\
-\phantom{123}a_1 - a_2 + a_3 &= \lambda a_1 \\
+\phantom{123+.}a_1 - a_2 + a_3 &= \lambda a_1 \\
 a_0 + 2a_1 - a_2 &= \lambda a_2 \\
-\phantom{a_0 + 2a_1+1+} a_3 &= \lambda a_3
+\phantom{a_0 + 2a_1+1+..} a_3 &= \lambda a_3
 \end{cases}$$
+Che quindi può essere riscritto:
+$$\begin{cases}
+(1-\lambda)a_0 +\phantom{11333,} a_1 &= 0 \\
+\phantom{8191933333}(1-\lambda)a_1 -\phantom{33333,,} a_2 +\phantom{333,} a_3 &= 0 \\
+\phantom{333333}a_0 +\phantom{33333} 2a_1 + (1-\lambda)a_2 &= 0 \\
+\phantom{1+1+1+1+1+133333333333}(1-\lambda)a_3 &= 0
+\end{cases}$$
+Se allora volessimo riscrivere il sistema in forma matriciale:
+$$\begin{pmatrix}
+1-\lambda & 1 & 0 & 0 \\
+0 & 1-\lambda & -1 & 1 \\
+1 & 2 & -1-\lambda & 0 \\
+0 & 0 & 0 & 1-\lambda
+\end{pmatrix}
+\begin{pmatrix}
+a_0 \\
+a_1 \\
+a_2 \\
+a_3
+\end{pmatrix}
+=
+\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0
+\end{pmatrix}$$
+Allora il polinomio caratteristico sarà proprio:
+$$p(x):=\det(A-\lambda I)$$
