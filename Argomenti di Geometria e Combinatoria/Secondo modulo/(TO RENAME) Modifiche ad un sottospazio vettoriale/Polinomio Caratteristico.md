@@ -4,7 +4,7 @@ Ed è definito come determinante della matrice $A-\lambda I$, ossia:
 $$p(\lambda)=\det(A-\lambda I)$$
 
 Serve quindi per trovare gli autovalori, risolvendo l’ equazione:
-$$\det(A-\lambda I)=0$$
+$$\det(A-x I)=0$$
 ---
 
 Facciamo quindi un esempio:
@@ -51,17 +51,17 @@ a_0 + 2a_1 - a_2 &= \lambda a_2 \\
 \end{cases}$$
 Che quindi può essere riscritto:
 $$\begin{cases}
-(1-\lambda)a_0 +\phantom{11333,} a_1 &= 0 \\
-\phantom{8191933333}(1-\lambda)a_1 -\phantom{33333,,} a_2 +\phantom{333,} a_3 &= 0 \\
-\phantom{333333}a_0 +\phantom{33333} 2a_1 + (1-\lambda)a_2 &= 0 \\
-\phantom{1+1+1+1+1+133333333333}(1-\lambda)a_3 &= 0
+(1-x)a_0 +\phantom{11333,} a_1 &= 0 \\
+\phantom{8191933333}(1-x)a_1 -\phantom{33333,,} a_2 +\phantom{333,} a_3 &= 0 \\
+\phantom{333333}a_0 +\phantom{33333} 2a_1 + (1-x)a_2 &= 0 \\
+\phantom{1+1+1+1+1+133333333333}(1-x)a_3 &= 0
 \end{cases}$$
 Se allora volessimo riscrivere il sistema in forma matriciale:
 $$\begin{pmatrix}
-1-\lambda & 1 & 0 & 0 \\
-0 & 1-\lambda & -1 & 1 \\
-1 & 2 & -1-\lambda & 0 \\
-0 & 0 & 0 & 1-\lambda
+1-x & 1 & 0 & 0 \\
+0 & 1-x & -1 & 1 \\
+1 & 2 & -1-x & 0 \\
+0 & 0 & 0 & 1-x
 \end{pmatrix}
 \begin{pmatrix}
 a_0 \\
@@ -77,7 +77,14 @@ a_3
 0
 \end{pmatrix}$$
 Allora il polinomio caratteristico sarà proprio:
-$$p(x):=\det(A-\lambda I)$$
-Gli autovalori saranno le radici di questo polinomio.
+$$p(x):=\det(A-xI)$$
+Gli autovalori saranno le radici di questo polinomio, avremo quindi come risultato:
+$$(1-x)(-x^3+x^2-x)$$
+Che poi possiamo semplificare in:
+$$-x(1-x)(x^2-x+1)$$
+Allora calcoliamo il delta:
+$$\Delta =1-4$$
+
+
 
 Gli autovalori di un dato endomorfismo sono sempre uguali e non cambiano a seconda della base scelta, il motivo è spiegato nel suo [[Teorema sull’ invariabilità del polinomio caratteristico|teorema]]
