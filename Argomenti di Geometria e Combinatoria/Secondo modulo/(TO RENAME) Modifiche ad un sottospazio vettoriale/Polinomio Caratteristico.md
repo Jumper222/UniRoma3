@@ -22,5 +22,6 @@ $$\begin{pmatrix}
 1 & 2 & -1 & 0 \\
 0 & 0 & 0 & 1 \\
 \end{pmatrix}$$
-Vogliamo ora determinare polinomi non nulli:
-$$p(x):=a_{0}+a_{1}x+$$
+Vogliamo ora determinare polinomi non nulli (questo è il polinomio caratteristico):
+$$p(x):=a_{0}+a_{1}x+a_{2}x^2+a_{3}x^3$$
+tali che $f(p(x))=\lambda p(x)$ per qualche $\lambda\in R$
