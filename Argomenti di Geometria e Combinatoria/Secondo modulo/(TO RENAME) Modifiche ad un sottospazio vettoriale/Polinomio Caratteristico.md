@@ -82,8 +82,64 @@ Gli autovalori saranno le radici di questo polinomio, avremo quindi come risulta
 $$(1-x)(-x^3+x^2-x)$$
 Che poi possiamo semplificare in:
 $$-x(1-x)(x^2-x+1)$$
-Allora calcoliamo il delta:
+Allora calcoliamo il delta di $x^2-x+1$:
 $$\Delta =1-4$$
+Essendo minore di 0 non abbiamo radici reali.
+
+Quindi le uniche radici (autovalori) del polinomio saranno $0,1$, essendo loro i valori che lo annullano.
+
+Ora vogliamo risolvere per poter trovare gli autospazi $E(0)$ e $E(1)$:
+$$E(1):=\begin{pmatrix}
+0 & 1 & 0 & 0 \\
+0 & 0 & -1 & 0 \\
+1 & 2 & -2 & 0 \\
+0 & 0 & 0 & 0
+\end{pmatrix}\begin{pmatrix}
+a_{0} \\
+a_{1} \\
+a_{2} \\
+a_{3}
+\end{pmatrix}=\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0 \\
+
+\end{pmatrix}$$
+Che una volta risolto darà come risultato:
+$$\begin{cases}
+a_{0}=2t \\
+a_{1}=0 \\
+a_{2}=t \\
+a_{3}=t
+\end{cases}$$
+E allora l’ autospazio relativo a 1 sarà:
+$$E(1)=\{2t+tx^2+tx^3\}$$
+Invece l’ autospazio relativo a 0 avrà questo sistema:
+$$\begin{pmatrix}
+1 & 1 & 0 & 0 \\
+0 & 1 & -1 & 1 \\
+1 & 2 & -1 & 0 \\
+0 & 0 & 0 & 1
+\end{pmatrix}
+\begin{pmatrix}
+a_0 \\
+a_1 \\
+a_2 \\
+a_3
+\end{pmatrix}
+=
+\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0
+\end{pmatrix}.$$
+Che come risultato avrà:
+$$E(0)=\{-t+tx+tx^2\}$$
+
+Entrambi i sistemi hanno $dim=1$
+
 
 
 
