@@ -48,4 +48,3 @@ $$\begin{pmatrix}
 \vdots & \vdots & \ddots & \vdots \\
 0 & 0 & \cdots & \lambda_n
 \end{pmatrix}$$
-Qui ci è utile studiare più nel dettaglio gli [[Autovalore, Autovettore ed Autospazio|autovalori ed autovettori]]

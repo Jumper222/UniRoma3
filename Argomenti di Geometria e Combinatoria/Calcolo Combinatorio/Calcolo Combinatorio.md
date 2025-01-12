@@ -9,6 +9,3 @@ Vi sono 3 principali modi per organizzare gli elementi di un dato insieme, ovver
 
 è anche fondamentale conoscere il concetto di [[Coefficiente Binomiale]]
 
-
-![[Pasted image 20241112120012.png]]
-Questa è una semplice tabella utile per ricordarsi quando usare cosa

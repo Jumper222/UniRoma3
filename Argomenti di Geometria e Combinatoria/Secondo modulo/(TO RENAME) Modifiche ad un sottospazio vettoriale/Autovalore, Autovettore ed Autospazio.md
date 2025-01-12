@@ -34,5 +34,9 @@ Se $v\in E(\lambda),kv\in E(\lambda)$?
 
 Sappiamo che $f(v)=\lambda(v)$. dobbiamo mostrare che $f(kv)=\lambda(kv)$.
 Infatti: $$f(kv)=kf(v)=k\lambda v=\lambda(kv)$$
+> [!success] 
+> Abbiamo dimostrato che $E(\lambda)$ è un sottospazio vettoriale
+  
 
+Vogliamo ora trovare un metodo per trovare gli autovalori di un’ endomorfismo, ci verrà in aiuto il [[Polinomio Caratteristico|polinomio caratteristico]]
 
