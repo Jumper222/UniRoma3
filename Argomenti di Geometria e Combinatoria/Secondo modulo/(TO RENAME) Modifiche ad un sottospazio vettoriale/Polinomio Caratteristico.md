@@ -80,4 +80,4 @@ Allora il polinomio caratteristico sarà proprio:
 $$p(x):=\det(A-\lambda I)$$
 Gli autovalori saranno le radici di questo polinomio.
 
-Gli autovalori di un dato endomorfismo sono sempre uguali e non cambiano a seconda della base scelta, il motivo è spiegato nel suo [[Teorema ]]
+Gli autovalori di un dato endomorfismo sono sempre uguali e non cambiano a seconda della base scelta, il motivo è spiegato nel suo [[Teorema sull’ invariabilità del polinomio caratteristico|teorema]]
