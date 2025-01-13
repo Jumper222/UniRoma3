@@ -38,3 +38,11 @@ Un polinomio $p(x)$ di grado $n$ si dice <font color="#ffff00">totalmente riduci
 
 Al più un endomorfismo di grado $n$ può avere $n$ autovalori distinti.
 
+Per calcolare la dimensione di un’ autospazio utilizziamo la formula:
+
+$$1\leq dimE\ (\lambda)\leq m_{f}(\lambda)$$
+Ossia la $dim\ E(\lambda)$ è minore o uguale alla molteplicità di questo $\lambda$.
+
+Se troviamo una matrice triangolare come matrice rappresentativa di un’ endomorfismo gli autovalori saranno i valori che  appaiono sulla diagonale principale, con molteplicità uguale a quante volte appare il valore.
+
+Un autovalore di molteplicità 1 è detto semplice.
