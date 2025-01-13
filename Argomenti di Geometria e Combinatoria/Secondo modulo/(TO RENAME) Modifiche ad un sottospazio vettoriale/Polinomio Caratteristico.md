@@ -146,7 +146,7 @@ L’ esercizio è finito.
 > [!attention] 
 > Per definire $E(\lambda)$ contiene vettori diversi dal solo vettore nullo, se risolvendo il sistema troviamo solo la soluzione banale significa che abbiamo sbagliato o a risolvere il sistema o a trovare gli autovalori.
   
-
+Nel calcolo degli autovettori è importantissimo sapere cosa è la [[Molteplicità di un autovettore|molteplicità di un autovettore]]
 
 Gli autovalori di un dato endomorfismo sono sempre uguali e non cambiano a seconda della base scelta, il motivo è spiegato nel suo [[Teorema sull’ invariabilità del polinomio caratteristico|teorema]]
 
