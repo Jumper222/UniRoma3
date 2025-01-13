@@ -138,7 +138,9 @@ a_3
 Che come risultato avrà:
 $$E(0)=\{-t+tx+tx^2\}$$
 
-Entrambi i sistemi hanno $dim=1$
+Entrambi i sistemi hanno $dim=1$. 
+
+L’ esercizio è finito.
 
 
 
