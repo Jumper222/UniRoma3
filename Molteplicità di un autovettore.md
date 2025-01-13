@@ -34,4 +34,5 @@ Completata la semplificazione possiamo dire che il polinomio $p(x)$ ha radice $1
 
 ---
 
-Un polinomio $p(x)$ di grado $n$ si dice totalmente riducibile se si può scrivere come prodotto di polinomi di $1°$ grado.
+Un polinomio $p(x)$ di grado $n$ si dice <font color="#ffff00">totalmente riducibile</font> se si può scrivere come prodotto di polinomi di $1°$ grado.
+
