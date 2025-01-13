@@ -40,3 +40,4 @@ Infatti: $$f(kv)=kf(v)=k\lambda v=\lambda(kv)$$
 
 Vogliamo ora trovare un metodo per trovare gli autovalori di un’ endomorfismo, ci verrà in aiuto il [[Polinomio Caratteristico|polinomio caratteristico]]
 
+
