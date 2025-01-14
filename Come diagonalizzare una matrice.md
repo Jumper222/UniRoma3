@@ -108,4 +108,15 @@ p_A(x) := \begin{vmatrix}
 Il suo polinomio caratteristico sarà:
 $$p_{f}(x):=x^4-6x^3+7x^2=x^2(x^2-6x+7)$$
 Calcoliamo la scomposizione del polinomio di secondo grado con la formula della parabola:
-$$x_{1},x_{2}=\frac{6\pm \sqrt{8}}{2}=3+$$
+$$x_{1},x_{2}=\frac{6\pm \sqrt{8}}{2}=3\pm \sqrt{ 2 }$$
+<font color="#f79646">Allora</font> il polinomio caratteristico è <font color="#ffff00">totalmente riducibile</font>, infatti ha gli autovalori:
+- $0$ di molteplicità $2$
+- $3+\sqrt{ 2 }$ di molteplicità $1$
+- $3-\sqrt{ 2 }$ di molteplicità $1$
+quindi la prima condizione è rispettata.
+
+Iniziamo quindi a calcolare se la molteplicità dei valori coincide con la dimensione del relativo autospazio.
+
+Iniziamo con $0$:
+
+
