@@ -29,6 +29,17 @@ che formano la base canonica di $R^4$ possano diventare autovettori.
 ---
 
 enunciamo quindi qualche teorema legato alla diagonalizzazione:
+
 > [!Enunciato]
 > Sia $f:V\to V$ un’ endomorfismo di uno spazio vett. $V$ di dim. finita $n$ e siano $1,2,\dots,s$ gli autovalori distinti di $f$. 
-> Se $dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)<n$ allora $f$ <font color="#c0504d">non</font> è diagonalizzabile
+> Se $dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)<n$ allora $f$ <font color="#c0504d">non</font> è diagonalizzabile.
+> In altre parole, affinchè $f$ sia diagonalizzabile è necessario che
+> $dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)=n$
+
+> [!enunciato]
+    > Sia $f:V\to V$ un endomorfismo di uno spazio vett. $V$ di dim finita $n$ e siano $1,2,\dots,s$ gli autovalori distinti di $f$.
+    > Prendiamo una base per ciascun autospazio: unendo tali basi si ottengono dei vettori tra loro <font color="#ffff00">linearmente indipendenti</font>.
+    > Dunque, abbiamo dei autovettori <font color="#ffff00">linearmente indipendenti</font>.
+    > In particolare: $dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)\leq n$
+
+- Sappiamo che per ciascun autovalore $i$ si ha $dim\ E(i)\leq m_{f}(i)$
