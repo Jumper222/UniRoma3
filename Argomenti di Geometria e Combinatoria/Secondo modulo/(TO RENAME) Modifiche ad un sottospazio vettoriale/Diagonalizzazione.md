@@ -48,3 +48,4 @@ $$\begin{pmatrix}
 \vdots & \vdots & \ddots & \vdots \\
 0 & 0 & \cdots & \lambda_n
 \end{pmatrix}$$
+Il processo per diagonalizzare una matrice è molto lungo, ed è riassunto in [[Come diagonalizzare una matrice|come diagonalizzare una matrice]]
