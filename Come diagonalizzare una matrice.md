@@ -43,3 +43,11 @@ enunciamo quindi qualche teorema legato alla diagonalizzazione:
     > In particolare: $dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)\leq n$
 
 - Sappiamo che per ciascun autovalore $i$ si ha $dim\ E(i)\leq m_{f}(i)$
+     Ossia:
+     $$dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)\leq m_{f}(1)+m_{f}(2)+\dots+m_{f}(s)\leq n$$
+     Allora possiamo riassumere tutto con:
+     - Affinché $f$ sia diagonalizzabile è necessario che la somma delle molteplicità degli autovalori sia uguale ad $n$, ovvero il <font color="#ffff00">polinomio caratteristico</font> di $f$ deve essere <font color="#f79646">totalmente riducibile</font>.
+     
+     Se anche per uno solo degli autovettori $i$ si ha: $dim\ E(i)<m_{f}(i)$
+     allora $f$ non è diagonalizzabile.
+
