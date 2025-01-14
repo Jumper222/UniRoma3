@@ -61,4 +61,25 @@ enunciamo quindi qualche teorema legato alla diagonalizzazione:
     > > Se $\lambda$ è un autovalore semplice allora $dim\ E(\lambda)=1$
     > > La seconda condizione del teorema va quindi verificata solo per gli autovalori di molteplicità almeno 2.  
 
+### La base particolare
 
+Per calcolare una base di $V$ formata dagli autovettori di $f$ si prende una base per ciascun autospazio e le si uniscono.
+Rispetto a tale base $f$ si presenta come una matrice diagonale, i cui elementi lungo la diagonale sono gli autovalori di $f$, ciascuno ripetuto un numero di volte pari alla sua molteplicità.
+
+---
+
+### <font color="#f79646">Esempio 1</font>
+Sia data la matrice $A$ ed il suo polinomio caratteristico:
+$$A := \begin{pmatrix}
+2 & 1 & 0 & 0 \\
+0 & 2 & 1 & 0 \\
+0 & 0 & 0 & 2 \\
+-4 & 0 & 1 & 2
+\end{pmatrix}
+\begin{vmatrix}
+2-x & 1 & 0 & 0 \\
+0 & 2-x & 1 & 0 \\
+0 & 0 & 0-x & 2 \\
+-4 & 0 & 1 & 2-x
+\end{vmatrix}$$
+$$p_{A}(x):=\det(a)$$
