@@ -129,4 +129,34 @@ $$dim\ E(0)=4-rk(A-0I)=4-rk\begin{pmatrix}
 
 ### Esempio 3
 Sia dato l’ endomorfismo $f:M(2,2,R)\to M(2,2,R)$:
-$f\begin{pmatrix}a\end{pmatrix}$
+$$f\begin{pmatrix}
+a & b \\
+c & d
+\end{pmatrix} := \begin{pmatrix}
+a + 2b + d & a + d \\
+a + b + d & a + b + d
+\end{pmatrix}$$
+La mat. rappresentativa rispetto la base canonica è:
+$$A := \begin{pmatrix}
+1 & 2 & 0 & 1 \\
+1 & 0 & 0 & 1 \\
+1 & 1 & 0 & 1 \\
+1 & 1 & 0 & 1
+\end{pmatrix}$$
+Avremo quindi il polinomio caratteristico: 
+$$p_f(x) = \begin{vmatrix}
+1-x & 2 & 0 & 1 \\
+1 & -x & 0 & 1 \\
+1 & 1 & -x & 1 \\
+1 & 1 & 0 & 1-x
+\end{vmatrix}$$
+Esplicitiamolo:
+$$p_{f}(x)=x^4-2x^3-3x^2=x^2(x^2-2x-3)$$
+
+Quindi trovate le radici, esse saranno $-1,+3$, entrambe di molteplicità = 1.
+
+Avremo quindi una semplificazione in:
+$$p_{f}(x)=x^2(x-3)(x+1)$$
+Quindi la prima condizione è soddisfatta, ora vediamo la seconda, per la radice 0 di molteplicità 2.
+
+$$dim\ E(0)=4-rk(A-0I)=2$$
