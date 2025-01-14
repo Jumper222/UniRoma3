@@ -118,5 +118,15 @@ quindi la prima condizione è rispettata.
 Iniziamo quindi a calcolare se la molteplicità dei valori coincide con la dimensione del relativo autospazio.
 
 Iniziamo con $0$:
+$$dim\ E(0)=4-rk(A-0I)=4-rk\begin{pmatrix}
+2 & 1 & 0 & 0 \\
+0 & 2 & 1 & 0 \\
+0 & 3 & 0 & 2 \\
+2 & 6 & 1 & 2
+\end{pmatrix}=4-3=1$$
 
+<font color="#f79646">MA</font> $1\neq 2$, ossia la molteplicità di $0$. quindi abbiamo che $f$ non è diagonalizzabile.
 
+### Esempio 3
+Sia dato l’ endomorfismo $f:M(2,2,R)\to M(2,2,R)$:
+$f\begin{pmatrix}a\end{pmatrix}$
