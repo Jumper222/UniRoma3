@@ -42,12 +42,23 @@ enunciamo quindi qualche teorema legato alla diagonalizzazione:
     > Dunque, abbiamo dei autovettori <font color="#ffff00">linearmente indipendenti</font>.
     > In particolare: $dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)\leq n$
 
-- Sappiamo che per ciascun autovalore $i$ si ha $dim\ E(i)\leq m_{f}(i)$
-     Ossia:
-     $$dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)\leq m_{f}(1)+m_{f}(2)+\dots+m_{f}(s)\leq n$$
-     Allora possiamo riassumere tutto con:
-     - Affinché $f$ sia diagonalizzabile è necessario che la somma delle molteplicità degli autovalori sia uguale ad $n$, ovvero il <font color="#ffff00">polinomio caratteristico</font> di $f$ deve essere <font color="#f79646">totalmente riducibile</font>.
-     
-     Se anche per uno solo degli autovettori $i$ si ha: $dim\ E(i)<m_{f}(i)$
-     allora $f$ non è diagonalizzabile.
+> [!osservazione]
+> Sappiamo che per ciascun autovalore $i$ si ha $dim\ E(i)\leq m_{f}(i)$
+> Ossia:
+> $$dim\ E(1)+dim\ E(2)+\dots+dim\ E(s)\leq m_{f}(1)+m_{f}(2)+\dots+m_{f}(s)\leq n$$
+> Allora possiamo riassumere tutto con:
+> Affinché $f$ sia diagonalizzabile è necessario che la somma delle molteplicità degli autovalori sia uguale ad $n$, ovvero il <font color="#ffff00">polinomio caratteristico</font> di $f$ deve essere <font color="#f79646">totalmente riducibile</font>.
+>      
+>  Se anche per uno solo degli autovettori $i$ si ha: $dim\ E(i)<m_{f}(i)$
+>  <font color="#f79646">allora</font> $f$ non è diagonalizzabile.
+> 
+
+> [!enunciato]
+    > Se $f$ è un’ endomorfismo, esso sarà diagonalizzabile se e solo se:
+    > 1. Il polinomio caratteristico di $f$ è totalmente riducibile.
+    > 2. per ciascun autovalore $i$ di $f$ si ha $dim\ E(i)=m_{f}(i)$.
+    > > [!osservazione]
+    > > Se $\lambda$ è un autovalore semplice allora $dim\ E(\lambda)=1$
+    > > La seconda condizione del teorema va quindi verificata solo per gli autovalori di molteplicità almeno 2.  
+
 
