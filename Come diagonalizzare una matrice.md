@@ -68,7 +68,7 @@ Rispetto a tale base $f$ si presenta come una matrice diagonale, i cui elementi 
 
 ---
 
-### <font color="#f79646">Esempio 1</font>
+### <font color="#4bacc6">Esempio 1</font>
 Sia data la matrice $A$ ed il suo polinomio caratteristico:
 $$A := \begin{pmatrix}
 2 & 1 & 0 & 0 \\
@@ -82,4 +82,30 @@ $$A := \begin{pmatrix}
 0 & 0 & 0-x & 2 \\
 -4 & 0 & 1 & 2-x
 \end{vmatrix}$$
-$$p_{A}(x):=\det(a)$$
+$$p_{A}(x):=\det(A-xI)=x^4-6x^3+10x^2=x^2(x^2-6x+10)$$
+Quindi proviamo a semplificare ancora, calcolando $\Delta$, purtroppo esso è minore di zero, quindi non ci sono radici reali.
+
+<font color="#f79646">Allora</font> il polinomio caratteristico di $A$ non è totalmente riducibile,
+<font color="#f79646">Allora</font> la matrice $A$ non è diagonalizzabile.
+
+### <font color="#4bacc6">Esempio 2</font>
+Consideriamo l’ endomorfismo di $R^4$ definito da:
+$$f(x,y,z,w):=(2x+y,2y+z,3y+2w,2x+6y+z+2w)$$
+La matrice rappresentativa rispetto la base canonica sarà:
+$$A := \begin{pmatrix}
+2 & 1 & 0 & 0 \\
+0 & 2 & 1 & 0 \\
+0 & 3 & 0 & 2 \\
+2 & 6 & 1 & 2
+\end{pmatrix}
+\qquad
+p_A(x) := \begin{vmatrix}
+2-x & 1 & 0 & 0 \\
+0 & 2-x & 1 & 0 \\
+0 & 3 & 0-x & 2 \\
+2 & 6 & 1 & 2-x
+\end{vmatrix}$$
+Il suo polinomio caratteristico sarà:
+$$p_{f}(x):=x^4-6x^3+7x^2=x^2(x^2-6x+7)$$
+Calcoliamo la scomposizione del polinomio di secondo grado con la formula della parabola:
+$$x_{1},x_{2}=\frac{6\pm \sqrt{8}}{2}=3+$$
