@@ -85,5 +85,13 @@ Rispetto a tale base $f$ si presenta come una matrice diagonale, i cui elementi 
 >     allora $f$ è diagonalizzabile, <font color="#f79646">STOP</font>
 >     
 
+### Metodo per la ricerca di una base di autovettori per un dato endomorfismo
+
+> [!osservazione]
+> <font color="#4bacc6">Premessa</font>: Sappiamo già che l’ endomorfismo $f$ è diagonalizzabile.
+> 1. Rispetto ad una base opportuna di $V$, $f$ si rappresenta come una matrice diagonale $D$: gli elementi lungo la diagonale principale sono gli autovalori di $f$, ciascuno riportato un numero di volte pari alla propria molteplicità (uguale alla dim. dell’ autospazio)
+> 2. <font color="#f79646">Determinare una base</font> per ciascun autospazio $E(\lambda_{i})$: risolvere il sistema lineare: $(A-\lambda_{i}I)X=0$ 
+  
+
 
 Se si volessero vedere degli [[Esempi sulla diagonalizzazione|esempi]]
