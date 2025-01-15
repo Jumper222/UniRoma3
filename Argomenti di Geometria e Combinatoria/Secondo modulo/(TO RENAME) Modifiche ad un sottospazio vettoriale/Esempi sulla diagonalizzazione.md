@@ -155,3 +155,37 @@ w=u
 \end{cases}$$
 
 Avremo allora che $E(0)=\{-uE_{{11}}+tE_{21}+uE_{22}\}$ e allora la base di $E(0)$ sarà $-E_{{11}}+E_{{21}}+E_{{22}}$
+
+Ora facciamo un procedimento analogo per $E(-1)$:
+$$\begin{pmatrix}
+2 & 2 & 0 & 1 \\
+1 & 1 & 0 & 1 \\
+1 & 1 & 1 & 1 \\
+1 & 1 & 0 & -2
+\end{pmatrix}*\begin{pmatrix}
+x \\
+y \\
+z \\
+w
+\end{pmatrix}=\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0
+\end{pmatrix}\to \begin{cases}
+2x+2y\phantom{+2z}+\phantom{2}w&=0 \\
+\phantom{2}x+\phantom{2}y\phantom{+2z}+\phantom{2}w&=0 \\
+\phantom{2}x+\phantom{2}y+z+\phantom{2}w&=0 \\
+\phantom{2}x+\phantom{2}y\phantom{+2z}+2w&=0
+\end{cases}$$
+
+Il sistema darà come risultato
+$$\begin{cases}
+x=-t \\
+y=t \\
+z=0 \\
+w=0
+\end{cases}$$
+Quindi avremo che $E(-1)=\{-tE_{11}+tE_{12}\}$ formando la base: $-E_{11}+E_{12}$
+
+
