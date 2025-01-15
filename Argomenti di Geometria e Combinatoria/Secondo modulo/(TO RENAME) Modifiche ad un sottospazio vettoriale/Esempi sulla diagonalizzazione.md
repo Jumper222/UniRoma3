@@ -154,7 +154,7 @@ z=t \\
 w=u
 \end{cases}$$
 
-Avremo allora che $E(0)=\{-uE_{{11}}+tE_{21}+uE_{22}\}$ e allora la base di $E(0)$ sarà $-E_{{11}}+E_{{21}}+E_{{22}}$
+Avremo allora che $E(0)=\{-uE_{{11}}+tE_{21}+uE_{22}\}$ e allora la base di $E(0)$ sarà $-E_{{11}}+E_{{22}};E_{21}$
 
 Ora facciamo un procedimento analogo per $E(-1)$:
 $$\begin{pmatrix}
@@ -186,6 +186,43 @@ y=t \\
 z=0 \\
 w=0
 \end{cases}$$
-Quindi avremo che $E(-1)=\{-tE_{11}+tE_{12}\}$ formando la base: $-E_{11}+E_{12}$
+Quindi avremo che $E(-1)=\{-tE_{11}+tE_{12}\}$ formano la base: $-E_{11}+E_{12}$
 
+Facciamo lo stesso con $E(3)$ e avremo come risultato:
+$$\begin{cases}
+x=\frac{5}{4}t \\
+y=\frac{3}{4}t \\
+z=t \\
+w=t
+\end{cases}$$
+E quindi la base di $E(3)$ sarà: $\frac{5}{4}E_{11}+\frac{3}{4}E_{12}+E_{21}+E_{22}$
 
+Quindi traduciamo tutto con le basi dell’ omomorfismo, moltiplicando i prodotti scalari delle basi con le basi stesse.
+
+Base per $E(0)$:
+$$A_{1}:=\begin{pmatrix}
+-1 & 0 \\
+0 & 1
+\end{pmatrix};A_{2}:=\begin{pmatrix}
+0 & 0 \\
+1 & 0
+\end{pmatrix}$$
+Base per $E(-1)$:
+$$A_{3}:=\begin{pmatrix}
+-1 & 1 \\
+0 & 0
+\end{pmatrix}$$
+Base per $E(3)$:
+$$A_{4}:=\begin{pmatrix}
+\frac{5}{4} & \frac{3}{4} \\
+1 & 1
+\end{pmatrix}$$
+
+Quindi creiamo la matrice di passaggio dalla base canonica a questa base:
+$$M:=\begin{pmatrix}
+-1 & 0 & -1 & \frac{5}{4} \\
+0 & 0 & 1 & \frac{3}{4} \\
+0 & 1 & 0 & 1 \\
+1 & 0 & 0 & 1
+\end{pmatrix}$$
+L’ esercizio è finito.
