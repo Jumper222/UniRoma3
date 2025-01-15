@@ -92,3 +92,19 @@ Quindi la prima condizione è soddisfatta, ora vediamo la seconda, per la radice
 $$dim\ E(0)=4-rk(A-0I)=2$$
 <font color="#f79646">ALLORA</font> abbiamo che $f$ è diagonalizzabile!
 <font color="#ffff00">Ossia</font> $f$ è rappresentabile con una matrice diagonale rispetto ad una base.
+
+E quindi diagonalizziamola!
+
+Abbiamo quindi l’ endomorfismo $f$ che è rappresentabile con la matrice diagonale $D$ rispetto ad una base.
+
+$$D:= \begin{pmatrix}
+0 & 0 & 0 & 0 \\
+0 & 0 & 0 & 0 \\
+0 & 0 & -1 & 0 \\
+0 & 0 & 0 & 3
+\end{pmatrix}$$
+- Ogni autovalore è riportato lungo la diagonale un numero di volte uguale alla sua molteplicità.
+
+Calcoliamo la base rispetto a cui $f$ si rappresenta con la matrice $D$, per farlo dovremo trovare una base per ciascun autospazio ed unirle. Questa base dovrà essere formata da autovettori di $f$.
+
+Iniziamo allora con l’ autospazio di $0$:

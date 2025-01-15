@@ -86,4 +86,4 @@ Rispetto a tale base $f$ si presenta come una matrice diagonale, i cui elementi 
 >     
 
 
-[[Esempi sulla diagonalizzazione]]
+Se si volessero vedere degli [[Esempi sulla diagonalizzazione|esempi]]
