@@ -153,3 +153,5 @@ y=0 \\
 z=t \\
 w=u
 \end{cases}$$
+
+Avremo allora che $E(0)=\{-uE_{{11}}+tE_{21}+uE_{22}\}$ e allora la base di $E(0)$ sarà $-E_{{11}}+E_{{21}}+E_{{22}}$
