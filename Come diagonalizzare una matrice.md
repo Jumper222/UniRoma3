@@ -160,3 +160,5 @@ $$p_{f}(x)=x^2(x-3)(x+1)$$
 Quindi la prima condizione è soddisfatta, ora vediamo la seconda, per la radice 0 di molteplicità 2.
 
 $$dim\ E(0)=4-rk(A-0I)=2$$
+<font color="#f79646">ALLORA</font> abbiamo che $f$ è diagonalizzabile!
+<font color="#ffff00">Ossia</font> $f$ è rappresentabile con una matrice diagonale rispetto ad una base.
