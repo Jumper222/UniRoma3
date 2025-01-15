@@ -90,8 +90,9 @@ Rispetto a tale base $f$ si presenta come una matrice diagonale, i cui elementi 
 > [!osservazione]
 > <font color="#4bacc6">Premessa</font>: Sappiamo già che l’ endomorfismo $f$ è diagonalizzabile.
 > 1. Rispetto ad una base opportuna di $V$, $f$ si rappresenta come una matrice diagonale $D$: gli elementi lungo la diagonale principale sono gli autovalori di $f$, ciascuno riportato un numero di volte pari alla propria molteplicità (uguale alla dim. dell’ autospazio)
-> 2. <font color="#f79646">Determinare una base</font> per ciascun autospazio $E(\lambda_{i})$: risolvere il sistema lineare: $(A-\lambda_{i}I)X=0$ il numero di vettori della base di $E_{i}$ deve coincidere  
-  
+> 2. <font color="#f79646">Determinare una base</font> per ciascun autospazio $E(\lambda_{i})$: risolvere il sistema lineare: $(A-\lambda_{i}I)X=0$ il numero di vettori della base di $E_{i}$ deve coincidere con la dimensione del relativo autospazio.
+> 3. Unire le basi di tutti gli autospazi per avere una base di $V$ formata da autovettori di $f$
+> 4. La matrice $M$ di passaggio (da  $A$ a $D$) dalla base di partenza alla base degli autovettori deve soddisfare la relazione: $D=M^{-1}A\ M$
 
 
 Se si volessero vedere degli [[Esempi sulla diagonalizzazione|esempi]]
