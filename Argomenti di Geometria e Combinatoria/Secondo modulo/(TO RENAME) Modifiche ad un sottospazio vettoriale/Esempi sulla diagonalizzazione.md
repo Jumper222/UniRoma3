@@ -107,4 +107,49 @@ $$D:= \begin{pmatrix}
 
 Calcoliamo la base rispetto a cui $f$ si rappresenta con la matrice $D$, per farlo dovremo trovare una base per ciascun autospazio ed unirle. Questa base dovrà essere formata da autovettori di $f$.
 
+
 Iniziamo allora con l’ autospazio di $0$:
+
+Quello che faremo sarà moltiplicare l’ autospazio di $0$ (Ossia $A-0I$) per un vettore generico ($x,y,z,w$) e li porremo uguali a 0. risolveremo tutto quindi con un sistema.
+
+Matrice dell’ autospazio d 0:
+
+$$A := \begin{pmatrix}
+1 & 2 & 0 & 1 \\
+1 & 0 & 0 & 1 \\
+1 & 1 & 0 & 1 \\
+1 & 1 & 0 & 1
+\end{pmatrix}$$
+Creazione del sistema:
+
+$$ \begin{pmatrix}
+1 & 2 & 0 & 1 \\
+1 & 0 & 0 & 1 \\
+1 & 1 & 0 & 1 \\
+1 & 1 & 0 & 1
+\end{pmatrix}*\begin{pmatrix}
+x \\
+y \\
+z \\
+w
+\end{pmatrix}=\begin{pmatrix}
+0 \\
+0 \\
+0 \\
+0
+\end{pmatrix}\to \begin{cases}
+x+2y+w&=0 \\
+x\phantom{2222.}+w&=0 \\
+x+\phantom{2}y+w&=0 \\
+x+\phantom{2}y+w&=0
+
+\end{cases}$$
+Notiamo che in questo sistema ci sono 2 equazioni linearmente dipendenti, ossia la 3° e 4° riga. Allora possiamo decidere di parametrizzare 2 variabili, in questo caso avremo $z=t$ e $w=u$, da cui deriverà che $x=-u$, ed infine avremo $y=0$
+
+Allora il risultato del sistema sarà:
+$$\begin{cases}
+x=-u \\
+y=0 \\
+z=t \\
+w=u
+\end{cases}$$
