@@ -68,6 +68,22 @@ Rispetto a tale base $f$ si presenta come una matrice diagonale, i cui elementi 
 
 ---
 
+
+### Metodo per individuare se un endomorfismo è diagonalizzabile
+
+> [!osservazione]
+> Sia $f:V\to V$ un endomorfismo di uno spazio vettoriale $v$ di dim. finita $n$.
+> 1. Scegliere $e_{1},e_{2},\dots,e_{n}$ vettori che formano una base di $V$.
+> 2. Calcolare la matrice $A$ rappresentativa di $f$ rispetto la base scelta.
+> 3. Definire il polinomio (di grado $n$) caratteristico di $f:p_{f}(x):=\det(A-xI)$
+> 4. Risolvere $\det(A-xI)=0$. Le soluzioni sono gli autovalori di $f$.
+>     Se $f$ non è totalmente riducibile, $f$ non è diagonalizzabile. <font color="#f79646">STOP</font>
+> 5. Per ciascun autovalore (di molteplicità $>1$) verificare se la sua molteplicità e la dim. del suo autospazio coincidono.
+$$
+>     
+
+
+
 ### <font color="#4bacc6">Esempio 1</font>
 Sia data la matrice $A$ ed il suo polinomio caratteristico:
 $$A := \begin{pmatrix}
@@ -127,7 +143,7 @@ $$dim\ E(0)=4-rk(A-0I)=4-rk\begin{pmatrix}
 
 <font color="#f79646">MA</font> $1\neq 2$, ossia la molteplicità di $0$. quindi abbiamo che $f$ non è diagonalizzabile.
 
-### Esempio 3
+### <font color="#4bacc6">Esempio 3</font>
 Sia dato l’ endomorfismo $f:M(2,2,R)\to M(2,2,R)$:
 $$f\begin{pmatrix}
 a & b \\
