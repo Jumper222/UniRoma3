@@ -51,3 +51,5 @@ Ed un secondo vettore generico $v_{2}$:
 $$v_{2}=k_{1}(2,1,1,4,0)+k_{2}(-1,1,-1,0,2)$$
 che si traduce in:
 $$(2k_{1}-k_{2},k_{1}+k_{2},k_{1}-k_{2},4k_{1},2k_{2})$$
+
+
