@@ -10,6 +10,6 @@ L’ esame richiede basi di:
 - Analisi
 
 Argomenti:
-Meccanica,
+[[Basi di fisica]]
 Dinamica,
 Cinetica
