@@ -7,4 +7,6 @@
 
 Quando si va ad usare il <font color="#ffff00">Dot Product</font> si utilizza l’ angolo più piccolo, e rappresenta la proiezione di un vettore su un altro (il primo sul secondo)
 
-Per trovare il $\cos(\theta)$ dato il $\theta$ maggiore  bisognerebbe conoscere alcune formule trigonometriche: [[Come trovare il theta dall’ angolo complementare]]
+Il <font color="#ffff00">Dot Product</font> è sia <font color="#9bbb59">Commutativo</font> che <font color="#9bbb59">Distributivo</font>
+
+Per trovare il $\cos(\theta)$ dato il $\theta$ maggiore bisognerebbe conoscere alcune formule trigonometriche: [[Come trovare il theta dall’ angolo complementare]]
