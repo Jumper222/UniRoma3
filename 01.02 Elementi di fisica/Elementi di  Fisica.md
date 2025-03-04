@@ -13,3 +13,5 @@ Argomenti:
 [[Basi di fisica]]
 Dinamica,
 Cinetica
+
+[[Note per esame]]
