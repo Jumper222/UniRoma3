@@ -10,4 +10,8 @@ Quindi i <font color="#ffff00">versori</font> saranno nella forma:
 
 ![[Joystick]]
 
+Quando si definisce uno spazio di più dimensioni con i versori essi tra di loro sono sempre ortogonali.
+
+Per quanto riguarda invece i [[Versori in uno spazio tridimensionale]]
+
 
