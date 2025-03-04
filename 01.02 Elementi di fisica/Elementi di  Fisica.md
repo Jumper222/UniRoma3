@@ -14,4 +14,4 @@ Argomenti:
 Dinamica,
 Cinetica
 
-[[Note per esame]]
+[[Note per esame di Fisica]]
