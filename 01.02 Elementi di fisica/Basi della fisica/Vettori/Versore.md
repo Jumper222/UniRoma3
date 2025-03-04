@@ -12,7 +12,7 @@ Quindi i <font color="#ffff00">versori</font> saranno nella forma:
 
 Quando si definisce uno spazio di più dimensioni con i versori essi tra di loro sono sempre ortogonali.
 
-Da questo si ha poi la [[Relazione fondamentale dei versori]]
+Da questo si ha poi la [[Prodotto scalare per se stesso]]
 
 Per quanto riguarda invece i [[Versori in uno spazio tridimensionale]]
 
