@@ -6,9 +6,8 @@ Allora abbiamo queste eguaglianze:
 - $\vec{v}=v*\hat{v}$
 - $\vec{v} \implies \hat{v}=\frac{1}{v}*\vec{v}$
 
-E quindi possiamo usare i versori per scomporre un vettore secondo le sue coordinate cartesiane:
+Quindi i <font color="#ffff00">versori</font> saranno nella forma:
 
-![[Scomposizione di un vettore in coordinate cartesiane]]
+![[Joystick]]
 
-Se volessimo scrivere l’ equazione rappresentata da questo disegno sarebbe:
-$\vec{v}=v_{x}\hat{x}+v_{y}\hat{y}$
+
