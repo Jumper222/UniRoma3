@@ -6,8 +6,14 @@ Il metodo principale per sommare due vettori è il parallelogramma:
 Dati i vettori: $\vec{v}:=\overrightarrow{OA}$ e $\vec{w}:=\overrightarrow{OB}$
 Avremo allora per definizione il vettore $\vec{v}+\vec{w}=\overrightarrow{OC}$.
 Dove C è l’ unico punto del piano tale che OACB sia un parallelogramma.
+Potrebbe essere utile ricordare che si prende l’ altra diagonale del parallelogramma per avere il vettore $\vec{v}-\vec{w}$
 
 ![[Regola del parallelogramma]]
+
+### <font color="#4bacc6">Metodo punta coda</font>
+
+Esiste anche il metodo punta coda, dove si mettono i vari vettori uno dopo l’ altro e si uniscono coda del primo con testa dell’ ultimo
+![[Metodo punta-coda.excalidraw]]
 
 ### <font color="#4bacc6">Casi particolari (Parallelogramma degenere)</font> 
 

@@ -1,5 +1,5 @@
 #Geometria_e_Combinatoria 
-[[Vettore Applicato]]
+[[01.01 Geometria e Combinatoria/Secondo modulo/Vettore Applicato]]
 [[Operazioni con Vettori]]
 [[Rette e piani per l’ origine]]
 [[Punto Medio]]
