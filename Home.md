@@ -3,4 +3,4 @@ In Questo Vault trovi gli appunti di vari esami:
 - [[Geometria e Combinatoria]]
 - [[Fondamenti di Informatica]]
 - [[Probabilità e Statistica]]
-- [[Info generali]]
+- [[Elementi di  Fisica]]
