@@ -6,4 +6,5 @@ In questa situazione se volessimo sapere di quanto si sposta sull’ asse delle 
 Così facendo proietteremo $\vec{v}$ su $x$.
 
 Questo procedimento si può fare con tutti i vettori, creando una proiezione ortogonale:
+![[Scomposizione ortogonale generica.excalidraw]]
 

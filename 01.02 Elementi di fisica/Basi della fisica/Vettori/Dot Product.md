@@ -9,6 +9,11 @@ Quando si va ad usare il <font color="#ffff00">Dot Product</font> si utilizza l�
 
 Il <font color="#ffff00">Dot Product</font> è sia <font color="#9bbb59">Commutativo</font> che <font color="#9bbb59">Distributivo</font>
 
+>[!osservazione]Osservazione:
+>Il prodotto scalare è massimo quando $\theta=0$,
+>vale $0$ quando $\theta=\frac{\pi}{2}$,
+>ed è minimo quando $\theta=\pi$
+
 Per poter descrivere lo spostamento nelllo spazio di un vettore lo si può [[Scomposizione di un vettore nelle coordinate cartesiane]]
 
 Per trovare il $\cos(\theta)$ dato il $\theta$ maggiore bisognerebbe conoscere alcune formule trigonometriche: [[Come trovare il theta dall’ angolo complementare]]
