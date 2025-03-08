@@ -9,3 +9,5 @@ Poniamo che tiriamo un dado a 6 facce:
 
 Un esito si verifica se il mio esperimento si conclude con l’ osservazione di quell’ esito
 Un evento si verifica se si verifica uno dei suoi esiti.
+
+Alcuni [[Esempi sugli eventi]] su cosa è o non è un evento
