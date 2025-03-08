@@ -1,3 +1,4 @@
+#Probabilità_e_statistica
 >[!definizione] Definizione
 >Uno spazio campionario $\Omega$, detto anche degli eventi o degli esiti è un insieme che contiene tutti gli esiti possibili dell’ esperimento in questione.
 >

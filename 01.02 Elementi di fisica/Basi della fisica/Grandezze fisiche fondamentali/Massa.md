@@ -1,4 +1,4 @@
-
+#Elementi_di_Fisica
 >[!Definizione] Definizione
 >Per definire la massa si usa la massa di Planck:
 >$$m_{p}=\sqrt{ \frac{h*c}{2\pi G} }$$

@@ -1,3 +1,4 @@
+#Probabilità_e_statistica
 ### <font color="#4bacc6">Unione</font>:
 $$\forall E,F \subset \Omega \quad E\cup F \subset \Omega$$
 - L’ unione di due eventi è un evento, che si verifica se uno dei due eventi si verifica.

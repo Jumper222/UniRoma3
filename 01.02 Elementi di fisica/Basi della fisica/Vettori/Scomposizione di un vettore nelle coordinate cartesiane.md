@@ -1,3 +1,4 @@
+#Elementi_di_Fisica
 Uno degli utilizzi più frequenti del [[Dot Product]] è quello di scomporre un vettore nelle sue componenti del piano cartesiano, le [[Coordinate Cartesiane]] con effetto molto simile all’ ottenere una combinazione lineare di un vettore nelle sue basi canoniche.
 
 ![[Scomposizione di un vettore in coordinate cartesiane]]

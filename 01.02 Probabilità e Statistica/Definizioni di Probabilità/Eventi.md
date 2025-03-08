@@ -1,3 +1,4 @@
+#Probabilità_e_statistica
 >[!definizione] Definizione
 >Un evento è composto da più esiti, e rappresenta i sottoinsiemi di $\Omega$
 

@@ -1,3 +1,4 @@
+#Elementi_di_Fisica
 Le <font color="#ffff00">coordinate polari </font>sono un modo per definire un vettore in uno spazio cartesiano usando l’ <font color="#9bbb59">angolo</font> $\theta$ formato con l’ asse delle $x$ ed il suo <font color="#4bacc6">modulo</font>:
 $$\vec{v}=(\theta,v)$$
 

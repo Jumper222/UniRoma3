@@ -1,3 +1,4 @@
+#Elementi_di_Fisica
 Oggi con gli strumenti moderni conosciamo un metodo “Assoluto” per poter calcolare il valore di tempo di un secondo:
 
 
