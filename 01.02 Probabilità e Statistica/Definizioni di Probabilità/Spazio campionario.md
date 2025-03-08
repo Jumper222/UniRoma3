@@ -22,6 +22,17 @@ $$\Omega=\{Tutte \ le \ permutazioni\ di\ c_{1}\dots,c_{29}\}$$
 In questo caso la cardinalità sarà $|\Omega|=29!$
 
 ---
+
 O magari se volessimo calcolare quanti calci di rigore ci vorrebbero per segnare allora avremmo:
 $$\Omega =\{1,2,\dots\}=\mathbb{N}$$
-Allora la cardinalità sarà $\infty$, Questo è un caso di [[Infinito Numerabile o non Numerabile]]
+Allora la cardinalità sarà $\infty$, Questo è un caso di [[Infinito Numerabile o non Numerabile|Infinito numerabile]]
+
+---
+
+O magari se volessimo calcolare la temperatura di una stanza avremmo
+$$\Omega=[0,\infty)$$
+Qui la cardinalità sarà $\mathbb{R_{+}}$, che è un [[Infinito Numerabile o non Numerabile|Infinito non numerabile]].
+
+---
+
+Un singolo avvenimento interno ad un dato spazio campionario è chiamato [[Evento probabilistico]]
