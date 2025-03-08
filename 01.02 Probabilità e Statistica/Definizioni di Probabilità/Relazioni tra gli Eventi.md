@@ -20,4 +20,13 @@ $$\forall E \subset \Omega \quad E^c=(\Omega \setminus E)\subset \Omega$$
 - Il complementare di un evento è un evento, che si verifica se $E$ non si verifica.
 
 ### <font color="#4bacc6">Sottoinsiemi</font>:
-$$\forall E,F \subset \Omega \quad E\cap F \subset \Omega$$
+$$\forall E \subset \Omega\quad F\subset E$$
+- Il sottoinsieme di un evento è un evento, E se si verifica $F$ allora si verifica anche $E$.
+
+### <font color="#4bacc6">Uguaglianza</font>:
+$$\forall E,F \subset \Omega \quad se \quad F\subset E,E\subset F$$
+- In questo caso $E,F$ sono lo stesso evento.
+
+Tutti questi concetti si generalizzano facilmente tra più insiemi:
+- Se si ha $E_{1}\cup E_{2}\cup E_{3}$, esso avverrà quando $E_{1}$ o $E_{2}$ o $E_{3}$ avvengono
+- Se si ha $E_{1}\cap E_{2}\cap E_{3}$, esso avverrà quando $E_{1}$ e $E_{2}$ e $E_{3}$ avvengono
