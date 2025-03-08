@@ -4,4 +4,4 @@ Quindi, per uno spazio tridimensionale:
 - $\hat{y}\cdot \hat{y}=1$
 - $\hat{z}\cdot \hat{z}=1$
 Qui allora abbiamo la relazione fondamentale dei versori:
-$$|\vec{v}|^2=\vec{v}\cdot \vec{v}$$
+$$|\hat{v}|^2=\hat{v}\cdot \hat{v}=1$$

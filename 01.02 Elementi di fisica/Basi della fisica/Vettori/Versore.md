@@ -10,7 +10,7 @@ Quindi i <font color="#ffff00">versori</font> saranno nella forma:
 
 ![[Joystick]]
 
-Quando si definisce uno spazio di più dimensioni con i versori essi tra di loro sono sempre ortogonali.
+Quando si definisce uno spazio o un [[Spazio di Riferimento]] di più dimensioni con i versori essi tra di loro sono sempre ortogonali.
 
 Da questo si ha poi la [[Prodotto scalare per se stesso]]
 
