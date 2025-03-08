@@ -2,6 +2,9 @@
 >Uno spazio campionario $\Omega$, detto anche degli eventi o degli esiti è un insieme che contiene tutti gli esiti possibili dell’ esperimento in questione.
 >
 
+I sottoinsiemi o singoli elementi di $\Omega$ sono chiamati [[Eventi]]
+
+
 Ad esempio, per il lancio di una moneta si avrà:
 
 $$\Omega=\{T,C\}$$
