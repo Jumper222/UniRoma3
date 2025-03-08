@@ -36,4 +36,4 @@ Qui la cardinalità sarà $\mathbb{R_{+}}$, che è un [[Infinito Numerabile o no
 
 ---
 
-Un singolo avvenimento interno ad un dato spazio campionario è chiamato [[Evento probabilistico]]
+Un singolo avvenimento interno ad un dato spazio campionario è chiamato [[Eventi]]

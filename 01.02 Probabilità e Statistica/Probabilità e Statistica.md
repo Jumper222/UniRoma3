@@ -7,4 +7,4 @@ Tutorato: (?)
 
 Argomenti:
 [[Definizioni di Probabilità]]
-[[Note per esame di Fisica]]
+[[Note per Esame di Statistica]]
