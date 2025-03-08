@@ -8,7 +8,7 @@ $$\forall E,F \subset \Omega \quad E\cup F \subset \Omega$$
 $$\forall E,F \subset \Omega \quad E\cap F \subset \Omega$$
 - L’ intersezione di due eventi è un evento, che si verifica se entrambi si verificano.
 
-![[Intersezione degli Eventi.excalidraw 1]]
+![[Intersezione degli Eventi.excalidraw]]
 
 ### <font color="#4bacc6">Eventi mutualmente esclusivi</font>:
 - Nel caso in cui $E\cap F=\emptyset$
@@ -19,11 +19,13 @@ $$\forall E,F \subset \Omega \quad E \setminus F \subset \Omega$$
 - La differenza tra due eventi è un evento, dove si verifica $E$ ma non $F$.
      - [!] $E\setminus F\neq F\setminus E$
 
-![[Differenza tra Eventi.excalidraw 2]]
+![[Differenza tra Eventi.excalidraw]]
 
 ### <font color="#4bacc6">Complementarità</font>:
 $$\forall E \subset \Omega \quad E^c=(\Omega \setminus E)\subset \Omega$$
 - Il complementare di un evento è un evento, che si verifica se $E$ non si verifica.
+
+![[Evento Complementare.excalidraw]]
 
 ### <font color="#4bacc6">Sottoinsiemi</font>:
 $$\forall E \subset \Omega\quad F\subset E$$
