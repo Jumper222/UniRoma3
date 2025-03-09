@@ -24,7 +24,9 @@ $$\Omega=\begin{pmatrix}
 \vdots & \vdots &  & \vdots \\
 (11,1) & (11,2) & \dots & (11,10)
 \end{pmatrix}$$
-Quindi $$|\Omega|=\underbrace{11}_{\text{Scelte per la 1° pallina}}*\underbrace{10}_{\text{scelte per la 2° pallina}}$$
+Quindi $$|\Omega|=\underbrace{11}_{\text{Scelte per la 1° pallina}}*\underbrace{10}_{\text{scelte per la 2° pallina}}=110$$
+Questa è una [[Permutazioni Semplici|permutazione semplice]], che si ha in generale per ogni $|\Omega|$ di uno [[Spazio equiprobabile]]
+
 Allora $E$: Estraggo 1 bianca e 1 nera, non necessariamente in questo ordine
-$|E|=6*5+5*6=60$,
+$|E|=6*5+5*6=60$, Questa è una [[Permutazioni Semplici]]
 $\mathbb{P}(E)=\frac{60}{110}$
