@@ -30,3 +30,19 @@ Questa è una [[Permutazioni Semplici|permutazione semplice]], che si ha in gene
 Allora $E$: Estraggo 1 bianca e 1 nera, non necessariamente in questo ordine
 $|E|=6*5+5*6=60$
 $\mathbb{P}(E)=\frac{60}{110}$, questa è una [[Disposizioni Semplici|disposizione semplice]]
+
+--- 
+Un altro esempio potrebbe essere:
+$c_{1},\dots,c_{29}$ sono i partecipanti al festival di Sanremo
+Allora vi saranno $29!$ classifiche finali possibili.
+
+In generale possiamo dire che ci sono $n!$ modi di ordinare $n$ oggetti distinti.
+
+
+Allora adesso cerchiamo di sapere quanti sono gli esiti possibili per la top 5, quindi conterà l’ ordine:
+Vi saranno $29*28*27*26*25$ esiti possibili, rispettivamente per la 1°,2°,3°,4°,5° scelta
+
+Generalmente quindi ci sono $D_{n,k}=\frac{n!}{(n-k)!}$ modi di disporre una classifica di $k$ oggetti da un gruppo di $n$.
+
+
+Allora ora ci chiediamo quanti sono gli esiti possibili per la 
