@@ -73,4 +73,7 @@ $I^c$: non inclini ad avere  incidenti ($70\%$ del totale)
 
 allora quale è la probabilità che una persona a caso faccia almeno un incidente quest’ anno?
 $A$: “Fa un incidente quest’anno”
-$$\mathbb{P}(A)=\mathbb{P}(I)\mathbb{P}(A|I)+\mathbb{P}(I^c)\mathbb{P}(A|I^c)=0,3*0,4+0,7*0,2=$$
+$$\mathbb{P}(A)=\mathbb{P}(I)\mathbb{P}(A|I)+\mathbb{P}(I^c)\mathbb{P}(A|I^c)=0,3*0,4+0,7*0,2=0,26$$
+Supponiamo invece che un assicurato abbia già fatto un’ incidente quest’anno, qual’è la probabilità che sia incline ad avere incidenti?
+$$\mathbb{P}(I|A)=\frac{\mathbb{P}(I\cap A)}{\mathbb{P}(A)}=\frac{\mathbb{P}(A|I)\mathbb{P}(I)}{\mathbb{P}(A)}=\frac{0,3*0,4}{0,26}=0,46$$
+
