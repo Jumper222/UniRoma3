@@ -12,3 +12,10 @@ La funzione $\mathbb{P}$ verifica i seguenti assiomi:
 Da questo 3° assioma si ha la seguente generalizzazione:
 - Se $\forall E_{1},E_{2},\dots,E_{n}\subset \Omega$ tali che $E_{i}\cap E_{j}=\emptyset$, $\forall i,j\leq n$ tali che  $i\neq j$ Allora avremo che:
 $$\mathbb{P}\left( \bigcup_{i=1}^n E_{i}\right)=\sum_{i=1}^n\mathbb{P}(E_{i})$$
+Ossia che la probabilità che deriva dall’ unione di $n$ [[Eventi]] è la stessa che deriva dalla somma delle loro singole probabilità. Questa affermazione deve essere verificata anche per $n=\infty$
+
+>[!osservazione] Osservazione:
+>Dati i 3 assiomi allora avremo che
+>$\forall E\subset \Omega$, $\mathbb{P}(E^c)=1-\mathbb{P}(E)$
+>Ossia che dato un qualsiasi [[Eventi|Evento]] Il suo [[Relazioni tra gli Eventi#<font color=" 4bacc6">Complementarità</font>|Evento complementare]] sarà 1 - la probabilità di quell’ evento.
+
