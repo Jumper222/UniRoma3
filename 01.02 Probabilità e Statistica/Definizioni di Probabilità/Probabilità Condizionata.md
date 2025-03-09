@@ -12,7 +12,13 @@ Questo implica che lo [[Spazio campionario]] si riduca, divenendo grande quanto 
 
 ---
 
-<font color="#e36c09">NOTA</font>: Poiché $\forall E,F\subset \Omega$ con $F\neq \emptyset$
+<font color="#e36c09">NOTA</font>: Poiché $\forall E,F\subset \Omega$ con $F\neq \emptyset$, allora abbiamo che:
+$$\mathbb{P}(E|F)=\frac{\mathbb{P}(E\cap F)}{\mathbb{P}(F)}$$
+Posso quindi calcolare che la probabilità di $E\cap F$:
+$$\mathbb{P}(E\cap F)=\mathbb{P}(F)*\mathbb{P}(E|F)$$
+---
+<font color="#e36c09">NOTA</font>: Poiché $\forall E,F\subset \Omega$, con $F\neq \emptyset$
+
 
 
 Facciamo qualche esempio:

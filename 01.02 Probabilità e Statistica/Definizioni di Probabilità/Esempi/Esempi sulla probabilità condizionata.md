@@ -54,3 +54,13 @@ So che $A$: “Almeno uno dei figli è M” si è verificato
 Allora: $$\mathbb{P}(\{(M,M)\}|A)=\frac{\mathbb{P}(\{(M,M)\}\cap A)}{\mathbb{P}(A)}=\frac{|\{(M,M)\}|}{|\{(M,M),(M,F),(F,M)\}|}=\frac{1}{3}$$
 Supponiamo allora di sapere che il figlio che abbiamo incontrato sia il primogenito, Allora:
 $$\mathbb{P}(\{M,M\}|B)=\frac{\mathbb{P}(\{(M,M)\}\cap B)}{\mathbb{P}(B)}=\frac{1}{2}$$
+
+### <font color="#4bacc6">Esempio 4</font>:
+Alice stima che ci sia:
+il $30\%$ di prob. che la sua azienda apra una nuova sede
+il $60\%$ di prob. di diventare manager della nuova sede, nel caso in cui venga aperta.
+Qual’è la probabilità che Alice diventi manager della nuova sede?
+$M$: “Diventa Manager”
+$S$: “La sede apre”
+
+$$\mathbb{P}(M\cap S)=\mathbb{P}(S)\mathbb{P}(M|S)=0.3*0.6=0.18$$
