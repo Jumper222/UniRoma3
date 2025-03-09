@@ -12,7 +12,8 @@ Questo implica che lo [[Spazio campionario]] si riduca, divenendo grande quanto 
 
 ---
 
-<font color="#e36c09">NOTA</font>:
+<font color="#e36c09">NOTA</font>: Poiché $\forall E,F\subset \Omega$ con $F\neq \emptyset$
+
 
 Facciamo qualche esempio:
 
