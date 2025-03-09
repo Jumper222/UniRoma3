@@ -36,13 +36,20 @@ Un altro esempio potrebbe essere:
 $c_{1},\dots,c_{29}$ sono i partecipanti al festival di Sanremo
 Allora vi saranno $29!$ classifiche finali possibili.
 
-In generale possiamo dire che ci sono $n!$ modi di ordinare $n$ oggetti distinti.
+- In <font color="#f79646">generale</font> possiamo dire che ci sono $n!$ modi di ordinare $n$ oggetti distinti.
 
 
 Allora adesso cerchiamo di sapere quanti sono gli esiti possibili per la top 5, quindi conterà l’ ordine:
 Vi saranno $29*28*27*26*25$ esiti possibili, rispettivamente per la 1°,2°,3°,4°,5° scelta
 
-Generalmente quindi ci sono $D_{n,k}=\frac{n!}{(n-k)!}$ modi di disporre una classifica di $k$ oggetti da un gruppo di $n$.
+- <font color="#f79646">Generalmente</font> quindi ci sono $D_{n,k}=\frac{n!}{(n-k)!}$ modi di disporre una classifica di $k$ oggetti da un gruppo di $n$.
 
 
-Allora ora ci chiediamo quanti sono gli esiti possibili per la 
+Allora ora ci chiediamo quanti sono gli esiti possibili per la top 5 se non tengo conto dell’ ordine.
+Il processo logico sarà quello di dividere $D_{29,5}$ per il numero di modi di ordinare i primi 5 classificati,
+
+Ci saranno quindi $\frac{29!}{(29-5)!5!}$ esiti totali possibili.
+
+- <font color="#f79646">Generalmente</font> allora possiamo dire che ci sono $C_{n,k}=\binom{n}{k}=\frac{n!}{(n-k)!k!}$  modi di scegliere $k$ oggetti da un gruppo di $n$ (Questa è una [[Combinazioni Semplici|combinazione semplice]])
+
+Una generalizzazione di questo concetto si ha con il [[Coefficiente Multinomiale|coefficiente multinomiale]]
