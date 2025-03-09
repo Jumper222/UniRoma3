@@ -1,6 +1,6 @@
 #Elementi_di_Fisica
 Per <font color="#9bbb59">coordinate cartesiane</font> si intende semplicemente di quanto il <font color="#f79646">vettore</font> si sposti sulla asse delle <font color="#ffff00">x</font> o <font color="#ffff00">y</font>:
-$$\vec{v}=\vec{v}_{x}\cdot \vec{v}_{y}$$
+$$\vec{v}=\vec{v}_{x}+ \vec{v}_{y}$$
 In questo caso si usa $\vec{v}_{x}$ per rappresentare un <font color="#f79646">vettore</font> che otterrà modulo e direzione dal [[Dot Product]] tra $\vec{v}\cdot \hat{x}$, poi diventerà <font color="#f79646">vettore</font>.
 
 Allora possiamo anche scriverlo come:
