@@ -28,5 +28,5 @@ Quindi $$|\Omega|=\underbrace{11}_{\text{Scelte per la 1° pallina}}*\underbrace
 Questa è una [[Permutazioni Semplici|permutazione semplice]], che si ha in generale per ogni $|\Omega|$ di uno [[Spazio equiprobabile]]
 
 Allora $E$: Estraggo 1 bianca e 1 nera, non necessariamente in questo ordine
-$|E|=6*5+5*6=60$, Questa è una [[Permutazioni Semplici]]
-$\mathbb{P}(E)=\frac{60}{110}$
+$|E|=6*5+5*6=60$
+$\mathbb{P}(E)=\frac{60}{110}$, questa è una [[Disposizioni Semplici|disposizione semplice]]
