@@ -10,3 +10,10 @@ In una classe:
 - il $28\%$ delle persone fumano sigarette
 - il $7\%$ IQOS
 - il $5\%$ sigarette ed IQOS
+
+Allora definiamo:
+- $E$: è fumatore di sigarette
+- $F$: è fumatore di IQOS
+- $E\cap F$ è fumatore di sigarette e di IQOS
+
+Domanda
