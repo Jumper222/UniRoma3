@@ -4,3 +4,9 @@
 >$$\mathbb{P}(E)=\frac{|E|}{|\Omega|}$$
 >Ossia la probabilità che un dato evento accada è data dal numero totale di esiti in quell’ evento diviso il numero totale di evento dentro $\Omega$
 
+Facciamo un semplice esempio:
+
+In una classe:
+- il $28\%$ delle persone fumano sigarette
+- il $7\%$ IQOS
+- il $5\%$ sigarette ed IQOS
