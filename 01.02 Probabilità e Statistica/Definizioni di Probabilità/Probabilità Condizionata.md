@@ -17,6 +17,15 @@ Facciamo qualche esempio:
 
 Lancio 2 dadi, uno rosso ed uno blu, allora:
 $|\Omega|=6*6=36$ 
-Supponiamo che gli eventi siano equiprobabili,
+Supponiamo che gli eventi siano equiprobabili, Consideriamo l’ evento $E$:
+
 $E$: “La somma dei dadi da 8”=$\{(2,6),(3,5),(4,4),(5,3),(6,2)\}$
 Abbiamo quindi che $\mathbb{P}(E)=\frac{5}{36}$
+
+Ora  consideriamo un evento $F$: 
+
+$F$: “Il dado rosso da 3” = $\{(3,1),(3,2),(3,3),(3,4),(3,5),(3,6)$
+
+Quanto vale $\mathbb{P}(E)$ se so che $F$ si verifica?
+
+Varrà $
