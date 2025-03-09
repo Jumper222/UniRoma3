@@ -27,5 +27,17 @@ $$\mathbb{P}(E)=\frac{\binom{11}{2}\binom{10}{2}\binom{8}{1}}{\binom{29}{5}}$$
 Facciamo un secondo esempio:
 
 In un campionato di 20 squadre:
-- Ne stanno $8$ del nord $(n_{1},\dots ,n_{8})$
-- Ne stanno $5$ del cn
+
+- Ne stanno $8$ del nord $(n_{1}\dots n_{8})$
+- Ne stanno $5$ del centro $(c_{1}\dots c_{5})$
+- Ne stanno $7$ del sud $(s_{1}\dots s_{7})$
+
+Supponendo che le varie squadre siano indistinguibili tra loro, quanti sono gli esiti possibili per la classifica di campionato?
+
+$20!$ classifiche possibili (se distinguiamo le squadre)
+però ci sono:
+- $8!$ modi per ordinare le squadre del nord
+- $5!$ modi per ordinare le squadre del centro
+- $7!$ modi per ordinare le squadre del sud
+
+Allora: $$|\Omega|=\frac{20!}{8!5!7!}$$
