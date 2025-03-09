@@ -7,6 +7,4 @@
 >Le possibilità che un qualsiasi singolo esito accada sarà quindi di:
 >$$\frac{1}{|\Omega|}$$
 
-
-
-
+In uno spazio equiprobabile si ha il [[Principio fondamentale del calcolo combinatorio]]
