@@ -64,3 +64,13 @@ $M$: “Diventa Manager”
 $S$: “La sede apre”
 
 $$\mathbb{P}(M\cap S)=\mathbb{P}(S)\mathbb{P}(M|S)=0.3*0.6=0.18$$
+
+### <font color="#4bacc6">Esempio 5</font>:
+
+Supponiamo che gli assicurati possano dividersi in due categorie:
+$I$: inclini ad avere incidenti ($30\%$ del totale)
+$I^c$: non inclini ad avere  incidenti ($70\%$ del totale)
+
+allora quale è la probabilità che una persona a caso faccia almeno un incidente quest’ anno?
+$A$: “Fa un incidente quest’anno”
+$$\mathbb{P}(A)=\mathbb{P}(I)\mathbb{P}(A|I)+\mathbb{P}(I^c)\mathbb{P}(A|I^c)=0,3*0,4+0,7*0,2=$$
