@@ -14,4 +14,7 @@ Da questa figura notiamo subito che se calcolassimo la probabilità di $E+F$ ci 
 $\mathbb{P}(E\cup F)=\mathbb{P}(A\cup B\cup C)=\mathbb{P}(A)+\mathbb{P}(B)+\mathbb{P}(C)$
 - $\mathbb{P}(E)=\mathbb{P}(A\cup B)=\mathbb{P}(A)+\mathbb{P}(B)$
 - $\mathbb{P}(F)=\mathbb{P}(B\cup C)=\mathbb{P}(B)+\mathbb{P}(C)$
-Già qua notiamo che stiamo contando $\mathbb{P}(B)$ 2 volte
+Già qua notiamo che stiamo contando $\mathbb{P}(B)$ 2 volte, continuiamo:
+- $\mathbb{P}(E\cup F)=\mathbb{P}(E)+\mathbb{P}(F)-\mathbb{P}(B)$, Allora:
+- $\mathbb{P}(E)+\mathbb{P}(F)-\mathbb{P}(E\cap F)$
+<font color="#ffff00">Dimostrazione  finita!</font>

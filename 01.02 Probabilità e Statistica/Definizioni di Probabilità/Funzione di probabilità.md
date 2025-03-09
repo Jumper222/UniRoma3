@@ -20,3 +20,5 @@ Ossia che la probabilità che deriva dall’ unione di $n$ [[Eventi]] è la stes
 >Ossia che dato un qualsiasi [[Eventi|Evento]] Il suo [[Relazioni tra gli Eventi#<font color=" 4bacc6">Complementarità</font>|Evento complementare]] sarà 1 - la probabilità di quell’ evento.
 
 Quando si va a calcolare la probabilità di più eventi bisogna prestare particolare attenzione al [[Principio di inclusione-esclusione]]
+
+Nel caso in cui le probabilità di tutti gli esisti sia uguale, si avrà uno [[Spazio equiprobabile]]
