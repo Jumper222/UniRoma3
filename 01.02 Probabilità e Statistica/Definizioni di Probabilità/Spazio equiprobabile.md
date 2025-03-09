@@ -8,3 +8,4 @@
 >$$\frac{1}{|\Omega|}$$
 
 In uno spazio equiprobabile si ha il [[Principio di enumerazione]]
+Si ha anche la [[Formula di fattorizzazione delle probabilità]]
