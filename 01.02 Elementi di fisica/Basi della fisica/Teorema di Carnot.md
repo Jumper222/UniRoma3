@@ -1,3 +1,4 @@
+#Elementi_di_Fisica
 Il teorema di  Carnot è una generalizzazione del triangolo di Pitagora:
 
 ![[01.02 Elementi di fisica/Immagini/Teorema di Carnot|Teorema di Carnot]]

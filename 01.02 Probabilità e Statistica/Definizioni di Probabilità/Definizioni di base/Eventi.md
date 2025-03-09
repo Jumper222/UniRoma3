@@ -1,4 +1,5 @@
->[!definizione] Definizione
+#Probabilità_e_statistica
+>[!definizione]  Definizione
 >Un evento è composto da più esiti, e rappresenta i sottoinsiemi di $\Omega$
 
 Essi si dividono in 3 tipi:
@@ -9,3 +10,5 @@ Poniamo che tiriamo un dado a 6 facce:
 
 Un esito si verifica se il mio esperimento si conclude con l’ osservazione di quell’ esito
 Un evento si verifica se si verifica uno dei suoi esiti.
+
+Quando più eventi interagiscono insieme si ha una [[Relazioni tra gli Eventi|Relazione tra gli Eventi]]

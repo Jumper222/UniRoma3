@@ -1,3 +1,4 @@
+#Elementi_di_Fisica
 Essendo che in uno spazio tutti i versori sono ortogonali tra di loro, il [[Dot Product]] tra di loro è sempre uguale a 0,
 Quindi, per uno spazio tridimensionale:
 - $\hat{x}\cdot \hat{x}=1$

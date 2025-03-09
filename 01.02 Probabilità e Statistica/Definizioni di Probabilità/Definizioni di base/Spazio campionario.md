@@ -1,3 +1,4 @@
+#Probabilità_e_statistica
 >[!definizione] Definizione
 >Uno spazio campionario $\Omega$, detto anche degli eventi o degli esiti è un insieme che contiene tutti gli esiti possibili dell’ esperimento in questione.
 >
@@ -35,4 +36,4 @@ Qui la cardinalità sarà $\mathbb{R_{+}}$, che è un [[Infinito Numerabile o no
 
 ---
 
-Un singolo avvenimento interno ad un dato spazio campionario è chiamato [[Evento probabilistico]]
+Un singolo avvenimento interno ad un dato spazio campionario è chiamato [[Eventi]]

@@ -1,4 +1,4 @@
-
+#Elementi_di_Fisica
 >[!Definizione] Definizione
 >Il <font color="#ffff00">Dot Product</font>, anche detto prodotto scalare è una operazione che prende in input 2 vettori per dare in output uno scalare, e si indica con $\cdot$
 >L’ operazione sarà quindi nella forma: $\vec{v}\cdot \vec{w}=a$ dove $a$ è uno scalare.
@@ -14,6 +14,8 @@ Il <font color="#ffff00">Dot Product</font> è sia <font color="#9bbb59">Commuta
 >vale $0$ quando $\theta=\frac{\pi}{2}$,
 >ed è minimo quando $\theta=\pi$
 
-Per poter descrivere lo spostamento nelllo spazio di un vettore lo si può [[Scomposizione di un vettore nelle coordinate cartesiane]]
+Per poter descrivere lo spostamento nello spazio di un vettore lo si può [[Scomposizione di un vettore nelle coordinate cartesiane|scomporre in coordinate cartesiane]]
 
-Per trovare il $\cos(\theta)$ dato il $\theta$ maggiore bisognerebbe conoscere alcune formule trigonometriche: [[Come trovare il theta dall’ angolo complementare]]
+Per trovare il $\cos(\theta)$ dato il $\theta$ maggiore bisognerebbe conoscere alcune formule trigonometriche: [[Come trovare il theta dall’ angolo complementare]]. 
+
+Il <font color="#ffff00">Dot Product</font> è fondamentale per il [[01.02 Elementi di fisica/Basi della fisica/Teorema di Carnot|Teorema di Carnot]]
