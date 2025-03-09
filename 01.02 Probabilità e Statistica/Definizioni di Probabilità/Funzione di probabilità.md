@@ -22,3 +22,5 @@ Ossia che la probabilità che deriva dall’ unione di $n$ [[Eventi]] è la stes
 Quando si va a calcolare la probabilità di più eventi bisogna prestare particolare attenzione al [[Principio di inclusione-esclusione]]
 
 Nel caso in cui le probabilità di tutti gli esisti sia uguale, si avrà uno [[Spazio equiprobabile]]
+
+In alcuni esercizi il concetto di [[Probabiltà Condizionata|probabilità condizionata]] è fondamentale
