@@ -9,3 +9,4 @@
 
 In uno spazio equiprobabile si ha il [[Principio di enumerazione]]
 Si ha anche la [[Formula di fattorizzazione delle probabilità]]
+E la fondamentale [[Formula di Bayes]]
