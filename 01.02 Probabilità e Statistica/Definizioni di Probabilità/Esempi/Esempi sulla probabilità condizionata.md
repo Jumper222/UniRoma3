@@ -48,3 +48,9 @@ ciascuno dei due figli/e ha $50\%$ probabilità di essere M e $50\%$ di essere F
 $\Omega=\{(M,M),(F,M),(M,F),(F,F)\}$
 Ora supponiamo di aver incontrato uno dei figli, e che esso sia M.
 Quale è la probabilità che anche l’ altro sia M?
+
+So che $A$: “Almeno uno dei figli è M” si è verificato
+
+Allora: $$\mathbb{P}(\{(M,M)\}|A)=\frac{\mathbb{P}(\{(M,M)\}\cap A)}{\mathbb{P}(A)}=\frac{|\{(M,M)\}|}{|\{(M,M),(M,F),(F,M)\}|}=\frac{1}{3}$$
+Supponiamo allora di sapere che il figlio che abbiamo incontrato sia il primogenito, Allora:
+$$\mathbb{P}(\{M,M\}|B)=\frac{\mathbb{P}(\{(M,M)\}\cap B)}{\mathbb{P}(B)}=\frac{1}{2}$$

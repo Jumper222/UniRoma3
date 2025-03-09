@@ -12,6 +12,8 @@ Questo implica che lo [[Spazio campionario]] si riduca, divenendo grande quanto 
 
 ---
 
+<font color="#e36c09">NOTA</font>:
+
 Facciamo qualche esempio:
 
 [[Esempi sulla probabilità condizionata]]
