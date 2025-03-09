@@ -23,4 +23,4 @@ Quando si va a calcolare la probabilità di più eventi bisogna prestare partico
 
 Nel caso in cui le probabilità di tutti gli esisti sia uguale, si avrà uno [[Spazio equiprobabile]]
 
-In alcuni esercizi il concetto di [[Probabiltà Condizionata|probabilità condizionata]] è fondamentale
+In alcuni esercizi il concetto di [[Probabilità Condizionata|probabilità condizionata]] è fondamentale
