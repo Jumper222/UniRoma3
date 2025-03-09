@@ -41,3 +41,15 @@ però ci sono:
 - $7!$ modi per ordinare le squadre del sud
 
 Allora: $$|\Omega|=\frac{20!}{8!5!7!}$$
+
+Ora continuando questo problema, qual’è la possibilità che le prime 4 classificate siano tutte squadre del Nord? (assumendo sempre che le squadre siano equiparabili)
+
+Lo spazio campionario rimane uguale, però mi rimarranno $16$ squadre:
+- $4$ del nord
+- $5$ del centro
+- $7$ del sud
+
+Allora avrò $$\binom{16}{4,5,7}$$ modi di ordinare queste rimanenti squadre.
+
+Infine la probabilità la calcoleremo: $$\mathbb{P}(E)=\frac{\binom{16}{4,5,7}}{\binom{20}{8,5,7}}=\frac{16!}{4!5!7!}*\frac{8!5!7!}{20!}=\frac{5*6*7*8}{17*18*19*20}$$
+<font color="#f79646">L’ esercizio è finito.</font>
