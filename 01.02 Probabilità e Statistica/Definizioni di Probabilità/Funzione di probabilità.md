@@ -19,3 +19,4 @@ Ossia che la probabilità che deriva dall’ unione di $n$ [[Eventi]] è la stes
 >$\forall E\subset \Omega$, $\mathbb{P}(E^c)=1-\mathbb{P}(E)$
 >Ossia che dato un qualsiasi [[Eventi|Evento]] Il suo [[Relazioni tra gli Eventi#<font color=" 4bacc6">Complementarità</font>|Evento complementare]] sarà 1 - la probabilità di quell’ evento.
 
+Quando si va a calcolare la probabilità di più eventi bisogna prestare particolare attenzione al [[Principio di inclusione-esclusione]]
