@@ -17,9 +17,11 @@ $$\mathbb{P}(E|F)=\frac{\mathbb{P}(E\cap F)}{\mathbb{P}(F)}$$
 Posso quindi calcolare che la probabilità di $E\cap F$:
 $$\mathbb{P}(E\cap F)=\mathbb{P}(F)*\mathbb{P}(E|F)$$
 ---
-<font color="#e36c09">NOTA</font>: Poiché $\forall E,F\subset \Omega$, con $F\neq \emptyset$
+<font color="#e36c09">NOTA</font>: Poiché $\forall E,F\subset \Omega$, con $F\neq \emptyset$, Abbiamo che:
+$$E={\color{Cyan} \underline{(E\cap F)}}\cup {\color{Orange} \underline{(E\cap F^c)}}$$
+![[Probabilità Condizionata disgiunzione.excalidraw]]
 
-
+(Questa formula ha senso visto che $E\cap F$ e $E\cap F^c$ sono disgiunti)
 
 Facciamo qualche esempio:
 
