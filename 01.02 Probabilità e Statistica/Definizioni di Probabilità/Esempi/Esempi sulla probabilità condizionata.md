@@ -1,3 +1,4 @@
+#Probabilità_e_statistica 
 ### <font color="#4bacc6">Esempio 1</font>:
 
 Lancio 2 dadi, uno rosso ed uno blu, allora:
@@ -40,4 +41,10 @@ Sarà tale che: $$\mathbb{P}(A|G^c)=\frac{\mathbb{P}(A\cap G^c)}{\mathbb{P}(G^c)
 In questi casi il nuovo spazio campionario si indica con $\widetilde{\Omega}$, quindi abbiamo che $|\widetilde{\Omega}|=35$
 Lo spazio rimane equiprobabile, perciò: $$\widetilde{\mathbb{P}}(A)=\frac{25}{25+10}=\frac{25}{35}$$
 
+### <font color="#4bacc6">Esempio 3</font>:
 
+Un signore ha 2 figli/e
+ciascuno dei due figli/e ha $50\%$ probabilità di essere M e $50\%$ di essere F.
+$\Omega=\{(M,M),(F,M),(M,F),(F,F)\}$
+Ora supponiamo di aver incontrato uno dei figli, e che esso sia M.
+Quale è la probabilità che anche l’ altro sia M?
