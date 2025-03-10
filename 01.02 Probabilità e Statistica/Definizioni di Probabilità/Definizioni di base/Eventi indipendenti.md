@@ -4,3 +4,9 @@
 >$$\mathbb{P}(E|F)=\mathbb{P}(E)$$
 >Allora gli eventi si scrivono $E\coprod F$ ossia indipendenti tra loro $\mathbb{P}(E\cap F)=\mathbb{P}(E)\mathbb{P}(F)$
 
+Inoltre abbiamo la relazione:
+$$E\coprod F\implies E \coprod F^c$$
+
+Facciamo un esempio:
+Estraggo una carta a caso da un mazzo francese
+- A:
