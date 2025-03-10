@@ -30,4 +30,6 @@ $A_{1}$= “L’ iesima funziona”
 $F$ = “Il circuito funziona”
 
 $\mathbb{P}(F)=1-\mathbb{P}(F^c)$
-Quindi se $p_{i}=p$
+Quindi se $p_{i}=p,\quad \forall i\leq n$
+e allora $\mathbb{P}(F^c)=(1-p)^n$  ossia la probabilità che il circuito non funzioni decade esponenzialmente in $n$
+
