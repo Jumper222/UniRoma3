@@ -6,7 +6,12 @@
 
 Inoltre abbiamo la relazione:
 $$E\coprod F\implies E \coprod F^c$$
-Inoltre se 3 eventi sono <font color="#f79646">indipendenti</font> tra loro allora ognuno è indipendente dalle unioni/intersezione
+Inoltre se 3 eventi sono <font color="#f79646">indipendenti</font> tra loro allora ognuno è indipendente dalle unioni/intersezioni degli altri 2.
+
+Allora generalmente diciamo che $E_{1},\dots,E_{k}$ sono indipendenti se:
+$\mathbb{P}\left( \bigcap_{i\in I} \right)=\prod_{i\in I}\mathbb{P}(E_{i}), \quad \quad \forall I\subset\{1,\dots,k\}$
+
+
 
 
 Facciamo un esempio:
