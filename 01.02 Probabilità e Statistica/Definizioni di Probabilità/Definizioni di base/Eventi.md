@@ -12,3 +12,5 @@ Un esito si verifica se il mio esperimento si conclude con l’ osservazione di 
 Un evento si verifica se si verifica uno dei suoi esiti.
 
 Quando più eventi interagiscono insieme si ha una [[Relazioni tra gli Eventi|Relazione tra gli Eventi]]
+
+Poi ci sono gli [[Eventi indipendenti]]
