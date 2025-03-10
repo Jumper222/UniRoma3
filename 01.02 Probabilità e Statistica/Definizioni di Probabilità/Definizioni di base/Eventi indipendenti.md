@@ -6,7 +6,15 @@
 
 Inoltre abbiamo la relazione:
 $$E\coprod F\implies E \coprod F^c$$
+Inoltre se 3 eventi sono <font color="#f79646">indipendenti</font> tra loro allora ognuno è indipendente dalle unioni/intersezione
+
 
 Facciamo un esempio:
 Estraggo una carta a caso da un mazzo francese
-- A:
+- $A$:”esce un asso”
+- $C$:”esce una carta di cuori”
+
+Allora avremo $\mathbb{P}(A)=\frac{4}{52}=\frac{1}{13}$
+E inoltre $\mathbb{P}(C)=\frac{13}{52}=\frac{1}{4}$
+Quindi $\mathbb{P}(A\cap C)=\frac{1}{13}* \frac{1}{4}\implies A \coprod C$
+
