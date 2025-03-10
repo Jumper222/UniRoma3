@@ -1,3 +1,6 @@
 #Probabilità_e_statistica 
-Descriviamo un [[Modello Probabilistico]] per il nostro esperimento aleatorio:
-$(\Omega,\mathbb{P})$ 
+
+> [!Definizione]  Definizione
+> Descriviamo un [[Modello Probabilistico]] per il nostro esperimento aleatorio:
+> $(\Omega,\mathbb{P})$ così che specifichiamo la probabilità dei singoli [[Eventi]] possibili.
+> Spesso gli eventi a cui siamo interessati possono essere espressi con un valore numerico
