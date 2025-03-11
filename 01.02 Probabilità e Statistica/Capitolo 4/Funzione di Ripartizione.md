@@ -7,3 +7,6 @@
 >- La funzione di Ripartizione ti dice la probabilità che $X$ sia al massimo $x$
 >- La funzione è sempre non-decrescente, ossia man mano che $x$ cresce, la probabilità non può diminuire
 
+Esempio:
+
+Abbiamo $X$ che è il risultato del lancio di un dado
