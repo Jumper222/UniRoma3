@@ -1,5 +1,6 @@
+#Probabilità_e_statistica 
 >[!Definizione]  Definizione
->La [[Funzioni|Funzione]] di ripartizione (Anche chiamata Cumulative Distribution Function) di $X$ è la funzione che ci dice quanto è probabile che la variabile aleatoria assuma un valore minore o uguale ad un dato numero
+>La [[Funzioni|Funzione]] di ripartizione (Anche chiamata Cumulative Distribution Function) (CDF in <font color="#8db3e2">inglese</font>) di $X$ è la funzione che ci dice quanto è probabile che la variabile aleatoria assuma un valore minore o uguale ad un dato numero
 >Ed è definita:
 >$$F_{X}​(x)=P(X≤x)$$
 >Alcune utili info:
@@ -10,3 +11,11 @@
 Esempio:
 
 Abbiamo $X$ che è il risultato del lancio di un dado
+
+![[Lancio del dado Funzione di Ripartizione.png]]
+
+La potenza di un grafico di questo tipo è immensa, qualsiasi domanda sensata che ci potremmo porre riguardante una variabile aleatoria troverà la sua risposta in questo grafico.
+
+Allora da questo grafico posso ottenere:
+- $\mathbb{P}(X\leq4)=F_{x}(4)$
+- $\mathbb{P}(X>4)$
