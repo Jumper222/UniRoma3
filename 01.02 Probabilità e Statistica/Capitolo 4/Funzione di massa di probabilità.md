@@ -18,4 +18,10 @@ $X$ è la somma dei risultati del lancio di due dadi:
 - $p(12)=\frac{1}{36}$
 
 Quindi sarà in questa forma:
-![[image (1).png]]
+
+![[Funzione di massa di probabilità (brutta).png]]
+
+Oppure meglio conosciuta in questa forma:
+
+![[image (2).png]]
+Dove ci immaginiamo che i rettangoli abbiano base di larghezza 1 per semplicità.
