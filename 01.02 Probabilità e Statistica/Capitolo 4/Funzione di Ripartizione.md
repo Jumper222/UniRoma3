@@ -18,4 +18,5 @@ La potenza di un grafico di questo tipo è immensa, qualsiasi domanda sensata ch
 
 Allora da questo grafico posso ottenere:
 - $\mathbb{P}(X\leq4)=F_{x}(4)$
-- $\mathbb{P}(X>4)$
+- $\mathbb{P}(X>4)=\mathbb{P}(\{X\leq 4\}^c)=1-\mathbb{P}(X\leq 4)=1-F_{x}(4)$
+- $\mathbb{P}(2<X\leq 5)=F_{x}(5)-F_{x}(2)$
