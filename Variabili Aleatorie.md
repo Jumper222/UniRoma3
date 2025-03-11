@@ -31,3 +31,7 @@ Iniziamo a calcolare le probabilità:
 $\mathbb{P}(a,a)=0,7*0,7=0,49$
 $\mathbb{P}(d,d)=0,3*0,3=0,09$
 $\mathbb{P}(a,d)=\mathbb{P}(d,a)=0,7*0,3=0,21$
+Allora chiamo $X$ il numero di componenti accettabili, quindi il numero di valori che $X$ può assumere saranno {0,1,2}
+$\mathbb{P}(X=0)=\mathbb{P}(d,d)=0,09$
+$\mathbb{P}(X=1)=\mathbb{P}\{(a,d),(d,a)\}=2*0,21=0,42$
+$\mathbb{P}(X=2)=\mathbb{P}(a,a)=0,49$
