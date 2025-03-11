@@ -5,4 +5,5 @@
 >Alcune utili info:
 >- Cresce sempre da 0 ad 1
 >- La funzione di Ripartizione ti dice la probabilità che $X$ sia al massimo $x$
->- La funzione è sempre non-decrescente, ossia man mano che $x$ cresce, la probabilità non può diminuire… scemo chi legge… quindi tu ahahahah
+>- La funzione è sempre non-decrescente, ossia man mano che $x$ cresce, la probabilità non può diminuire
+
