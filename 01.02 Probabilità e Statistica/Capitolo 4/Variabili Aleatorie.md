@@ -46,3 +46,5 @@ Queste variabili che hanno $\mathrm{Im}=\{0,1\}$ sono chiamate <font color="#fff
 E allora $\mathbb{P}(I=0)=\mathbb{P}(X=0)=0,09$ e $\mathbb{P}(I=1)=\mathbb{P}(X\geq1)=0,91$
 
 Le variabili aleatori ci portano ad avere la [[Funzione di Ripartizione]]
+
+Una variabile aleatoria $X$ si dice <font color="#ffff00">discreta</font> se può assumere un numero finito ()
