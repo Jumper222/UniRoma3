@@ -47,7 +47,7 @@ E allora $\mathbb{P}(I=0)=\mathbb{P}(X=0)=0,09$ e $\mathbb{P}(I=1)=\mathbb{P}(X\
 
 Le variabili aleatori ci portano ad avere la [[Funzione di Ripartizione]]
 
-Una variabile aleatoria $X$ si dice [[Variabile Aleatorie Discerete|discreta]] se può assumere un numero finito (o numerabile) di valori.
+Una variabile aleatoria $X$ si dice discreta se può assumere un numero finito (o numerabile) di valori.
 
 Un esempio di una variabile aleatoria <font color="#ffff00">discreta</font> può essere:
 $X$ è la somma dei risultati nel lancio di due dadi:
@@ -55,3 +55,5 @@ $\mathrm{Im}(X)=\{2,3,\dots,12\}$ → insieme finito
 
 Oppure nell’ esempio dei calci di rigore finché non segno, dove $X$ è il numero di calci tirati:
 $\mathrm{Im}(X)=\{1,2\dots\}$ → insieme numerabile
+
+Allora abbiamo la [[Funzione di massa di probabilità]]

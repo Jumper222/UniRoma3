@@ -1,1 +1,0 @@
-Una Variabile Aleatoria Discreta può assumere 
