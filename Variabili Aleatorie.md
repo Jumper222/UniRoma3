@@ -8,8 +8,13 @@
 Facciamo un esempio con i dadi:
 
 Lanciamo 2 dadi.
-Abbiamo lo spazio campionario $\Omega$ che rappresenta tutte  le possibili coppie:
+Abbiamo lo spazio campionario $\Omega$ che rappresenta tutte le possibili coppie:
 $\Omega:\{(1,1),(1,2),\dots,(6,6)\}$
 
+Ora supponiamo che la variabile aleatoria $X$ sia la somma dei due dadi:
+$$X(a,b)=a+b$$
+Quindi avremo:
+- Se esce (2,5) allora $X=7$
+- Se esce (3,3) allora $X=6$
 
-
+Allora questa funzione trasforma gli esiti casuali in numeri reali, permettendoci di calcolare la probabilità di ottenere certi valori (es: “Quanto è probabile ottenere un 7”)
