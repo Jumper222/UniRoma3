@@ -42,7 +42,7 @@ Oppure chiamo $I$ la variabile aleatori che vale:
 - $1$: Se ha almeno un componente accettabile
 - $0$: altrimenti
 
-Queste variabili che hanno $\mathrm{Im}=\{0,1\}$ sono chiamate <font color="#ffff00">variabili indicatrici</font>
+Queste variabili che hanno $\mathrm{Im}=\{0,1\}$ sono chiamate [[Variabili Aleatorie Indicatrici]]
 E allora $\mathbb{P}(I=0)=\mathbb{P}(X=0)=0,09$ e $\mathbb{P}(I=1)=\mathbb{P}(X\geq1)=0,91$
 
 Le variabili aleatorie ci portano ad avere la [[Funzione di Ripartizione (CDF)]]
