@@ -17,3 +17,6 @@ $$F(x)=\begin{cases}
 0  & \text{se }x<0 \\
 1-e^{-2x} & \text{se }x\geq0
 \end{cases}$$
+![[PMF.png]]
+
+Quindi quando $$
