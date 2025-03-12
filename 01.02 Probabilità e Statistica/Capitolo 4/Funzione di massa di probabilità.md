@@ -23,7 +23,7 @@ Quindi sarà in questa forma:
 
 Oppure meglio conosciuta in questa forma:
 
-![[image (2).png]]
+![[Esempio 1 funzione di massa di probabilità.png]]
 
 Queste rappresentazioni ci dicono quante possibilità ci sono che la somma dei due dadi dia il numero indicato con le $x$.
 
@@ -38,6 +38,12 @@ $X=\text{ \# rigori che calcio finché non segno}$
 $\mathrm{Im}(X)=\mathbb{N}=\{1,2,3\dots\}$
 
 Quindi: 
-$P(1)=\mathbb{P}(X=1)=\frac{2}{3}$
-$P(2)=\mathbb{P}(X=2)=(1)$
+$p(1)=\mathbb{P}(X=1)=\frac{2}{3}$
+$p(2)=\mathbb{P}(X=2)=\left( 1-\frac{2}{3} \right) \frac{2}{3}$
+$p(n)=\mathbb{P}(X=n)=\left( 1-\frac{2}{3} \right)^{n-1} \frac{2}{3}$
 
+Cosi otterremo una serie andando ad infinito che ci darà questi grafici:
+
+![[Esempio funzione di massa di probabilità.png]]
+
+Notiamo sub
