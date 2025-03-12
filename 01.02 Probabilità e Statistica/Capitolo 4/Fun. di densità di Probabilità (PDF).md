@@ -17,7 +17,8 @@ $$F(x)=\begin{cases}
 0  & \text{se }x<0 \\
 1-e^{-2x} & \text{se }x\geq0
 \end{cases}$$
-![[PMF.png]]
+![[PDF.png]]
+Questo è un grafico che rappresenta la CDF di una funzione continua
 
 Quindi quando x supera 0 inizia ad avere un comportamento come $1-e^{-2x}$
 Allora la funzione sarà nella forma:
@@ -26,4 +27,6 @@ $$f(x)=\begin{cases}
 2e^{-2x} & \text{se }x\geq 0
 \end{cases}$$
 E quindi avremo questo grafico:
-![[image.png]]
+![[Esempio PDF.png]]
+
+E come si può vedere nella seconda immagine questo grafico sarà lo strumento che useremo per la PDF
