@@ -24,4 +24,20 @@ Quindi sarà in questa forma:
 Oppure meglio conosciuta in questa forma:
 
 ![[image (2).png]]
-Dove ci immaginiamo che i rettangoli abbiano base di larghezza 1 per semplicità.
+
+Queste rappresentazioni ci dicono quante possibilità ci sono che la somma dei due dadi dia il numero indicato con le $x$.
+
+Facciamo un secondo esempio:
+
+### Esempio 2:
+
+Supponiamo che quando calcio un rigore ho prob. di $\frac{2}{3}$ di fare gol, e che gli esiti relativi a rigori distinti siano indipendenti.
+
+Allora avremo:
+$X=\text{ \# rigori che calcio finché non segno}$
+$\mathrm{Im}(X)=\mathbb{N}=\{1,2,3\dots\}$
+
+Quindi: 
+$P(1)=\mathbb{P}(X=1)=\frac{2}{3}$
+$P(2)=\mathbb{P}(X=2)=(1)$
+
