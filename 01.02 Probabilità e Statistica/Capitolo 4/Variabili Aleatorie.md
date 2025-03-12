@@ -49,7 +49,7 @@ Le variabili aleatori ci portano ad avere la [[Funzione di Ripartizione]]
 
 Una variabile aleatoria $X$ si dice discreta se può assumere un numero finito (o numerabile) di valori.
 
-Un esempio di una variabile aleatoria <font color="#ffff00">discreta</font> può essere:
+Un esempio di una variabile aleatoria [[variabile aleatorie discrete e continue|discreta]] può essere:
 $X$ è la somma dei risultati nel lancio di due dadi:
 $\mathrm{Im}(X)=\{2,3,\dots,12\}$ → insieme finito
 
