@@ -19,4 +19,11 @@ $$F(x)=\begin{cases}
 \end{cases}$$
 ![[PMF.png]]
 
-Quindi quando $$
+Quindi quando x supera 0 inizia ad avere un comportamento come $1-e^{-2x}$
+Allora la funzione sarà nella forma:
+$$f(x)=\begin{cases}
+0 & \text{se }x<0 \\
+2e^{-2x} & \text{se }x\geq 0
+\end{cases}$$
+E quindi avremo questo grafico:
+![[image.png]]
