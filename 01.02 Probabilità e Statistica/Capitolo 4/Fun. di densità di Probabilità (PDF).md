@@ -18,8 +18,8 @@ $$F(x)=\begin{cases}
 1-e^{-2x} & \text{se }x\geq0
 \end{cases}$$
 ![[PDF.png]]
-Questo è un grafico che rappresenta la CDF di una funzione continua
-
+- [I] <font color="#ffff00">Questo è un grafico che rappresenta la CDF di una funzione continua</font>
+ 
 Quindi quando x supera 0 inizia ad avere un comportamento come $1-e^{-2x}$
 Allora la funzione sarà nella forma:
 $$f(x)=\begin{cases}
