@@ -13,3 +13,5 @@ $\mathrm{Im}(X)=\{1,2\dots\}$ → insieme numerabile
 Invece una v.a. <font color="#f79646">continua</font> può essere:
 $X$ è il primo istante di tempo in cui si rompe la mia auto a partire da ora.
 $\mathrm{Im}(X)=[0,\infty)=\mathbb{R}_{\geq0}$ → Reali positivi, non numerabile.
+
+<font color="#ffff00">NB</font>: mentre ha senso parlare della [[Funzione di Ripartizione (CDF)|CDF]] di una v.a. continua, non ha senso parlare della sua [[Funzione di massa di probabilità (PMF)|PMF]], però esiste un “Analogo” della [[Funzione di massa di probabilità (PMF)|PMF]] per le v.a. continue, la [[Funzione di densità di Probabilità (PDF)]]

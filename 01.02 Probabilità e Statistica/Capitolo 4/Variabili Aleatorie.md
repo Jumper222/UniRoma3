@@ -47,4 +47,4 @@ E allora $\mathbb{P}(I=0)=\mathbb{P}(X=0)=0,09$ e $\mathbb{P}(I=1)=\mathbb{P}(X\
 
 Le variabili aleatorie ci portano ad avere la [[Funzione di Ripartizione (CDF)]]
 
-Allora abbiamo la [[Funzione di massa di probabilità]]
+Allora abbiamo la [[Funzione di massa di probabilità (PMF)]]
