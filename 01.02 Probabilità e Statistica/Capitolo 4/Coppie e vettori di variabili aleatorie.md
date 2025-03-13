@@ -27,3 +27,6 @@ Allora abbiamo $\mathrm{Im}(Z)=\{0,\dots,6\}$
 
 ![[Coppie e vettori Esempio.png]]
 
+![[Coppie e vettori v.a. img esempio 2.png]]
+
+Molto spesso ci capiterà di avere esercizi dove siamo interessati ad una coppia di v.a. e di come sia il loro comportamento congiunto, qui entra in gioco la [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]]
