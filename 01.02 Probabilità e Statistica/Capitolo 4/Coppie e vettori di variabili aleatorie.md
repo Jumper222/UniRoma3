@@ -11,3 +11,13 @@ In una classe ci sono $100$ studenti:
 Allora scegliamo $7$ studenti a caso, siano:
 - $X$= $\#$ studenti bravi in matematica tra quelli scelti
 - $Y$= $\#$  studenti bravi in programmazione tra quelli scelti
+
+Allora avremo che $\mathrm{Im}(X)=\{0\dots7\}=\mathrm{Im}(Y)$
+Calcoliamo quindi $\mathbb{P}(X=2)$:
+$$\frac{\binom{30}{2}\binom{70}{5}}{\binom{100}{7}}$$
+*Ossia modi di scegliere 2 tra i 30 più bravi e 5 tra i 70 non bravi, diviso 7 scelti tra 100 totali*
+
+E invece se volessimo calcolare $\mathbb{P}(Y=3)$ avremmo:
+$$\frac{\binom{25}{3}\binom{75}{4}}{\binom{100}{7}}$$
+A prima vista non sembrano eventi indipendenti.
+$$\mathbb{P}(\{X=2\}\cap\{Y=3\})$$
