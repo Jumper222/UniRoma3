@@ -16,4 +16,13 @@ $$F_{Y}(y)=\int^\infty_{-\infty}f_{X,Y}(x,y)dx$$
 
 Facciamo un esempio per poter capire meglio:
 Siano $X,Y$ v.a. con [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]]:
-$f_{X,Y}$
+$$f_{X,Y}(x,y)=\begin{cases}
+2e^{-x}e^{-2y} & \text{se }x>0\ e \ y>0 \\
+0 & altrimenti
+\end{cases}$$
+![[PDF congiunta esempio.png]]
+
+Ora ci chiediamo quanto vale $\mathbb{P}(X>1,Y<1)?$
+$$\mathbb{P}(X>1,Y<1)=\int^1_{0}\int^\infty_{1}2e^{-x}e^{-2y}dx\ dy$$
+$$=\int_{0}^12e^{-2y}\left( \int_{1}^\infty e^{-x}dx \right)dy$$
+$$\int_{0}^12e^{-2y}(-e^{-x})|^$$
