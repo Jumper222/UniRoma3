@@ -8,4 +8,11 @@
 Esattamente come per la CDF congiunta, è possibile ottenere le PDF marginali a partire dalla congiunta
 
 Qui però andiamo a lavorare con gli integrali doppi:
-$\mathbb{P}(X\in[a,b])=\mathbb$
+$\mathbb{P}(X\in[a,b])=\mathbb{P}(X\in[a,b],Y\in\mathbb{R})$
+ossia
+$$\int^b_{a}\underbrace{\int ^\infty_{-\infty}f_{X,Y}(x,y)dy}_{=f_X(x)}\ dx $$
+e analogamente:
+$$F_{Y}(y)=\int^\infty_{-\infty}f_{X,Y}(x,y)dx$$
+
+Facciamo un esempio per poter capire meglio:
+Siano 
