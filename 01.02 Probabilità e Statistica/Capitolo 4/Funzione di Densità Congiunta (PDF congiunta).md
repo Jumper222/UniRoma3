@@ -25,4 +25,9 @@ $$f_{X,Y}(x,y)=\begin{cases}
 Ora ci chiediamo quanto vale $\mathbb{P}(X>1,Y<1)?$
 $$\mathbb{P}(X>1,Y<1)=\int^1_{0}\int^\infty_{1}2e^{-x}e^{-2y}dx\ dy$$
 $$=\int_{0}^12e^{-2y}\left( \int_{1}^\infty e^{-x}dx \right)dy$$
-$$\int_{0}^12e^{-2y}(-e^{-x})|^$$
+$$=\int_{0}^12e^{-2y}(-e^{-x})|^\infty_{1}dy$$
+$$=\int_{0}^12e^{-2y}\ e^{-1}dy$$
+$$=2e^{-1}\int_{0}^1e^{-2y}dy$$
+$$=2e^{-1}\left( -\frac{1}{2}e^{-2y} \right)^1_{0}$$
+$$=2e^{-1}\left( -\frac{1}{2}e^{-2}+\frac{1}{2} \right)$$
+$$=e^{-1}(1-e^{-2})\approx\frac{1}{2}$$
