@@ -10,5 +10,5 @@ Ovviamente essendo che la CDF congiunta di X e Y è creata appunto da X e Y, è 
 
 Allora chiamiamo:
 - $F_{x,y}$ la CDF congiunta
-- $F_{x}$ la CDF (<font color="#ffc000">Marginale</font>) di X
-- $F_{y}$
+- $F_{x}$ la CDF (<font color="#ffc000">marginale</font>) di X
+- $F_{y}$ la CDF (<font color="#ffc000">marginale</font>) di Y
