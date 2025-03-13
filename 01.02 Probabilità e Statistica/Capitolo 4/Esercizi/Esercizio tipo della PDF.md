@@ -22,13 +22,16 @@ $$C\int^2_{0}(4x-2x^2)dx=1$$
      Ora possiamo chiederci quanto vale $\mathbb{P}(X>1)$:
      $$\mathbb{P}(X>1)=\int^\infty_{1}f(x)dx=\int_{1}^2 \frac{3}{8}(4x-2x^2)dx$$
      Calcolando questo integrale normalmente avremo:
+     $$\left[ 2x^2-\frac{2}{3}x^3 \right]^2_{1}$$
+     E una volta risolto:
      $$\mathbb{P}(X>1)=\frac{1}{2}$$
 3. Ora ci poniamo una 3° domanda: chi è $F$ (Ossia la CDF di X)?
 $$F(x)=\int^x_{-\infty}f(u)du=\begin{cases}
-0 \quad \text{se }x\leq 0 \\
+0  &  \text{se }x\leq 0 \\
 \frac{3}{8}\left( 2x^2-\frac{2}{3}x^3 \right) & \text{se }x\in(1,2) \\
 1 & \text{se }x\geq2 
 \end{cases}$$
      Questo perché:
      - La probabilità che $X$ sia minore di un numero negativo è 0, perché $X$ può stare solo tra 0 e 2.
-     - 
+     - Il secondo termine appare nella forma $\int^x_{0} \frac{3}{8}(4u-2u^2)du$, che però abbiamo calcolato prima.
+     - Invece nel secondo termine abbiamo 1 perché per valori superiori a quelli della curva il valore è fisso ad 1.
