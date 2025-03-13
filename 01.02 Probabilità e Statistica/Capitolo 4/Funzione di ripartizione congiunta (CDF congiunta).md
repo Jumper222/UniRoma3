@@ -24,7 +24,8 @@ $X$: $\#$ della fabbrica che lo ha prodotto ($\mathrm{Im}(X)=\{1,2\}$)
 $Y$: $\#$ di difetti del prodotto ($\mathrm{Im}(Y)=\{0,1,2,3\}$)
 Possiamo specificare la PMF congiunta di X e Y in forma tabellone
 
+![[Esercizio CDF congiunta.png]]
 
-|     |     |
-| --- | --- |
-|     |     |
+Allora qual’è la probabilità che il prodotto venga dalla seconda fabbrica?
+basta semplicemente sommare gli elementi della seconda riga:
+$$P_{x}(2)=P_{x,y}(2,0)+P_{x,y}(2,1)+P_{x,y}(2,2)+P_{x,y}(2,3)$$
