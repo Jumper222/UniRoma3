@@ -48,3 +48,5 @@ E allora $\mathbb{P}(I=0)=\mathbb{P}(X=0)=0,09$ e $\mathbb{P}(I=1)=\mathbb{P}(X\
 Le variabili aleatorie ci portano ad avere la [[Fun. di Ripartizione (CDF)]]
 
 Allora abbiamo la [[Fun. di massa di Probabilità (PMF)]]
+
+Inoltre ci sono le [[Coppie e vettori di variabili aleatorie]]
