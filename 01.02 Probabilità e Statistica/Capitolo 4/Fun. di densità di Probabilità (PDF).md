@@ -30,3 +30,5 @@ E quindi avremo questo grafico:
 ![[Esempio PDF.png]]
 
 E come si può vedere nella seconda immagine questo grafico sarà lo strumento che useremo per la PDF
+
+Vediamo un [[Esercizio tipo della PDF]]
