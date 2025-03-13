@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
->Chiamiamo Funzione di densità congiunta (PDF congiunta) è una [[Funzioni|funzione]] che prende in input due [[Variabili Aleatorie discrete e continue|v.a. continue]] e restituisce la funzione:
+>Chiamiamo Funzione di densità congiunta (PDF congiunta) è una [[Funzioni|funzione]] che prende in input due [[Variabili Aleatorie|v.a.]] [[Variabili Aleatorie discrete e continue|continue]] e restituisce la funzione:
 >$$f_{x,y}:\mathbb{R}\times\mathbb{R}\to[0,\infty)$$
 >tale che:
 >$$F_{X,Y}(x,y)=\int^x_{-\infty}\int^y_{-\infty}f_{X,Y}(u,v)\quad du,dv$$
@@ -15,4 +15,5 @@ e analogamente:
 $$F_{Y}(y)=\int^\infty_{-\infty}f_{X,Y}(x,y)dx$$
 
 Facciamo un esempio per poter capire meglio:
-Siano 
+Siano $X,Y$ v.a. con [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]]:
+$f_{X,Y}$
