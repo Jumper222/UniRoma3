@@ -21,3 +21,9 @@ E invece se volessimo calcolare $\mathbb{P}(Y=3)$ avremmo:
 $$\frac{\binom{25}{3}\binom{75}{4}}{\binom{100}{7}}$$
 A prima vista non sembrano eventi indipendenti.
 $$\mathbb{P}(\{X=2\}\cap\{Y=3\})$$
+Allora creiamo $Z$:  che sarà il numero di studenti bravi sia in programmazione che in matematica:
+$\mathbb{P}(X=2)\mathbb{P}(Y=3|X=2)$
+Allora abbiamo $\mathrm{Im}(Z)=\{0,\dots,6\}$
+
+![[Coppie e vettori Esempio.png]]
+
