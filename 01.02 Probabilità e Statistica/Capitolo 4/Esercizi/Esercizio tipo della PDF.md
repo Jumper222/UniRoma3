@@ -12,4 +12,16 @@ $$(4x-2x^2)>0\quad \forall x\in(0,2)$$
       
 2. Iniziamo a calcolare l’ integrale tra questi due valori, ponendo l’ integrale uguale ad 1 perché l’ area della PDF deve essere sempre uguale ad 1.
 $$\int^2_{0}C(4x-2x^2)dx=1$$
+$$C\int^2_{0}(4x-2x^2)dx=1$$
+     Ora calcoliamo l’ integrale come fosse un normale integrale, e ci troveremo nella situazione:
+     $$C\left( 8- \frac{16}{3} \right)=1$$
+     $$C* \frac{8}{3}=1$$
+     $$C=\frac{3}{8}$$
+     Adesso sappiamo che $C$ assume il valore $\frac{3}{8}$
+
+     Ora possiamo chiederci quanto vale $\mathbb{P}(X>1)$:
+     $$\mathbb{P}(X>1)=\int_{1}^2 \frac{3}{8}(4x-2x^2)dx$$
+     Calcolando questo integrale normalmente avremo:
+     $$\mathbb{P}(X>1)=\frac{1}{2}$$
+3. Ora ci poniamo una 3° domanda: chi è $F$ (Ossia la CDF di X)?
 $$$$
