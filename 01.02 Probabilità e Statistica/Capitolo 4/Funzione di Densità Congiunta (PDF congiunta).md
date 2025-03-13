@@ -20,7 +20,7 @@ $$f_{X,Y}(x,y)=\begin{cases}
 2e^{-x}e^{-2y} & \text{se }x>0\ e \ y>0 \\
 0 & altrimenti
 \end{cases}$$
-![[PDF congiunta esempio.png]]
+![[01.02 Probabilità e Statistica/Immagini/PDF congiunta esempio.png]]
 
 Ora ci chiediamo quanto vale $\mathbb{P}(X>1,Y<1)?$
 $$\mathbb{P}(X>1,Y<1)=\int^1_{0}\int^\infty_{1}2e^{-x}e^{-2y}dx\ dy$$
@@ -32,3 +32,4 @@ $$=2e^{-1}\left( -\frac{1}{2}e^{-2y} \right)^1_{0}$$
 $$=2e^{-1}\left( -\frac{1}{2}e^{-2}+\frac{1}{2} \right)$$
 $$=e^{-1}(1-e^{-2})\approx 0,318$$
 ![[Esempio PDF congiunta.png]]
+![[PDF congiunta esempio 1.png]]
