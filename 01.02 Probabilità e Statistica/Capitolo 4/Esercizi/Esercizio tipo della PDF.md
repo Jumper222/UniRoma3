@@ -35,3 +35,13 @@ $$F(x)=\int^x_{-\infty}f(u)du=\begin{cases}
      - La probabilità che $X$ sia minore di un numero negativo è 0, perché $X$ può stare solo tra 0 e 2.
      - Il secondo termine appare nella forma $\int^x_{0} \frac{3}{8}(4u-2u^2)du$, che però abbiamo calcolato prima.
      - Invece nel secondo termine abbiamo 1 perché per valori superiori a quelli della curva il valore è fisso ad 1.
+
+Finalmente possiamo descrivere questi due grafici
+
+![[PDF Esempio.png]]
+*Questo è il grafico della PDF, dove 3/4 è il punto di massimo calcolato con lo studio della derivata prima*.
+
+![[Esempio CDF.png]]
+*Questo è il grafico della CDF,*
+
+<font color="#4bacc6">L’ esercizio è finito.</font>
