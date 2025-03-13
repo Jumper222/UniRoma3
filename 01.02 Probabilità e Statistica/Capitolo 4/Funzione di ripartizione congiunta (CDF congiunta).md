@@ -29,3 +29,7 @@ Possiamo specificare la PMF congiunta di X e Y in forma tabellone
 Allora qual’è la probabilità che il prodotto venga dalla seconda fabbrica?
 basta semplicemente sommare gli elementi della seconda riga:
 $$P_{x}(2)=P_{x,y}(2,0)+P_{x,y}(2,1)+P_{x,y}(2,2)+P_{x,y}(2,3)$$
+$$\frac{1}{16}+\frac{1}{16}+\frac{1}{8}+\frac{1}{4}=\frac{1}{12}$$
+![[Esempio CDF congiunta 2.png]]
+*Possiamo generalizzare dicendo che le marginali si ottengono sommando su righe e colonne*
+

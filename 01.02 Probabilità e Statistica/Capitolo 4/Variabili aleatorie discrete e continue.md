@@ -14,4 +14,4 @@ Invece una v.a. <font color="#f79646">continua</font> può essere:
 $X$ è il primo istante di tempo in cui si rompe la mia auto a partire da ora.
 $\mathrm{Im}(X)=[0,\infty)=\mathbb{R}_{\geq0}$ → Reali positivi, non numerabile.
 
-<font color="#ffff00">NB</font>: mentre ha senso parlare della [[Fun. di Ripartizione (CDF)|CDF]] di una v.a. continua, non ha senso parlare della sua [[Fun. di massa di Probabilità (PMF)|PMF]], però esiste un “Analogo” della [[Fun. di massa di Probabilità (PMF)|PMF]] per le v.a. continue, la [[Fun. di densità di Probabilità (PDF)|PDF]]
+<font color="#ffff00">NB</font>: mentre ha senso parlare della [[Fun. di Ripartizione (CDF)|CDF]] di una v.a. continua, non ha senso parlare della sua [[Fun. di massa di Probabilità (PMF)|PMF]], però esiste un “Analogo” della [[Fun. di massa di Probabilità (PMF)|PMF]] per le v.a. continue, la [[Fun. di densità di Probabilità (PDF)|PDF]] 
