@@ -30,4 +30,5 @@ $$=\int_{0}^12e^{-2y}\ e^{-1}dy$$
 $$=2e^{-1}\int_{0}^1e^{-2y}dy$$
 $$=2e^{-1}\left( -\frac{1}{2}e^{-2y} \right)^1_{0}$$
 $$=2e^{-1}\left( -\frac{1}{2}e^{-2}+\frac{1}{2} \right)$$
-$$=e^{-1}(1-e^{-2})\approx\frac{1}{2}$$
+$$=e^{-1}(1-e^{-2})\approx 0,318$$
+![[Esempio PDF congiunta.png]]
