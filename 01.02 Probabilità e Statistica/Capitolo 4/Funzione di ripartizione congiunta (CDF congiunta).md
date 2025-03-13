@@ -12,3 +12,19 @@ Allora chiamiamo:
 - $F_{x,y}$ la CDF congiunta
 - $F_{x}$ la CDF (<font color="#ffc000">marginale</font>) di X
 - $F_{y}$ la CDF (<font color="#ffc000">marginale</font>) di Y
+
+<font color="#f79646">NB</font>: Un discorso analogo vale per la PMF congiunta
+
+Facciamo un esempio:
+
+Consideriamo 2 fabbriche che producono un certo prodotto
+Ciascun prodotto può avere 0,1,2 o 3 difetti
+Campioniamo un prodotto a caso e chiamiamo:
+$X$: $\#$ della fabbrica che lo ha prodotto ($\mathrm{Im}(X)=\{1,2\}$)
+$Y$: $\#$ di difetti del prodotto ($\mathrm{Im}(Y)=\{0,1,2,3\}$)
+Possiamo specificare la PMF congiunta di X e Y in forma tabellone
+
+
+|     |     |
+| --- | --- |
+|     |     |
