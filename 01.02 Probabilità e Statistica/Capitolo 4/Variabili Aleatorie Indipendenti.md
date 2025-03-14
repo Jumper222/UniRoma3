@@ -1,2 +1,3 @@
 #Probabilità_e_statistica 
->[!De
+>[!Definizione]  Definizione
+>
