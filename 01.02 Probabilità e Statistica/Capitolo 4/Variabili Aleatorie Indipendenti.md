@@ -10,4 +10,14 @@ campioniamo un prodotto a caso e chiediamo:
 - $Y$: = # di difetti del prodotto ($\mathrm{Im}(Y)=\{0,1,2,3\}$)
 
 Possiamo specificare la PMF congiunta di $X$,$Y$ in forma tabellone:
+![[v.a. indipendenti esempio.png]]
 
+Allora consideriamo i due eventi:
+- $E=\{X=1\}$
+- $F=\{Y=1\}$
+
+Allora calcoliamo:
+$$\mathbb{P}(E\cap F)=\mathbb{P}(X=1,Y=1)=\frac{1}{16}$$
+e anche
+$$\mathbb{P}(E)\mathbb{P}(F)=\mathbb{P}(X=1)\mathbb{P}(Y=1)=\frac{1}{2}* \frac{2}{16}=\frac{1}{16}$$
+Visto che la probabilità rimane uguale in questi due casi allora  i due eventi sono: $E\coprod$
