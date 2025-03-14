@@ -1,5 +1,4 @@
 #Probabilità_e_statistica 
-
 >[!Definizione]  Definizione
 >$\forall E,F\subset \Omega\ | \ F\neq \emptyset$ chiamiamo “Probabilità di $E$ dato $F$”:
 >$$\mathbb{P}(E|F)=\frac{\mathbb{P}(E\cap F)}{\mathbb{P}(F)}$$
