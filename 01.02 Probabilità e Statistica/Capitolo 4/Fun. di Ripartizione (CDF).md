@@ -1,3 +1,4 @@
+
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
 >La [[Funzioni|Funzione]] di ripartizione (Anche chiamata Cumulative Distribution Function) (CDF in <font color="#8db3e2">inglese</font>) di $X$ è la funzione che ci dice quanto è probabile che la variabile aleatoria assuma un valore minore o uguale ad un dato numero
