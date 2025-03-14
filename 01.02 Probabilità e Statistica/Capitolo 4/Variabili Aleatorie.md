@@ -50,3 +50,5 @@ Le variabili aleatorie ci portano ad avere la [[Fun. di Ripartizione (CDF)]]
 Allora abbiamo la [[Fun. di massa di Probabilità (PMF)]]
 
 Inoltre ci sono le [[Coppie e vettori di variabili aleatorie]]
+
+Esattamente come gli [[Eventi indipendenti]], esistono le [[Variabili Aleatorie Indipendenti|variabili aleatorie indipendenti]]
