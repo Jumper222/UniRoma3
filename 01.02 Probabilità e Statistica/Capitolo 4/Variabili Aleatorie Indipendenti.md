@@ -7,4 +7,7 @@ Facciamo un esempio:
 Consideriamo 2 fabbriche che producono un certo prodotto ciascun prodotto può avere 0,1,2,3 difetti,
 campioniamo un prodotto a caso e chiediamo:
 - $X$: = # della fabbrica che lo ha prodotto ($\mathrm{Im}(X)=\{1,2\}$)
-- 
+- $Y$: = # di difetti del prodotto ($\mathrm{Im}(Y)=\{0,1,2,3\}$)
+
+Possiamo specificare la PMF congiunta di $X$,$Y$ in forma tabellone:
+
