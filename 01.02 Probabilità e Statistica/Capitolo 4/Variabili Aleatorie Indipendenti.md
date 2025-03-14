@@ -20,4 +20,13 @@ Allora calcoliamo:
 $$\mathbb{P}(E\cap F)=\mathbb{P}(X=1,Y=1)=\frac{1}{16}$$
 e anche
 $$\mathbb{P}(E)\mathbb{P}(F)=\mathbb{P}(X=1)\mathbb{P}(Y=1)=\frac{1}{2}* \frac{2}{16}=\frac{1}{16}$$
-Visto che la probabilità rimane uguale in questi due casi allora  i due eventi sono: $E\coprod$
+Visto che la probabilità rimane uguale in questi due casi allora i due eventi sono: $E\coprod F$ indipendenti
+
+Però, se consideriamo gli eventi:
+- $E=\{X=1\}$
+- $G=\{Y=0\}$
+
+$\mathbb{P}(E\cap G)=\mathbb{P}(X=1,Y=0)=\frac{1}{8}$
+ma invece
+$\mathbb{P}(E)|\mathbb{P}(G)=\frac{1}{2}* \frac{3}{16}> \frac{1}{8}$
+Le due v.a. non sono indipendenti.
