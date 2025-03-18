@@ -12,6 +12,7 @@ L’ esame richiede basi di:
 
 Argomenti:
 [[Basi di fisica]]
+[[Cinematica]]
 Dinamica,
 Cinetica
 

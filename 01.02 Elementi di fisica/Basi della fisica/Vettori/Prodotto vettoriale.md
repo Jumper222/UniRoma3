@@ -18,3 +18,9 @@ Il <font color="#4bacc6">Prodotto Vettoriale</font> ha i i seguenti valori notev
 - $\vec{v}\times \vec{w}=0 \ (\theta=0)$
 - $\vec{v}\times \vec{w}=v\cdot w\cdot \hat{z}\ (\theta=\frac{\pi}{2})$
 - $\vec{v}\times \vec{w}=-v\cdot w\cdot \hat{z}\ \left( \theta=-\frac{\pi}{2} \right)$
+
+>[!Definizione] Proprietà del prodotto vettoriale
+>- è anticommutativo: $\vec{v}\times \vec{w}=-\vec{w}\times \vec{v}$
+>- <font color="#d99694">NON</font> è associativo! $\vec{v}\times(\vec{w}\times \vec{u})\neq(\vec{v}\times \vec{w})\times \vec{u}$
+>- è distributivo: $\vec{v}\times(\vec{w}+\vec{u})=\vec{v}\times \vec{w}+\vec{v}\times \vec{u}$
+
