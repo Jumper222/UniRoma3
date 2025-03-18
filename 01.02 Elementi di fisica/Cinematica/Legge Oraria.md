@@ -21,3 +21,5 @@ Come possiamo vedere dalla prima figura la traiettoria è ottenibile dalla legge
 Sostanzialmente per ottenere la traiettoria non si fa nient’altro che uno studio dei grafici di x e y in funzione del tempo, per poi sommarli.
 
 Con la legge oraria possiamo studiare lo [[Spostamento]]
+
+Conoscendo la legge oraria è possibile “prevedere” la velocità, facendo sostanzialmente un’ espansione di taylor
