@@ -11,3 +11,10 @@
 
 Se il vettore sarà uscente si indicherà con $\bigodot$
 Se il vettore sarà entrate si indicherà con $\bigotimes$
+
+<font color="#f79646">NB</font>: Il modulo del prodotto vettoriale è l’ area del parallelogramma che si va a creare con la somma dei due vettori, questo concetto si chiama anche <font color="#ffff00">area orientata</font> 
+
+Il <font color="#4bacc6">Prodotto Vettoriale</font> ha i i seguenti valori notevoli:
+- $\vec{v}\times \vec{w}=0 \ (\theta=0)$
+- $\vec{v}\times \vec{w}=v\cdot w\cdot \hat{z}\ (\theta=\frac{\pi}{2})$
+- $\vec{v}\times \vec{w}=-v\cdot w\cdot \hat{z}\ \left( \theta=-\frac{\pi}{2} \right)$
