@@ -4,4 +4,4 @@
 >$$\frac{\Delta x}{\Delta t}=V_{x}$$
 >Con $\Delta x$ lo spazio e $\Delta t$ il tempo.
 >Questa formula rappresenta la velocità media in un dato spazio,
->Per quanto riguarda la velocità istantanea invece facciamo il rapporto incrementale della funzione posizione rispetto al tempo, ossia $\Delta x$
+>Per quanto riguarda la velocità istantanea invece facciamo il rapporto incrementale della velocità media, ottenendo così i “gradini” per sapere quanto velocemente cambia la velocità.
