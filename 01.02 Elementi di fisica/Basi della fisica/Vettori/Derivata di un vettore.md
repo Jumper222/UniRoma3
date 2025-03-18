@@ -4,4 +4,4 @@
 >
 
 $$\frac{d\ \vec{r}(t)}{dt}=\frac{d\ x(t)}{dt}\hat{x}+\frac{d\ y(t)}{dt}\hat{y}$$
-La derivata di un vettore rappresenta anche la “pendenza”
+La derivata di un vettore rappresenta anche la “pendenza” del vettore
