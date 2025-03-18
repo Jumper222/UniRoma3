@@ -22,4 +22,4 @@ Sostanzialmente per ottenere la traiettoria non si fa nient’altro che uno stud
 
 Con la legge oraria possiamo studiare lo [[Spostamento]]
 
-Conoscendo la legge oraria è possibile “prevedere” la velocità, facendo sostanzialmente un’ espansione di taylor
+Conoscendo la legge oraria è possibile “prevedere” la velocità, facendo sostanzialmente un’ espansione di taylor in un punto $t_{0}$ 

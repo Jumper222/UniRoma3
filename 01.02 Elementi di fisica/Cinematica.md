@@ -2,3 +2,4 @@
 *La cinematica è lo studio del moto dei corpi indipendentemente dalle loro cause*
 Si inizia con il concetto di [[Punto Materiale]]
 Poi si ha la [[Velocità]]
+Poi i vari [[Moti]]
