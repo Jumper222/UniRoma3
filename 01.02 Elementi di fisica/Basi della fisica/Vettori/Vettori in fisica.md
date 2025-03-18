@@ -18,5 +18,5 @@ Un vettore che ha modulo = 1 si dice [[Versore]]
 
 Due vettori con uguale modulo, direzione, verso si dicono [[01.02 Elementi di fisica/Basi della fisica/Vettori/Vettori equipollenti|equipollenti]]
 
-
+Potrebbe servirci utilizzare la [[Derivata di un vettore]]
 
