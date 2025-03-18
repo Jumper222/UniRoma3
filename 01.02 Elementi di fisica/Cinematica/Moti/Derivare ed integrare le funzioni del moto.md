@@ -9,4 +9,4 @@ $$\vec{v}(t)=\vec{v}(t_{0})+\int^t_{t_{0}}\vec{a}(t')\ dt'$$
 Inoltre:
 $$\vec{r}(t)=\vec{r}(t_{0})+\int^t_{t_{0}}dt' \ \vec{v} (t')$$
 E quindi la formula estesa:
-$$\vec{r}(t)=\vec{r}(t_{0})+\vec{v}(t_{0})(t-t_{0})+\int^t_{t_{0}}dt' \int^{t'}_{t_{0}}dt'' ave$$
+$$\vec{r}(t)=\vec{r}(t_{0})+\vec{v}(t_{0})(t-t_{0})+\int^t_{t_{0}}dt' \int^{t'}_{t_{0}}dt''\ \vec{a}(t'')$$
