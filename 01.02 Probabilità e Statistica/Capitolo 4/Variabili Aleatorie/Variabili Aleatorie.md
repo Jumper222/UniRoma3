@@ -52,3 +52,5 @@ Allora abbiamo la [[Fun. di massa di Probabilità (PMF)]]
 Inoltre ci sono le [[Coppie e vettori di variabili aleatorie]]
 
 Esattamente come gli [[Eventi indipendenti]], esistono le [[Variabili Aleatorie Indipendenti|variabili aleatorie indipendenti]]
+
+Quindi abbiamo anche il concetto di [[Valore Atteso]] 
