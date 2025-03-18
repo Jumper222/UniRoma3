@@ -11,4 +11,13 @@ Allora la legge oraria sarà in questa forma:
 
 Questo grafico possiamo “spezzarlo” per descrivere $x(t)$ e $y(t)$ individualmente:
 
-![[Legge oraria x.excalidraw]]
+![[Legge oraria divisa.excalidraw]]
+
+La legge oraria ci dice esattamente dove sta il punto materiale in un dato tempo.
+
+Come possiamo vedere dalla prima figura la traiettoria è ottenibile dalla legge oraria, tramite l’ operazione inversa:
+- Date $x(t),y(t)$:
+	- Prima otteniamo $t(x)$, poi lo componiamo con $y(t(x))$
+Sostanzialmente per ottenere la traiettoria non si fa nient’altro che uno studio dei grafici di x e y in funzione del tempo, per poi sommarli.
+
+Con la legge oraria possiamo studiare lo [[Spostamento]]
