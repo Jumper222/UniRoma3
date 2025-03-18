@@ -12,4 +12,4 @@ Le 3 funzioni che descrivono il moto sono una la derivata dell’ altra, il sape
 Per ora abbiamo studiato il:
 - [[Moto Rettilineo Uniforme]]
 - [[Moto Uniformemente Accelerato]]
-- 
+- [[Caduta di un grave]]
