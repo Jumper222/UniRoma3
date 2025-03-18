@@ -14,6 +14,8 @@ Esso, oltre ad essere uno [[Spazi vettoriali|Spazio vettoriale]] aggiunge anche 
 > 		  - $\hat{x}\times \hat{y}=\hat{z}$
 > 		  - $\hat{z}\times \hat{y}=\hat{x}$
 > 		  - $\hat{z}\times \hat{x}=\hat{y}$
+>	Graficamente:
+>	![[Levogiro]]
 
 Le coordinate di uno spazio di riferimento vengono descritte tramite le [[Coordinate Cartesiane]] o le [[Coordinate Polari]]
 
