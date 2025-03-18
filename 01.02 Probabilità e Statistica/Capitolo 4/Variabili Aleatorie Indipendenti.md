@@ -30,3 +30,4 @@ $\mathbb{P}(E\cap G)=\mathbb{P}(X=1,Y=0)=\frac{1}{8}$
 ma invece
 $\mathbb{P}(E)|\mathbb{P}(G)=\frac{1}{2}* \frac{3}{16}> \frac{1}{8}$
 Le due v.a. non sono indipendenti.
+
