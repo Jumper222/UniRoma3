@@ -8,4 +8,9 @@ $$f_{X}(x)=\begin{cases}
 notiamo subito che $f_{x}$ è una PDF ben specificata, infatti il suo integrale tra 0 e 1.5 è proprio 1:
 $$\int^{1.5}_{0}f_{X}(x)dx=\int^{1.5}_{0} \frac{1}{1.5}dx=1$$
 Infatti il grafico è in questa forma:
+
 ![[Esempio valore atteso v.a. continua.png]]
+
+Allora calcoliamo il valore atteso, ricordandoci che:
+- $\frac{3}{2}$= tempo totale d’ attesa, in ore
+- $\frac{2}{3}$= possibilità che otteniamo 
