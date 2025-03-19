@@ -1,6 +1,11 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
 >Esattamente come gli [[Eventi indipendenti]], Le [[Variabili Aleatorie|v.a.]] indipendenti sono un particolare tipo di v.a. di cui l’ avvenimento di una non modifica il comportamento dell’ altra.
+>Per sapere se due v.a. sono indipendenti calcoliamo:
+>$$F_{X,Y}=F_{X}(x)F_{Y}(y)\quad \forall x,y\in\mathbb{R}$$
+>O se fossero discrete possiamo anche:
+>$$P_{X,Y}(x,y)=P_{X}(x)P_{Y}(y)$$
+>ovviamente con x e y che sono immagini di X e Y
 
 Facciamo un esempio:
 
