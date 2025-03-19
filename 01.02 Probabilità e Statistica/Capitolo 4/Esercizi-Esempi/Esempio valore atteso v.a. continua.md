@@ -20,3 +20,12 @@ $$\mathbb{E}[X]=\int^ \frac{3}{2}_{0} \frac{2}{3}x\ dx=\frac{2}{3}\int^ \frac{3}
 Possiamo quindi dire che in media aspetteremo <font color="#ffff00">45</font> min $\left( \frac{3}{4} h \right)$
 
 Facciamo allora una variazione:
+
+Supponiamo di avere un’ altra PDF:
+$$f_{X}(x)=\begin{cases}
+1- \frac{16}{9}\left( x-\frac{3}{4} \right)^2 & \text{se } x\in[0,1.5] \\
+0 & \text{altrimenti}
+\end{cases}$$
+Innanzitutto controlliamo che sia ben definita, facendo l’ integrale tra $1.5 (\frac{3}{2})$ e $0$, se esso restituirà 1 potremo continuare.
+$$\int^ \frac{3}{2}_{0}1-\frac{16}{9}\left( x-\frac{3}{4} \right)^2dx=\int^ \frac{3}{2}_{0} \left( 1-\frac{16}{9} x^2-1+\frac{8}{3}x \right)dx=\dots=1$$
+Adesso la PDF assumerà un’ altra forma:
