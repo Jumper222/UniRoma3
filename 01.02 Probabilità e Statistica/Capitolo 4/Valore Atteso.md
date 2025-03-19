@@ -11,10 +11,10 @@
 >
 >Per quanto riguarda le v.a. continue invece:
 >$$\mathbb{E}[X]=\int^\infty_{-\infty}x\ f_{x}(x)dx$$
->p
->Per le v.a. indicatrici invece abbiamo una [[Valore atteso di una Variabile Aleatoria Indicatrice|specifica]]
-
-
+>
+>Per le v.a. indicatrici invece abbiamo una [[Valore Atteso di una Variabile Aleatoria Indicatrice|specifica]]
+>
+>Potrebbe succedere che dobbiamo calcolare il [[Valore Atteso di una v.a. composta]]
 
 Se volessimo fare l’ esempio del lancio di un dado:
 $\mathbb{E}[X]=1* \frac{1}{6}+ 2* \frac{1}{6} + \dots + 6* \frac{1}{6}=3.5$
