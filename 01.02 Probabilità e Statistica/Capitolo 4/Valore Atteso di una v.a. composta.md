@@ -21,4 +21,13 @@ Allora $F_{Y}(y)=0\quad \forall y\leq0$, mentre
 $$\forall y\in[0,1]\quad F_{Y}(y)=\mathbb{P}(Y\leq y)=\mathbb{P}(X^3\leq y)$$
  ne consegue:
  $$\mathbb{P}(X\leq y^{1/3})=F_{X}(y^{1/3})=\int^{y^{1/3}}_{0}f_{x}(x)dx=(x)^{y^{1/3}}_{0} =y^{1/3}$$
- 
+ E allora la sua CMF sarà nella forma:
+$$F_{Y}(y)=\begin{cases}
+0 & \text{se }y<0 \\
+y^{1/3} & \text{se }y\in[0,1] \\
+1 & \text{se }y>1
+\end{cases}$$
+![[CMF valore attesto di una variabile aleatoria composta.png]]
+
+Per trovare $f_{Y}$ sarà sufficiente derivare $F_{Y}$:
+$$$$
