@@ -13,4 +13,10 @@ Infatti il grafico è in questa forma:
 
 Allora calcoliamo il valore atteso, ricordandoci che:
 - $\frac{3}{2}$= tempo totale d’ attesa, in ore
-- $\frac{2}{3}$= possibilità che otteniamo 
+- $\frac{2}{3}$= possibilità che otteniamo in ogni momento la comunicazione (1/tempo totale)
+
+Il valore atteso sarà uguale a:
+$$\mathbb{E}[X]=\int^ \frac{3}{2}_{0} \frac{2}{3}x\ dx=\frac{2}{3}\int^ \frac{3}{2}_{0}x\ dx=\dots=\frac{3}{4}$$
+Possiamo quindi dire che in media aspetteremo <font color="#ffff00">45</font> min $\left( \frac{3}{4} h \right)$
+
+Facciamo allora una variazione:
