@@ -18,4 +18,7 @@ Innanzitutto definiamo la v.a. $Y=X^3$, che rappresenta il danno provocato da un
 Ora ci domandiamo come è distribuita $Y$ e quale sia la sua CDF.
 Ovviamente $\mathrm{Im}(Y)=\mathrm{Im}(X^3)=[0,1]$
 Allora $F_{Y}(y)=0\quad \forall y\leq0$, mentre
-$\forall y\in$$
+$$\forall y\in[0,1]\quad F_{Y}(y)=\mathbb{P}(Y\leq y)=\mathbb{P}(X^3\leq y)$$
+ ne consegue:
+ $$\mathbb{P}(X\leq y^{1/3})=F_{X}(y^{1/3})=\int^{y^{1/3}}_{0}f_{x}(x)dx=(x)^{y^{1/3}}_{0} =y^{1/3}$$
+ 
