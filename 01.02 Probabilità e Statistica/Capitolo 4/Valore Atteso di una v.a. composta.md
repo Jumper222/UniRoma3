@@ -30,4 +30,9 @@ y^{1/3} & \text{se }y\in[0,1] \\
 ![[CMF valore attesto di una variabile aleatoria composta.png]]
 
 Per trovare $f_{Y}$ sarà sufficiente derivare $F_{Y}$:
-$$$$
+$$F_{Y}'=\frac{1}{3}y^{-2/3}$$
+![[PDF valore atteso di una v.a. composta.png]]
+*PDF di Y e X sovrapposte*
+
+Allora possiamo calcolare facilmente il valore atteso di $Y$:
+$$\mathbb{E}[Y]=\int_{0}^1y\ f_{Y}(y)dy=\int_{0}^1y\ f_{Y}(y)dy$$
