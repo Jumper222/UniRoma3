@@ -1,3 +1,4 @@
+#Probabilità_e_statistica 
 Supponiamo che stiamo aspettando una comunicazione che arriverà tra le 17:00 e le 18:30
 Supponiamo inoltre che abbia la stessa possibilità di arrivare in qualsiasi istante di tempo.
 Allora modellizziamo l’ esercizio con la PDF:
