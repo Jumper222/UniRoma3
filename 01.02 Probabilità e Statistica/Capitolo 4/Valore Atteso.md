@@ -16,6 +16,8 @@
 >
 >Potrebbe succedere che dobbiamo calcolare il [[Valore Atteso di una v.a. composta]]
 >
+>Esistono dei casi in cui ci potrebbe capitare di dover [[Calcolare il Valore Atteso di una funzione]]
+>
 >Invece potrebbe capitare di dover descrivere il [[Valore Atteso di 2+ v.a.]]
 
 Se volessimo fare l’ esempio del lancio di un dado:

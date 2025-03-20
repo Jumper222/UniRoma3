@@ -38,3 +38,4 @@ Allora possiamo calcolare facilmente il valore atteso di $Y$:
 $$\mathbb{E}[Y]=\int_{0}^1y\ f_{Y}(y)dy=\int_{0}^1 \frac{1}{3}y^{1/3}dy=\dots=\frac{1}{4}$$
 <font color="#f79646">NB</font>: alternativamente avremmo potuto calcolare il valore atteso direttamente da $X^3$
 $$\mathbb{E}[Y]=\mathbb{E}[X^3]=\int_{0}^1x^3f_{X}(x)dx=\int_{0}^1x^3dx=\frac{1}{4}$$
+
