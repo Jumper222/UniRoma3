@@ -10,4 +10,4 @@
 >
 >Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
 
-Per quanto riguarda le v.a. indicatrici,
+Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di [[Varianza di una v.a. indicatrice]]
