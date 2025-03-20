@@ -9,4 +9,9 @@ $$\mathbb{E}[g(X,Y)]=\int^\infty_{-\infty}\int^\infty_{-\infty}g(x,y)f_{X,Y}(x,y
 E si ha un meccanismo analogo per $X,Y$ discrete:
 
 Facciamo un esempio:
-$g(x,y)=x$
+$g(x,y)=x+y$
+![[Valore Atteso di 2+ v.a..png]]
+
+E allora il valore atteso della somma di due v.a. è la somma dei valori attesi delle v.a.
+
+Questo concetto si estende a 
