@@ -12,6 +12,9 @@
 >
 >Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
 >
->La varianza cambia  
+>La varianza a differenza del valore atteso non rispetta sempre la proprietà:
+>$$Var(X+Y)=Var(X)+Var(Y)$$
+
+
 
 Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di [[Varianza di una v.a. indicatrice]]
