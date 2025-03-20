@@ -7,3 +7,7 @@
 >$$var(X)=\mathbb{E}[X-\mu]^2$$
 >
 >Intuitivamente possiamo quindi dire che la varianza di $X$ è la differenza tra il momento $2°$ di X ed il quadrato del suo valore atteso.
+>
+>Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
+
+Per quanto riguarda le v.a. indicatrici,
