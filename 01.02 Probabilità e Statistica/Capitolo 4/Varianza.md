@@ -15,6 +15,6 @@
 >La varianza a differenza del valore atteso non rispetta sempre la proprietà:
 >$$Var(X+Y)=Var(X)+Var(Y)$$
 
-
+A sua volta la varianza si connette con la [[Covarianza]] 
 
 Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di [[Varianza di una v.a. indicatrice]]
