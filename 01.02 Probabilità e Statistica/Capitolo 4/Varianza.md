@@ -10,6 +10,8 @@
 >
 >Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
 >
->Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|2+ v.a.]]
+>Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
+>
+>La varianza cambia  
 
 Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di [[Varianza di una v.a. indicatrice]]
