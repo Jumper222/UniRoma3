@@ -15,6 +15,8 @@
 >Per le v.a. indicatrici invece abbiamo una [[Valore Atteso di una Variabile Aleatoria Indicatrice|specifica]]
 >
 >Potrebbe succedere che dobbiamo calcolare il [[Valore Atteso di una v.a. composta]]
+>
+>Invece potrebbe capitare di dover descrivere il [[Valore Atteso di 2+ v.a.]]
 
 Se volessimo fare l’ esempio del lancio di un dado:
 $\mathbb{E}[X]=1* \frac{1}{6}+ 2* \frac{1}{6} + \dots + 6* \frac{1}{6}=3.5$
