@@ -14,4 +14,4 @@ $g(x,y)=x+y$
 
 E allora il valore atteso della somma di due v.a. è la somma dei valori attesi delle v.a.
 
-Questo concetto si estende a 
+Questo concetto si estende anche a più di 2 v.a. nello stesso modo. 
