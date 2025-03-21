@@ -21,7 +21,7 @@
 >
 >Invece potrebbe capitare di dover descrivere il [[Valore Atteso di 2+ v.a.]]
 >
->Il Valore atteso è il primo momento della [[Funzione generatrice di momenti]]
+>Il Valore atteso è il primo momento della [[Funzione generatrice di momenti (MGF)]]
 
 
 Se volessimo fare l’ esempio del lancio di un dado:
