@@ -18,3 +18,8 @@ Il primo momento ($k=1$) ci dice il Valore Atteso
 Il secondo momento ($k=2$) ci dice la Varianza
 
 Per poter calcolare la varianza allora faremmo:
+$$M_{X}'(0)=\mathbb{E}(X)$$
+$$M_{X}''(0)=\mathbb{E}(X^2)$$
+Allora:
+> [!dimostrazione] Dimostrazione
+> Abbiamo la $Var(X)=\mathbb{E}[(X-\mathbb{E}[X])^2]$
