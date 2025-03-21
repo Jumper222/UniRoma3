@@ -13,3 +13,5 @@ Per ora abbiamo studiato il:
 - [[Moto Rettilineo Uniforme]]
 - [[Moto Uniformemente Accelerato]]
 - [[Caduta di un grave]]
+- [[Moto Parabolico]]
+- 
