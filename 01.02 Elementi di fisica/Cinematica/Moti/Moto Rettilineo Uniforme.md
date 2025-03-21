@@ -3,6 +3,13 @@
 >Il moto rettilineo uniforme è il moto di un corpo la cui accelerazione è 0, ossia $\vec{a}(t)=0$,
 >Quindi la velocità apparirà come una retta, ed è fissa.
 
+Abbiamo le seguenti formule utili per quanto concerne il MRU:
+
+| Nome         | Formula |
+| ------------ | ------- |
+| Legge Oraria | $s=v$   |
+
+
 Allora avremo i grafici di spazio tempo:
 (in caso $v<0$)
 
