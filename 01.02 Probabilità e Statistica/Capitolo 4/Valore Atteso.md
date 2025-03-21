@@ -1,7 +1,7 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
 >Il valore atteso, indicato con $\mathbb{E}(X)$ è il valore con cui descriviamo al meglio una [[Variabili Aleatorie|v.a.]],
->Esso ci fornisce il “baricentro” o media della [[Fun. di massa di Probabilità (PMF)]] della v.a. e assume vari valori:
+>Esso ci fornisce il “baricentro” o media della [[Fun. di massa di Probabilità (PMF)]] della v.a. e assume vari nomi:
 >- Valore atteso di X
 >- Aspettazione di X
 >- Media di X
@@ -11,14 +11,18 @@
 >
 >Per quanto riguarda le v.a. continue invece:
 >$$\mathbb{E}[X]=\int^\infty_{-\infty}x\ f_{x}(x)dx$$
+> Per le v.a. indicatrici invece abbiamo una [[Valore Atteso di una Variabile Aleatoria Indicatrice|specifica]]
 >
->Per le v.a. indicatrici invece abbiamo una [[Valore Atteso di una Variabile Aleatoria Indicatrice|specifica]]
->
+
+> [!links]
 >Potrebbe succedere che dobbiamo calcolare il [[Valore Atteso di una v.a. composta]]
 >
 >Esistono dei casi in cui ci potrebbe capitare di dover [[Calcolare il Valore Atteso di una funzione]]
 >
 >Invece potrebbe capitare di dover descrivere il [[Valore Atteso di 2+ v.a.]]
+>
+>Il Valore atteso è il primo momento della [[Funzione generatrice di momenti]]
+
 
 Se volessimo fare l’ esempio del lancio di un dado:
 $\mathbb{E}[X]=1* \frac{1}{6}+ 2* \frac{1}{6} + \dots + 6* \frac{1}{6}=3.5$

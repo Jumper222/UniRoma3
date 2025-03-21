@@ -17,4 +17,5 @@
 
 A sua volta la varianza si connette con la [[Covarianza]] 
 
-Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di [[Varianza di una v.a. indicatrice]]
+Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di calcolare la [[Varianza di una v.a. indicatrice]]
+
