@@ -9,4 +9,10 @@
 > Essa è definita tale che:
 > $$M_{X}(t)=\mathbb{E}[e^{tX}]\quad \quad \forall t\in\mathbb{R}$$
 
+### <font color="#4bacc6">Come usare la MGF</font>:
 
+Per poter ottenere i valori sopra indicati, dovremo fare una espansione di Taylor in $t=0$ della funzione, dopo una serie di vari passaggi matematici arriveremo a:
+$$M_{X}(t)=\mathbb{E}[e^{tX}]=\sum_{k=0}^\infty\mathbb{E}[X^k] \frac{t^k}{k!}$$
+
+Il primo momento ($k=1$) ci dice il Valore Atteso
+Il secondo momento ($k=2$) ci dice la Varianza
