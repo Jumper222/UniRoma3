@@ -23,3 +23,12 @@ $$M_{X}''(0)=\mathbb{E}(X^2)$$
 Allora:
 > [!dimostrazione] Dimostrazione
 > Abbiamo la $Var(X)=\mathbb{E}[(X-\mathbb{E}[X])^2]$
+> Allora sviluppiamo il quadrato:
+> $$Var(X)=\mathbb{E}[X^2-2X\mathbb{E}[X]+(\mathbb{E}[X])^2]$$
+> Quindi sfruttiamo le proprietà dell’ aspettazione:
+> $$Var(X)=E[X^2]−2E[X]⋅E[X]+(E[X])^2$$
+> Spostiamo le variabili:
+> $$−2E[X]⋅E[X]+(E[X])^2=−(E[X])^2$$
+> E allora abbiamo la nostra formula ben conosciuta per la varianza:
+> $$Var(X)=\mathbb{E}[X^2]-(\mathbb{E}[X])^2$$
+

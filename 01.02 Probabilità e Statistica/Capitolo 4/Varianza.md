@@ -8,14 +8,23 @@
 >
 >Intuitivamente possiamo quindi dire che la varianza di $X$ è la differenza tra il momento $2°$ di X ed il quadrato del suo valore atteso.
 >
->Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
->
->Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
->
 >La varianza a differenza del valore atteso non rispetta sempre la proprietà:
 >$$Var(X+Y)=Var(X)+Var(Y)$$
 
-A sua volta la varianza si connette con la [[Covarianza]] 
+> [!links]  Links
+> A sua volta la varianza si connette con la [[Covarianza]] 
+> 
+> Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di calcolare la [[Varianza di una v.a. indicatrice]]
+> 
+> Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
+> 
+> Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
+> 
 
-Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di calcolare la [[Varianza di una v.a. indicatrice]]
+Facciamo un semplice esempio: 
+Supponiamo di avere una v.a. $X$ con i seguenti valori:
+$\mathbb{P}(X=1)=0.5$
+$\mathbb{P}(X=3)=0.5$
 
+Calcoliamo il Valore Atteso:
+$\mathbb{E}[X]=(1*0.5)+(3*0.5)=0.5+1.5=2$
