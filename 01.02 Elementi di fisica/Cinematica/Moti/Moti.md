@@ -14,4 +14,3 @@ Per ora abbiamo studiato il:
 - [[Moto Uniformemente Accelerato]]
 - [[Caduta di un grave]]
 - [[Moto Parabolico]]
-- 
