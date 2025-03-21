@@ -16,3 +16,5 @@ $$M_{X}(t)=\mathbb{E}[e^{tX}]=\sum_{k=0}^\infty\mathbb{E}[X^k] \frac{t^k}{k!}$$
 
 Il primo momento ($k=1$) ci dice il Valore Atteso
 Il secondo momento ($k=2$) ci dice la Varianza
+
+Per poter calcolare la varianza allora faremmo:
