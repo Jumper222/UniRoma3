@@ -45,6 +45,9 @@ Ed il suo grafico in questa forma:
 
 ![[Esempio 2 valore atteso.png]]
 
+
+
 Facciamo un esempio per il valore atteso di una v.a. continua: [[Esempio valore atteso v.a. continua]]
 
 Il valore atteso poi ci permette di definire il concetto di [[Varianza]]
+
