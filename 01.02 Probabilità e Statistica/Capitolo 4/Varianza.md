@@ -8,8 +8,10 @@
 >
 >Intuitivamente possiamo quindi dire che la varianza di $X$ è la differenza tra il momento $2°$ di X ed il quadrato del suo valore atteso.
 >
->La varianza a differenza del valore atteso non rispetta sempre la proprietà:
+>La varianza a differenza del valore atteso non rispetta sempre la proprietà ( la rispetta solo se $Cov(X,Y)=0$)
 >$$Var(X+Y)=Var(X)+Var(Y)$$
+>Infatti la formula corretta sarebbe:
+>$$Var(X+Y)=Var(X)+Var(Y)+2Cov(X,Y)$$
 
 > [!links]  Links
 > A sua volta la varianza si connette con la [[Covarianza]] 
@@ -19,7 +21,7 @@
 > Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
 > 
 > Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
-> 
+
 
 Facciamo un semplice esempio: 
 Supponiamo di avere una v.a. $X$ con i seguenti valori:

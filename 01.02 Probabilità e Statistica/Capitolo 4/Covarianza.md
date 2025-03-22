@@ -9,5 +9,6 @@
 >
 >E matematicamente ha la seguente definizione: 
 >$$Cov[X,Y]=\mathbb{E}[XY]-\mathbb{E}[X]\mathbb{E}[Y]$$
+>Inoltre rispetta la proprietà distributiva
 
 
