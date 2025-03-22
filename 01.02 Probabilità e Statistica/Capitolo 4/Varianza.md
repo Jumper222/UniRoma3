@@ -21,6 +21,8 @@
 > Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
 > 
 > Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
+> o
+> La varianza è il momento secondo della [[Funzione generatrice di momenti (MGF)|MGF]]
 
 
 Facciamo un semplice esempio: 

@@ -24,6 +24,7 @@
 >Il Valore atteso è il primo momento della [[Funzione generatrice di momenti (MGF)]]
 
 
+
 Se volessimo fare l’ esempio del lancio di un dado:
 $\mathbb{E}[X]=1* \frac{1}{6}+ 2* \frac{1}{6} + \dots + 6* \frac{1}{6}=3.5$
 
