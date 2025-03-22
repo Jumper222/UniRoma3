@@ -15,10 +15,12 @@ Per poter ottenere i valori sopra indicati, dovremo fare una espansione di Taylo
 $$M_{X}(t)=\mathbb{E}[e^{tX}]=\sum_{k=0}^\infty\mathbb{E}[X^k] \frac{t^k}{k!}$$
 
 Il primo momento ($k=1$) ci dice il Valore Atteso
-Il secondo momento ($k=2$) ci dice la Varianza
+Il secondo momento ($k=2$) ci porta poi alla Varianza (Non è la varianza!)
 
 Per poter calcolare la varianza allora faremmo:
+Momento primo:
 $$M_{X}'(0)=\mathbb{E}(X)$$
+Momento secondo:
 $$M_{X}''(0)=\mathbb{E}(X^2)$$
 Allora:
 > [!dimostrazione] Dimostrazione
