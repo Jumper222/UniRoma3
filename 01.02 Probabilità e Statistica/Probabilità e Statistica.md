@@ -8,3 +8,4 @@ Tutorato: (?)
 Argomenti:
 [[Definizioni di Probabilità]]
 [[Note per Esame di Statistica]]
+[[Stime]]
