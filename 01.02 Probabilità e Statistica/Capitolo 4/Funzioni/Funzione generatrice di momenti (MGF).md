@@ -41,3 +41,7 @@ La particolarità della MGF sta nel fatto che come la [[Fun. di Ripartizione (CD
 $$\phi_{X}(t)=\phi_{Y}(t)$$
 Allora $X,Y$ hanno la stessa CDF:
 $$\mathbb{P}(X\in[a,b])=\mathbb{P}(Y\in[a,b])$$
+Un’ altra proprietà utile è:
+Se $X,Y$ sono [[Variabili Aleatorie Indipendenti|v.a. Indipendenti]] allora:
+$$\phi_{X+Y}(t)=\phi_{X}(t)\phi_{Y}(t)$$
+Ossia la MGF della somma di v.a. indipendenti è il prodotto della loro MGF.
