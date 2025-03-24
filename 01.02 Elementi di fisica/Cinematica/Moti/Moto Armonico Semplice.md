@@ -8,4 +8,10 @@
 >- [[Pulsazione]]
 >- [[Frequenza]]
 
-Essendo un sistema fisico applichiamo l’ idea di tempo e spazio ad un’ onda sinusoidale, allora possiamo dire di avere dei punti notevoli per la fase $$
+Essendo un sistema fisico applichiamo l’ idea di tempo e spazio ad un’ onda sinusoidale, allora possiamo dire di avere dei punti notevoli per la fase $\phi$:
+- $\phi_{0}=0\to x(0)=0$
+- $\phi_{0}=\dfrac{\pi}{2}\to x(0)=A\sin(\dfrac{\pi}{2})=A$
+- $\phi_{0}=\dfrac{3}{2}\pi\to x(0)=A$
+E per quanto riguarda il tempo:
+- $t=\dfrac{T}{2}\to x(\dfrac{T}{2}=A\sin(\pi+\phi_{0}))$
+- $t=0\to x(0)=A\sin \phi=$
