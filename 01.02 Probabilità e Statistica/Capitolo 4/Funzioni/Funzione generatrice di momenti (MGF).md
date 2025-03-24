@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 > [!definizione]  Definizione
-> La [[Funzioni|funzione]] generatrice di momenti (MGF) è una funzione utilissima in probabilità e statistica, che ci permette di ottenere:
+> La [[Funzioni|funzione]] generatrice di momenti (MGF) ($\phi_{X}$) è una funzione utilissima in probabilità e statistica, che ci permette di ottenere:
 > - Il [[Valore Atteso]]
 > - La [[Varianza]]
 > - La Simmetria
@@ -37,4 +37,7 @@ Allora:
 > E allora abbiamo la nostra formula ben conosciuta per la varianza:
 > $$Var(X)=\mathbb{E}[X^2]-(\mathbb{E}[X])^2$$
 
-La particolarità della MGF sta nel fatto che 
+La particolarità della MGF sta nel fatto che come la [[Fun. di Ripartizione (CDF)|CDF]] anch’ essa definisce unicamente una funzione, infatti se vale la relazione:
+$$\phi_{X}(t)=\phi_{Y}(t)$$
+Allora $X,Y$ hanno la stessa CDF:
+$$\mathbb{P}(X\in[a,b])=\mathbb{P}(Y\in[a,b])$$
