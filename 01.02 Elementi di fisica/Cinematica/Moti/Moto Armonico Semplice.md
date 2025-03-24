@@ -8,10 +8,23 @@
 >- [[Pulsazione]]
 >- [[Frequenza]]
 
+Abbiamo la seguente tabella dei valori:
+
+| Nome      | Formula                                  |
+| --------- | ---------------------------------------- |
+| Posizione | $x(t)=A\cos(\omega t+\phi_{0})$          |
+| Velocità  | $v(t)=-A\omega \sin(\omega t+\phi_{0})$p |
+
+
+
 Essendo un sistema fisico applichiamo l’ idea di tempo e spazio ad un’ onda sinusoidale, allora possiamo dire di avere dei punti notevoli per la fase $\phi$:
 - $\phi_{0}=0\to x(0)=0$
 - $\phi_{0}=\dfrac{\pi}{2}\to x(0)=A\sin(\dfrac{\pi}{2})=A$
 - $\phi_{0}=\dfrac{3}{2}\pi\to x(0)=A$
 E per quanto riguarda il tempo:
 - $t=\dfrac{T}{2}\to x(\dfrac{T}{2}=A\sin(\pi+\phi_{0}))$
-- $t=0\to x(0)=A\sin \phi=$
+- $t=0\to x(0)=A\sin \phi=x_{0}$
+- $t=\dfrac{T}{4}\to x(\dfrac{T}{4})=A\sin(\dfrac{\pi}{2}+\phi_{0})$
+- $t=\dfrac{3T}{4}\to x(\dfrac{3T}{4})=A\sin(\dfrac{3\pi}{2}+\phi_{0})$
+
+
