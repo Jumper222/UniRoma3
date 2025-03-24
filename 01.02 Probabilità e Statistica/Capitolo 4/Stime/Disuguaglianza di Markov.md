@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
->La disuguaglianza di Markov è una stima che utilizziamo quando un problema ci da il valore assoluto e ci chiede la probabilità che un valore maggiore o uguale ad un dato X si verifichi, ed ha la formula:
+>La disuguaglianza di Markov è una stima che utilizziamo quando un problema ci da il [[Valore Atteso]] e ci chiede la probabilità che un valore maggiore o uguale ad un dato X si verifichi, ed ha la formula:
 >$$\mathbb{P}(X\geq a)\leq \dfrac{\mathbb{E}[X]}{a}$$
 
 Facciamo un esempio:
