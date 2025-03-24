@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 ### <font color="#4bacc6">Esempio 1</font>
 Sia data la matrice $A$ ed il suo polinomio caratteristico:
 $$A := \begin{pmatrix}

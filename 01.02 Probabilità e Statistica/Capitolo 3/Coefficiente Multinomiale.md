@@ -1,4 +1,4 @@
-s#Probabilità_e_statistica 
+#Probabilità_e_statistica 
 Il <font color="#ffff00">Coefficiente Multinomiale</font> è una generalizzazione del [[Coefficiente Binomiale]]:
 >[!Definizione]  Definizione
 >Dato un insieme di $n$ oggetti divisi in $k\leq n$ gruppi, con

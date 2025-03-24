@@ -1,3 +1,4 @@
+#Probabilità_e_statistica 
 ### <font color="#4bacc6">Esercizio</font>
 Supponiamo di sapere che $X$ è una v.a. continua con $PDF$
 $$f(x)\begin{cases}

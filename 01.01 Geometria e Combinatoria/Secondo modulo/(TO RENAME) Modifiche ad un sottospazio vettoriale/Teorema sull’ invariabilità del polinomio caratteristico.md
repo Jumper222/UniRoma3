@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Al variare della base il polinomio caratteristico di un endomorfismo non cambia.
 
 > [!enunciato]
