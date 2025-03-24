@@ -13,6 +13,9 @@
 
 Per poter ottenere i valori sopra indicati, dovremo fare una espansione di Taylor in $t=0$ della funzione, dopo una serie di vari passaggi matematici arriveremo a:
 $$M_{X}(t)=\mathbb{E}[e^{tX}]=\sum_{k=0}^\infty\mathbb{E}[X^k] \frac{t^k}{k!}$$
+Allora arriveremo nella forma:
+$$e^{tX}=1+tX+\dfrac{t^2X^2}{2!}+\dfrac{t^3X^3}{3!}+\dots+\dfrac{t^nX^n}{n!}$$
+
 
 Il primo momento ($k=1$) ci dice il Valore Atteso
 Il secondo momento ($k=2$) ci porta poi alla Varianza (Non è la varianza!)
@@ -34,3 +37,4 @@ Allora:
 > E allora abbiamo la nostra formula ben conosciuta per la varianza:
 > $$Var(X)=\mathbb{E}[X^2]-(\mathbb{E}[X])^2$$
 
+La particolarità della MGF sta nel fatto che 

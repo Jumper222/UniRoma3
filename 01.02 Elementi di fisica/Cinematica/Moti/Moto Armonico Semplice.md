@@ -10,11 +10,13 @@
 
 Abbiamo la seguente tabella dei valori:
 
-| Nome      | Formula                                  |
-| --------- | ---------------------------------------- |
-| Posizione | $x(t)=A\cos(\omega t+\phi_{0})$          |
-| Velocità  | $v(t)=-A\omega \sin(\omega t+\phi_{0})$p |
-
+| Nome          | Formula                                  |
+| ------------- | ---------------------------------------- |
+| Posizione     | $x(t)=A\cos(\omega t+\phi_{0})$          |
+| Velocità      | $v(t)=-A\omega \sin(\omega t+\phi_{0})$  |
+| Accelerazione | $a(t)=-A\omega^2\cos(\omega t+\phi_{0})$ |
+| Periodo       | $T=\dfrac{2\pi}{\omega}$                 |
+| Frequenza     | $\dfrac{1}{T}$                           |
 
 
 Essendo un sistema fisico applichiamo l’ idea di tempo e spazio ad un’ onda sinusoidale, allora possiamo dire di avere dei punti notevoli per la fase $\phi$:
