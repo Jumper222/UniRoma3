@@ -1,3 +1,7 @@
 #Elementi_di_Fisica 
 >[!Definizione]  Definizione
+>L’ ampiezza è la distanza che percorre tra il punto massimo ed il punto minimo di un’ onda,
+>Graficamente lo rappresenteremmo:
+>![[Excalidraw/Ampiezza]]
 >
+
