@@ -17,12 +17,6 @@ Abbiamo la seguente tabella dei valori:
 | Accelerazione | $a(t)=-A\omega^2\cos(\omega t+\phi_{0})$ |
 | Periodo       | $T=\dfrac{2\pi}{\omega}$                 |
 | Frequenza     | $\dfrac{1}{T}$                           |
-E se invece volessimo ricavare velocità o accelerazione derivando la posizione:
-
-|     |     |
-| --- | --- |
-|     |     |
-
 
 
 

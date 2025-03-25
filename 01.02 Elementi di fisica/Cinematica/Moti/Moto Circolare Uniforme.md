@@ -7,16 +7,24 @@
 
 Tabella per lookup veloce delle formule:
 
-| Nome                      | Formula                          |
-| ------------------------- | -------------------------------- |
-| Velocità angolare media   | $\dfrac{\Delta\theta}{\Delta t}$ |
-| Velocità tangenziale      | $v=r\omega$                      |
-| Accelerazione centripeta  | $a_{c}=\dfrac{v^2}{r}=r\omega^2$ |
-| Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 }$ |
-| Accelerazione tangenziale | $a_{t}=r\alpha$                  |
+| Nome                      | Formula                                                         |
+| ------------------------- | --------------------------------------------------------------- |
+| Velocità angolare media   | $\dfrac{\Delta\theta}{\Delta t}$                                |
+| Velocità tangenziale      | $v=r\omega$                                                     |
+| Accelerazione centripeta  | $a_{c}=\dfrac{v^2}{r}=r\omega^2$                                |
+| Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
+| Accelerazione tangenziale | $a_{t}=r\alpha$                                                 |
+|                           |                                                                 |
+E se invece volessimo ottenere la velocità o accelerazione dalla posizione:
 
-
-
+<font color="#ffff00">Posizione</font>:
+$$r(t)=\begin{cases}x(t)=R\cos(\theta(t)) \\
+y(t)=R\sin(\theta(t))
+\end{cases}$$
+<font color="#ffff00">Velocità</font>:
+$$v(t)=\begin{cases}
+x(t)=-R\sin(\theta(t))*\theta
+\end{cases}$$
 Iniziamo:
 Il vettore posizione nel moto armonico appare graficamente:
 
