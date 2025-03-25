@@ -15,4 +15,4 @@ Per ora abbiamo studiato il:
 - [[Caduta di un grave]]
 - [[Moto Parabolico]]
 - [[Moto Armonico Semplice]]
-- 
+- [[Moto Circolare Uniforme]]
