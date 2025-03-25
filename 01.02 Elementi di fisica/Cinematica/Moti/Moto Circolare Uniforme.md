@@ -23,4 +23,10 @@ E invece per quanto riguarda le <font color="#f79646">coordinate polari</font>:
 $$\vec{v}(t)=\dfrac{d\vec{r}(t)}{dt}=R*w(t)*\underbrace{[-\sin \theta(t)\hat{x}+\cos \theta(t)\hat{y}]}_{\hat{\tau}(t)}$$
 Qui la seconda parte la chiamiamo $\hat{\tau}(t)$
 
-E allora possiamo riassumere 
+Abbiamo anche la seguente formula:
+$$\theta(t)\to \omega (t)=\dfrac{d\theta(t)}{dt}$$
+Questa è anche detta <font color="#ffff00">velocità angolare</font>, però non coincide con la pulsazione nonostante abbia lo stesso simbolo
+
+Quando andiamo a calcolare la $\vec{v}(t)$ otteniamo che questo vettore è perpendicolare a quello della posizione, e di conseguenza anche l’ accelerazione è perpendicolare alla velocità, quindi sarà opposta al vettore posizione.
+
+E allora 
