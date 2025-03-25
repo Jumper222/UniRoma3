@@ -2,7 +2,7 @@
 >[!Definizione]  Definizione
 >Il moto circolare uniforme (MCU) è un moto che agisce con una traiettoria che ha la forma di una circonferenza, è quindi un moto bidimensionale, che però possiamo rendere monodimensionale se prendiamo la circonferenza come traiettoria che percorriamo.
 >Il MCU è un moto molto particolare, infatti abbiamo il concetto di:
->- Accelerazione centripeta (è una accelerazione che porta il corpo fuori dalla circonferenza
+>- Accelerazione centripeta (è una accelerazione che porta il corpo dentro la circonferenza
 >- Velocità tangenziale (è una velocità che è tangente alla circonferenza)
 
 Tabella per lookup veloce delle formule:
