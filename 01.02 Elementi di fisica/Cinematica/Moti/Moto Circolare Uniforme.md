@@ -29,4 +29,10 @@ Questa è anche detta <font color="#ffff00">velocità angolare</font>, però non
 
 Quando andiamo a calcolare la $\vec{v}(t)$ otteniamo che questo vettore è perpendicolare a quello della posizione, e di conseguenza anche l’ accelerazione è perpendicolare alla velocità, quindi sarà opposta al vettore posizione.
 
-E allora 
+E allora $\vec{a}(t)=R(\dfrac{d\omega(t)}{dt}*\tau(t)+\dfrac{\omega(t)*d\tau(t)}{dt})$
+
+quindi abbiamo infine le formule:
+$$\dfrac{d\vec{\tau}(t)}{dt}=-\omega(t) \hat{v}(t)$$
+allora abbiamo la formula per l’ accelerazione:
+$$\vec{a}(t)=R\alpha(t)*\hat{\tau}(t)-R\omega(t)^2*\hat{v}(t)$$
+la prima parte della formula è la velocità tangenziale e la parte destra è l’ accelerazione centripeta.
