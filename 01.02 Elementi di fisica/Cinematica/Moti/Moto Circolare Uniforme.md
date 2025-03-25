@@ -14,5 +14,13 @@ Ed è descritto algebricamente dalle seguenti formule:
 
 - <font color="#f79646">Coordinate cartesiane</font>:
 $$\vec{r}(t)=R\cos[\theta(t)]\hat{x}+R\sin[\theta(t)]\hat{y}$$
-- <font color="#f79646">Coordinate polari</font>:
-$$\vec{r}(t)=R\hat{v}(t)$$ **
+- <font color="#f79646">Coordinate polari</font>: (Questo modo di scrivere è anche inteso come direzione radiale)
+$$\vec{r}(t)=R\hat{v}(t)$$ 
+Come ben sappiamo possiamo ottenere la velocità derivando la posizione:
+per quanto riguarda le <font color="#f79646">coordinate cartesiane</font>:
+$$\vec{v}(t)=\dfrac{d\vec{r}(t)}{dt}=-R\sin(\theta(t))\ \dfrac{d\theta(t)}{dt}\hat{x}+R\cos(\theta(t))\ \dfrac{d(\theta(t))}{dt}$$
+E invece per quanto riguarda le <font color="#f79646">coordinate polari</font>:
+$$\vec{v}(t)=\dfrac{d\vec{r}(t)}{dt}=R*w(t)*\underbrace{[-\sin \theta(t)\hat{x}+\cos \theta(t)\hat{y}]}_{\hat{\tau}(t)}$$
+Qui la seconda parte la chiamiamo $\hat{\tau}(t)$
+
+E allora possiamo riassumere 
