@@ -9,7 +9,7 @@ Tabella per lookup veloce delle formule:
 
 | Nome                      | Formula                                                         |
 | ------------------------- | --------------------------------------------------------------- |
-| Velocità angolare media   | $\dfrac{\Delta\theta}{\Delta t}$                                |
+| Velocità angolare media   | $\omega=\dfrac{\Delta\theta}{\Delta t}$                         |
 | Velocità tangenziale      | $v=r\omega$                                                     |
 | Accelerazione centripeta  | $a_{c}=\dfrac{v^2}{r}=r\omega^2$                                |
 | Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
@@ -21,10 +21,16 @@ E se invece volessimo ottenere la velocità o accelerazione dalla posizione:
 $$r(t)=\begin{cases}x(t)=R\cos(\theta(t)) \\
 y(t)=R\sin(\theta(t))
 \end{cases}$$
-<font color="#ffff00">Velocità</font>:
+<font color="#ffff00">Velocità</font>: (Qui $\theta'(t)$ è la velocità angolare)
 $$v(t)=\begin{cases}
-x(t)=-R\sin(\theta(t))*\theta
+x(t)=-R\sin(\theta(t))*\theta'(t) \\
+y(t)=R\cos(\theta(t))*\theta'(t)
 \end{cases}$$
+<font color="#ffff00">Accelerazione</font>:
+$$a(t)=\begin{cases}
+x(t)=
+\end{cases}$$
+$$$$
 Iniziamo:
 Il vettore posizione nel moto armonico appare graficamente:
 
