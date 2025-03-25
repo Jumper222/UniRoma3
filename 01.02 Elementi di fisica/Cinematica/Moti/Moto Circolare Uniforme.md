@@ -5,8 +5,18 @@
 >- Accelerazione centripeta (è una accelerazione che porta il corpo fuori dalla circonferenza
 >- Velocità tangenziale (è una velocità che è tangente alla circonferenza)
 
+Tabella per lookup veloce delle formule:
+
+| Nome                    | Formula                          |
+| ----------------------- | -------------------------------- |
+| Velocità angolare media | $\dfrac{\Delta\theta}{\Delta t}$ |
+| Velocità tangenziale    |                                  |
+
+
+
 Iniziamo:
 Il vettore posizione nel moto armonico appare graficamente:
+
 
 ![[MCU.excalidraw]]
 
@@ -35,4 +45,4 @@ quindi abbiamo infine le formule:
 $$\dfrac{d\vec{\tau}(t)}{dt}=-\omega(t) \hat{v}(t)$$
 allora abbiamo la formula per l’ accelerazione:
 $$\vec{a}(t)=R\alpha(t)*\hat{\tau}(t)-R\omega(t)^2*\hat{v}(t)$$
-la prima parte della formula è la velocità tangenziale e la parte destra è l’ accelerazione centripeta.
+la prima parte della formula è la velocità tangenziale e la parte destra è l’ accelerazione centripeta. 
