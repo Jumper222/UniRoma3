@@ -26,10 +26,10 @@ $$v(t)=\begin{cases}
 x(t)=-R\sin(\theta(t))*\theta'(t) \\
 y(t)=R\cos(\theta(t))*\theta'(t)
 \end{cases}$$
-<font color="#ffff00">Accelerazione</font>:
+<font color="#ffff00">Accelerazione</font>: (la prima parte è l’ accelerazione centripeta, la seconda quella tangenziale)
 $$a(t)=R\begin{cases}
 x(t)=-\cos(\theta(t))*\theta'(t)^2-\sin (\theta(t))*\theta''(t) \\
-y(t)=-\sin(\theta(t))*\theta'(t)^2+\cos(\theta)(t)
+y(t)=-\sin(\theta(t))*\theta'(t)^2+\cos(\theta)(t)*\theta''(t)
 \end{cases}$$Iniziamo:
 Il vettore posizione nel moto armonico appare graficamente:
 
