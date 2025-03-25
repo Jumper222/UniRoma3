@@ -7,10 +7,13 @@
 
 Tabella per lookup veloce delle formule:
 
-| Nome                    | Formula                          |
-| ----------------------- | -------------------------------- |
-| Velocità angolare media | $\dfrac{\Delta\theta}{\Delta t}$ |
-| Velocità tangenziale    |                                  |
+| Nome                      | Formula                          |
+| ------------------------- | -------------------------------- |
+| Velocità angolare media   | $\dfrac{\Delta\theta}{\Delta t}$ |
+| Velocità tangenziale      | $v=r\omega$                      |
+| Accelerazione centripeta  | $a_{c}=\dfrac{v^2}{r}=r\omega^2$ |
+| Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 }$ |
+| Accelerazione tangenziale | $a_{t}=r\alpha$                  |
 
 
 
