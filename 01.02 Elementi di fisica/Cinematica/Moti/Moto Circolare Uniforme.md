@@ -13,8 +13,10 @@ Tabella per lookup veloce delle formule:
 | Velocità tangenziale      | $v=r\omega$                                                     |
 | Accelerazione centripeta  | $a_{c}=\dfrac{v^2}{r}=r\omega^2$                                |
 | Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
-| Accelerazione tangenziale | $a_{t}=r\alpha$                                                 |
-|                           |                                                                 |
+| Accelerazione tangenziale | $a_{t}=r\alpha\hat{\tau}$                                       |
+Nel moto circolare uniforme abbiamo sempre che 
+
+
 E se invece volessimo ottenere la velocità o accelerazione dalla posizione:
 
 <font color="#ffff00">Posizione</font>:
