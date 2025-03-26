@@ -11,10 +11,17 @@ Tabella per lookup veloce delle formule:
 | ------------------------- | --------------------------------------------------------------- |
 | Velocità angolare media   | $\omega=\dfrac{\Delta\theta}{\Delta t}$                         |
 | Velocità tangenziale      | $v=r\omega$                                                     |
-| Accelerazione centripeta  | $a_{c}=\dfrac{v^2}{r}=r\omega^2$                                |
+| Accelerazione centripeta  | $a_{c}=-r\omega^2 \hat{\nu}$                                    |
 | Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
 | Accelerazione tangenziale | $a_{t}=r\alpha\hat{\tau}$                                       |
-Nel moto circolare uniforme abbiamo sempre che 
+Ricordarsi sempre che $\hat{\nu}$ è il versore che agisce come “prolunga” del vettore posizione, che si va a riposizionare sulla circonferenza mentre il punto materiale gira
+
+Invece $\tau$ rappresenta il versore tangente alla circonferenza
+
+Nel moto circolare uniforme abbiamo sempre che l’ accelerazione centripeta $\vec{a}_{c}$ deve essere diversa da 0.
+Invece l’ accelerazione tangenziale è non necessaria.
+
+Nel moto circolare uniforme inoltre 
 
 
 E se invece volessimo ottenere la velocità o accelerazione dalla posizione:
