@@ -6,4 +6,5 @@
 >In questo disegno vediamo che tutti i ponti toccati dall’ asse $\phi$ hanno tutti lo stesso valore di fase.
 
 Esiste il concetto anche di quadratura di fase, che si ha quando $\phi_{0}=\dfrac{\pi}{2}$
-In queste situazioni avremo 
+In queste situazioni avremo che $\sin=0,\cos=1$ a $\phi_{0}=\dfrac{\pi}{2}$
+ 
