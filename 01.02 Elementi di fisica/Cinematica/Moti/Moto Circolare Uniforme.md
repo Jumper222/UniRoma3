@@ -19,9 +19,17 @@ Ricordarsi sempre che $\hat{\nu}$ è il versore che agisce come “prolunga” d
 Invece $\tau$ rappresenta il versore tangente alla circonferenza
 
 Nel moto circolare uniforme abbiamo sempre che l’ accelerazione centripeta $\vec{a}_{c}$ deve essere diversa da 0.
-Invece l’ accelerazione tangenziale è non necessaria.
+Invece l’ accelerazione tangenziale è nulla
 
-Nel moto circolare uniforme inoltre 
+Nel moto circolare uniforme inoltre abbiamo $\alpha=0$, in quanto essa regola l’ accelerazione tangenziale
+E quindi si semplifica anche il calcolo del angolo in funzione del tempo:
+$\theta(t)=\theta_{0}+wt$
+
+In un qualsiasi momento saremo quindi in posizione:
+$$\begin{cases}
+x(t)=R\cos(\dfrac{2\pi t}{T}) \\
+y(t)=R\sin(\dfrac{2\pi t}{T})
+\end{cases}$$
 
 
 E se invece volessimo ottenere la velocità o accelerazione dalla posizione:
