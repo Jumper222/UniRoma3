@@ -10,4 +10,12 @@
 >$$mathbb{E}[X]=\lambda$$
 >E la sua [[Varianza]]:
 >$$Var(X)=\lambda$$
->è interessante vedere che $Poi(\lambda)$ è il $\lim_{ n \to \infty }$ di $Bin(n, \dfrac{\lambda}{p})$, la possiamo allora vedere come un particolare tipo di [[Variabili Aleatorie Binomiali]]
+
+
+è interessante vedere che $Poi(\lambda)$ è il $\lim_{ n \to \infty }$ di $Bin(n, \dfrac{\lambda}{p})$, la possiamo allora vedere come un particolare tipo di [[Variabili Aleatorie Binomiali]]
+
+Un’ altra interessante nozione è che la v.a. di Poisson si dice “Chiusa rispetto la somma”, o anche la Riproducibilità, Ed è definita tale che:
+$$X+Y\sim Po$$
+
+E la CDF sarà nella forma:
+![[CDF Poisson.png]]
