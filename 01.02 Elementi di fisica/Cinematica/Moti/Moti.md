@@ -16,4 +16,4 @@ Per ora abbiamo studiato il:
 - [[Moto Parabolico]]
 - [[Moto Armonico Semplice]]
 - [[Moto Circolare Uniforme]]
-- [[Moto circolare uniformemente accelerato]]
+- [[Moto Circolare uniformemente accelerato]]
