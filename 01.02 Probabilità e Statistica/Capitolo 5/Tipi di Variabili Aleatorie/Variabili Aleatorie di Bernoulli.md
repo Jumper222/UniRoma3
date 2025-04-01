@@ -9,4 +9,4 @@
 >$$\mathbb{E}[X]=p$$
 >e la sua varianza:
 >$$Var(X)=p(1-p)$$
->Questa variabile aleatoria 
+>Questa variabile aleatoria è utile quando vogliamo sapere se un dato evento accade, e quindi la possibilità che accada o non.
