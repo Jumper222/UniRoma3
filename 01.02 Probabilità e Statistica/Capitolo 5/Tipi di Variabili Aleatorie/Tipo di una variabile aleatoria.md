@@ -6,4 +6,7 @@ Allora per ora abbiamo studiato i seguenti tipi delle v.a.
 	- [[Variabili Aleatorie di Poisson]]
 	- [[Variabili Aleatorie Binomiali]]
 	- [[Variabili Aleatorie Geometriche]]
+
+- Continue
+	- [[Variabili Aleatorie Uniformi]]
 	- 

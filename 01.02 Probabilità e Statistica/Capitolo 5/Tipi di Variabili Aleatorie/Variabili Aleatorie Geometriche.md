@@ -8,3 +8,9 @@
 >$$\mathbb{E}[X]=\dfrac{1}{p}$$
 >E la sua [[Varianza]]:
 >$$Var(X)=\dfrac{1-p}{p^2}$$
+
+Una molto particolare proprietà delle v.a. geometriche è detta Assenza di Memoria o Memorylessness,
+è significa che gli esiti degli eventi precedenti a quello attuale non impattano per nulla la probabilità dell’ evento studiato.
+
+La PMF appare nella forma:
+![[PMF v.a. Geom.png]]
