@@ -11,11 +11,11 @@
 >
 >Per quanto riguarda le v.a. continue invece:
 >$$\mathbb{E}[X]=\int^\infty_{-\infty}x\ f_{x}(x)dx$$
-> Per le v.a. indicatrici invece abbiamo una [[Valore Atteso di una Variabile Aleatoria Indicatrice|specifica]]
+> Per le v.a. indicatrici invece abbiamo una [[Valore Atteso v.a. Indicatrice|specifica]]
 >
 
 > [!links]
->Potrebbe succedere che dobbiamo calcolare il [[Valore Atteso di una v.a. composta]]
+>Potrebbe succedere che dobbiamo calcolare il [[Valore Atteso v.a. composta]]
 >
 >Esistono dei casi in cui ci potrebbe capitare di dover [[Calcolare il Valore Atteso di una funzione]]
 >
