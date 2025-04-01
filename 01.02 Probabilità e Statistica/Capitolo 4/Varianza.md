@@ -23,7 +23,7 @@
 > Il concetto di Varianza inoltre si applica come il valore atteso anche a [[Calcolare la varianza di una funzione|le funzioni di v.a.]]
 > 
 > La varianza è il momento secondo della [[Funzione generatrice di momenti (MGF)|MGF]]
-> e
+> 
 > La Varianza e la Covarianza insieme ci danno la [[Correlazione]]
 
 
