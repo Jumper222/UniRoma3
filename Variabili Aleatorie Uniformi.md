@@ -5,4 +5,8 @@
 >![[PDF v.a. Uniformi.png]]
 >Si scrive:
 >$$X\sim Unif(\alpha,\beta)$$
->La particolarità delle v.a. Uniformi sta nel fatto che sono le uniche che una macchina classica sa simulare
+>Il [[Valore Atteso]]:
+>$$\mathbb{E}[X]=\dfrac{\alpha+\beta}{2}$$
+>La [[Varianza]]:
+>$$Var(X)=\dfrac{(\beta-\alpha)^2}{12}$$
+>La particolarità delle v.a. Uniformi sta nel fatto che sono le uniche che una macchina classica sa simulare.
