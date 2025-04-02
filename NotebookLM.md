@@ -1,16 +1,20 @@
-Per calcolare la **varianza di una variabile indicatrice**, possiamo seguire questi passaggi basandoci sulle informazioni presenti nelle fonti:
+Per due variabili aleatorie discrete $X$ e $Y$, la **funzione di massa di probabilità congiunta (o PMF congiunta)** è definita come:
 
-- **Definizione di variabile indicatrice:** Una variabile indicatrice $I$ di un evento $E$ è una variabile aleatoria che assume solo due valori:
-    
-    - 1 se l'evento $E$ si verifica.
-    - 0 se l'evento $E$ non si verifica. L'insieme dei valori che $I$ può assumere è $Im(I) = {0, 1}$.
-- **Probabilità associate:** La probabilità che la variabile indicatrice assuma il valore 1 è la probabilità dell'evento $E$, ovvero $P(I=1) = P(E)$. La probabilità che assuma il valore 0 è la probabilità del complemento di $E$, ovvero $P(I=0) = P(E^c) = 1 - P(E)$.
-    
-- **Valore atteso:** Il valore atteso di una variabile indicatrice $I$ è dato da: $E[I] = 0 \cdot P(I=0) + 1 \cdot P(I=1) = P(E)$.
-    
-- **Calcolo di $E[I^2]$:** Per calcolare la varianza, abbiamo bisogno anche di $E[I^2]$. Poiché $I$ può assumere solo i valori 0 e 1, $I^2$ può anch'esso assumere solo i valori $0^2 = 0$ e $1^2 = 1$. Quindi, $I^2 = I$. Pertanto, il valore atteso di $I^2$ è lo stesso del valore atteso di $I$: $E[I^2] = 0^2 \cdot P(I=0) + 1^2 \cdot P(I=1) = 0 \cdot (1 - P(E)) + 1 \cdot P(E) = P(E)$.
-    
-- **Formula della varianza:** La varianza di una variabile aleatoria $X$ è definita come $Var(X) = E[X^2] - (E[X])^2$. Applicando questa formula alla variabile indicatrice $I$, otteniamo: $Var(I) = E[I^2] - (E[I])^2 = P(E) - (P(E))^2 = P(E) (1 - P(E))$.
-    
+$P_{X,Y}(x,y) = P(X=x, Y=y)$
 
-Quindi, la **varianza di una variabile indicatrice dell'evento $E$ è $P(E)(1 - P(E))$**, che è anche uguale a $P(E)P(E^c)$.
+dove $x$ appartiene all'insieme dei valori possibili di $X$ ($Im(X)$) e $y$ appartiene all'insieme dei valori possibili di $Y$ ($Im(Y)$). Questa funzione associa a ogni coppia di valori $(x, y)$ la probabilità che $X$ assuma il valore $x$ e contemporaneamente $Y$ assuma il valore $y$.
+
+La PMF congiunta può essere rappresentata in forma tabellare, dove le righe e le colonne corrispondono ai possibili valori di $X$ e $Y$ rispettivamente, e le celle contengono le probabilità congiunte.
+
+**Per calcolare la PMF congiunta $P_{X,Y}(x,y)$**, è necessario determinare la probabilità dell'intersezione degli eventi ${X=x}$ e ${Y=y}$. Il modo specifico per calcolare questa probabilità dipende dalla natura delle variabili aleatorie $X$ e $Y$ e dalla loro relazione.
+
+Se la PMF congiunta non è direttamente fornita, può essere derivata in base alle informazioni disponibili sull'esperimento aleatorio e sulla definizione delle variabili $X$ e $Y$.
+
+È importante notare che dalle PMF congiunte, è possibile ricavare le **PMF marginali** di $X$ e $Y$:
+
+- Per la variabile $X$: $P_X(x) = P(X=x) = \sum_{y \in Im(Y)} P(X=x, Y=y) = \sum_{y \in Im(Y)} P_{X,Y}(x,y)$
+- Per la variabile $Y$: $P_Y(y) = P(Y=y) = \sum_{x \in Im(X)} P(X=x, Y=y) = \sum_{x \in Im(X)} P_{X,Y}(x,y)$
+
+In pratica, se si ha una tabella che rappresenta la PMF congiunta, le PMF marginali si ottengono sommando i valori rispettivamente per riga (per $Y$) o per colonna (per $X$).
+
+Ad esempio, considerando due fabbriche che producono un certo prodotto con un numero variabile di difetti, se $X$ è la variabile che indica la fabbrica (con valori 1 o 2) e $Y$ è la variabile che indica il numero di difetti (con valori 0, 1, 2, 3), la PMF congiunta $P_{X,Y}(x,y)$ fornisce la probabilità che un prodotto provenga dalla fabbrica $x$ e abbia $y$ difetti. Per trovare la probabilità che un prodotto provenga dalla seconda fabbrica ($P_X(2)$), si sommano tutte le probabilità congiunte in cui $X=2$.
