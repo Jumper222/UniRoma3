@@ -29,4 +29,16 @@ $$\mathbb{P}(Z\leq 1.15)=1-\mathbb{P}(Z\leq -1.15)\approx 1-0.1251=0.8749$$
 
 ![[Gaussiana Standard esempio 2.png]]
 
-Però questo essendo la distribuzione
+Però essendo la gaussiana standard centrata sul valore atteso ed essendo uguale a destra e a sinistra, allora $\mathbb{P}(Z\leq 1.15)=\mathbb{P}(Z\leq -1.15)$
+
+E se invece volessimo calcolare tra 2 valori (giallo)?
+
+$$\mathbb{P}(Z\in[0.90,+1.32])=\ ?$$
+
+
+![[Esempio 3 Gaussiana Standard.png]]
+
+Molto semplicemente sottraiamo la probabilità del valore più piccolo a quello più grande:
+$$\mathbb{P}(Z\leq 1.32)-\mathbb{P}(Z\leq -0.90)$$
+$$1-0.0934-0.1841=0.7225$$
+
