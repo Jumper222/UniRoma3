@@ -17,6 +17,12 @@ La Gaussiana è unica perché ha varie particolarità:
 
 Un’ altra proprietà fondamentale della gaussiane è anche la seguente:
 
+### <font color="#4bacc6">Gaussiana composta</font>
+
 Se $X\sim N(\mu,\sigma^2),Y=aX+b$
 Allora Y sarà distribuita come:
 $$Y\sim N(a\mu+b,a^2\sigma^2)$$
+
+---
+
+Molte volte quando useremo una v.a. Gaussiana avremo una [[Gaussiana Standard
