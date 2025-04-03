@@ -7,6 +7,8 @@
 >$$P_{X,Y}(x,y)=P_{X}(x)P_{Y}(y)$$
 >ovviamente con x e y che sono immagini di X e Y
 
+Un particolare tipo di v.a. Indipendenti sono le [[IID]]
+
 Facciamo un esempio:
 
 Consideriamo 2 fabbriche che producono un certo prodotto ciascun prodotto può avere 0,1,2,3 difetti,
