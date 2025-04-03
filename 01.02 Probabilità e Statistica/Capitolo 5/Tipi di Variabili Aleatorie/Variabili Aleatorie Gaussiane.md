@@ -14,3 +14,9 @@ La Gaussiana è unica perché ha varie particolarità:
 - Sappiamo inoltre che al variare di $\mu$, con $\sigma^2$ fissato si ottiene una traslazione della curva
 - Il punto di massimo è in $x=\mu$ in cui $f_{X}=\dfrac{1}{\sqrt{ 2\pi \sigma^2 }}\approx \dfrac{0.399}{\sigma}$
 - $f_{X}$ è simmetrica rispetto a $\mu: f_{X}(\mu+x)=f_{X}(\mu-x)$
+
+Un’ altra proprietà fondamentale della gaussiane è anche la seguente:
+
+Se $X\sim N(\mu,\sigma^2),Y=aX+b$
+Allora Y sarà distribuita come:
+$$Y\sim N(a\mu+b,a^2\sigma^2)$$
