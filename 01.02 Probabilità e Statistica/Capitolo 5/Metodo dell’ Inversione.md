@@ -8,3 +8,4 @@
 > Allora avremo:
 > $$Z=F_{Y}^-1(X)\sim F_{Y}$$
 > ![[Inversione esempio.png]]
+> All’ atto pratico quindi andiamo ad invertire le X con le Y nel grafico della funzione
