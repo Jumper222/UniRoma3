@@ -42,3 +42,6 @@ Molto semplicemente sottraiamo la probabilità del valore più piccolo a quello 
 $$\mathbb{P}(Z\leq 1.32)-\mathbb{P}(Z\leq -0.90)$$
 $$1-0.0934-0.1841=0.7225$$
 
+
+Più generalmente se $X\sim N(\mu,\sigma^2)$
+allora avremo che 
