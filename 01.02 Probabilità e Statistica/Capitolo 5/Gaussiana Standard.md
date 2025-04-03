@@ -57,5 +57,10 @@ Facciamo un esempio, poniamo che $X\sim N(3,16)$
 
 Ora ci chiediamo:
 $$\mathbb{P}(X<11)=\mathbb{P}(\dfrac{X-3}{4}< \dfrac{11-3}{4})$$
-E allora, otteremo $\dfrac{8}{4}$ e quindi $\Phi(2)$
-E per calcolare $\Phi(2)$ dobbiamo prima invertire e 
+E allora, otterremo $\dfrac{8}{4}$ e quindi $\Phi(2)$
+E per calcolare $\Phi(2)$ dobbiamo prima invertire:
+
+$$1-\Phi(-2)\approx 1-0.0228=0.9772$$
+Ora invece ci chiediamo $\mathbb{P}(X>-1)$:
+$$\mathbb{P}(X>-1)=\mathbb{P}(\dfrac{-1-3}{4})=1-\Phi(-1)=1-0.1587=0.8413$$
+Qui calcoliamo col -1 perché ci chiede il valore maggiore
