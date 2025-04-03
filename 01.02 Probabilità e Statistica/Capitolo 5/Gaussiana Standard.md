@@ -12,6 +12,21 @@
 
 ![[Tabella Gaussiana.png]]
 
-Per usare questa tabella ad esempio (verde):
+Per usare questa tabella ad esempio (viola):
 $$\mathbb{P}(Z\leq-2.53)=\Phi(-2.53)\approx 0.0057$$
-Questo numero lo otteniamo incrociando la la virgola co
+Questo numero lo otteniamo incrociando e cercando il valore che abbiamo con la virgola.
+E allora abbiamo:
+
+![[Gaussiana standard esempio viola.png]]
+
+<font color="#ffff00">Attenzione però</font>!
+La tabella ha soltanto i valori per $Z\leq 0$!
+
+Vediamo l’ esempio blu:
+
+$$\mathbb{P}(Z\leq 1.15)=1-\mathbb{P}(Z\leq -1.15)\approx 1-0.1251=0.8749$$
+
+
+![[Gaussiana Standard esempio 2.png]]
+
+Però questo essendo la distribuzione
