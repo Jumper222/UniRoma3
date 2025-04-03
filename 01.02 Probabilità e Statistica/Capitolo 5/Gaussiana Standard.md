@@ -53,4 +53,9 @@ $$\mathbb{P}(X\in(a,b))=\mathbb{P}(a<X<b)=\Phi(\dfrac{b-\mu}{\sigma})-\Phi(\dfra
 ---
 
 ### <font color="#4bacc6">Esempio</font>
-Facciamo un esempio 
+Facciamo un esempio, poniamo che $X\sim N(3,16)$
+
+Ora ci chiediamo:
+$$\mathbb{P}(X<11)=\mathbb{P}(\dfrac{X-3}{4}< \dfrac{11-3}{4})$$
+E allora, otteremo $\dfrac{8}{4}$ e quindi $\Phi(2)$
+E per calcolare $\Phi(2)$ dobbiamo prima invertire e 
