@@ -44,4 +44,13 @@ $$1-0.0934-0.1841=0.7225$$
 
 
 Più generalmente se $X\sim N(\mu,\sigma^2)$
-allora avremo che 
+allora avremo che:
+$$\mathbb{P}(X\leq b)=\mathbb{P}(\dfrac{X-\mu}{\sigma}\leq \dfrac{b-\mu}{\sigma})=\Phi(\dfrac{b-\mu}{\sigma})$$
+*Qui stiamo supponendo di non avere Z, e quindi generalizziamo su una v.a. gaussiana generica*
+
+E analogamente
+$$\mathbb{P}(X\in(a,b))=\mathbb{P}(a<X<b)=\Phi(\dfrac{b-\mu}{\sigma})-\Phi(\dfrac{a-\mu}{\sigma})$$
+---
+
+### <font color="#4bacc6">Esempio</font>
+Facciamo un esempio 
