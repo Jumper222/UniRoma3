@@ -11,7 +11,12 @@
 >$$\sigma^2$$
 >Questo è fantastico perché allora possiamo dire che media e varianza sono ottenibili direttamente dalla v.a: $X\sim \mathcal{N}(\mu,\sigma^2)$
 
-Esattamente come le [[Variabili Aleatorie di Poisson|v.a. di Poisson]] le Gaussiane sono riproducibili, ossia 
+Esattamente come le [[Variabili Aleatorie di Poisson|v.a. di Poisson]] le Gaussiane sono riproducibili, ossia se prendiamo due v.a. [[IID]]
+e poniamo $Y=aX_{1}+bX_{2}$
+Y rimarrà Gaussiana, e avrà valori notevoli:
+
+[[Valore Atteso]]
+
 
 La Gaussiana è unica perché ha varie particolarità:
 - Sappiamo inoltre che al variare di $\mu$, con $\sigma^2$ fissato si ottiene una traslazione della curva
