@@ -15,7 +15,10 @@ Esattamente come le [[Variabili Aleatorie di Poisson|v.a. di Poisson]] le Gaussi
 e poniamo $Y=aX_{1}+bX_{2}$
 Y rimarrà Gaussiana, e avrà valori notevoli:
 
-[[Valore Atteso]]
+[[Valore Atteso]]:
+$$\mathbb{E}(Y)=a\mu_{1}+b\mu_{2}$$
+e la [[Varianza]]:
+$$Var(Y)=a^2\sigma^2_{1}+b^2\sigma^2_{2}$$
 
 
 La Gaussiana è unica perché ha varie particolarità:
