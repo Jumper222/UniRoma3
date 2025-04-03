@@ -1,3 +1,4 @@
+#Probabilità_e_statistica 
 >[!Definizione]  Definizione
 >Una [[Variabili Aleatorie discrete e continue|v.a. Continua]] di parametri $\mu,\sigma^2$ (con $\mu\in\mathbb{R},\sigma^2>0$) avrà una [[Fun. di densità di Probabilità (PDF)|PDF]] nella forma:
 >$$f_{X}(x)=\dfrac{1}{\sqrt{ 2\pi\sigma^2 }}e^{\dfrac{-((x-\mu)^2)}{2\sigma^2}}$$
@@ -25,4 +26,4 @@ $$Y\sim N(a\mu+b,a^2\sigma^2)$$
 
 ---
 
-Molte volte quando useremo una v.a. Gaussiana avremo una [[Gaussiana Standard
+Molte volte quando useremo una v.a. Gaussiana avremo una [[Gaussiana Standard]]
