@@ -4,4 +4,13 @@
 >E si scrive $$X\sim N(\mu,\sigma^2)$$
 >La PDF sarà nella forma:
 >![[Gaussiana PDF.png]]
->Sappiamo inoltre che al variare di $\mu$, con $\sigma^2$ fissato si ottiene una traslazione della curva
+>Il [[Valore Atteso]] della gaussiana sarà:
+>$$\mathbb{E}[X]=\mu$$
+>E per quanto riguarda la [[Varianza]], essa sarà
+>$$\sigma^2$$
+>Questo è fantastico perché allora possiamo dire che media e varianza sono ottenibili direttamente dalla v.a: $X\sim N(\mu,\sigma^2)$
+
+La Gaussiana è unica perché ha varie particolarità:
+- Sappiamo inoltre che al variare di $\mu$, con $\sigma^2$ fissato si ottiene una traslazione della curva
+- Il punto di massimo è in $x=\mu$ in cui $f_{X}=\dfrac{1}{\sqrt{ 2\pi \sigma^2 }}\approx \dfrac{0.399}{\sigma}$
+- $f_{X}$ è simmetrica rispetto a $\mu: f_{X}(\mu+x)=f_{X}(\mu-x)$
