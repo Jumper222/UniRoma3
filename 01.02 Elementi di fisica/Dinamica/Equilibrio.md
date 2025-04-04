@@ -27,4 +27,5 @@ L’ equilibrio dinamico è un particolare stato di un corpo, che si ha in 2 sit
 	Nel moto uniformemente accelerato la [[Accelerazione]] è costante, quindi la somma di tutte le [[Forza|Forze]]
 	$F_{tot}$ sarà anch’essa costante.
 	Un esempio è il [[Moto Circolare Uniforme]], dove $F_{tot}$ è ottenuto da $m\vec{a}_{t}+m\vec{a}_{c}$ ossia 
-	la somma tra l’ accelerazione centripeta e tangente, dove però
+	la somma tra l’ accelerazione centripeta e tangente, dove però l’ accelerazione tangenziale è uguale
+	a 0, e quindi il corpo ruota con velocità costante.
