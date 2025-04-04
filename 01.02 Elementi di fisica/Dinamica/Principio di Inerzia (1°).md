@@ -12,7 +12,8 @@ Abbiamo quindi due casi:
 - [[Moto Rettilineo Uniforme]]:
 	$\vec{v}=$ costante → $\vec{r}=\vec{v}t$
 
-Se lo uniamo alla [[Legge Fondamentale della dinamica (2°)]] otteniamo il Principio della conservazione dalla quantità di mo
+Se lo uniamo alla [[Legge Fondamentale della dinamica (2°)]] otteniamo il [[Principio di conservazione della quantità di moto]]
+
 
 ### <font color="#4bacc6">Inerzia</font>
 
