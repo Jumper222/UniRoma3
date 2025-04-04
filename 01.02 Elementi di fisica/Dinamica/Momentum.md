@@ -1,4 +1,10 @@
-#Elementi_di_Fisica 
+---
+tags:
+  - Elementi_di_Fisica
+aliases:
+  - Quantità di moto
+---
+
 
 >[!Definizione]  Definizione
 >Il Momentum ($\vec{p}$), anche detta quantità di moto rappresenta “quanto” un corpo si sta muovendo, ed è definito tale che:

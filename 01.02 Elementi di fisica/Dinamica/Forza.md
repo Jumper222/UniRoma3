@@ -1,4 +1,12 @@
-#Elementi_di_Fisica 
+---
+aliases:
+  - Forze
+tags:
+  - Elementi_di_Fisica
+---
+
+
+
 >[!Definizione]  Definizione
 >La Forza è una grandezza vettoriale, che rappresenta la causa di una [[Accelerazione]] 
 >Sappiamo quindi che se un corpo è in moto allora c’è una Forza che agisce su di esso.
