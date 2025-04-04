@@ -17,7 +17,7 @@ Se $X\sim\mathcal{X}^2_{n}$ e $Y\sim\mathcal{X}^2_{m}$, indipendenti, allora
 $$X+Y\sim \mathcal{X}^2_{n+m}$$
 Un’ altra utile proprietà è che la distribuzione Chi Quadro è simmetrica e positiva, e man mano che  aumentano i gradi di libertà la distribuzione si avvicina sempre più ad una [[Gaussiana Standard]]
 
-Esattamente come per le [[Variabili Aleatorie Gaussiane|v.a. Gaussiane]], anche per Chi Quadro possiamo studiare il [[Punto Critico di Chi Quadro]]
+Esattamente come per le [[Variabili Aleatorie Gaussiane|v.a. Gaussiane]], anche per Chi Quadro possiamo studiare il [[CDF Punto Critico Chi Quadro]]
 
 
 ### <font color="#4bacc6">PDF di Chi Quadro</font>
