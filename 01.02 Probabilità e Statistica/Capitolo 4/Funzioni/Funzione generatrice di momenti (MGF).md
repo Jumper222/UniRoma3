@@ -1,4 +1,10 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - MGF
+---
+
 > [!definizione]  Definizione
 > La [[Funzioni|funzione]] generatrice di momenti (MGF) ($\phi_{X}$) è una funzione utilissima in probabilità e statistica, che ci permette di ottenere:
 > - Il [[Valore Atteso]]

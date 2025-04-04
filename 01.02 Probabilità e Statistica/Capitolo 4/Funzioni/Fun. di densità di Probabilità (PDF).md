@@ -1,4 +1,10 @@
-#Probabilità_e_statistica 
+---
+aliases:
+  - PDF
+tags:
+  - Probabilità_e_statistica
+---
+
 >[!Definizione]  Definizione
 >La [[Funzioni|funzione]] di densità di probabilità (PDF) è come se fosse l’ analogo della [[Fun. di massa di Probabilità (PMF)|PMF]] però per le [[Variabili Aleatorie|v.a.]] [[Variabili Aleatorie discrete e continue|continue]]
 >Essa assegna una densità della probabilità, però la probabilità di un singolo valore è sempre 0, e la formula è:
