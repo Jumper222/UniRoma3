@@ -12,3 +12,7 @@ Abbiamo quindi due casi:
 - [[Moto Rettilineo Uniforme]]:
 	$\vec{v}=$ costante → $\vec{r}=\vec{v}t$
 
+
+### <font color="#4bacc6">Inerzia</font>
+
+L’ <font color="#ffff00">Inerzia</font> rappresenta quanto un corpo si oppone al cambiamento del suo stato di moto
