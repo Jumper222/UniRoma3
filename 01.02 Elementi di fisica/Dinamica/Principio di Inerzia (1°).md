@@ -14,7 +14,7 @@ Abbiamo quindi due casi:
 
 Se lo uniamo alla [[Legge Fondamentale della dinamica (2°)]] otteniamo il [[Principio di conservazione della quantità di moto]]
 
-
+In caso la somma delle forze dia 0, stiamo in una situazione di [[Equilibrio]]
 ### <font color="#4bacc6">Inerzia</font>
 
 L’ <font color="#ffff00">Inerzia</font> rappresenta quanto un corpo si oppone al cambiamento del suo stato di moto
