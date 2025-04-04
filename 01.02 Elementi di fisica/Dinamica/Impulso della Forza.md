@@ -6,4 +6,6 @@
 >Oppure, nel caso la massa fosse costante:
 >$$\vec{J}=m\Delta \vec{v}$$
 
-L’ impulso della Forza è definito in realtà come la variazione nel [[Momentum]]
+L’ impulso della Forza è definito in realtà come la variazione nel [[Momentum]]:
+$$\vec{J}=\Delta \vec{p}$$
+
