@@ -25,6 +25,9 @@ Nel moto circolare uniforme inoltre abbiamo $\alpha=0$, in quanto essa regola lâ
 E quindi si semplifica anche il calcolo del angolo in funzione del tempo:
 $\theta(t)=\theta_{0}+wt$
 
+![[MCU.excalidraw]]
+
+
 In un qualsiasi momento saremo quindi in posizione:
 $$\begin{cases}
 x(t)=R\cos(\dfrac{2\pi t}{T}) \\
