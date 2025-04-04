@@ -12,5 +12,7 @@ Le [[Forza|Forze]] agiscono indipendentemente le une dalle altre, questo si chia
 
 Un [[Punto Materiale]] in stato di quiete non significa che non ha [[Forza|Forze]] applicate ad esso, ma che la loro somma sia nulla:
 $$\vec{F}=\sum_{i}\vec{F}_{i}=0\implies \begin{cases}
-F_{x}=\sum_{i}
+F_{x}=\sum_{i}F_{ix}=0 \\
+F_{y}=\sum_{i}F_{iy}=0
 \end{cases}$$
+Inoltre la [[Velocità]] iniziale deve essere uguale a 0: $\vec{v}(0)=0$
