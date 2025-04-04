@@ -13,7 +13,7 @@ L’ esame richiede basi di:
 Argomenti:
 [[Basi di fisica]]
 [[Cinematica]]
-Dinamica,
+[[Dinamica]]
 Cinetica
 
 [[Note per esame di Fisica]]
