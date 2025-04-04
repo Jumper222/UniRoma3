@@ -1,4 +1,13 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a. di Bernoulli
+  - v.a. di bernoulli
+  - bernoulliane
+  - bernoulliana
+---
+
 >[!Definizione]  Definizione
 >Sono le [[Variabili Aleatorie Indicatrici]] che abbiamo visto finora, e le scriviamo con:
 >$$X\sim Bern(p)$$

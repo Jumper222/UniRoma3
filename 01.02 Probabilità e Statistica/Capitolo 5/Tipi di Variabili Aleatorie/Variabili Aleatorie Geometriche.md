@@ -1,4 +1,11 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a. Geometriche
+  - v.a. geometriche
+---
+
 >[!Definizione]  Definizione
 >Le [[Variabili Aleatorie|v.a.]] geometriche ci servono per sapere quanti tentativi servono in media per ottenere il primo successo in una serie di esperimenti casuali indipendenti tra loro, ed è descritta:
 >Nelle v.a. Geometriche $X$ rappresenta il tempo in cui arriva il primo successo in una successione di esperimenti [[IID]] in cui ciascun esperimento ha successo = p.

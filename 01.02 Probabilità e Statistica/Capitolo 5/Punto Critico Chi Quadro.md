@@ -9,7 +9,7 @@ Allora la [[Fun. di Ripartizione (CDF)|CDF]] sarà della forma:
 
 ![[CDF Punto Critico Chi Quadro.png]]
 
-Generalmente allora potremo dire che la probabilità che una v.a. $\mathcal{X}^2_{n}$ sia maggiore di $\mathcal{X}^2_{\alpha,n}$ è del
+Generalmente allora potremo dire che la probabilità che una [[Variabili Aleatorie|v.a.]] $\mathcal{X}^2_{n}$ sia maggiore di $\mathcal{X}^2_{\alpha,n}$ è del
 $(1-\alpha)100\%$
 
 Anche in questo caso abbiamo una tabella che ci aiuta a trovare  i valori:

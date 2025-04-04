@@ -1,4 +1,12 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - Chi quadrato
+  - chi-quadrato
+  - Chi-quadrato
+  - chi quadro
+---
 
 >[!Definizione]  Definizione
 >Il Chi-Quadrato (o quadro), indicato con $\mathcal{X}$ è una famiglia di distribuzioni di probabilità [[Variabili Aleatorie discrete e continue|continua]] che dipende da un parametro di libertà $k$.

@@ -1,4 +1,14 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a. di poisson
+  - V.a. di Poisson
+  - v.a. di Poisson
+  - V.a. di poisson
+  - poissoniane
+---
+
 >[!Definizione]  Definizione
 >Una [[Variabili Aleatorie|v.a.]] ci serve per poter definire meglio la possibilità che avvengano eventi “rari” ed è scritta tale che:
 >$$X\sim Poi(\lambda)\quad \lambda>0$$

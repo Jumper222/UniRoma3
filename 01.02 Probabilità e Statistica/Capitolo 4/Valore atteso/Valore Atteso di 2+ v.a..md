@@ -1,5 +1,5 @@
 #Probabilità_e_statistica 
-Potrebbe capitarci di dover ottenere il [[Valore Atteso]] di due o più variabili aleatorie 
+Potrebbe capitarci di dover ottenere il [[Valore Atteso]] di due o più [[variabili aleatorie]] 
 Allora mostriamo il processo per calcolare il [[valore atteso]] per due va. continue:
 
 Siano $X$ e $Y$ sono due [[Variabili Aleatorie discrete e continue|v.a. continue]], e $g:\mathrm{Im}(X)\times \mathrm{Im}(Y)\to\mathbb{R}$

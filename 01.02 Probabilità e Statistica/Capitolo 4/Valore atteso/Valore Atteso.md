@@ -1,7 +1,7 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
 >Il valore atteso, indicato con $\mathbb{E}(X)$ è il valore con cui descriviamo al meglio una [[Variabili Aleatorie|v.a.]],
->Esso ci fornisce il “baricentro” o media della [[Fun. di massa di Probabilità (PMF)]] della v.a. e assume vari nomi:
+>Esso ci fornisce il “baricentro” o media della [[Fun. di massa di Probabilità (PMF)]] della [[Variabili Aleatorie|v.a.]] e assume vari nomi:
 >- Valore atteso di X
 >- Aspettazione di X
 >- Media di X
@@ -33,7 +33,7 @@ $\mathbb{E}[X]=1* \frac{1}{6}+ 2* \frac{1}{6} + \dots + 6* \frac{1}{6}=3.5$
 
 Facciamo un secondo esempio:
 
-Sia $X$ una v.a. descritta dalla sua PMF:
+Sia $X$ una [[Variabili Aleatorie|v.a.]] descritta dalla sua PMF:
 $$P_{X}(x)=\begin{cases}
 0,2 \quad \text{se } x=1 \\
 0,5 \quad \text{se } x=3 \\

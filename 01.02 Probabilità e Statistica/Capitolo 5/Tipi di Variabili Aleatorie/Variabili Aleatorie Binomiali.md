@@ -2,6 +2,9 @@
 tags:
   - Probabilità_e_statistica
 aliases:
+  - v.a. Binomiali
+  - V.a. binomiali
+  - v.a. binomiali
 ---
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione

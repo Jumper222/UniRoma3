@@ -4,6 +4,7 @@ tags:
 aliases:
   - v.a. indicatrici
   - V.a. Indicatrici
+  - v.a. indicatrice
 ---
 
 ## <font color="#00b0f0">Variabili indicatrici</font> 

@@ -1,4 +1,13 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a. Uniformi
+  - V.a. uniformi
+  - v.a. uniformi
+  - V.a. Uniformi
+---
+ 
 >[!Definizione]  Definizione
 >Una [[Variabili Aleatorie|v.a.]] Uniforme è un particolare caso di [[Variabili Aleatorie discrete e continue|v.a. continua]], e si ha nel caso la sua [[Fun. di densità di Probabilità (PDF)|PDF]] sia nella forma:
 >$$f_{X}(x)=\dfrac{1}{\beta-\alpha}$$
