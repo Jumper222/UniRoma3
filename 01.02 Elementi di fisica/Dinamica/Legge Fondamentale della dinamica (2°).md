@@ -10,6 +10,9 @@ Essa ci dice che esiste una relazione tra [[Massa]], [[Accelerazione]] e la [[Fo
 
 Inoltre notiamo con $\vec{F}_{tot}$ la somma di tutte le forze.
 
+In realtà la seconda legge di Newton è definita a partire dal [[Momentum]]
+
+
 ### <font color="#4bacc6">Moto Statico e Dinamico</font>
 
 Dalla seconda legge di Newton possiamo iniziare a distinguere tra i <font color="#f79646">Moti Statici</font> e <font color="#ffff00">Dinamici</font>:
