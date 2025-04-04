@@ -1,3 +1,4 @@
+#Geometria_e_Combinatoria 
 Dati 2 [[Sottospazi vettoriali]] $E$ ed $F$ di uno spazio vettoriale $V$, vedremo che:
 
 - L’ intersezione di $E$ ed $F$ ($E\cap F$) è un sottospazio vettoriale
