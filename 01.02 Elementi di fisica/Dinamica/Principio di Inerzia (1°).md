@@ -6,4 +6,9 @@
 Questo significa che l’ assenza di forze non implica che non ci sia moto, ma comporta che la velocità sia fissa:
 
 Abbiamo quindi due casi:
--
+
+- Quiete:
+	$\vec{v}=0\to \vec{r}=$ costante (La risultate delle forze è nulla)
+- [[Moto Rettilineo Uniforme]]:
+	$\vec{v}=$ costante → $\vec{r}=\vec{v}t$
+
