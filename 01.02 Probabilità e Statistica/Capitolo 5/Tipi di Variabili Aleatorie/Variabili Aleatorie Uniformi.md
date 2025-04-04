@@ -20,5 +20,5 @@ aliases:
 >$$\mathbb{E}[X]=\dfrac{\alpha+\beta}{2}$$
 >La [[Varianza]]:
 >$$Var(X)=\dfrac{(\beta-\alpha)^2}{12}$$
->La particolarità delle v.a. Uniformi sta nel fatto che sono le uniche che una macchina classica sa simulare, questo avviene con il [[Metodo dell’ Inversione]]
+>La particolarità delle [[Variabili Aleatorie|v.a.]] Uniformi sta nel fatto che sono le uniche che una macchina classica sa simulare, questo avviene con il [[Metodo dell’ Inversione]]
 

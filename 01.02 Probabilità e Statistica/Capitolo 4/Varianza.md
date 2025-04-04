@@ -2,7 +2,7 @@
 >[!Definizione]  Definizione
 >La Varianza è quel valore che misura la dispersione dei dati rispetto al [[Valore Atteso]], ossia quanto sono “sparsi”
 >Ed è definita:
->con v.a. X, e $\mu=\mathbb{E}[X]$
+>con [[Variabili Aleatorie|v.a.]] X, e $\mu=\mathbb{E}[X]$
 >Allora la varianza sarà tale che:
 >$$Var(X)=\mathbb{E}[X^2]-(\mathbb{E}[X])^2$$
 >
@@ -28,7 +28,7 @@
 
 
 Facciamo un semplice esempio: 
-Supponiamo di avere una v.a. $X$ con i seguenti valori:
+Supponiamo di avere una [[Variabili Aleatorie|v.a.]] $X$ con i seguenti valori:
 $\mathbb{P}(X=1)=0.5$
 $\mathbb{P}(X=3)=0.5$
 

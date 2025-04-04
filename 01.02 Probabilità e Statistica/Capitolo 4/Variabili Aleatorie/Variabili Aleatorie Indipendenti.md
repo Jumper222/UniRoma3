@@ -7,14 +7,14 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
->Esattamente come gli [[Eventi indipendenti]], Le [[Variabili Aleatorie|v.a.]] indipendenti sono un particolare tipo di v.a. di cui l’ avvenimento di una non modifica il comportamento dell’ altra.
->Per sapere se due v.a. sono indipendenti calcoliamo:
+>Esattamente come gli [[Eventi indipendenti]], Le [[Variabili Aleatorie|v.a.]] indipendenti sono un particolare tipo di [[Variabili Aleatorie|v.a.]] di cui l’ avvenimento di una non modifica il comportamento dell’ altra.
+>Per sapere se due [[Variabili Aleatorie|v.a.]] sono indipendenti calcoliamo:
 >$$F_{X,Y}=F_{X}(x)F_{Y}(y)\quad \forall x,y\in\mathbb{R}$$
 >O se fossero discrete possiamo anche:
 >$$P_{X,Y}(x,y)=P_{X}(x)P_{Y}(y)$$
 >ovviamente con x e y che sono immagini di X e Y
 
-Un particolare tipo di v.a. Indipendenti sono le [[IID]]
+Un particolare tipo di [[Variabili Aleatorie|v.a.]] Indipendenti sono le [[IID]]
 
 Facciamo un esempio:
 
@@ -43,5 +43,5 @@ Però, se consideriamo gli eventi:
 $\mathbb{P}(E\cap G)=\mathbb{P}(X=1,Y=0)=\frac{1}{8}$
 ma invece
 $\mathbb{P}(E)|\mathbb{P}(G)=\frac{1}{2}* \frac{3}{16}> \frac{1}{8}$
-Le due v.a. non sono indipendenti.
+Le due [[Variabili Aleatorie|v.a.]] non sono indipendenti.
 

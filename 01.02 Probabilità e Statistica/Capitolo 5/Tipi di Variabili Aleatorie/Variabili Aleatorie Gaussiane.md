@@ -20,7 +20,7 @@ aliases:
 >$$\sigma^2$$
 >Questo è fantastico perché allora possiamo dire che media e [[varianza]] sono ottenibili direttamente dalla v.a: $X\sim \mathcal{N}(\mu,\sigma^2)$
 
-Esattamente come le [[Variabili Aleatorie di Poisson|v.a. di Poisson]] le Gaussiane sono riproducibili, ossia se prendiamo due v.a. [[IID]]
+Esattamente come le [[Variabili Aleatorie di Poisson|v.a. di Poisson]] le Gaussiane sono riproducibili, ossia se prendiamo due [[Variabili Aleatorie|v.a.]] [[IID]]
 e poniamo $Y=aX_{1}+bX_{2}$
 Y rimarrà Gaussiana, e avrà valori notevoli:
 
@@ -45,4 +45,4 @@ $$Y\sim N(a\mu+b,a^2\sigma^2)$$
 
 ---
 
-Molte volte quando useremo una v.a. Gaussiana avremo una [[Gaussiana Standard]]
+Molte volte quando useremo una [[Variabili Aleatorie|v.a.]] Gaussiana avremo una [[Gaussiana Standard]]
