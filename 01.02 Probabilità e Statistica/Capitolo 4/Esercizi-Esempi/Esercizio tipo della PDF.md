@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 ### <font color="#4bacc6">Esercizio</font>
-Supponiamo di sapere che $X$ è una v.a. continua con [[Fun. di densità di Probabilità (PDF)|PDF]]
+Supponiamo di sapere che $X$ è una [[Variabili Aleatorie discrete e continue|v.a. continua]] con [[Fun. di densità di Probabilità (PDF)|PDF]]
 $$f(x)\begin{cases}
 C(4x-2x^2) & \quad 0<x<2 \\
 0 & \quad \text{altrimenti}

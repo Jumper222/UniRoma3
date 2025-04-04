@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
->I vettori di [[Variabili Aleatorie|v.a.]] (di cui le coppie o terne sono istanze con 2,3 dimensioni) sono appunto una generalizzazione del concetto di [[Variabili Aleatorie|v.a.]] che ci permette di descrivere situazioni in cui queste v.a. si intersecano.
+>I vettori di [[Variabili Aleatorie|v.a.]] (di cui le coppie o terne sono istanze con 2,3 dimensioni) sono appunto una generalizzazione del concetto di [[Variabili Aleatorie|v.a.]] che ci permette di descrivere situazioni in cui queste [[Variabili Aleatorie|v.a.]] si intersecano.
 
 Facciamo un esempio:
 In una classe ci sono $100$ studenti:
@@ -29,5 +29,5 @@ Allora abbiamo $\mathrm{Im}(Z)=\{0,\dots,6\}$
 
 ![[Coppie e vettori v.a. img esempio 2.png]]
 
-Molto spesso ci capiterà di avere esercizi dove siamo interessati ad una coppia di v.a. e di come sia il loro comportamento congiunto, qui entra in gioco la [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]], e per le variabili continue avremo la [[Funzione di Densità Congiunta (PDF congiunta)|PDF congiunta]]
+Molto spesso ci capiterà di avere esercizi dove siamo interessati ad una coppia di [[Variabili Aleatorie|v.a.]] e di come sia il loro comportamento congiunto, qui entra in gioco la [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]], e per le variabili continue avremo la [[Funzione di Densità Congiunta (PDF congiunta)|PDF congiunta]]
 

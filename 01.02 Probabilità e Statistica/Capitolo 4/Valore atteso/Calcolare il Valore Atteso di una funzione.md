@@ -1,5 +1,5 @@
 #Probabilità_e_statistica 
-Se ci viene data una $X$ come v.a. e degli $a,b\in \mathbb{R}$
+Se ci viene data una $X$ come [[Variabili Aleatorie|v.a.]] e degli $a,b\in \mathbb{R}$
 
 Allora possiamo generalizzare con:
 $$\mathbb{E}[aX+b]=a\ \mathbb{E}[X]+b$$

@@ -1,4 +1,11 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a. indipendenti
+  - V.a. indipendenti
+---
+
 >[!Definizione]  Definizione
 >Esattamente come gli [[Eventi indipendenti]], Le [[Variabili Aleatorie|v.a.]] indipendenti sono un particolare tipo di v.a. di cui l’ avvenimento di una non modifica il comportamento dell’ altra.
 >Per sapere se due v.a. sono indipendenti calcoliamo:

@@ -7,7 +7,7 @@
 >- $\vec{v}(t)$
 >- $\vec{a}(t)$
 
-Le 3 funzioni che descrivono il moto sono una la derivata dell’ altra, il saper calcolare una dall’ altra può essere utile: [[Derivare ed integrare le funzioni del moto]]
+Le 3 [[funzioni]] che descrivono il moto sono una la derivata dell’ altra, il saper calcolare una dall’ altra può essere utile: [[Derivare ed integrare le funzioni del moto]]
 
 Per ora abbiamo studiato il:
 - [[Moto Rettilineo Uniforme]]

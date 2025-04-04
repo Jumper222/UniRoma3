@@ -1,4 +1,4 @@
-La $\chi^2$ (Chi-quadro) è una variabile aleatoria definita come la somma dei quadrati di $n$ variabili aleatorie indipendenti e identicamente distribuite con distribuzione Normale standard. Se $Z_1, ..., Z_n$ sono v.a. IID con $Z_i \sim N(0, 1)$, allora $X = Z_1^2 + ... + Z_n^2$ si dice che ha una distribuzione Chi-quadro con $n$ gradi di libertà, e si scrive $X \sim \chi^2_n$.
+La $\chi^2$ (Chi-quadro) è una variabile aleatoria definita come la somma dei quadrati di $n$ [[variabili aleatorie indipendenti]] e identicamente distribuite con distribuzione Normale standard. Se $Z_1, ..., Z_n$ sono v.a. IID con $Z_i \sim N(0, 1)$, allora $X = Z_1^2 + ... + Z_n^2$ si dice che ha una distribuzione Chi-quadro con $n$ gradi di libertà, e si scrive $X \sim \chi^2_n$.
 
 Le fonti menzionano alcune proprietà della variabile aleatoria Chi-quadro:
 

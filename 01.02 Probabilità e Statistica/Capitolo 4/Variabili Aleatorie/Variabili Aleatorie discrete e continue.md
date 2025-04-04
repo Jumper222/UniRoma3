@@ -1,3 +1,16 @@
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a. continue
+  - v.a. discrete
+  - V.a. continue
+  - V.a. discrete
+  - v.a. continua
+  - V.a. continua
+  - V.a. discreta
+  - v.a. discreta
+---
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
 >Una [[Variabili Aleatorie|variabile aleatoria]] $X$ si dice discreta se può assumere un numero finito (o [[Infinito Numerabile o non Numerabile|numerabile]]) di valori.

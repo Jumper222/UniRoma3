@@ -17,7 +17,7 @@ tags:
 ---
 Facciamo un esempio:
 
-Abbiamo $X$ che è il primo istante di tempo in cui si rompe la mia auto a partire da ora (Chiaramente è una v.a. <font color="#ffff00">continua</font>)
+Abbiamo $X$ che è il primo istante di tempo in cui si rompe la mia auto a partire da ora (Chiaramente è una [[Variabili Aleatorie discrete e continue|v.a. continua]])
 Allora abbiamo i casi: (Prendiamo $F \sim X$)
 $$F(x)=\begin{cases}
 0  & \text{se }x<0 \\

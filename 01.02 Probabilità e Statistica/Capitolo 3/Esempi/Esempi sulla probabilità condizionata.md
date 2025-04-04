@@ -34,7 +34,7 @@ $\mathbb{P}(G)=\frac{5}{40}$
 $\mathbb{P}(D)=\frac{10}{40}$
 $\mathbb{P}(A)=\frac{25}{40}$
 
-Ora supponiamo che inizialmente la componente funzioni → $D\cup A=G^c$
+Ora supponiamo che inizialmente la componente [[funzioni]] → $D\cup A=G^c$
 Quale sarà la probabilità di $A$?
 
 Sarà tale che: $$\mathbb{P}(A|G^c)=\frac{\mathbb{P}(A\cap G^c)}{\mathbb{P}(G^c)}=\frac{\mathbb{P}(A\cap(D\cup A))}{1-\mathbb{P}(G)}=\frac{\mathbb{P}(A)}{1-\mathbb{P}(G)}=\frac{\frac{25}{40}}{1-\frac{5}{40}}=\frac{25}{35}$$

@@ -9,9 +9,9 @@
 >Ed è definito tale che:
 >$$\mathbb{E}[X]=\sum_{x\in \mathrm{Im}(X)}x\ P_{X}(x)$$
 >
->Per quanto riguarda le v.a. continue invece:
+>Per quanto riguarda le [[Variabili Aleatorie discrete e continue|v.a. continue]] invece:
 >$$\mathbb{E}[X]=\int^\infty_{-\infty}x\ f_{x}(x)dx$$
-> Per le v.a. indicatrici invece abbiamo una [[Valore Atteso v.a. Indicatrice|specifica]]
+> Per le [[Variabili Aleatorie Indicatrici|v.a. indicatrici]] invece abbiamo una [[Valore Atteso v.a. Indicatrice|specifica]]
 >
 
 > [!links]
@@ -47,7 +47,7 @@ Ed il suo grafico in questa forma:
 
 
 
-Facciamo un esempio per il valore atteso di una v.a. continua: [[Esempio valore atteso v.a. continua]]
+Facciamo un esempio per il valore atteso di una [[Variabili Aleatorie discrete e continue|v.a. continua]]: [[Esempio valore atteso v.a. continua]]
 
 Il valore atteso poi ci permette di definire il concetto di [[Varianza]]
 

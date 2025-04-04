@@ -54,5 +54,5 @@ Cosi otterremo una serie andando ad infinito che ci darà questi grafici:
 
 Notiamo subito come questi grafici rappresentino come la probabilità si avvicini sempre di più ad essere 1 più tiri facciamo.
 
-Da qui deduciamo che se $X$ è una v.a. discreta possiamo ricavarne una seria tale che:
+Da qui deduciamo che se $X$ è una [[Variabili Aleatorie discrete e continue|v.a. discreta]] possiamo ricavarne una seria tale che:
 $$\sum_{y\in \mathrm{Im}(X)}Px(y)$$

@@ -16,7 +16,7 @@
 > [!links]  Links
 > A sua volta la varianza si connette con la [[Covarianza]] 
 > 
-> Per quanto riguarda le v.a. indicatrici, esiste un particolare modo di calcolare la [[Varianza di una v.a. indicatrice]]
+> Per quanto riguarda le [[Variabili Aleatorie Indicatrici|v.a. indicatrici]], esiste un particolare modo di calcolare la [[Varianza di una v.a. indicatrice]]
 > 
 > Dal concetto di Varianza deriva direttamente la [[Deviazione Standard]] 
 > 
@@ -24,7 +24,7 @@
 > 
 > La varianza è il momento secondo della [[Funzione generatrice di momenti (MGF)|MGF]]
 > 
-> La Varianza e la Covarianza insieme ci danno la [[Correlazione]]
+> La Varianza e la [[Covarianza]] insieme ci danno la [[Correlazione]]
 
 
 Facciamo un semplice esempio: 

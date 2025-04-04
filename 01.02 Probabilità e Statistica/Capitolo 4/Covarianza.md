@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
->La covarianza tra 2 v.a.  rappresenta il rapporto tra esse, ed il suo valore ci dice se hanno una correlazione positiva o negativa.
+>La covarianza tra 2 [[Variabili Aleatorie|v.a.]]  rappresenta il rapporto tra esse, ed il suo valore ci dice se hanno una [[correlazione]] positiva o negativa.
 >Allora se la covarianza è: 
 >
 ><font color="#4bacc6">Positiva</font>: $Cov(X,Y)>0$ Quando aumenta Y aumenta anche X 

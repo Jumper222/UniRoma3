@@ -22,7 +22,7 @@ e analogamente:
 $$F_{Y}(y)=\int^\infty_{-\infty}f_{X,Y}(x,y)dx$$
 
 Facciamo un esempio per poter capire meglio:
-Siano $X,Y$ v.a. con [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]]:
+Siano $X,Y$ [[Variabili Aleatorie|v.a.]] con [[Funzione di ripartizione congiunta (CDF congiunta)|CDF congiunta]]:
 $$f_{X,Y}(x,y)=\begin{cases}
 2e^{-x}e^{-2y} & \text{se }x>0\ e \ y>0 \\
 0 & altrimenti

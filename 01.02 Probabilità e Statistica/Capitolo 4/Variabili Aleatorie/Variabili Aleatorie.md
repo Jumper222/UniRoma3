@@ -1,4 +1,11 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - v.a.
+  - V.a.
+---
+
 
 > [!Definizione]  Definizione
 > Descriviamo un [[Modello Probabilistico]] per il nostro esperimento aleatorio:

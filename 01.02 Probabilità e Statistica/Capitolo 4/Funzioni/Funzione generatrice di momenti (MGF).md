@@ -50,4 +50,4 @@ $$\mathbb{P}(X\in[a,b])=\mathbb{P}(Y\in[a,b])$$
 Un’ altra proprietà utile è:
 Se $X,Y$ sono [[Variabili Aleatorie Indipendenti|v.a. Indipendenti]] allora:
 $$\phi_{X+Y}(t)=\phi_{X}(t)\phi_{Y}(t)$$
-Ossia la MGF della somma di v.a. indipendenti è il prodotto della loro MGF.
+Ossia la MGF della somma di [[Variabili Aleatorie Indipendenti|v.a. indipendenti]] è il prodotto della loro MGF.

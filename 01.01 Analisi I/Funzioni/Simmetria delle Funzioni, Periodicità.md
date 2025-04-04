@@ -9,7 +9,7 @@ Infatti:
 
 ${\begin{cases} x+T\in X,\forall x\in X \\f(x+T) =f(x) \end{cases}}$
 
-Si hanno 2 principali funzioni periodiche:
+Si hanno 2 principali [[funzioni]] periodiche:
 - $\sin:\mathbb{R}\to[-1;1]$
 - $\cos:\mathbb{R}\to[-1;1]$
 Dove in entrambe il periodo è uguale a $T=2\pi$
@@ -18,5 +18,5 @@ Si ha poi $\tan: \mathbb{R}-\{\frac{{\pi}}{2}+k\pi\} \to \mathbb{R}$
 dove ovviamente $x\to \tan x = \frac{\sin x}{\cos x}$
 con periodicità con $T = \pi$
 
-ovviamente quindi le funzioni derivate  da sin,cos e tan:
+ovviamente quindi le [[funzioni]] derivate  da sin,cos e tan:
 arcsin, arccos e arctan sono pure loro periodiche.

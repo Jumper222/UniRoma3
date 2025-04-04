@@ -9,7 +9,7 @@ Si hanno quindi 2 gruppi di funzione Monotona:
 <font color="#f79646">Monotona</font>, dove ogni valore è sempre maggiore/minore O <font color="#ffff00">UGUALE</font> (crescenza/decrescenza)
 <font color="#f79646">Strettamente Monotona</font>, dove ogni valore è sempre maggiore/minore (Strett. Cresc/Strett. Decresc)
 
-Per quanto riguarda le funzioni composte, esistono 4 casi:
+Per quanto riguarda le [[funzioni]] composte, esistono 4 casi:
 
 1. se $g$ <font color="#ffff00">crescente</font> in A e $f$ <font color="#ffff00">crescente</font> in A allora f(g(x)) sarà <font color="#f79646">crescente</font>.
 2. se $g$ <font color="#ffff00">crescente</font> in A e $f$ <font color="#ffff00">decrescente</font> in A allora f(g(x)) sarà <font color="#f79646">decrescente</font>.
@@ -18,5 +18,5 @@ Per quanto riguarda le funzioni composte, esistono 4 casi:
 
 Sostanzialmente ha un funzionamento molto simile alla moltiplicazioni tra somma e differenza.
 
-<font color="#ff0000">NB</font>:Se una funzione è strettamente monotona è anche iniettiva, ma non tutte le funzioni iniettive sono anche strettamente monotone.
+<font color="#ff0000">NB</font>:Se una funzione è strettamente monotona è anche iniettiva, ma non tutte le [[funzioni]] iniettive sono anche strettamente monotone.
 <font color="#ff0000">NB</font>:Se una funzione è strettamente monotona, anche la sua inversa lo sarà, per lo stesso verso
