@@ -1,14 +1,14 @@
 #Elementi_di_Fisica 
 
 >[!Enunciato]  Enunciato
->La forza che agisce su un corpo è direttamente proporzionale alla massa del corpo e all’accelerazione, e ha stessa direzione e verso.  
-Quindi, l’accelerazione è proporzionale alla forza e inversamente proporzionale alla massa.
+>La [[forza]] che agisce su un corpo è direttamente proporzionale alla massa del corpo e all’accelerazione, e ha stessa direzione e verso.  
+Quindi, l’accelerazione è proporzionale alla [[forza]] e inversamente proporzionale alla massa.
 
 Sostanzialmente quel che ci sta dicendo la 2° legge è che la [[Momentum|Quantità di Moto]] è proporzionale alla [[Forza]], prendiamo in esempio la [[Forza Peso]]:
 $$\vec{F}=m \vec{a}$$
 Essa ci dice che esiste una relazione tra [[Massa]], [[Accelerazione]] e la [[Forza]],
 
-Inoltre notiamo con $\vec{F}_{tot}$ la somma di tutte le forze.
+Inoltre notiamo con $\vec{F}_{tot}$ la somma di tutte le [[Forza|forze]].
 
 In realtà la seconda legge di Newton è definita a partire dal [[Momentum]]
 

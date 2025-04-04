@@ -1,4 +1,11 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - CDF congiunta
+  - CDF Congiunta
+---
+
 >[!Definizione]  Definizione
 >La CDF congiunta è un particolare tipo di [[Fun. di Ripartizione (CDF)|CDF]] che come [[Funzioni|funzione]] è tale che:
 >$$F_{x,y}:\mathbb{R}_{x}\times\mathbb{R}_{y}\to[0,1]$$
@@ -10,8 +17,8 @@ Ovviamente essendo che la CDF congiunta di X e Y è creata appunto da X e Y, è 
 
 Allora chiamiamo:
 - $F_{x,y}$ la CDF congiunta
-- $F_{x}$ la CDF (<font color="#ffc000">marginale</font>) di X
-- $F_{y}$ la CDF (<font color="#ffc000">marginale</font>) di Y
+- $F_{x}$ la [[Fun. di Ripartizione (CDF)|CDF]] (<font color="#ffc000">marginale</font>) di X
+- $F_{y}$ la [[Fun. di Ripartizione (CDF)|CDF]] (<font color="#ffc000">marginale</font>) di Y
 
 <font color="#f79646">NB</font>: Un discorso analogo vale per la PMF congiunta
 

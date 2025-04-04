@@ -20,6 +20,6 @@ Un’ altra utile proprietà è che la distribuzione Chi Quadro è simmetrica e 
 Esattamente come per le [[Variabili Aleatorie Gaussiane|v.a. Gaussiane]], anche per Chi Quadro possiamo studiare il [[Punto Critico Chi Quadro]]
 
 
-### <font color="#4bacc6">PDF di Chi Quadro</font>
+### <font color="#4bacc6">[[Fun. di densità di Probabilità (PDF)|PDF]] di Chi Quadro</font>
 
 ![[PDF Chi Quadro.png]]

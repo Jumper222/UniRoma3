@@ -23,10 +23,10 @@ Allora arriveremo nella forma:
 $$e^{tX}=1+tX+\dfrac{t^2X^2}{2!}+\dfrac{t^3X^3}{3!}+\dots+\dfrac{t^nX^n}{n!}$$
 
 
-Il primo momento ($k=1$) ci dice il Valore Atteso
-Il secondo momento ($k=2$) ci porta poi alla Varianza (Non è la varianza!)
+Il primo momento ($k=1$) ci dice il [[Valore Atteso]]
+Il secondo momento ($k=2$) ci porta poi alla [[Varianza]] (Non è la [[varianza]]!)
 
-Per poter calcolare la varianza allora faremmo:
+Per poter calcolare la [[varianza]] allora faremmo:
 Momento primo:
 $$M_{X}'(0)=\mathbb{E}(X)$$
 Momento secondo:
@@ -40,12 +40,12 @@ Allora:
 > $$Var(X)=E[X^2]−2E[X]⋅E[X]+(E[X])^2$$
 > Spostiamo le variabili:
 > $$−2E[X]⋅E[X]+(E[X])^2=−(E[X])^2$$
-> E allora abbiamo la nostra formula ben conosciuta per la varianza:
+> E allora abbiamo la nostra formula ben conosciuta per la [[varianza]]:
 > $$Var(X)=\mathbb{E}[X^2]-(\mathbb{E}[X])^2$$
 
 La particolarità della MGF sta nel fatto che come la [[Fun. di Ripartizione (CDF)|CDF]] anch’ essa definisce unicamente una funzione, infatti se vale la relazione:
 $$\phi_{X}(t)=\phi_{Y}(t)$$
-Allora $X,Y$ hanno la stessa CDF:
+Allora $X,Y$ hanno la stessa [[Fun. di Ripartizione (CDF)|CDF]]:
 $$\mathbb{P}(X\in[a,b])=\mathbb{P}(Y\in[a,b])$$
 Un’ altra proprietà utile è:
 Se $X,Y$ sono [[Variabili Aleatorie Indipendenti|v.a. Indipendenti]] allora:

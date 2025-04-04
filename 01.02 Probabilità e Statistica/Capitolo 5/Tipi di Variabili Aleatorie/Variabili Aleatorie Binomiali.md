@@ -11,5 +11,5 @@
 >E la sua [[Varianza]]:
 >$$Var(X)=np(1-p)$$
 
-Il grafico CDF di una v.a. binomiale è:
+Il grafico [[Fun. di Ripartizione (CDF)|CDF]] di una v.a. binomiale è:
 ![[CDF Binomiale.png]]

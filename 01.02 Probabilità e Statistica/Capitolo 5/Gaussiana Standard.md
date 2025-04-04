@@ -29,7 +29,7 @@ $$\mathbb{P}(Z\leq 1.15)=1-\mathbb{P}(Z\leq -1.15)\approx 1-0.1251=0.8749$$
 
 ![[Gaussiana Standard esempio 2.png]]
 
-Però essendo la gaussiana standard centrata sul valore atteso ed essendo uguale a destra e a sinistra, allora $\mathbb{P}(Z\leq 1.15)=\mathbb{P}(Z\leq -1.15)$
+Però essendo la gaussiana standard centrata sul [[valore atteso]] ed essendo uguale a destra e a sinistra, allora $\mathbb{P}(Z\leq 1.15)=\mathbb{P}(Z\leq -1.15)$
 
 E se invece volessimo calcolare tra 2 valori (giallo)?
 

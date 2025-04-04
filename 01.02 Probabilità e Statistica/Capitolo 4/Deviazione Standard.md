@@ -1,4 +1,11 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - ds
+  - Ds
+---
+
 >[!Definizione]  Definizione
 >La deviazione standard (sd) di X è il valore che:
 >$$sd(X)=\sqrt{ var(X) }$$

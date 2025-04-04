@@ -15,7 +15,7 @@ x & \text{se }x\in[0,1] \\
 Se il danno economico provocato da un interruzione di $x$ ore è $x^3$, qual’è il valore attesto del danno provocato da un guasto?
 
 Innanzitutto definiamo la v.a. $Y=X^3$, che rappresenta il danno provocato da un guasto
-Ora ci domandiamo come è distribuita $Y$ e quale sia la sua CDF.
+Ora ci domandiamo come è distribuita $Y$ e quale sia la sua [[Fun. di Ripartizione (CDF)|CDF]].
 Ovviamente $\mathrm{Im}(Y)=\mathrm{Im}(X^3)=[0,1]$
 Allora $F_{Y}(y)=0\quad \forall y\leq0$, mentre
 $$\forall y\in[0,1]\quad F_{Y}(y)=\mathbb{P}(Y\leq y)=\mathbb{P}(X^3\leq y)$$
@@ -34,9 +34,9 @@ $$F_{Y}'=\frac{1}{3}y^{-2/3}$$
 ![[PDF valore atteso di una v.a. composta.png]]
 *PDF di Y e X sovrapposte*
 
-Allora possiamo calcolare facilmente il valore atteso di $Y$:
+Allora possiamo calcolare facilmente il [[valore atteso]] di $Y$:
 $$\mathbb{E}[Y]=\int_{0}^1y\ f_{Y}(y)dy=\int_{0}^1 \frac{1}{3}y^{1/3}dy=\dots=\frac{1}{4}$$
-<font color="#f79646">NB</font>: alternativamente avremmo potuto calcolare il valore atteso direttamente da $X^3$
+<font color="#f79646">NB</font>: alternativamente avremmo potuto calcolare il [[valore atteso]] direttamente da $X^3$
 $$\mathbb{E}[Y]=\mathbb{E}[X^3]=\int_{0}^1x^3f_{X}(x)dx=\int_{0}^1x^3dx=\frac{1}{4}$$
 
 Se volessimo generalizzare questa nozione diremmo che questo è il momento n-esimo di X, con n=3
