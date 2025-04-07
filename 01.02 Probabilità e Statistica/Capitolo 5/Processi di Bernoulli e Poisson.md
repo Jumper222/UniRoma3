@@ -56,4 +56,7 @@ Proprio qui entrano in gioco le [[Variabili Aleatorie Esponenziali|v.a. esponenz
 Un’ altra particolarità è che se sappiamo che fino al tempo $t$ c’è un unico successo, allora $T_{1}$ sarà distribuito come $\dfrac{s}{t}$, dove s è il lower bound dell’ intervallo che stiamo considerando. Questa distribuzione è la stessa di una [[Variabili Aleatorie Uniformi|v.a. Uniforme]] 
 
 >[!Osservazione]  Osservazione
->Per svolgere gli esercizi è utile ricordarsi che 
+>Per svolgere gli esercizi è utile ricordarsi che se prendiamo $n$ [[Variabili Aleatorie Uniformi|v.a. uniformi]] $U_{1},U_{2},\dots,U_{n}$ [[IID]] e chiamiamo $U_{k}$ la k-esima variabile più piccola; “k-esima statistica ordinata”
+>Allora abbiamo che
+>$$(T_{1},\dots,T_{n})|N(t)=n\sim(tU_{(1)},\dots,tU_{(n)})$$
+>Quindi, se voglio campionare un processo di Poisson di tasso $\lambda$ in un intervallo 
