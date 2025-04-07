@@ -59,4 +59,8 @@ Un’ altra particolarità è che se sappiamo che fino al tempo $t$ c’è un un
 >Per svolgere gli esercizi è utile ricordarsi che se prendiamo $n$ [[Variabili Aleatorie Uniformi|v.a. uniformi]] $U_{1},U_{2},\dots,U_{n}$ [[IID]] e chiamiamo $U_{k}$ la k-esima variabile più piccola; “k-esima statistica ordinata”
 >Allora abbiamo che
 >$$(T_{1},\dots,T_{n})|N(t)=n\sim(tU_{(1)},\dots,tU_{(n)})$$
->Quindi, se voglio campionare un processo di Poisson di tasso $\lambda$ in un intervallo 
+>Quindi, se voglio campionare un processo di Poisson di tasso $\lambda$ in un intervallo $[0,t]$ posso procedere come segue:
+>1. campiono $N(t)\sim Poi(\lambda t)$ (Chiamo $n$ il numero ottenuto)
+>2. campiono $U_{1},\dots,U_{n}$ [[IID]] $Unif[0,1]$ e chiamo $u_{1},\dots,u_{n}$ il numeri ottenuti una volta ordinati dal più piccolo al più grande
+>3. Pongo $T_{1}=tu_{(1)},\dots,T_{n}=tu_{(n)}$
+
