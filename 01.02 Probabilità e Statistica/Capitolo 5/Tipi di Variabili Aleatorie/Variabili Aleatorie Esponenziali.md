@@ -15,4 +15,7 @@ aliases:
 >Questo lambda lo chiamiamo <font color="#9bbb59">Intensità</font>, <font color="#9bbb59">rate</font> o <font color="#9bbb59">tasso</font>
 >Graficamente sarà nella forma:
 >
-
+>![[Variabili Aleatorie Esponenziali.png]]
+>La [[Fun. di Ripartizione (CDF)|CDF]] invece:
+>$$\mathbb{P}(X>x)=e^{-\lambda x}$$
+>![[Variabili Aleatorie Esponenziali 2.png]]
