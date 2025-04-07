@@ -28,3 +28,6 @@ $$\sim Geom(p)$$
 Questo processo ha senso per le [[Variabili Aleatorie discrete e continue|v.a. discrete]], per quelle [[Variabili Aleatorie discrete e continue|v.a. continue]] invece usiamo il <font color="#ffff00">Processo di Poisson</font>
 
 ### <font color="#4bacc6">Processo di Poisson</font>
+
+>[!Definizione]  Definizione
+>Il processo di Poisson
