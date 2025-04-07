@@ -30,8 +30,12 @@ Possiamo vedere le v.a. Esponenziali come [[Variabili Aleatorie Geometriche|v.a.
 
 E allora visto che derivano dalle [[Variabili Aleatorie Geometriche|v.a. Geometriche]], anche le Esponenziali hanno la proprietà dell’ assenza di memoria.
 
-Altre proprietà di chiusura includono:
+Altre proprietà includono:
 
 - Chiusura rispetto al minimo
 	Con $n$ [[Variabili Aleatorie Indipendenti|v.a. indipendenti]], se le uniamo in una sola v.a. $Y$, anch’essa sarà esponenziale:
-	$Y=min\{X_{1},X_{2},\dots,X_{n}\}\sim Exp\left( \sum_{i=1} \right)$
+	$$Y=min\{X_{1},X_{2},\dots,X_{n}\}\sim Exp\left( \sum_{i=1}^n \right)$$
+- Proprietà delle costanti
+	Se $X\sim Exp(\lambda)$, se prendiamo una costante $c>0$, t.c $Y=cX$, allora:
+	$$Y\sim Exp(\dfrac{\lambda}{c})$$
+	
