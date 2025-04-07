@@ -45,8 +45,15 @@ Allora un Processo di Poisson avrà una forma del tipo:
 
 ![[Processo di Poisson.png]]
 
-I tempi di arrivo (quando abbiamo un successo) li chiameremo $T_{1},T_{2}\dots$ e quelli di interarrivo saranno definiti da
+I tempi di arrivo (quando abbiamo un successo) li chiameremo $T_{1},T_{2}\dots$ e quelli di inter-arrivo saranno definiti da
 $$X_{k}=T_{k}-T_{k-1}$$
 Per convenzione diamo che $T_{0}=0$
 
-Per quanto riguarda la distribuzione dei tempi di inter-arrivo
+Per quanto riguarda la distribuzione dei tempi di inter-arrivo, essi sono distribuiti come
+$$e^{-\lambda t}$$
+Proprio qui entrano in gioco le [[Variabili Aleatorie Esponenziali|v.a. esponenziali]], infatti la successione dei tempi di inter-arrivo $X_{1},X_{2}\dots$ è una successione di [[Variabili Aleatorie|v.a.]] [[IID]] $Exp(\lambda)$ 
+
+Un’ altra particolarità è che se sappiamo che fino al tempo $t$ c’è un unico successo, allora $T_{1}$ sarà distribuito come $\dfrac{s}{t}$, dove s è il lower bound dell’ intervallo che stiamo considerando. Questa distribuzione è la stessa di una [[Variabili Aleatorie Uniformi|v.a. Uniforme]] 
+
+>[!Osservazione]  Osservazione
+>Per svolgere gli esercizi è utile ricordarsi che 
