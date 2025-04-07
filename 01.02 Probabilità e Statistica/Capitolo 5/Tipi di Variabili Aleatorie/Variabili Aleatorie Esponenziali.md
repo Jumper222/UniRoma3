@@ -8,7 +8,7 @@ aliases:
   - V.a. Esponenziali
 ---
 >[!Definizione]  Definizione
->Una [[Variabili Aleatorie|v.a.]] Esponenziale è un tipo di [[Variabili Aleatorie discrete e continue|v.a. continua]] utile per i [[Processi di Bernoulli o Poisson]], ed è tale che:
+>Una [[Variabili Aleatorie|v.a.]] Esponenziale è un tipo di [[Variabili Aleatorie discrete e continue|v.a. continua]] utile per i [[Processi di Bernoulli e Poisson]], ed è tale che:
 >$$f_{X}(x)=\lambda e^{-\lambda x}$$
 >e si scrive:
 >$$X\sim Exp(\lambda)$$
