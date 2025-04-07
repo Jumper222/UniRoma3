@@ -10,3 +10,5 @@ Allora per ora abbiamo studiato i seguenti tipi delle [[Variabili Aleatorie|v.a.
 - Continue
 	- [[Variabili Aleatorie Uniformi]]
 	- [[Variabili Aleatorie Gaussiane]] 
+	- [[Chi Quadro]]
+	- [[Variabili Aleatorie Esponenziali]]
