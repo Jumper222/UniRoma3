@@ -30,4 +30,6 @@ Questo processo ha senso per le [[Variabili Aleatorie discrete e continue|v.a. d
 ### <font color="#4bacc6">Processo di Poisson</font>
 
 >[!Definizione]  Definizione
->Il processo di Poisson
+>Il processo di Poisson $(N(t))_{t\geq 0}$ è detto Processo di Poisson di intensità/tasso $\lambda>0$ è la [[Funzioni|funzione]] aleatoria a valori $\geq 0$ t.c:
+>Il maggiore utilizzo del processo di Poisson si ha trovando i tempi di arrivo, ossia quando si ha un successo in una funzi
+
