@@ -17,7 +17,7 @@ aliases:
 >E allora l’ immagine sarà:
 >$$\mathrm{Im}(X)=\mathbb{N}_{0}$$
 >Ed invece il suo [[Valore Atteso]]:
->$$mathbb{E}[X]=\lambda$$
+>$$\mathbb{E}[X]=\lambda$$
 >E la sua [[Varianza]]:
 >$$Var(X)=\lambda$$
 
