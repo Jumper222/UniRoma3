@@ -19,3 +19,13 @@ aliases:
 >La [[Fun. di Ripartizione (CDF)|CDF]] invece:
 >$$\mathbb{P}(X>x)=e^{-\lambda x}$$
 >![[Variabili Aleatorie Esponenziali 2.png]]
+>
+>Allora il [[Valore Atteso]] sarà:
+>$$\dfrac{1}{\lambda}$$
+>E la [[Varianza]]:
+>$$\dfrac{1}{\lambda^2}$$
+
+
+Possiamo vedere le v.a. Esponenziali come [[Variabili Aleatorie Geometriche|v.a. Geometriche]] con $n$ che tende a 0, e prob. di successo infinitesima
+
+E allora visto che derivano dalle [[Variabili Aleatorie Geometriche|v.a. Geometriche]], anche le Esponenziali hanno la proprietà dell’ assenza di memoria.
