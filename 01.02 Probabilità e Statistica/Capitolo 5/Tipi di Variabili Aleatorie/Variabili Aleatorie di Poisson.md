@@ -10,7 +10,8 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
->
+>Le [[Variabili Aleatorie|v.a.]] di Poisson le usiamo per descrivere quanti eventi rari accadono in un intervallo di tempo fissato, ed ha le seguenti condizioni:
+>- Un tasso $\lambda>0$ 
 >$$X\sim Poi(\lambda)\quad \lambda>0$$
 >La sua [[Fun. di massa di Probabilità (PMF)|PMF]] invece è tale che:
 >$$f_{X}(x)=e^{-\lambda} \dfrac{\lambda^x}{x!}, \quad \forall x\in{0,1,2\dots}$$

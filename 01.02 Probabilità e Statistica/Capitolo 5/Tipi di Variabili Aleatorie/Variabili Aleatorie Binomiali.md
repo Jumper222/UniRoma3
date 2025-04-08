@@ -11,9 +11,9 @@ aliases:
 >Si utilizza quando si vuole <font color="#4bacc6">contare il numero di successi</font> in un numero $n$ di prove indipendenti, ognuna delle quali può “<font color="#9bbb59">Succedere</font>” o “<font color="#c0504d">Fallire</font>”, è quindi utile per studiare una serie di [[Variabili Aleatorie di Bernoulli|bernoulliane]],
 >Allora abbiamo:
 >
->$n$ numero totale di prove
->$p$ probabilità costante per ogni prova
->Vogliamo sapere il numero di successi $k$ in $n$ prove
+>- $n$ numero totale di prove
+>- $p$ probabilità costante per ogni prova
+>- il numero di successi $k$ in $n$ prove
 >
 >Quindi abbiamo [[Fun. di massa di Probabilità (PMF)|PMF]]:
 >$$P(X=k)=\binom{n}{k}p^k(1-p)^{n-k}$$
