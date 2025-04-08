@@ -46,6 +46,9 @@ Allora un Processo di Poisson avrà una forma del tipo:
 
 ![[Processo di Poisson.png]]
 
+### <font color="#4bacc6">Tempi di Arrivo</font>
+
+
 I tempi di arrivo (quando abbiamo un successo) li chiameremo $T_{1},T_{2}\dots$ e quelli di inter-arrivo saranno definiti da
 $$X_{k}=T_{k}-T_{k-1}$$
 Per convenzione diamo che $T_{0}=0$
