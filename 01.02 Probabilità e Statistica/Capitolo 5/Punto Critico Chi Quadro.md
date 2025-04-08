@@ -1,7 +1,7 @@
 #Probabilità_e_statistica 
 
 >[!Definizione]  Definizione
->Esattamente come per il [[Punto critico della distribuzione standard]], Il punto critico di [[Chi Quadro]] $\mathcal{X}^2_{\alpha,n}$ è il valore per cui a destra del punto abbiamo un’ area di valore $\alpha$
+>Esattamente come per il [[Punto critico distribuzione standard]], Il punto critico di [[Chi Quadro]] $\mathcal{X}^2_{\alpha,n}$ è il valore per cui a destra del punto abbiamo un’ area di valore $\alpha$
 >Ed è definito tale che:
 >$$\mathbb{P}(X\leq \mathcal{X}^2_{\alpha,n})=1-\alpha$$
 
