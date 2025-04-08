@@ -14,12 +14,10 @@ aliases:
 >$$\mathrm{Im}(X)={0,1,\dots,n}$$
 >E la sua [[Fun. di massa di Probabilità (PMF)|PMF]]:
 >$$f_{X}(x=k)=\binom{n}{k}p^k(1-p)^{n-k}$$
-
-
 >Il suo [[Valore Atteso]]:
 >$$\mathbb{E}[X]=np$$
 >E la sua [[Varianza]]:
 >$$Var(X)=np(1-p)$$
 
-Il grafico [[Fun. di Ripartizione (CDF)|CDF]] di una [[Variabili Aleatorie|v.a.]] binomiale è:
+Il grafico [[Fun. di massa di Probabilità (PMF)|PMF]] di una [[Valriabili Aleatorie|v.a.]] binomiale è:
 ![[CDF Binomiale.png]]
