@@ -16,6 +16,8 @@ aliases:
 >$$\mathbb{E}[X]=\dfrac{1}{p}$$
 >E la sua [[Varianza]]:
 >$$Var(X)=\dfrac{1-p}{p^2}$$
+>Formula utile per maggiori o minori di numero x, in caso di minore si usa il complementare
+> $$Y \sim \text{Geom}(p) \implies \mathbb{P}(Y>y) = (1-p)^y \quad \forall y \geq 1$$
 
 Una molto particolare proprietà delle [[Variabili Aleatorie|v.a.]] geometriche è detta Assenza di Memoria o Memorylessness,
 è significa che gli esiti degli eventi precedenti a quello attuale non impattano per nulla la probabilità dell’ evento studiato.
