@@ -9,13 +9,17 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
->Sono le [[Variabili Aleatorie Indicatrici]] che abbiamo visto finora, e le scriviamo con:
->$$X\sim Bern(p)$$
->che si legge X è distribuita come una variabile aleatoria di bernoulli.
->La probabilità che X accada è descritta come:
->$$f_{X}(1)=p=1-f_{X}(0)$$
+>Una [[Variabili Aleatorie|v.a.]] di Bernoulli è usata per descrivere un singolo esperimento che può avere un successo o un fallimento, e ha 2 condizioni:
+>- L’ esperimento può solo avvenire o non avvenire
+>- La probabilità di successo è $p$, che è nota e costante.
+>
+>Allora la [[Fun. di massa di Probabilità (PMF)|PMF]] sarà nella forma 
+>$$P(X=k)=\begin{cases} p &\text{se } k=1\\
+> 1-p &\text{se } k=0
+\end{cases}$$
 >Allora il suo [[Valore Atteso]] sarà:
 >$$\mathbb{E}[X]=p$$
 >e la sua [[Varianza]]:
 >$$Var(X)=p(1-p)$$
->Questa variabile aleatoria è utile quando vogliamo sapere se un dato evento accade, e quindi la possibilità che accada o non.
+
+
