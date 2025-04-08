@@ -33,7 +33,7 @@ Questo processo ha senso per le [[Variabili Aleatorie discrete e continue|v.a. d
 >Il processo di Poisson $(N(t))_{t\geq 0}$ è detto Processo di Poisson di intensità/tasso $\lambda>0$ è la [[Funzioni|funzione]] aleatoria a valori $\geq 0$ t.c:
 >Il maggiore utilizzo del processo di Poisson si ha trovando i tempi di arrivo ed interarrivo, ossia quando si ha un successo in una funzione aleatoria.
 
-Ricordandoci sempre che andiamo a studiare un’ intervallo $[s+1,t]$, dove entrambi sono maggiori di 0, la probabilità degli eventi sarà del tipo:
+Ricordandoci sempre che andiamo a studiare un’ intervallo $[s,t]$, dove entrambi sono maggiori di 0, la probabilità degli eventi sarà del tipo:
 $$e^{-\lambda(t-s)} \dfrac{(\lambda(t-s))^k}{k!}$$
 Una proprietà dei processi di Poisson è che prendendo intervalli diversi essi sono indipendenti tra loro:
 $$\forall t_{2}>s_{2}>t_{1}>s_{1}\geq 0$$
