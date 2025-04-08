@@ -6,7 +6,7 @@ Il **Processo di Poisson** è un modello matematico utilizzato in probabilità p
     
 2. **Quantificare la probabilità del numero di eventi**: La proprietà fondamentale del processo di Poisson è che il **numero di eventi che si verificano in un intervallo di tempo (o spazio) di lunghezza $t-s$ segue una distribuzione di Poisson con parametro $\lambda(t-s)$**, dove $\lambda$ è l'intensità o tasso del processo. Questo significa che possiamo calcolare la probabilità di osservare esattamente $k$ eventi in quell'intervallo usando la formula della distribuzione di Poisson:
     
-    $P(N(t) - N(s) = k) = \frac{e^{-\lambda(t-s)} (\lambda(t-s))^k}{k!}$
+    $P(N(t) - N(s) = k) = \dfrac{e^{-\lambda(t-s)} (\lambda(t-s))^k}{k!}$
     
     Dove $N(t)$ rappresenta il numero di eventi fino al tempo $t$.
     
