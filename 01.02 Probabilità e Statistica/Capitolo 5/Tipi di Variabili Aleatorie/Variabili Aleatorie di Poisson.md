@@ -10,9 +10,9 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
->Una [[Variabili Aleatorie|v.a.]] ci serve per poter definire meglio la possibilità che avvengano eventi “rari” ed è scritta tale che:
+>
 >$$X\sim Poi(\lambda)\quad \lambda>0$$
->La sua [[Fun. di Ripartizione (CDF)]] invece è tale che:
+>La sua [[Fun. di massa di Probabilità (PMF)|PMF]] invece è tale che:
 >$$f_{X}(x)=e^{-\lambda} \dfrac{\lambda^x}{x!}, \quad \forall x\in{0,1,2\dots}$$
 >E allora l’ immagine sarà:
 >$$\mathrm{Im}(X)=\mathbb{N}_{0}$$

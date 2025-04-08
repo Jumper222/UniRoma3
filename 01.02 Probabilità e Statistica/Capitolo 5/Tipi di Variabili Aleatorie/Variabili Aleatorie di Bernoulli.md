@@ -21,5 +21,7 @@ aliases:
 >$$\mathbb{E}[X]=p$$
 >e la sua [[Varianza]]:
 >$$Var(X)=p(1-p)$$
+>La [[Funzione generatrice di momenti (MGF)|MGF]]:
+>$$M_{X}(t)=(1-p)+pe^t$$
 
 
