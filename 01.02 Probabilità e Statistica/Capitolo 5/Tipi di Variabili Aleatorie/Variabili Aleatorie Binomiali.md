@@ -14,7 +14,8 @@ aliases:
 >$$\mathrm{Im}(X)={0,1,\dots,n}$$
 >E la sua [[Fun. di massa di Probabilità (PMF)|PMF]]:
 >$$f_{X}(x=k)=\binom{n}{k}p^k(1-p)^{n-k}$$
->
+
+
 >Il suo [[Valore Atteso]]:
 >$$\mathbb{E}[X]=np$$
 >E la sua [[Varianza]]:
