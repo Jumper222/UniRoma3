@@ -10,7 +10,7 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
->Le [[Variabili Aleatorie|v.a.]] di Poisson le usiamo per descrivere quanti eventi accadono in un intervallo di tempo fissato, differisce dalle [[Variabili Aleatorie Binomiali|v.a. binomiali]] in quanto è più approssima più correttamente eventi rari su intervalli piccoli, ed ha le seguenti condizioni:
+>Le [[Variabili Aleatorie|v.a.]] di Poisson le usiamo per descrivere quanti eventi accadono in un intervallo di tempo fissato, differisce dalle [[Variabili Aleatorie Binomiali|v.a. binomiali]] approssima più correttamente eventi rari su intervalli piccoli, ed ha le seguenti condizioni:
 >- Gli eventi sono indipendenti tra loro
 >- La probabilità è costante
 >- Il numero medio di questi eventi nell’ intervallo è noto

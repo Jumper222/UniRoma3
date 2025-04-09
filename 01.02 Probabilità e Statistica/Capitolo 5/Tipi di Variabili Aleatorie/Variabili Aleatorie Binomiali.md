@@ -8,6 +8,7 @@ aliases:
 ---
  
 >[!Definizione]  Definizione
+>La [[Variabili Aleatorie|v.a.]] binomiale $X\sim Bin(n,p)$
 >Si utilizza quando si vuole <font color="#4bacc6">contare il numero di successi</font> in un numero $n$ di prove indipendenti, ognuna delle quali può “<font color="#9bbb59">Succedere</font>” o “<font color="#c0504d">Fallire</font>”, è quindi utile per studiare una serie di [[Variabili Aleatorie di Bernoulli|bernoulliane]],
 >Allora abbiamo:
 >

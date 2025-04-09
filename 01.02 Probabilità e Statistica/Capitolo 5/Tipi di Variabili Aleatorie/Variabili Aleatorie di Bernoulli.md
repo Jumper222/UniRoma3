@@ -9,6 +9,7 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
+>dicasi $X\sim Bern(p)$
 >Una [[Variabili Aleatorie|v.a.]] di Bernoulli è usata per descrivere un singolo esperimento che può avere un successo o un fallimento, e ha 2 condizioni:
 >- L’ esperimento può solo avvenire o non avvenire
 >- La probabilità di successo è $p$, che è nota e costante.
