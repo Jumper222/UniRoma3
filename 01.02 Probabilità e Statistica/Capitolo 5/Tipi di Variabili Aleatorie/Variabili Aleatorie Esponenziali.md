@@ -14,14 +14,11 @@ aliases:
 >[[Fun. di densità di Probabilità (PDF)|PDF]]: $f_{X}(x)=\lambda e^{-\lambda x}$
 >[[Valore Atteso]]: $\mathbb{E}[X]=\dfrac{1}{\lambda}$
 >[[Varianza]]: $Var(X)=\dfrac{1}{\lambda^2}$
+>[[Funzione generatrice di momenti (MGF)|MGF]]: $M_{X}(t)=\dfrac{\lambda}{\lambda-t}$
 >
->Questo lambda lo chiamiamo <font color="#9bbb59">Intensità</font>, <font color="#9bbb59">rate</font> o <font color="#9bbb59">tasso</font>
->
->
->
->
->
->
+>##### Proprietà
+>è Memoryless, ossia la probabilità non tiene conto del tempo già passato
+>Se $Y=cX$, $X\sim Exp(\lambda)$, allora $Y\sim Exp(\dfrac{\lambda}{c})$ 
 
 Graficamente sarà nella forma:
 ![[Variabili Aleatorie Esponenziali.png]]
