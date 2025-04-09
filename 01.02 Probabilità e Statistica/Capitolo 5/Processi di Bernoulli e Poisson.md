@@ -30,9 +30,8 @@ Questo processo ha senso per le [[Variabili Aleatorie discrete e continue|v.a. d
 ### <font color="#4bacc6">Processo di Poisson</font>
 
 >[!Definizione]  Definizione
->Il processo di Poisson $(N(t))_{t\geq 0}$ è detto Processo di Poisson di intensità/tasso $\lambda>0$ è la [[Funzioni|funzione]] aleatoria a valori $\geq 0$ t.c:
->Il maggiore utilizzo del processo di Poisson si ha trovando i tempi di arrivo ed interarrivo, ossia quando si ha un successo in una funzione aleatoria.
-
+>Il Processo di Poisson è un modello che serve per studiare la probabilità che si verifichino un numero di eventi in un dato tempo, ha dei requisiti:
+>- Un rateo $\lambda$, 
 Ricordandoci sempre che andiamo a studiare un’ intervallo $[s,t]$, dove entrambi sono maggiori di 0, dove $k$ è il valore che stiamo cercando la probabilità degli eventi sarà del tipo:
 $$P(N(t)-N(s)=k)=e^{-\lambda(t-s)} \dfrac{(\lambda(t-s))^k}{k!}$$
 
