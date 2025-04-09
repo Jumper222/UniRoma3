@@ -9,24 +9,25 @@ aliases:
 ---
 
 >[!Definizione]  Definizione
->Una [[Variabili Aleatorie|v.a.]] Esponenziale è un tipo di [[Variabili Aleatorie discrete e continue|v.a. continua]] utile per i [[Processi di Bernoulli e Poisson]], ed è tale che:
->$$f_{X}(x)=\lambda e^{-\lambda x}$$
->e si scrive:
->$$X\sim Exp(\lambda)$$
+>$X\sim Exp(\lambda)$
+>Una [[Variabili Aleatorie|v.a.]] Esponenziale è un tipo di [[Variabili Aleatorie discrete e continue|v.a. continua]] utile per i [[Processi di Bernoulli e Poisson]], deve avere un tasso ($\lambda$) o intensità ed è tale che:
+>[[Fun. di densità di Probabilità (PDF)|PDF]]: $f_{X}(x)=\lambda e^{-\lambda x}$
+>[[Valore Atteso]]: $\mathbb{E}[X]=\dfrac{1}{\lambda}$
+>[[Varianza]]: $Var(X)=\dfrac{1}{\lambda^2}$
+>
 >Questo lambda lo chiamiamo <font color="#9bbb59">Intensità</font>, <font color="#9bbb59">rate</font> o <font color="#9bbb59">tasso</font>
->Graficamente sarà nella forma:
 >
->![[Variabili Aleatorie Esponenziali.png]]
->La [[Fun. di Ripartizione (CDF)|CDF]] invece:
->$$\mathbb{P}(X>x)=e^{-\lambda x}$$
->![[Variabili Aleatorie Esponenziali 2.png]]
 >
->Allora il [[Valore Atteso]] sarà:
->$$\dfrac{1}{\lambda}$$
->E la [[Varianza]]:
->$$\dfrac{1}{\lambda^2}$$
+>
+>
+>
+>
 
-
+Graficamente sarà nella forma:
+![[Variabili Aleatorie Esponenziali.png]]
+La [[Fun. di Ripartizione (CDF)|CDF]] invece:
+$$\mathbb{P}(X>x)=e^{-\lambda x}$$
+![[Variabili Aleatorie Esponenziali 2.png]]
 Possiamo vedere le v.a. Esponenziali come [[Variabili Aleatorie Geometriche|v.a. Geometriche]] con $n$ che tende a 0, e prob. di successo infinitesima
 
 E allora visto che derivano dalle [[Variabili Aleatorie Geometriche|v.a. Geometriche]], anche le Esponenziali hanno la proprietà dell’ assenza di memoria.
