@@ -11,6 +11,7 @@ aliases:
 >[!Definizione]  Definizione
 >$X\sim Exp(\lambda)$
 >Una [[Variabili Aleatorie|v.a.]] Esponenziale è un tipo di [[Variabili Aleatorie discrete e continue|v.a. continua]] utile per i [[Processi di Bernoulli e Poisson]], deve avere un tasso ($\lambda$) o intensità ed è tale che:
+>[[Fun. di Ripartizione (CDF)|CDF]]: $P(X<x)=1-e^{-\lambda x}$
 >[[Fun. di densità di Probabilità (PDF)|PDF]]: $f_{X}(x)=\lambda e^{-\lambda x}$
 >[[Valore Atteso]]: $\mathbb{E}[X]=\dfrac{1}{\lambda}$
 >[[Varianza]]: $Var(X)=\dfrac{1}{\lambda^2}$
