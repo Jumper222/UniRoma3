@@ -31,9 +31,24 @@ Questo processo ha senso per le [[Variabili Aleatorie discrete e continue|v.a. d
 
 >[!Definizione]  Definizione
 >Il Processo di Poisson è un modello che serve per studiare la probabilità che si verifichino un numero di eventi in un dato tempo, ha dei requisiti:
->- Un rateo $\lambda$, 
-Ricordandoci sempre che andiamo a studiare un’ intervallo $[s,t]$, dove entrambi sono maggiori di 0, dove $k$ è il valore che stiamo cercando la probabilità degli eventi sarà del tipo:
-$$P(N(t)-N(s)=k)=e^{-\lambda(t-s)} \dfrac{(\lambda(t-s))^k}{k!}$$
+>- Un rateo $\lambda$, ossia il numero medio di eventi per unità di tempo
+>- Gli eventi sono Indipendenti tra loro
+>- Ogni tempo è identico ad ogni altro
+
+##### <font color="#4bacc6">Calcolo di un intervallo</font>
+
+Studiamo un processo di Poisson di intervallo $[A,B]$, con rateo $\lambda$.
+Innanzitutto otteniamo la “lunghezza” dell’ intervallo, $T=B-A$
+Il numero medio di eventi in questa “lunghezza” sarà quindi $\mu =\lambda T$
+E adesso sostituiamo questo $\mu$ al posto di $\lambda$ nella [[Fun. di massa di Probabilità (PMF)|PMF]] di una [[Variabili Aleatorie di Poisson|v.a. di Poisson]] 
+$$P(X=k)=\dfrac{\mu^ke^{-\mu}}{k!}$$
+*Notiamo che in questo caso stiamo usando $\mu$ come tasso nell’ intervallo.*
+
+
+###### <font color="#f79646">Proprietà</font> 
+
+- Il valore atteso di un Processo di Poisson sarà uguale alla varianza, che sarà uguale al tasso.
+
 
 Una proprietà dei processi di Poisson è che prendendo intervalli diversi essi sono indipendenti tra loro:
 $$\forall t_{2}>s_{2}>t_{1}>s_{1}\geq 0$$
