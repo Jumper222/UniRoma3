@@ -11,7 +11,7 @@ aliases:
 >Nelle [[Variabili Aleatorie|v.a.]] Geometriche $X$ rappresenta il tempo in cui arriva il primo successo in una successione di esperimenti [[IID]] in cui ciascun esperimento ha successo = p.
 >$$X\sim Geom(p)$$
 >E la sua PMF è definita t.c:
->$$f_{X}=p(1-p)^{y-1}$$
+>$$P(Y=y)=f_{X}=p(1-p)^{y-1}$$
 >Il suo [[Valore Atteso]] invece sarà nella forma:
 >$$\mathbb{E}[X]=\dfrac{1}{p}$$
 >E la sua [[Varianza]]:
