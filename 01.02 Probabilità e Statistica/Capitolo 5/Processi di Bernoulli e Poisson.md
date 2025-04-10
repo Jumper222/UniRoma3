@@ -41,6 +41,7 @@ Studiamo un processo di Poisson di intervallo $[A,B]$, con rateo $\lambda$.
 Innanzitutto otteniamo la “lunghezza” dell’ intervallo, $T=B-A$
 Il numero medio di eventi in questa “lunghezza” sarà quindi $\mu =\lambda T$
 E adesso sostituiamo questo $\mu$ al posto di $\lambda$ nella [[Fun. di massa di Probabilità (PMF)|PMF]] di una [[Variabili Aleatorie di Poisson|v.a. di Poisson]] 
+$k$ è il numero di e venti che vogliamo accada in quel dato intervallo
 $$P(X=k)=\dfrac{\mu^ke^{-\mu}}{k!}$$
 *Notiamo che in questo caso stiamo usando $\mu$ come tasso nell’ intervallo.*
 
