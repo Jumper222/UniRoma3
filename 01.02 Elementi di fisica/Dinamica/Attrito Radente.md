@@ -10,5 +10,4 @@ tags:
 #### Attrito Statico
 
 L’ attrito Statico è l’ attrito che si ha quando si vuole spostare un corpo da una posizione di [[Equilibrio#Equilibrio Statico|Equilibrio Statico]], mettendolo in moto.
-
-
+Esso ha la formula
