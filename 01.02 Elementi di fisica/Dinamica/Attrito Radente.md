@@ -13,8 +13,10 @@ L’ attrito Statico è l’ attrito che si ha quando si vuole spostare un corpo
 Da questa definizione possiamo subito capire che esso non è un valore da eguagliare, ma piuttosto un range di valori entro i quali il corpo non subisce moto.
 
 Allora questo range di valori è dettato dalla formula:
-$$F_{s}\leq \mu_{s}\cdot N$$
+$$F_{as}\leq \mu_{s}\cdot N$$
 Dove nel caso dell’ eguaglianza si ha $F^{max}_{s}$.
-Alcuni punti importanti sono:
-- Varia in modulo, si adatta alla forza con cui spingiamo finché non superiamo $F^{max}_{s}$
-- 
+In questa formula abbiamo che $\mu _s$ è il coeff. di attrito statico, che indica quanto i materiali a contatto abbiano “frizione” tra loro, $N$ invece rappresenta la [[01.02 Elementi di fisica/Immagini/Forza Normale|Forza Normale]].
+
+Inoltre va detto che varia in modulo, adattandosi alla forza con cui spingiamo finché non superiamo $F^{max}_{s}$
+Allora possiamo dire che:
+$$0\leq |F_{as}|< |F^{max}_{as}|$$
