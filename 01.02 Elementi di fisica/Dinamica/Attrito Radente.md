@@ -4,7 +4,7 @@ tags:
 ---
 >[!Definizione]  Definizione
 >L’ attrito radente ($F_{A}$) è l’ [[Attrito]] generato dallo strisciamento di un corpo su una superfice, e generalmente come modulo avrà:
->$$F_{A}=\mu*F_{\perp}$$
+>$$F_{A}=\mu \cdot F_{\perp}$$
 >La sua direzione sarà la stessa del moto, ed il suo verso opposto.
 
 #### Attrito Statico
