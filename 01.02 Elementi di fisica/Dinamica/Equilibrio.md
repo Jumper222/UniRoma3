@@ -3,7 +3,7 @@
 Esistono due tipi di Equilibrio, Lo statico e Dinamico
 
 
-### <font color="#4bacc6">Statico</font>
+### Equilibrio Statico
 
 L’ Equilibrio statico rappresenta lo stato in cui si trova un corpo quando la somma tra tutte le [[Forza|Forze]] è nulla, ossia il corpo è immobile:
 
@@ -17,7 +17,7 @@ F_{y}=\sum_{i}F_{iy}=0
 \end{cases}$$
 Inoltre la [[Velocità]] iniziale deve essere uguale a 0: $\vec{v}(0)=0$
 
-### <font color="#4bacc6">Dinamico</font>
+### Equilibrio Dinamico
 
 L’ equilibrio dinamico è un particolare stato di un corpo, che si ha in 2 situazioni:
 - [[Moto Rettilineo Uniforme]] 
