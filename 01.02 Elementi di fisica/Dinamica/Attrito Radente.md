@@ -10,4 +10,11 @@ tags:
 #### Attrito Statico
 
 L’ attrito Statico è l’ attrito che si ha quando si vuole spostare un corpo da una posizione di [[Equilibrio#Equilibrio Statico|Equilibrio Statico]], mettendolo in moto.
-Esso ha la formula
+Da questa definizione possiamo subito capire che esso non è un valore da eguagliare, ma piuttosto un range di valori entro i quali il corpo non subisce moto.
+
+Allora questo range di valori è dettato dalla formula:
+$$F_{s}\leq \mu_{s}\cdot N$$
+Dove nel caso dell’ eguaglianza si ha $F^{max}_{s}$.
+Alcuni punti importanti sono:
+- Varia in modulo, si adatta alla forza con cui spingiamo finché non superiamo $F^{max}_{s}$
+- 
