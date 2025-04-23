@@ -1,3 +1,5 @@
+
+
 #Elementi_di_Fisica 
 >[!Definizione]  Definizione:
 > Il moto parabolico un moto su 2 dimensioni, che rappresenta l’ unione del [[Moto Rettilineo Uniforme]] e della [[Caduta di un grave]].
