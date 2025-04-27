@@ -1,31 +1,70 @@
-Il **Processo di Poisson** è un modello matematico utilizzato in probabilità per descrivere il verificarsi di **eventi casuali e indipendenti nel tempo (o nello spazio) ad un tasso medio costante**. È considerato la versione "continua" del processo di Bernoulli.
+Soluzione del Problema
 
-**A cosa serve in dettaglio?**
+Diagramma delle forze
 
-1. **Modellare eventi che accadono casualmente nel tempo o nello spazio**: Il processo di Poisson è particolarmente utile quando si analizzano fenomeni in cui gli eventi si verificano in modo apparentemente casuale, senza una precisa regolarità. L'attenzione non è tanto sul momento esatto in cui un evento si verifica, quanto sul numero di eventi che si verificano in un dato intervallo di tempo o regione di spazio.
-    
-2. **Quantificare la probabilità del numero di eventi**: La proprietà fondamentale del processo di Poisson è che il **numero di eventi che si verificano in un intervallo di tempo (o spazio) di lunghezza $t-s$ segue una distribuzione di Poisson con parametro $\lambda(t-s)$**, dove $\lambda$ è l'intensità o tasso del processo. Questo significa che possiamo calcolare la probabilità di osservare esattamente $k$ eventi in quell'intervallo usando la formula della distribuzione di Poisson:
-    
-    $P(N(t) - N(s) = k) = \dfrac{e^{-\lambda(t-s)} (\lambda(t-s))^k}{k!}$
-    
-    Dove $N(t)$ rappresenta il numero di eventi fino al tempo $t$.
-    
-3. **Analizzare i tempi di inter-arrivo**: Un'altra caratteristica importante del processo di Poisson è che **i tempi tra un evento e il successivo (tempi di inter-arrivo) seguono una distribuzione Esponenziale con parametro $\lambda$**. Se $X_k$ è il tempo tra l'$(k-1)$-esimo e il $k$-esimo arrivo, allora $X_k \sim Exp(\lambda)$. Questa proprietà è cruciale per analizzare la frequenza con cui gli eventi si susseguono.
-    
-4. **Sfruttare la proprietà di assenza di memoria**: Poiché i tempi di inter-arrivo sono distribuiti esponenzialmente, il processo di Poisson gode della **proprietà di assenza di memoria**. Questo significa che la probabilità che un evento si verifichi in futuro non dipende da quanto tempo è trascorso dall'ultimo evento. Ad esempio, se stiamo modellando il guasto di una macchina con un processo di Poisson, la probabilità che si guasti nel prossimo intervallo di tempo è la stessa indipendentemente da quanto tempo ha funzionato finora.
-    
-5. **Modellare l'arrivo di richieste o elementi**: Il processo di Poisson è ampiamente utilizzato per modellare l'arrivo di clienti in una coda, messaggi (email, Whatsapp), chiamate telefoniche, guasti di macchinari, o in generale l'occorrenza di eventi puntuali in un continuum.
-    
-6. **Approssimare la distribuzione Binomiale per eventi rari**: Come indicato nella fonte, la distribuzione di Poisson può essere usata come **approssimazione della distribuzione Binomiale quando il numero di prove $n$ è molto grande e la probabilità di successo $p$ è molto piccola**, mantenendo il prodotto $\lambda = np$ costante e di ordine 1. Questo è utile per modellare il numero di volte in cui si verifica un evento raro in un gran numero di tentativi.
-    
-7. **Gode di proprietà di chiusura rispetto alla somma**: Se abbiamo due processi di Poisson indipendenti con intensità $\lambda_1$ e $\lambda_2$, il **processo risultante dalla somma dei due (cioè il conteggio totale degli eventi) è ancora un processo di Poisson con intensità $\lambda_1 + \lambda_2$**. Questa proprietà di "riproducibilità" è molto utile nell'analisi di sistemi complessi.
-    
+ La figura seguente illustra le forze agenti sulla cassa durante il trascinamento. Il peso  è diretto verso il basso e la reazione normale  è diretta verso l’alto (perpendicolare al piano). La forza di attrito dinamico  agisce orizzontalmente all’indietro, cioè in direzione opposta al moto. La forza applicata  è inclinata di un angolo  sopra l'orizzontale, con una componente orizzontale  (verso destra, in direzione del moto) e una componente verticale  (verso l’alto).
 
-**Esempi di applicazione tratti dalle fonti:**
+Equazioni di equilibrio
 
-- Il numero di messaggi Whatsapp, email o chiamate ricevute in un certo intervallo di tempo può essere modellizzato come un processo di Poisson.
-- La probabilità che si verifichino un certo numero di incidenti in una settimana su un tratto autostradale, dato un tasso medio, può essere calcolata usando un processo di Poisson.
-- Il processo di Poisson può essere utilizzato per studiare quante volte si viene disturbati mediamente durante un periodo di studio, considerando diverse fonti di disturbo (Whatsapp, email, chiamate).
-- Il tempo di inter-arrivo degli eventi in un processo di Poisson segue una distribuzione Esponenziale, come la durata di una batteria o il tempo tra i guasti di un macchinario.
+Poiché la cassa si muove con velocità costante (moto rettilineo uniforme), l’accelerazione è nulla. Quindi la somma delle forze è zero sia lungo l’asse orizzontale sia lungo quello verticale (condizione di equilibrio dinamico). Possiamo dunque scrivere le seguenti equazioni di equilibrio:
 
-In sintesi, il **processo di Poisson è uno strumento fondamentale per modellare e analizzare fenomeni probabilistici in cui eventi si verificano in modo casuale e indipendente a un tasso medio costante nel tempo o nello spazio**. Permette di calcolare la probabilità del numero di eventi in un dato intervallo, analizzare i tempi tra gli eventi e sfruttare importanti proprietà come l'assenza di memoria e la chiusura rispetto alla somma per risolvere una vasta gamma di problemi pratici.
+Equilibrio orizzontale: la componente orizzontale di  bilancia la forza d’attrito.
+.
+
+Equilibrio verticale: la componente verticale di  più la normale bilanciano il peso.
+.
+
+
+Qui  è la forza di attrito dinamico (con  il coefficiente di attrito dinamico). Dalla seconda equazione otteniamo la forza normale:
+
+
+
+In questo caso la forza normale risulta ridotta rispetto a  perché  ha verso opposto al peso (la componente verticale di  “alleggerisce” la cassa).
+
+Sostituiamo  nella condizione di equilibrio orizzontale. Otteniamo:
+
+
+
+Adesso isoliamo . Sviluppiamo il membro destro e portiamo il termine con  al primo membro:
+
+
+
+
+
+
+
+Da cui ricaviamo  in funzione di :
+
+
+
+Questa espressione indica quanta forza  è necessaria (in modulo) per trascinare la cassa a velocità costante, al variare dell’angolo . Notiamo che  e  compaiono solo nel fattore  al numeratore, mentre la dipendenza dall’angolo è tutta nel denominatore .
+
+Angolo ottimale che minimizza 
+
+Per minimizzare , bisogna rendere massimo il denominatore  dell’espressione (1), dato che il numeratore  è costante. Determiniamo quindi l’angolo  che massimizza la quantità . Per trovare il massimo, deriviamo  rispetto a  e poniamo la derivata pari a zero:
+
+
+
+Ponendo  si ottiene:
+
+
+
+
+
+
+
+Abbiamo così la condizione ottimale per l’angolo. Nel nostro caso , quindi:
+
+
+
+L’angolo cercato è dunque:
+
+
+
+Calcolando il valore numerico, si trova:
+
+
+
+cioè circa  sopra l’orizzontale. Questo è l’angolo che minimizza il modulo di  necessario per trascinare la cassa con attrito a velocità costante. (In generale, : tale risultato dipende unicamente dal coefficiente di attrito e non dalla massa).
+
+Conclusione: per  il valore ottimale dell’angolo è , che minimizza la forza  richiesta.
