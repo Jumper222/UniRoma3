@@ -23,3 +23,8 @@ Per quantificare quante volte appare un dato si usa la <font color="#f79646">Mod
 Esistono anche i [[Percentili campionari]], molto simili ai [[Quantili gaussiani]] 
 
 Esattamente come la [[Varianza]], esiste anche la [[Varianza Campionaria]]
+
+Abbiamo anche la [[Disuguaglianza di Chebyshev Campionaria]]
+
+Infine, esiste anche la [[Deviazione Standard Campionaria]]
+
