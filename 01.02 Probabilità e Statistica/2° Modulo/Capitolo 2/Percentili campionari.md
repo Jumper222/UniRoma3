@@ -12,4 +12,6 @@ La [[Mediana Campionaria]] è sempre il 50-esimo percentile
 - Il 25° esimo percentile è detto 1° quartile
 
 ##### Box Plot
-Il Box Plot rappresenta in un campione di dati lo scarto interquartile che c’è tra i due valori 
+Il Box Plot rappresenta in un campione di dati lo scarto interquartile che c’è tra i due valori, ed anche la mediana: 
+
+![[Box Plot.png]]

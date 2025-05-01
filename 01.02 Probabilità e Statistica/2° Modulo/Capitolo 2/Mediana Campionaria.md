@@ -7,3 +7,4 @@ tags:
 >- se $n$ è dispari avremo che la mediana sarà $x_{\left(\dfrac{n+1}{2}\right)}$ ossia il valore centrale
 >- se $n$ è pari avremo che la mediana sarà $\dfrac{x_{\left(\dfrac{n}{2}\right)} + x_{\left(\dfrac{n}{2} + 1\right)}}{2}$ ossia la media dei due valori centrali
 
+La principale differenza tra mediana e [[Media Campionaria]] è che la prima è più robusta agli “outliers”.
