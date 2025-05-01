@@ -28,3 +28,5 @@ Abbiamo anche la [[Disuguaglianza di Chebyshev Campionaria]]
 
 Infine, esiste anche la [[Deviazione Standard Campionaria]]
 
+Per lo studio di un campione, ne esistono alcuni [[Campioni approssimativamente normali|approssimativamente normali]]
+
