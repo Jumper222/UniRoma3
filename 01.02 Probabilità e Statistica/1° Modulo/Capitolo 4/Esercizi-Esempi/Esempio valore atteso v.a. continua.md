@@ -12,11 +12,11 @@ Infatti il grafico è in questa forma:
 
 ![[01.02 Probabilità e Statistica/Immagini/Esempio valore atteso v.a. continua.png]]
 
-Allora calcoliamo il [[valore atteso]], ricordandoci che:
+Allora calcoliamo il [[Valore Atteso]], ricordandoci che:
 - $\frac{3}{2}$= tempo totale d’ attesa, in ore
 - $\frac{2}{3}$= possibilità che otteniamo in ogni momento la comunicazione (1/tempo totale)
 
-Il [[valore atteso]] sarà uguale a:
+Il [[Valore Atteso]] sarà uguale a:
 $$\mathbb{E}[X]=\int^ \frac{3}{2}_{0} \frac{2}{3}x\ dx=\frac{2}{3}\int^ \frac{3}{2}_{0}x\ dx=\dots=\frac{3}{4}$$
 Possiamo quindi dire che in media aspetteremo <font color="#ffff00">45</font> min $\left( \frac{3}{4} h \right)$
 
@@ -33,7 +33,7 @@ Adesso la [[Fun. di densità di Probabilità (PDF)|PDF]] assumerà un’ altra f
 
 ![[Esempio valore atteso v.a. continua 2.png]]
 
-Allora calcoliamo ancora una volta il [[valore atteso]]:
+Allora calcoliamo ancora una volta il [[Valore Atteso]]:
 
 $$\mathbb{E}[X]=\int^ \frac{3}{2}_{0} x\left( 1-\frac{16}{9} x^2-1+\frac{8}{3}x \right)dx=\dots=\frac{3}{4}$$
-<font color="#f79646">NB</font>: Esattamente come nel caso in cui aveva una retta come [[Fun. di densità di Probabilità (PDF)|PDF]], anche con una parabola il [[valore atteso]] sarà al punto centrale.
+<font color="#f79646">NB</font>: Esattamente come nel caso in cui aveva una retta come [[Fun. di densità di Probabilità (PDF)|PDF]], anche con una parabola il [[Valore Atteso]] sarà al punto centrale.

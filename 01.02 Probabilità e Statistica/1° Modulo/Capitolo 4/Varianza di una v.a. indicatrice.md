@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
->La [[varianza]] di una [[Variabili Aleatorie Indicatrici|v.a. indicatrice]] è il prodotto della probabilità dell’ evento per la probabilità dell’ evento complementare
+>La [[Varianza]] di una [[Variabili Aleatorie Indicatrici|v.a. indicatrice]] è il prodotto della probabilità dell’ evento per la probabilità dell’ evento complementare
 
 Vediamo un esempio:
 Sia $I$ la [[Variabili Aleatorie Indicatrici|v.a. indicatrice]] di un evento $E\subset \Omega\to \mathrm{Im}(I)=\{0,1\}$

@@ -18,7 +18,7 @@ aliases:
 >$$\mathbb{E}[X]=\mu$$
 >E per quanto riguarda la [[Varianza]], essa sarà
 >$$\sigma^2$$
->Questo è fantastico perché allora possiamo dire che media e [[varianza]] sono ottenibili direttamente dalla v.a: $X\sim \mathcal{N}(\mu,\sigma^2)$
+>Questo è fantastico perché allora possiamo dire che media e [[Varianza]] sono ottenibili direttamente dalla v.a: $X\sim \mathcal{N}(\mu,\sigma^2)$
 
 Esattamente come le [[Variabili Aleatorie di Poisson|v.a. di Poisson]] le Gaussiane sono riproducibili, ossia se prendiamo due [[Variabili Aleatorie|v.a.]] [[IID]]
 e poniamo $Y=aX_{1}+bX_{2}$
