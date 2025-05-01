@@ -17,3 +17,6 @@ La particolarità di un campione è che esso può essere accuratamente descritto
 L’ equivalente del [[Valore Atteso]] per le collezioni di dati è la [[Media Campionaria]]
 
 Per quanto riguarda la [[Mediana Campionaria]] invece bisogna prima ordinare i campioni.
+
+Per quantificare quante volte appare un dato si usa la <font color="#f79646">Moda Campionaria</font>
+
