@@ -18,7 +18,7 @@ L’ equivalente del [[Valore Atteso]] per le collezioni di dati è la [[Media C
 
 Per quanto riguarda la [[Mediana Campionaria]] invece bisogna prima ordinare i campioni.
 
-Per quantificare quante volte appare un dato si usa la <font color="#f79646">Moda Campionaria</font>
+Per quantificare quante volte appare un dato si usa la [[Moda Campionaria]]
 
 Esistono anche i [[Percentili campionari]], molto simili ai [[Quantili gaussiani]] 
 
@@ -29,4 +29,3 @@ Abbiamo anche la [[Disuguaglianza di Chebyshev Campionaria]]
 Infine, esiste anche la [[Deviazione Standard Campionaria]]
 
 Per lo studio di un campione, ne esistono alcuni [[Campioni approssimativamente normali|approssimativamente normali]]
-
