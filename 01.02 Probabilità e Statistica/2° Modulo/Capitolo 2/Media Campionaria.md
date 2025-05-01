@@ -12,4 +12,5 @@ Se volessimo modificare il nostro campione iniziale tramite la relazione $y_{i}=
 $$\bar{y}=a \bar{x}+b$$
 ##### Utilizzando la Freq. Relativa
 
-Se abbiamo un campione con frequenza relativa invece che assoluta, allora la formula per la media sarà
+Se abbiamo un campione con frequenza relativa invece che assoluta, allora la formula per la media sarà:
+$$\bar{x}=\sum^k_{i=1} \dfrac{f_{i}}{n}v_{i}$$

@@ -15,3 +15,5 @@ aliases:
 La particolarità di un campione è che esso può essere accuratamente descritto (ossia senza perdere informazioni) dall’ insieme dei singoli valori assunti dai dati e dalle relative frequenze.
 
 L’ equivalente del [[Valore Atteso]] per le collezioni di dati è la [[Media Campionaria]]
+
+Per quanto riguarda la [[Mediana Campionaria]] invece bisogna prima ordinare i campioni.
