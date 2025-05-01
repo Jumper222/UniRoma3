@@ -8,3 +8,8 @@ tags:
 >- Se $n \dfrac{k}{100} \notin N$ si prende l’ intero successivo,
 >- Se $n \dfrac{k}{100}\in N$  abbiamo che $$\dfrac{x_{\left(\dfrac{nk}{100}\right)} + x_{\left(\dfrac{nk}{100} + 1\right)}}{2}$$
 
+La [[Mediana Campionaria]] è sempre il 50-esimo percentile 
+- Il 25° esimo percentile è detto 1° quartile
+
+##### Box Plot
+Il Box Plot rappresenta in un campione di dati lo scarto interquartile che c’è tra i due valori 
