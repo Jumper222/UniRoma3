@@ -21,3 +21,5 @@ Per quanto riguarda la [[Mediana Campionaria]] invece bisogna prima ordinare i c
 Per quantificare quante volte appare un dato si usa la <font color="#f79646">Moda Campionaria</font>
 
 Esistono anche i [[Percentili campionari]], molto simili ai [[Quantili gaussiani]] 
+
+Esattamente come la [[Varianza]], esiste anche la [[Varianza Campionaria]]
