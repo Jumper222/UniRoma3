@@ -10,6 +10,17 @@ tags:
 >- Due dati si dicono <font color="#ffff00">correlati positivamente</font> se $r>0$
 >- Si dicono <font color="#ffff00">non correlati</font> se $r=0$
 >- Si dicono <font color="#ffff00">correlati negativamente</font> se $r<0$
+> 
 
 
-Se trasformiamo il campione bivariato $(x_{i},y_{i})$ o $$
+Se trasformiamo il campione bivariato $(x_{i},y_{i})$ in $((a+bx_{i}),(c+dy_{i}))$ con $b,d$ aventi lo stesso segno,
+Allora il loro coefficiente di correlazione non cambia.
+
+<font color="#4bacc6">Attenzione</font>! La correlazione non implica un rapporto di causa effetto
+
+##### Forza di una correlazione
+
+- Se $|r|=1$ i dati poggiano tutti su una retta
+- Se $|r|>0.8$ si ha una <font color="#f79646">correlazione intensa</font>
+- Se $|r|<0.5$ si ha una <font color="#f79646">correlazione debole</font>
+
