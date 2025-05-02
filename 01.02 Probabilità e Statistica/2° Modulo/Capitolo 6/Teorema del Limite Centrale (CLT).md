@@ -10,4 +10,4 @@ tags:
 >$$\lim_{ n \to \infty }\mathbb{P}\left(\dfrac{\sqrt{ n }}{\sigma}(\bar{X}_{n}-\mu)\leq x\right) =\Phi(x) $$
 >Ossia, è circa uguale alla [[Gaussiana Standard]] 
 
-Il succo del CLT è che per un campione sufficentemente grande 
+Il succo del CLT è che per un campione con [[Variabili Aleatorie Gaussiane|v.a. gaussiane]] sufficientemente grande, esso sarà sempre simile ad una [[Gaussiana Standard]]. 
