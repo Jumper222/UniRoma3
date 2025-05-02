@@ -26,6 +26,8 @@ Esattamente come la [[Varianza]], esiste anche la [[Varianza Campionaria]]
 
 Abbiamo anche la [[Disuguaglianza di Chebyshev Campionaria]]
 
+Potrebbe capitarci di studiare [[Insieme di Dati Bivariati]]
+
 Infine, esiste anche la [[Deviazione Standard Campionaria]]
 
 Per lo studio di un campione, ne esistono alcuni [[Campioni approssimativamente normali|approssimativamente normali]]
