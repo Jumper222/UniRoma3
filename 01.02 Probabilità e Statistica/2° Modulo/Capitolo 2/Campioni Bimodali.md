@@ -7,3 +7,4 @@ tags:
 >Questo avviene quando abbiamo una popolazione eterogenea, magari proveniente da due contesti diversi.
 >
 >![[Campioni Bimodali.png]]
+
