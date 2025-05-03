@@ -1,4 +1,11 @@
-#Probabilità_e_statistica 
+---
+tags:
+  - Probabilità_e_statistica
+aliases:
+  - Gaussiana Standard
+  - Distribuzione Normale
+---
+
 
 >[!Definizione]  Definizione  
 >Una Gaussiana Standard $Z$ è un particolare tipo di [[Variabili Aleatorie Gaussiane|v.a. Gaussiana]], è quindi [[Variabili Aleatorie discrete e continue|continua]], ed è definita:
