@@ -13,4 +13,6 @@ Denotiamo quindi con $\hat{\lambda}_{mom}=\dfrac{1}{\bar{X}}$ il risultato della
 
 Facciamo un altro esempio:
 Siano $X_{1},\dots,X_{n}$ [[Variabili Aleatorie|v.a.]] [[IID]] [[Variabili Aleatorie Uniformi|uniformi]] $Unif(0,\theta)$.
-Come prima, posso di
+Come prima, posso dire che quando $n\gg 1$, abbiamo che 
+$$\bar{X}\approx \dfrac{\theta}{2}$$
+e allora la stima in questo caso sarà $\hat{\theta}_{mom}=2\bar{X}$
