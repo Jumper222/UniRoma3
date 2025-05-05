@@ -12,4 +12,11 @@ Esistono 4 metodi per stimare $\theta$:
 ##### [[Metodo di Momenti]]
 Usiamo i momenti campionari (e la [[Legge debole dei grandi numeri|LDGN]]) per stimare i momenti teorici
 
-[[Stimatori ]]
+##### [[Stimatori di massima verosimiglianza (MLE)]]
+Produciamo una stima puntuale di $\theta$ risolvendo un problema di ottimizzazione
+
+##### [[Intervalli di confidenza]]
+Produciamo una stima di un intervallo $I\subset\mathbb{R}$ e di un valore $z\in(0,1)$ t.c. $\mathbb{P}(\theta\in I)>z$, usando il [[Teorema del Limite Centrale (CLT)|CLT]]
+
+##### [[Stimatori Bayesani]]
+Produciamo una stima puntuale per $\theta$ utilizzando oltre al campione 

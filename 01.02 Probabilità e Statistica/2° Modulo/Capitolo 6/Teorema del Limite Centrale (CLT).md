@@ -1,6 +1,8 @@
 ---
 tags:
   - Probabilità_e_statistica
+aliases:
+  - CLT
 ---
 
 >[!Definizione]  Definizione
