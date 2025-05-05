@@ -20,3 +20,5 @@ Esso, oltre ad essere uno [[Spazi vettoriali|Spazio vettoriale]] aggiunge anche 
 Le coordinate di uno spazio di riferimento vengono descritte tramite le [[Coordinate Cartesiane]] o le [[Coordinate Polari]]
 
 Le leggi fisiche non variano a seconda del [[Invarianza|punto di riferimento]].
+
+Una utile modifica allo spazio di riferimento si potrebbe avere quando andiamo a trattare un sistema con un [[Piano inclinato]]
