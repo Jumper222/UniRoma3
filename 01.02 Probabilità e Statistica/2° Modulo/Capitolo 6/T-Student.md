@@ -18,3 +18,7 @@ aliases:
 >e la [[Varianza]]:
 >$$\dfrac{m}{m-2}$$ 
 
+Per la [[Legge debole dei grandi numeri]] abbiamo che più $m$ aumenta e più T assomiglia di più a $\mathcal{N}(0,1)$
+
+In conclusione possiamo dire che:
+$$\dfrac{\sqrt{ n }}{S}(\bar{X}-\mu)s$$
