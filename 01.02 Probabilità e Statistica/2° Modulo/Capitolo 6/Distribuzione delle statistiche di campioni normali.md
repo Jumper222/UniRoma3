@@ -7,3 +7,4 @@ La [[Media Campionaria]] sarà t.c:
 $$\bar{X}\sim\mathcal{N}\left( \mu, \dfrac{\sigma^2}{n}\right)$$
 E invece la [[Varianza Campionaria]]:
 $$\dfrac{n-1}{\sigma^2}S^2\sim\mathcal{X}^2_{n-1}$$
+Qui torna [[Chi Quadro]]
