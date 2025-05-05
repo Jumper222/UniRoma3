@@ -19,4 +19,4 @@ Produciamo una stima puntuale di $\theta$ risolvendo un problema di ottimizzazio
 Produciamo una stima di un intervallo $I\subset\mathbb{R}$ e di un valore $z\in(0,1)$ t.c. $\mathbb{P}(\theta\in I)>z$, usando il [[Teorema del Limite Centrale (CLT)|CLT]]
 
 ##### [[Stimatori Bayesani]]
-Produciamo una stima puntuale per $\theta$ utilizzando oltre al campione 
+Produciamo una stima puntuale per $\theta$ utilizzando oltre al [[Campione Aleatorio]] $X_{1},\dots,X_{n}$ anche informazioni aggiuntive su $\theta$ a prori
