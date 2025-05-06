@@ -14,3 +14,11 @@ $$L(\theta)=\prod^n_{i=1}\lambda e^{-\lambda x_{i}}$$
 Quindi usiamo il suo $\log$, e poi deriviamo.
 Allora calcoliamo il massimo:
 $$\dfrac{d\ln L(\theta)}{dt}$$
+Facciamo un esempio:
+
+Sia $(x_{1},\dots,x_{n})$ un [[Campione Aleatorio]] [[IID]] di [[Variabili Aleatorie di Bernoulli|bernoulliane]] $Bern(p)$
+Allora per l’MLE di p dovremmo:
+$$f(x_{1},\dots,x_{n}|p)=p^{\sum^n_{i=1}x_{i}}(1-p)^{n-\sum ^n_{i=1}x_{i}}$$
+Questa è la [[Fun. di Ripartizione (CDF)|CDF]] del campione aleatorio, ora applichiamo $\ln$:
+$$\ln f(x_{1},\dots,x_{n}|p)=\left( \sum^n_{i=1}x_{i} \right)\ln(p)+\left( n-\sum^n_{i=1}x_{i} \right)\ln(1-p)$$
+Ora deriviamo:
