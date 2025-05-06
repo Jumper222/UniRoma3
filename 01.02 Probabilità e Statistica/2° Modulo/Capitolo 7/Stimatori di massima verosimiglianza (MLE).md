@@ -22,3 +22,6 @@ $$f(x_{1},\dots,x_{n}|p)=p^{\sum^n_{i=1}x_{i}}(1-p)^{n-\sum ^n_{i=1}x_{i}}$$
 Questa è la [[Fun. di Ripartizione (CDF)|CDF]] del campione aleatorio, ora applichiamo $\ln$:
 $$\ln f(x_{1},\dots,x_{n}|p)=\left( \sum^n_{i=1}x_{i} \right)\ln(p)+\left( n-\sum^n_{i=1}x_{i} \right)\ln(1-p)$$
 Ora deriviamo:
+$$\dfrac{d}{dp}\ln f(x_{1},\dots,x_{n}|p)=\dfrac{1}{p}\sum^n_{i=1}x_{i}-\dfrac{1}{1-p}\left( n-\sum^n_{i=1}x_{i} \right)$$
+Ora lo poniamo uguale a $0$, e adesso ricordandoci che $p\in(0,1)$
+$$\dfrac{1}{p}\sum^n_{i=1}x_{i}-\dfrac{1}{1-p}\left( n-\sum^n_{i=1}x_{i} \right)=0$$
