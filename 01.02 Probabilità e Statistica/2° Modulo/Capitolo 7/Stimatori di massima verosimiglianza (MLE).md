@@ -29,5 +29,5 @@ E infine
 
 ![[Esempio MLE Bernoulli.png]]
 
-Possiamo allora dire che per una [[Variabili Aleatorie di Bernoulli|bernoulliana]] il MLE sarà uguale a $\bar{x}$, in notazione scrivamo:
+Possiamo allora dire che per una [[Variabili Aleatorie di Bernoulli|bernoulliana]] il MLE sarà uguale a $\bar{x}$, in notazione scriviamo:
 $$\hat{p}_{MLE}=\bar{x}$$

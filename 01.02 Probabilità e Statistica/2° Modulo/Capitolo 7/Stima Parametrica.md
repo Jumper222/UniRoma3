@@ -7,7 +7,7 @@ Abbiamo un [[Campione Aleatorio]] [[IID]] con [[Fun. di Ripartizione (CDF)|CDF]]
 Il nostro obiettivo è stimare $\theta$.
 
 Esistono 4 metodi per stimare $\theta$:
-
+Dobbiamo sapere anche quando stiamo stimando abbastanza con la [[Statistica sufficiente]]
 
 ##### [[Metodo di Momenti]]
 Usiamo i momenti campionari (e la [[Legge debole dei grandi numeri|LDGN]]) per stimare i momenti teorici
