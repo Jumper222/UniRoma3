@@ -25,3 +25,9 @@ Ora deriviamo:
 $$\dfrac{d}{dp}\ln f(x_{1},\dots,x_{n}|p)=\dfrac{1}{p}\sum^n_{i=1}x_{i}-\dfrac{1}{1-p}\left( n-\sum^n_{i=1}x_{i} \right)$$
 Ora lo poniamo uguale a $0$, e adesso ricordandoci che $p\in(0,1)$
 $$\dfrac{1}{p}\sum^n_{i=1}x_{i}-\dfrac{1}{1-p}\left( n-\sum^n_{i=1}x_{i} \right)=0$$
+E infine
+
+![[Esempio MLE Bernoulli.png]]
+
+Possiamo allora dire che per una [[Variabili Aleatorie di Bernoulli|bernoulliana]] il MLE sarà uguale a $\bar{x}$, in notazione scrivamo:
+$$\hat{p}_{MLE}=\bar{x}$$
