@@ -12,5 +12,5 @@ Qui usiamo una produttoria proprio perché le [[Variabili Aleatorie|v.a.]] sono 
 Allora creiamo la funzione di likelyhood:
 $$L(\theta)=\prod^n_{i=1}\lambda e^{-\lambda x_{i}}$$
 Quindi usiamo il suo $\log$, e poi deriviamo.
-Allora calcoliamo il massimo,
-$\dfrac{d\ln L(\theta)}{dt}$
+Allora calcoliamo il massimo:
+$$\dfrac{d\ln L(\theta)}{dt}$$
