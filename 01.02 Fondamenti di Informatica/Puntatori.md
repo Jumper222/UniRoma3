@@ -31,4 +31,6 @@ printf("Abbiamo il valore: %d", *PuntatoreIntero);
 ```
 
 Questo speciale operatore però è utilizzabile solo con le variabili di tipo puntatore.
-Adesso inoltre
+Adesso inoltre possiamo dire che le due variabili <font color="#4bacc6">Intero</font> e <font color="#4bacc6">PuntatoreIntero</font> sono equivalenti.
+
+Questi sono tutti esempi di puntatori con un tipo, però possiamo anche usare [[Puntatori Generici]]
