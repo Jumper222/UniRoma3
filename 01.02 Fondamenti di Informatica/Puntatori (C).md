@@ -18,7 +18,17 @@ PuntatoreIntero = &Intero;
 ```
 
 In questo caso abbiamo <font color="#4bacc6">PuntatoreIntero</font> che viene dichiarato come puntatore di interi (riga 1)
-Poi Intero viene dichiarato 
-cosi che se facciamo un <font color="#ffc000">printf</font>() con <font color="#4bacc6">*PuntatoreIntero</font> ci esca 20.
+Poi <font color="#4bacc6">Intero</font> viene dichiarato come intero con valore = 20 (riga 2)
+Infine assegniamo a <font color="#4bacc6">PuntatoreIntero</font> l’ indirizzo di <font color="#4bacc6">Intero</font>, questo avviene grazie all’ operatore &, che si occupa di dare il valore dell’ indirizzo di memoria della variabile invece del suo valore.
 
-Il motivo per cui usiamo 
+
+Ora però dentro a <font color="#4bacc6">PuntatoreIntero</font> abbiamo soltanto un indirizzo, e questo non ci è molto utile al momento, infatti se volessimo ottenere il valore di <font color="#4bacc6">Intero</font> da <font color="#4bacc6">PuntatoreIntero</font> dovremmo usare l’ <font color="#f79646">Operatore di Indirezione (*)</font>
+
+Allora adesso possiamo fare:
+
+```C
+printf("Abbiamo il valore: %d", *PuntatoreIntero);
+```
+
+Questo speciale operatore però è utilizzabile solo con le variabili di tipo puntatore.
+Adesso inoltre
