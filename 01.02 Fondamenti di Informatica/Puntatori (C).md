@@ -14,7 +14,11 @@ Quindi ad esempio per un puntatore ad un intero:
 ```c
 int *PuntatoreIntero;
 int Intero=20;
-PuntatoreIntero = &Interno;
+PuntatoreIntero = &Intero;
 ```
 
-Questa è una variabile che ha dentro di se l’ in
+In questo caso abbiamo <font color="#4bacc6">PuntatoreIntero</font> che viene dichiarato come puntatore di interi (riga 1)
+Poi Intero viene dichiarato 
+cosi che se facciamo un <font color="#ffc000">printf</font>() con <font color="#4bacc6">*PuntatoreIntero</font> ci esca 20.
+
+Il motivo per cui usiamo 
