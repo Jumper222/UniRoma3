@@ -34,3 +34,12 @@ Questo speciale operatore però è utilizzabile solo con le variabili di tipo pu
 Adesso inoltre possiamo dire che le due variabili <font color="#4bacc6">Intero</font> e <font color="#4bacc6">PuntatoreIntero</font> sono equivalenti.
 
 Questi sono tutti esempi di puntatori con un tipo, però possiamo anche usare [[Puntatori Generici]]
+
+##### Puntatori selvaggi e pendenti
+
+Questi due tipi di puntatori sono potenzialmente dannosi, in quanto imprevedibili (Puntano ad aree di RAM non allocate, quindi potenzialmente usate da altri software.)
+
+I puntatori che sono stati dichiarati ma non inizializzati si dicono <font color="#ffff00">Wild Pointers</font> (<font color="#9bbb59">Selvaggi</font>)
+
+I puntatori che puntano ad una area di memoria senza valori utili al programma si chiama <font color="#ffff00">Dangling Pointer</font>(<font color="#9bbb59">Pendenti</font>),
+Si hanno quando creiamo dei <font color="#c4bd97">puntatori</font> a variabili dentro una <font color="#f79646">funzione</font>, che poi una volta finita <font color="#4bacc6">dealloca</font> tutta la memoria delle variabili dichiarate al suo interno, tra cui quella a cui stiamo puntando

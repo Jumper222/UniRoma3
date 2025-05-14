@@ -24,4 +24,4 @@ int *intero;                // Dichiariamo un secondo puntatore, di interi
 intero = (int *) generico;  
 ```
 
-Nella 5° riga quel che stiamo facendo è prima convertire il valore di <font color="#4bacc6">generico</font> (l’ <font color="#9bbb59">indirizzo</font> di <font color="#4bacc6">a</font>) in un puntatore intero, poi lo stiamo trasferendo dentro intero.
+Nella quinta riga facciamo il cast del puntatore generico da <font color="#c4bd97">void</font> a <font color="#c4bd97">int</font>, quindi assegniamo quell’indirizzo al puntatore intero.
