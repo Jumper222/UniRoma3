@@ -11,4 +11,13 @@ num = &x;
 ```
 <font color="#ff0000">!!!</font> *In questo caso il programma darà errore*
 
-è da notare come la dichiarazione di un puntatore non allochi spazio 
+è da notare come la dichiarazione di un puntatore non allochi spazio per un array, in caso fosse aggiunto dopo:
+```C
+char stringa1[] = "ciao"; // è una stringa che alloca esattamente lo spazio di ciao
+char* stringa2 = "wewe";  // è un puntatore che punta a 'wewe'
+
+char* stringa3;           // è un semplice puntatore di char
+fgets(stringa3,50,stdin); 
+```
+
+Nella 5° riga stiamo cercando di mettere 50 char dove punta il puntatore, però non sappiamo ne dove punta, ne cosa c’è in queste 50 celle di memoria.
