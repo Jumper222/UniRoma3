@@ -32,6 +32,8 @@ Adesso inoltre possiamo dire che le due variabili <font color="#4bacc6">Intero</
 
 Questi sono tutti esempi di puntatori con un tipo, però possiamo anche usare [[Puntatori Generici]]
 
+Un comune uso dei puntatori è riguardante gli [[Puntatori ed Array]]
+
 ##### Puntatori <font color="#9bbb59">selvaggi</font> e <font color="#9bbb59">pendenti</font>
 
 Questi due tipi di puntatori sono potenzialmente dannosi, in quanto imprevedibili (Puntano ad aree di RAM non allocate, quindi potenzialmente usate da altri software.) 
@@ -41,3 +43,4 @@ In particolare ogni volta che dichiariamo un puntatore è <font color="#d99694">
 
 I puntatori che puntano ad una area di memoria senza valori utili al programma si chiama <font color="#ffff00">Dangling Pointer</font>(<font color="#9bbb59">Pendenti</font>),
 Si hanno quando creiamo dei <font color="#c4bd97">puntatori</font> a variabili dentro una <font color="#f79646">funzione</font>, che poi una volta finita <font color="#4bacc6">dealloca</font> tutta la memoria delle variabili dichiarate al suo interno, tra cui quella a cui stiamo puntando
+
