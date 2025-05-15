@@ -9,5 +9,6 @@ int x;
 int num[3] = {1,4,5};
 num = &x; 
 ```
-*In questo caso il programma darà errore*
+<font color="#ff0000">!!!</font> *In questo caso il programma darà errore*
 
+è da notare come la dichiarazione di un puntatore non allochi spazio 
