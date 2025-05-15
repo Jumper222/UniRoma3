@@ -19,7 +19,7 @@ int Intero=20;        // Inizializziamo un intero con valore = 20
 Puntatore = &Intero;  // Assegniamo a Puntatore l' indirizzo della variabile Intero
 ```
 
-Ora però dentro a <font color="#4bacc6">PuntatoreIntero</font> abbiamo soltanto un indirizzo, e questo non ci è molto utile al momento, infatti se volessimo ottenere il valore di <font color="#4bacc6">Intero</font> da <font color="#4bacc6">PuntatoreIntero</font> dovremmo usare l’ <font color="#f79646">Operatore di Indirezione (*)</font>
+Ora però dentro a <font color="#4bacc6">Puntatore</font> abbiamo soltanto un indirizzo, e questo non ci è molto utile al momento, infatti se volessimo ottenere il valore di <font color="#4bacc6">Intero</font> da <font color="#4bacc6">Puntatore</font> dovremmo usare l’<font color="#f79646">Operatore di Indirezione (*)</font>
 
 Allora adesso possiamo fare:
 
@@ -32,7 +32,7 @@ Adesso inoltre possiamo dire che le due variabili <font color="#4bacc6">Intero</
 
 Questi sono tutti esempi di puntatori con un tipo, però possiamo anche usare [[Puntatori Generici]]
 
-##### Puntatori selvaggi e pendenti
+##### Puntatori <font color="#9bbb59">selvaggi</font> e <font color="#9bbb59">pendenti</font>
 
 Questi due tipi di puntatori sono potenzialmente dannosi, in quanto imprevedibili (Puntano ad aree di RAM non allocate, quindi potenzialmente usate da altri software.) 
 
