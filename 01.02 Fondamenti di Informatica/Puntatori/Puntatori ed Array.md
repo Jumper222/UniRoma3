@@ -20,4 +20,4 @@ char* stringa3;           // è un semplice puntatore di char
 fgets(stringa3,50,stdin); 
 ```
 
-Nella 5° riga stiamo cercando di mettere 50 char dove punta il puntatore, però non sappiamo ne dove punta, ne cosa c’è in queste 50 celle di memoria.
+Nella 5° riga stiamo cercando di mettere 50 <font color="#c4bd97">char</font> dove punta il puntatore, però non sappiamo ne dove <font color="#9bbb59">punta</font>, ne cosa c’è in queste 50 celle di memoria.
