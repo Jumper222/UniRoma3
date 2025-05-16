@@ -11,11 +11,30 @@ Le modifiche ai <font color="#9bbb59">parametri</font> formali non hanno effetto
 
 Un esempio:
 ```C
-void raddoppiatore(int y){
-	y = y*2;
+int raddoppiatore(int y){
+	return y*2;
 }
 
 int main(){
 	int x = 7;
+	x = raddoppiatore(x);
+	printf("Ecco il doppio di 7: %d",x);
+}
+```
+
+
+##### Passaggio parametri per riferimento
+
+Quando passiamo dei <font color="#9bbb59">parametri</font> per riferimento stiamo passando direttamente le <font color="#4bacc6">aree di memoria</font> delle variabili, cosi che un effetto all’ interno della <font color="#f79646">funzione</font> agisca anche all’ infuori.
+
+```C
+void raddoppiatore(int *x){
+	*x = *x *2;
+}
+
+int main(){
+	int x = 7;
+	raddoppiatore(&x);
+	printf("Ecco il doppio di 7: %d",x);
 }
 ```
