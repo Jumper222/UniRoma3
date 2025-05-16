@@ -8,7 +8,10 @@ L’ utilità di questo si ha quando andiamo a lavorare con [[Puntatori ed Array
 
 ```C
 int num[3] = {1,3,7};
-int *punta = num;                       // assegniamo 
-printf("punta vale: %d", puntatore);    // Printa 1
-printf("punta+1 vale: %d", puntatore+1);// Printa 3
+int *punta = num;                        // Assegniamo a punta il primo indirizzo
+printf("punta vale: %d", puntatore);     // Printa 1
+printf("punta+1 vale: %d", puntatore+1); // Printa 3
 ```
+
+In questo caso se poniamo che il primo elemento del puntatore risiede a <font color="#8064a2">0x2236</font>, allora nella 4° riga staremo puntando:
+$punta+1=2236+(1*4)=2240$
