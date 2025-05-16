@@ -25,7 +25,7 @@ int main(){
 
 ##### Passaggio parametri per riferimento
 
-Quando passiamo dei <font color="#9bbb59">parametri</font> per riferimento stiamo passando direttamente le <font color="#4bacc6">aree di memoria</font> delle variabili, cosi che un effetto all’ interno della <font color="#f79646">funzione</font> agisca anche all’ infuori.
+Quando passiamo dei <font color="#9bbb59">parametri</font> per riferimento stiamo passando direttamente le <font color="#4bacc6">aree di memoria</font>, ossia i [[Puntatori]] delle variabili, cosi che un effetto all’ interno della <font color="#f79646">funzione</font> agisca anche all’ infuori.
 
 ```C
 void raddoppiatore(int *x){
@@ -38,3 +38,6 @@ int main(){
 	printf("Ecco il doppio di 7: %d",x);
 }
 ```
+
+<font color="#ff0000">!!!</font> Ricordiamoci sempre che gli array possono essere passati solo per riferimento.
+
