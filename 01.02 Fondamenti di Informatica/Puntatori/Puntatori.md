@@ -32,7 +32,10 @@ Adesso inoltre possiamo dire che le due variabili <font color="#4bacc6">Intero</
 
 Questi sono tutti esempi di puntatori con un tipo, però possiamo anche usare [[Puntatori Generici]]
 
-Un comune uso dei puntatori è riguardante gli [[Puntatori ed Array]]
+Un comune uso dei puntatori è riguardante i [[Puntatori ed Array]]
+
+
+
 
 ##### Puntatori <font color="#9bbb59">selvaggi</font> e <font color="#9bbb59">pendenti</font>
 

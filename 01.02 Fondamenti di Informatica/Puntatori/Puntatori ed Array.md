@@ -25,13 +25,13 @@ Nella 5° riga stiamo cercando di mettere 50 <font color="#c4bd97">char</font> d
 
 ##### Definire un array usando puntatori
 
-Come abbiamo visto in precedenza, possiamo creare un puntatore al primo elemento di un array,
-E allora, se aggiungessimo $+x$ al valore del puntatore, ci sposteremmo di $x$ posizioni avanti.
+Come abbiamo visto in precedenza, possiamo creare un <font color="#c4bd97">puntatore</font> al primo elemento di un array,
+E allora, se aggiungessimo $+x$ al valore del <font color="#c4bd97">puntatore</font>, ci sposteremmo di $x$ posizioni avanti.
 
 ```C
-int array[3] = {1,3,7};
-int *puntatore
-puntatore = array;     // Se facessimo printf del *puntatore riceveremmo 1
-*(array+2) = 4;        // Abbiamo modificato il 3° valore da 7 a 4.
-
+int array[3] = {1,3,7};  // Inizializziamo un array
+int *puntatore           // Dichiariamo il puntatore
+puntatore = array;       // Se facessimo printf del *puntatore riceveremmo 1
+*(array+2) = 4;          // Abbiamo modificato il 3° valore dell' array da 7 a 4.
 ```
+
