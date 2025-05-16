@@ -35,3 +35,12 @@ puntatore = array;       // Se facessimo printf del *puntatore riceveremmo 1
 *(array+2) = 4;          // Abbiamo modificato il 3° valore dell' array da 7 a 4.
 ```
 
+<font color="#ff0000">!!!</font> Ricordiamoci sempre che gli array possono essere passati solo per riferimento, ed avremo 3 opzioni:
+
+```C
+Opzione 1: tipo fun(tipo nome[], int lunghezza);
+Opzione 2: tipo fun(tipo nome[lunghezza]);
+Opzione 3: tipo fun(tipo *nome, int lunghezza); 
+```
+
+Nel 3° caso la variabile nome decade da array a puntatore di interi.

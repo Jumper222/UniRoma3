@@ -39,5 +39,3 @@ int main(){
 }
 ```
 
-<font color="#ff0000">!!!</font> Ricordiamoci sempre che gli array possono essere passati solo per riferimento.
-
