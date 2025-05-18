@@ -1,12 +1,12 @@
-La funzione <font color="#ffc000">malloc()</font> ci permette di aggiungere <font color="#c0504d">byte</font> di memoria all’ [[Heap]] del programma, fa parte della libreria stdlib.h.
+La funzione <font color="#f79646">malloc()</font> ci permette di aggiungere <font color="#c0504d">byte</font> di memoria all’ [[Heap]] del programma, fa parte della libreria stdlib.h.
 
-<font color="#ffc000">malloc()</font> restituisce un [[Puntatori Generici|puntatore generico]] all’ area di memoria creata, che quindi andrà convertito in un tipo specifico per poi essere utilizzato.
+<font color="#f79646">malloc()</font> restituisce un [[Puntatori Generici|puntatore generico]] all’ area di memoria creata, che quindi andrà convertito in un tipo specifico per poi essere utilizzato.
 
-Se l’ esecuzione non dovesse andare a buon fine, (succede quando non rimane abbastanza RAM libera) <font color="#ffc000">malloc()</font> restituisce <font color="#b2a2c7">NULL</font>.
-- è buona norma fare un check per <font color="#b2a2c7">NULL</font> ogni volta che si usa <font color="#ffc000">malloc()</font>,
+Se l’ esecuzione non dovesse andare a buon fine, (succede quando non rimane abbastanza RAM libera) <font color="#f79646">malloc()</font> restituisce <font color="#b2a2c7">NULL</font>.
+- è buona norma fare un check per <font color="#b2a2c7">NULL</font> ogni volta che si usa <font color="#f79646">malloc()</font>,
 - invocare un [[free()]] quando la memoria non ci è più utile.
 
-Vediamo ora un esempio di <font color="#ffc000">malloc()</font>:
+Vediamo ora un esempio di <font color="#f79646">malloc()</font>:
 
 ```C
 int main(){
