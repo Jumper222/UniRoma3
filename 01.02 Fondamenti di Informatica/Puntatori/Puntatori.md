@@ -1,8 +1,6 @@
 ---
 tags:
   - Fondamenti_di_Informatica
-share_link: https://share.note.sx/4m9knno2#U/IKk4DcIVJaFYKfCugnDXOY2uAt40bh89hfZpbd7PE
-share_updated: 2025-05-14T18:29:29+02:00
 ---
 Un puntatore è un particolare tipo di <font color="#9bbb59">variabile</font>, dentro al quale viene salvato l’ indirizzo di memoria di un’ altra <font color="#9bbb59">variabile</font>.
 

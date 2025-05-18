@@ -1,8 +1,6 @@
 ---
 tags:
   - Fondamenti_di_Informatica
-share_link: https://share.note.sx/qweww9pq#GwHW16G11kUclstbL7iT1iXHIwbEvnQtfsKsb1swWPg
-share_updated: 2025-05-14T18:30:55+02:00
 ---
 A differenza di un puntatore con un tipo, i <font color="#ffff00">puntatori</font> generici non possono accedere al valore della variabile indicata, alcune funzioni come <font color="#f79646">malloc()</font> ne fanno uso.
 
