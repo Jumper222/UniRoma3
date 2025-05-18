@@ -1,3 +1,8 @@
+---
+tags:
+  - Fondamenti_di_Informatica
+---
+
 La funzione <font color="#f79646">calloc()</font> è stretta parente di [[malloc()]], appartiene alla libreria stdlib.h, e ci permette di allocare una parte di memoria all’ [[Heap]] del programma, inizializzando tutti gli indirizzi a 0.
 In input <font color="#f79646">calloc()</font> prende due parametri: il numero di elementi da allocare nell’ [[Heap]], e la loro dimensione.
 

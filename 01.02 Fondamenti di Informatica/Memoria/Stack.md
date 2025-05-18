@@ -1,3 +1,8 @@
+---
+tags:
+  - Fondamenti_di_Informatica
+---
+
 Lo <font color="#ffff00">stack</font> è una “pila”, che tiene conto di tutti i “record di attivazione” delle <font color="#f79646">funzioni</font>, ossia dei blocchi di memoria che tengono conto dei dati necessari all’ esecuzione e attivazione di una funzione, tra cui le variabili locali.
 
 Questo <font color="#ffff00">stack</font> tiene dentro di se ogni funzione “attiva”, ossia una funzione invocata ma non ancora terminata.

@@ -1,3 +1,7 @@
+---
+tags:
+  - Fondamenti_di_Informatica
+---
 La funzione <font color="#f79646">malloc()</font> ci permette di aggiungere <font color="#c0504d">byte</font> di memoria all’ [[Heap]] del programma, fa parte della libreria stdlib.h.
 
 <font color="#f79646">malloc()</font> restituisce un [[Puntatori Generici|puntatore generico]] all’ area di memoria creata, che quindi andrà convertito in un tipo specifico per poi essere utilizzato.
