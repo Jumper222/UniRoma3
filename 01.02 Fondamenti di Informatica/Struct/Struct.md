@@ -9,9 +9,9 @@ Si definiscono:
 
 ```C
 struct Punto {  // Definiamo la struct, chiamandola Punto
-	float x; 
-	float y; 
+	float x;    // Aggiungiamo dentro la struct una variabile float "x"
+	float y;    // facciamo lo stesso, per "y"
 }
 
-struct Punto p;
+struct Punto p; // definiamo una variabile di tipo Punto chiamata p.
 ```
