@@ -22,7 +22,11 @@ p.y = 4.1;  // accediamo al campo y
 
 è possibile passare struct come parametri di una funzione:
 ```C
-float distanza(struct Punto p1, struct Punto p2) {
-
+float distanza(struct Punto p1, struct Punto p2) { // Dichiaro la funzione
+	//...
 }
+
+distanza(p1,p2); // invoco la funzione
 ```
+
+Per poter modificare i valori dei campi di una struct fuori da una funzione lavoriamo con [[Struct e Puntatori]]
