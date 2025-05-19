@@ -14,4 +14,15 @@ struct Punto {  // Definiamo la struct, chiamandola Punto
 }
 
 struct Punto p; // definiamo una variabile di tipo Punto chiamata p.
+
+p.x = 4,2;  // accediamo al campo x
+p.y = 4.1;  // accediamo al campo y
+
+```
+
+è possibile passare struct come parametri di una funzione:
+```C
+float distanza(struct Punto p1, struct Punto p2) {
+
+}
 ```
