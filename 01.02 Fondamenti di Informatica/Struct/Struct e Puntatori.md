@@ -22,4 +22,12 @@ int main() {
 }
 ```
 
-Esiste però un operatore per accedere 
+Esiste però un operatore per accedere ai campi di una struct attraverso un puntatore più semplice: →
+In questo caso avremmo scritto:
+
+```C
+void modificaCoordinate(struct Punto *puntaP) {
+	puntaP->x=1;
+	puntaP->y=1;
+}
+```

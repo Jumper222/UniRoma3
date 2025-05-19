@@ -3,7 +3,7 @@ tags:
   - Fondamenti_di_Informatica
 ---
 Una <font color="#ffff00">Struct</font> in C è un tipo di variabile composta definita dal programmatore.
-Esse si dicono composte perché al loro interno posso esserci più variabili, anche di tipi diversi, accessibili singolarmente, memorizzate in un unico blocco di memoria.
+Esse si dicono composte perché al loro interno posso esserci più variabili, struct o array, anche di tipi diversi, accessibili singolarmente, memorizzate in un unico blocco di memoria.
 
 Si definiscono:
 
@@ -21,6 +21,7 @@ p.y = 4.1;  // accediamo al campo y
 ```
 
 è possibile passare struct come parametri di una funzione:
+
 ```C
 float distanza(struct Punto p1, struct Punto p2) { // Dichiaro la funzione
 	//...
