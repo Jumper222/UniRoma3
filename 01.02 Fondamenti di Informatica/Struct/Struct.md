@@ -4,6 +4,7 @@ tags:
 ---
 Una <font color="#ffff00">Struct</font> in C è un tipo di variabile composta definita dal programmatore.
 Esse si dicono composte perché al loro interno posso esserci più variabili, struct o array, anche di tipi diversi, accessibili singolarmente, memorizzate in un unico blocco di memoria.
+Si possono inoltre creare array di strutture.
 
 Si definiscono:
 
@@ -41,10 +42,7 @@ struct Persona {
 
 struct Persona  {
 	char *nome;
-}
-
-int main() {
-	struct Persona p,
-	p.nome = "Pietro"
-}                      
+}             
 ```
+
+Per non dover sempre usare struct nomeStruct, usiamo [[Typedef]]
