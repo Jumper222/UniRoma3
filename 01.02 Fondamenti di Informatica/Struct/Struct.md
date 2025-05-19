@@ -31,3 +31,20 @@ distanza(p1,p2); // invoco la funzione
 ```
 
 Per poter modificare i valori dei campi di una struct fuori da una funzione lavoriamo con [[Struct e Puntatori]]
+
+Quando dichiariamo un array dentro una struct con una grandezza fissa, viene occupata RAM per tutta la grandezza di quell’ array, quindi si preferisce definirlo come indirizzo:
+
+```C
+struct Persona {
+	char nome[30];   // Metodo con array, poco efficente
+}
+
+struct Persona  {
+	char *nome;
+}
+
+int main() {
+	struct Persona p,
+	p.nome = "Pietro"
+}                      
+```
