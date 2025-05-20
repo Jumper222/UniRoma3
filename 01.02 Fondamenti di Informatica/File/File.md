@@ -3,9 +3,9 @@ tags:
   - Fondamenti_di_Informatica
 ---
 
-In C i <font color="#ffc000">File</font> sono gestiti tramite [[Puntatori]], usando la libreria stdlio.h.
+In C i <font color="#ffc000">File</font> sono gestiti tramite [[Puntatori]] e [[Funzioni per i File]] usando la libreria stdlio.h.
 
-Li possiamo vedere come flussi di caratteri, parole o linee, e per interagirvi avremo bisogno di un [[Puntatori|puntatore]] a file, esso
+Li possiamo vedere come flussi di caratteri, parole o linee, e per interagirvi avremo bisogno di un [[Puntatori|puntatore]] a file, esso rappresenta la posizione all’ interno del <font color="#ffc000">File</font> in cui stanno avvenendo le modifiche, si <font color="#00b0f0">aggiorna automaticamente</font> quando andiamo a scrivere qualcosa o ad eliminarla.
 
 Sono divisi in 2 tipi, <font color="#ffc000">Testo</font> e <font color="#ffc000">Binari</font>.
 
