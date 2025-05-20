@@ -4,9 +4,10 @@ tags:
 ---
 
 Per poter gestire i [[File]] in C usiamo varie funzioni, tra cui:
-- [[fopen()]] per aprire i [[File]],
-- [[fclose()]] per chiudere i [[File]],
-- [[fprintf()]] per scrivere nel [[File]],
-- [[fputs()]] e [[fputc()]] per scrivere stringhe o caratteri nel [[File]],
+- [[fopen()]] per aprire i file
+- [[fclose()]] per chiudere i file
+- [[fprintf()]] per scrivere nei file
+- [[fputs()]] e [[fputc()]] per scrivere stringhe o caratteri nel file
 - [[fscanf()]] per leggere sequenze di caratteri 
+- [[fgets()]] e  [[fgetc()]] per leggere stringhe o caratteri nel file
 - 
