@@ -1,0 +1,1 @@
+Le funzioni <font color="#ffc000">fgets()</font> e <font color="#ffc000">fgetc()</font> 
