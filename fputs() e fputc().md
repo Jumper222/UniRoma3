@@ -1,1 +1,1 @@
-fputs() ed fputc()
+fputs() ed fputc() sono funzioni molto simili, che servono per scrivere stringhe o caratteri nel file
