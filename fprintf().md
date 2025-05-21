@@ -6,5 +6,7 @@ Ci permette di scrivere sequenze di caratteri in un file, prende in input il pun
 restituisce il numero di caratteri scritti.
 
 ```C
-FILE *fp = fopen("scrittura.txt", "w")
+FILE *fp = fopen("scrittura.txt", "w");
+	fprintf(fp, "Espresso macchiato");
 ```
+
