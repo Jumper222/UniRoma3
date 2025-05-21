@@ -18,8 +18,10 @@ fgets(buffer, 20, fp);
 
 ##### fgetc()
 
-prende in input il puntatore al <font color="#9bbb59">file</font> dal qualche vogliamo leggere un <font color="#4f81bd">char</font>,
+prende in input il puntatore al <font color="#9bbb59">file</font> dal qualche vogliamo leggere un <font color="#4f81bd">char</font>, restituisce il carattere letto.
 
 ```C
-
+FILE *fp = fopen("scrittura.txt, "r");
+char c;
+c = fgetc(fp);
 ```
