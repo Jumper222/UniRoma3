@@ -15,5 +15,10 @@ Il metodo di [[Stima Parametrica]] usando gli Stimatori Bayesani si basa sull’
 > Le 2 <font color="#9bbb59">Loss Function</font> più importanti sono:
 > - <font color="#4f81bd">Quadratica</font>:
 >	Cerco la media della distribuzione a posteriori, è quella che si usa la maggior parte delle volte.
->	$$\hat{\theta}_{bayes}=\int \theta$$
+>	$$\hat{\theta}_{bayes}=\int \theta \left(\prod^n_{i=1}f(x_{i}|\theta)\right)\pi(\theta)$$
+>- <font color="#4f81bd">Linex(c)</font> (<font color="#9bbb59">Linear Exponential</font>):
+>	è utile se vogliamo una stima più conservativa, infatti tenderà ad essere sempre sotto la media di $\theta$, prende in input un parametro $c>0$.
+>	$$-\dfrac{1}{c}lg\ \mathbb{E}[e^{-cY}]$$
+>	Dove $Y$ è la distribuzione a posteriori.
+>	
 
