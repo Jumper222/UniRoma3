@@ -2,8 +2,7 @@
 tags:
   - Probabilità_e_statistica
 ---
-Il Metodo dei Momenti per la [[Stima Parametrica]] si tratta di studiare i momenti di una [[Variabili Aleatorie|v.a.]], 
-Facciamo un esempio:
+Il Metodo dei Momenti per la [[Stima Parametrica]] si tratta di studiare i momenti di una [[Variabili Aleatorie|v.a.]], cercando il valore atteso, ossia il momento primo.
 
 Siano $X_{1},\dots,X_{n}$ [[Variabili Aleatorie|v.a.]] [[IID]] [[Variabili Aleatorie Esponenziali|Esponenziali]] $Exp(\lambda)$ e $\lambda$ è incognito.
 
