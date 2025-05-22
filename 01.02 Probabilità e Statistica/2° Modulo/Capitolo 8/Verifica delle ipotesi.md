@@ -11,3 +11,5 @@ In quelle composte invece $H_{0}$ assume un range di valori, ad esempio $H_{0}:\
 
 Una nota per le $H_{0}$ semplici:
 Se so a priori che $H_{0}$ sia vera, ed ho varianza e tipo di distribuzione, allora posso subito conoscere anche il valore medio.
+
+Una  $H_{0}$ diciamo che è verificata se è fuori dalla [[Regione Critica]]
