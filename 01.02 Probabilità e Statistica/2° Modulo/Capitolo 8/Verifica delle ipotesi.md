@@ -2,7 +2,7 @@
 tags:
   - Probabilità_e_statistica
 ---
-La Verifica delle ipotesi è un processo in cui andiamo a verificare che data una ipotesi iniziale ($H_{0}$, <font color="#4bacc6">Ipotesi Nulla</font>), allora noi possiamo trovare una probabilità con la quale questa ipotesi sia verificata, e nel caso questa probabilità sia sufficientemente alta, daremo per buona $H_{0}$ 
+La Verifica delle ipotesi è un processo in cui andiamo a verificare che data una ipotesi iniziale ($H_{0}$, <font color="#4bacc6">Ipotesi Nulla</font>), allora noi possiamo trovare una probabilità con la quale questa ipotesi sia verificata, e nel caso questa probabilità sia sufficientemente alta, daremo per buona $H_{0}$, andandola ad accettare però potremmo compiere un [[Errori dell’ Ipotesi Nulla]]
 
 Esistono 2 tipi di Ipotesi Nulle, quelle semplici e quelle composte.
 
