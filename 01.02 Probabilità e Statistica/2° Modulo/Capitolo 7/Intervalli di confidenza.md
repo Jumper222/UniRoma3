@@ -28,3 +28,11 @@ Allo stesso modo possiamo trovare altri valori oltre la media:
 Per quanto riguarda invece la differenza delle medie di due popolazioni normali:
 
 ![[Intervalli di confidenza (Differenza medie).png]]
+
+Se invece ho 2 sigma uguali ma ignoti:
+
+![[Intervalli di confidenza sigma uguale.png]]
+
+Se invece ho una popolazione di bernoulli:
+
+![[Intervalli di confidenza (popolazione di bernolli).png]]
