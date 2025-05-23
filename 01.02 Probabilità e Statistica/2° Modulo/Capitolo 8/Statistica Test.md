@@ -9,4 +9,4 @@ La formula:
 $$\dfrac{\sqrt{ n }}{\sigma}|\bar{x}-\mu_{0}|$$
 Questo è il valore che abbiamo trovato dal campione studiato, poi lo confrontiamo con l’ Ipotesi nulla, scegliendo un adeguato [[Livello di Significatività]],
 
-Poniamo di scegliere un $\alpha=0.05$, allora calcoliamo $Z_{\dfrac{\alpha}{2}}$
+Poniamo di scegliere un $\alpha=0.05$, allora calcoliamo $Z_{\dfrac{\alpha}{2}}=1.96$. Se questo numero è maggiore a quello che abbiamo ottenuto dalla statistica test allora l’ <font color="#f79646">Ipotesi Nulla</font> verrà accettata, altrimenti rifiutata.
