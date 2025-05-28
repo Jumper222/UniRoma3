@@ -9,4 +9,4 @@ Per poter gestire i [[File]] in C usiamo varie funzioni, tra cui:
 - [[fprintf()]] per scrivere nei file
 - [[fputs() e fputc()|fputs()]] e [[fputs() e fputc()|fputc()]] per scrivere stringhe o caratteri nel file
 - [[fscanf()]] per leggere sequenze di caratteri 
-- [[fgets() e fgetc()]] e  [[fgetc()]] per leggere stringhe o caratteri nel file
+- [[fgets() e fgetc()]] e per leggere stringhe o caratteri nel file
