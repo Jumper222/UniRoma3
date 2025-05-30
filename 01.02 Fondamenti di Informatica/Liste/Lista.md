@@ -17,4 +17,7 @@ typedef struct Nodo {
 }NODO;
 ```
 
-[[Gestione delle Liste]]
+Per gestire le liste esistono varie funzioni:
+
+- [[Visualizzazione di una Lista]]
+- [[Inserimento in testa]]
