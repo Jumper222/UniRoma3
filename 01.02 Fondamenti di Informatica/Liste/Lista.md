@@ -17,6 +17,9 @@ typedef struct Nodo {
 }NODO;
 ```
 
+Una particolarità delle liste è che per accedere al nodo in coda bisogna prima accedere a tutti gli altri nodi, infatti le operazioni sulla coda sono sempre meno efficienti di quelle che agiscono sulla testa.
+
+
 Per gestire le liste esistono varie funzioni:
 
 - [[Visualizzazione di una Lista]]
