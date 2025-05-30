@@ -17,3 +17,4 @@ typedef struct Nodo {
 }NODO;
 ```
 
+[[Gestione delle Liste]]
