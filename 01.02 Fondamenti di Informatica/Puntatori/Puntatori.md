@@ -1,6 +1,9 @@
 ---
 tags:
   - Fondamenti_di_Informatica
+aliases:
+  - puntatore
+  - puntatori
 ---
 Un puntatore è un particolare tipo di <font color="#9bbb59">variabile</font>, dentro al quale viene salvato l’ indirizzo di memoria di un’ altra <font color="#9bbb59">variabile</font>.
 
