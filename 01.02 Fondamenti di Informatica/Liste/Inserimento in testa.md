@@ -19,7 +19,7 @@ NODO *inserisci Nodo(NODO *head) {
 										// collega il nodo al successivo
 	nuovoNodo->next = head;
 									// restituisci l'indirizzo del nuovo primo elemento
-	return nuovo Nodo;
+	return nuovoNodo;
 }
    // Dentro al main:
 inserisci Nodo(head);
