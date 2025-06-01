@@ -28,3 +28,4 @@ Per gestire le liste esistono varie funzioni:
 - [[Cancellazione primo elemento]]
 - [[Cancellazione per valore]]
 - [[Trova il Massimo]]
+- [[Ordina]]
