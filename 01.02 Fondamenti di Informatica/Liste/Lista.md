@@ -13,7 +13,7 @@ Un esempio per un nodo potrebbe essere:
 ```C
 typedef struct Nodo {
 	int numero;
-	NODO *next;
+	struct NODO *next;
 }NODO;
 ```
 
