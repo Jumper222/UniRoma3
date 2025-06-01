@@ -27,3 +27,4 @@ Per gestire le liste esistono varie funzioni:
 - [[Inserimento in coda]]
 - [[Cancellazione primo elemento]]
 - [[Cancellazione per valore]]
+- [[Trova il Massimo]]
