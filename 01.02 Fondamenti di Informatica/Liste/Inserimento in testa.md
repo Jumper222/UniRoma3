@@ -22,5 +22,5 @@ NODO *inserisci Nodo(NODO *head) {
 	return nuovoNodo;
 }
    // Dentro al main:
-inserisci Nodo(head);
+Nodo(head);
 ```
