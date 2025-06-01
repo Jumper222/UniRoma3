@@ -25,3 +25,4 @@ Per gestire le liste esistono varie funzioni:
 - [[Visualizzazione di una Lista]]
 - [[Inserimento in testa]]
 - [[Inserimento in coda]]
+- [[Cancellazione primo elemento]]
