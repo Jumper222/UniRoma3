@@ -26,3 +26,4 @@ Per gestire le liste esistono varie funzioni:
 - [[Inserimento in testa]]
 - [[Inserimento in coda]]
 - [[Cancellazione primo elemento]]
+- [[Cancellazione per valore]]
