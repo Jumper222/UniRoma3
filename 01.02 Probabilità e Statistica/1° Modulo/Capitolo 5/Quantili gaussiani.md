@@ -13,9 +13,9 @@
 >- ”$Z<z_{\alpha}$ è $(1-\alpha)$”
 >
 >Ad esempio per $\alpha=0.05$:
->- $Z<z_{0.05}\approx 1.645$ nel $95\%$ dei casi.
+>- $Z<z_{0.05}\approx 1.645$ con probabilità del $95\%$
 
-
+	
 
 
 
