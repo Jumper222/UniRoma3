@@ -12,8 +12,12 @@ aliases:
 >Se $X\sim \mathcal{N}(\mu,\sigma^2)$
 >Allora avremo
 >$$Z=\dfrac{X-\mu}{\sigma}\sim \mathcal{N}(0,1)$$
+>
 >Ed avrà una [[Funzione di ripartizione congiunta (CDF congiunta)|CDF]] nella forma:
->$$F_{Z}(z)=\int^z_{-\infty} \dfrac{1}{\sqrt{ 2\pi }}e^{-\dfrac{x^2}{2}}=:\Phi(z)$$
+>$$F_{Z}(z)=\int^z_{-\infty} \dfrac{1}{\sqrt{ 2\pi }}e^{-\dfrac{x^2}{2}}=:\Phi(Z)$$
+>
+>Questo significa che data una qualsiasi [[Variabili Aleatorie Gaussiane|v.a. gaussiana]], allora possiamo renderla una “Standard” $Z$ sempre e comunque. di questa nuova [[Variabili Aleatorie|v.a.]] ci interessa solo la sua [[Fun. di Ripartizione (CDF)|CDF]] e per usufruirne usiamo la tabella.
+>
 
 *questo integrale non è risolvibile analiticamente, ma si può approssimare, infatti si ha una tabella:
 
