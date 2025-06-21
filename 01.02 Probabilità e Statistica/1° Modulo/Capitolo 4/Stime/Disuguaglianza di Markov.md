@@ -7,6 +7,6 @@
 Facciamo un esempio:
 
 Abbiamo una fabbrica che produce 50 componenti ogni settimana, qual’è la possibilità ne produca 75?
-Il problema ci da solo il valore assoluto, ossia $\mathbb{E}[X]=50$
+Il problema ci da solo il valore atteso, ossia $\mathbb{E}[X]=50$
 Qui allora usiamo la disuguaglianza di Markov: 
 $\mathbb{P}(X\geq 75)\leq \dfrac{\mathbb{E}}{75}=\dfrac{50}{75}=\dfrac{2}{3}=66.6\%$
