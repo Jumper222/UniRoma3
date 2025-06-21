@@ -10,6 +10,6 @@ aliases:
 >Con $\mathbb{E}[X_{1}]=\mu$, $Var(X_{1})=\sigma^2<\infty$
 >Allora
 >$$\lim_{ n \to \infty }\mathbb{P}\left(\dfrac{\sqrt{ n }}{\sigma}(\bar{X}_{n}-\mu)\leq x\right) =\Phi(x) $$
->Ossia, è circa uguale alla [[Gaussiana Standard]] 
+>Ossia, è per $n\to \infty$ la distribuzione della [[Media Campionaria]] converge ad una [[Gaussiana Standard]] 
 
 Il succo del CLT è che per un campione con [[Variabili Aleatorie Gaussiane|v.a. gaussiane]] sufficientemente grande, esso sarà sempre simile ad una [[Gaussiana Standard]]. 
