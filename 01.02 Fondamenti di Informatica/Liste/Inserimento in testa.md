@@ -2,7 +2,7 @@
 tags:
   - Fondamenti_di_Informatica
 ---
-A livello teorico quel che andiamo a fare è creare una nuovo nodo, a cui linkeremo il nodo subito dopo l’ head, poi modificheremo il puntatore dell’ head per puntare al nuovo nodo.
+.A livello teorico quel che andiamo a fare è creare una nuovo nodo, a cui linkeremo il nodo subito dopo l’ head, poi modificheremo il puntatore dell’ head per puntare al nuovo nodo.
 
 ```C
 typedef struct Nodo {
@@ -10,7 +10,7 @@ typedef struct Nodo {
 	struct Nodo next;
 }NODO;
 
-NODO *inserisci Nodo(NODO *head) {
+NODO *inserisciNodo(NODO *head) {
 	NODO nuovoNodo;
 	nuovoNodo = malloc(sizeof(NODO);
 										// leggi il campo dati
@@ -22,5 +22,5 @@ NODO *inserisci Nodo(NODO *head) {
 	return nuovoNodo;
 }
    // Dentro al main:
-inserisci Nodo(head);
+head = inserisciNodo(head);
 ```

@@ -13,7 +13,7 @@ Un esempio per un nodo potrebbe essere:
 ```C
 typedef struct Nodo {
 	int numero;
-	NODO *next;
+	struct NODO *next;
 }NODO;
 ```
 
@@ -25,3 +25,7 @@ Per gestire le liste esistono varie funzioni:
 - [[Visualizzazione di una Lista]]
 - [[Inserimento in testa]]
 - [[Inserimento in coda]]
+- [[Cancellazione primo elemento]]
+- [[Cancellazione per valore]]
+- [[Trova il Massimo]]
+- [[Ordina]]
