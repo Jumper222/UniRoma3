@@ -15,3 +15,5 @@ Siano $X_{1},\dots,X_{n}$ [[Variabili Aleatorie|v.a.]] [[IID]] [[Variabili Aleat
 Come prima, posso dire che quando $n\gg 1$, abbiamo che 
 $$\bar{X}\approx \dfrac{\theta}{2}$$
 e allora la stima in questo caso sarà $\hat{\theta}_{mom}=2\bar{X}$
+
+Quando si va a calcolare il metodo dei momenti o [[Stimatori di massima verosimiglianza (MLE)]] il valore di $\theta$ è lo stesso
