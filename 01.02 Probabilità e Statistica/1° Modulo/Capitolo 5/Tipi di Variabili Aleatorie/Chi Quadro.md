@@ -30,6 +30,8 @@ Esattamente come per le [[Variabili Aleatorie Gaussiane|v.a. Gaussiane]], anche 
 ### <font color="#4bacc6">Approssimazione ad una Gaussiana</font>
 
 Come detto in precedenza, per $k$ grande converge ad una [[Variabili Aleatorie Gaussiane|v.a. gaussiana]] con media $k$ e varianza $2k$
+Per portarla ad una [[Gaussiana Standard]] possiamo usare la formula:
+$$\dfrac{\chi-k}{\sqrt{ 2k }}\approx\mathcal{N}(0,1)$$
 
 ### <font color="#4bacc6">PDF di Chi Quadro</font>
 
