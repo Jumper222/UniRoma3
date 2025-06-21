@@ -1,6 +1,6 @@
 #Probabilità_e_statistica 
 >[!Definizione]  Definizione
->La Disuguaglianza di Chebyshev è simile a quella di [[Disuguaglianza di Markov|Markov]], però prende in considerazione anche la [[Varianza]], dando molte volte una stima più accurata:
+>La Disuguaglianza di Chebyshev è simile a quella di [[Disuguaglianza di Markov|Markov]], però prende in considerazione anche la [[Varianza]], dando quasi s
 >$$\mathbb{P}(|X-\mathbb{E}[X]|\geq r)\leq \dfrac{\sigma^2}{r^2}$$
 >L’ unico requisito è che $r>\sigma$
 
