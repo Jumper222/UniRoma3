@@ -6,17 +6,19 @@ aliases:
   - Distribuzione Normale
 ---
 
-
 >[!Definizione]  Definizione  
 >Una Gaussiana Standard $Z$ è un particolare tipo di [[Variabili Aleatorie Gaussiane|v.a. Gaussiana]], è quindi [[Variabili Aleatorie discrete e continue|continua]], ed è definita:
 >Se $X\sim \mathcal{N}(\mu,\sigma^2)$
 >Allora avremo
 >$$Z=\dfrac{X-\mu}{\sigma}\sim \mathcal{N}(0,1)$$
 >
->Ed avrà una [[Funzione di ripartizione congiunta (CDF congiunta)|CDF]] nella forma:
->$$F_{Z}(z)=\int^z_{-\infty} \dfrac{1}{\sqrt{ 2\pi }}e^{-\dfrac{x^2}{2}}=:\Phi(Z)$$
+>Ed avrà una [[Funzione di ripartizione congiunta (CDF congiunta)|CDF]] (Con $z\in\mathbb{R}$) nella forma:
+>$$F_{Z}(z)=\int^z_{-\infty} \dfrac{1}{\sqrt{ 2\pi }}e^{-\dfrac{x^2}{2}}dx=:\Phi(z)$$
 >
 >Questo significa che data una qualsiasi [[Variabili Aleatorie Gaussiane|v.a. gaussiana]], allora possiamo renderla una “Standard” $Z$ sempre e comunque. di questa nuova [[Variabili Aleatorie|v.a.]] ci interessa solo la sua [[Fun. di Ripartizione (CDF)|CDF]] e per usufruirne usiamo la tabella.
+>
+>Una importante proprietà di questa v.a. è che essa è simmetrica attorno a $0$, ossia in termini matematici:
+>$$\mathbb{P}(Z\leq-z)=1-\Phi(z)$$
 >
 
 *questo integrale non è risolvibile analiticamente, ma si può approssimare, infatti si ha una tabella:
