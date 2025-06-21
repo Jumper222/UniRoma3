@@ -4,7 +4,7 @@ tags:
 ---
 
 >[!Definizione]  Definizione
->Un campione si dice approssimativamente normale se la [[Mediana Campionaria|Mediana]] è circa uguale alle [[Media Campionaria|Media]] che è circa uguale alla [[Moda]], ed è anche simmetrico.
+>Un campione si dice approssimativamente normale se la [[Mediana Campionaria|Mediana]] è circa uguale alle [[Media Campionaria|Media]] che è circa uguale alla [[Moda Campionaria]], ed è anche simmetrico.
 >Nella pratica però questi dataset sono molto rari, ad esempio nel caso in cui un dataset è fortemente asimmetrico parliamo di un campione skewed.
 >Generalmente può essere utile misurare la skewness per mezzo della relazione:
 >$$\dfrac{\bar{x}-mediana}{s}$$
