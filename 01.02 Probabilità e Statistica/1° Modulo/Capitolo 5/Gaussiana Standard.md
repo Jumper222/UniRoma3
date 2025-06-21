@@ -9,7 +9,7 @@ aliases:
 
 >[!Definizione]  Definizione  
 >Una Gaussiana Standard $Z$ è un particolare tipo di [[Variabili Aleatorie Gaussiane|v.a. Gaussiana]], è quindi [[Variabili Aleatorie discrete e continue|continua]], ed è definita:
->Se $X\sim N(\mu,\sigma^2)$
+>Se $X\sim \mathcal{N}(\mu,\sigma^2)$
 >Allora avremo
 >$$Z=\dfrac{X-\mu}{\sigma}\sim \mathcal{N}(0,1)$$
 >Ed avrà una [[Funzione di ripartizione congiunta (CDF congiunta)|CDF]] nella forma:
@@ -70,4 +70,4 @@ E per calcolare $\Phi(2)$ dobbiamo prima invertire:
 $$1-\Phi(-2)\approx 1-0.0228=0.9772$$
 Ora invece ci chiediamo $\mathbb{P}(X>-1)$:
 $$\mathbb{P}(X>-1)=\mathbb{P}(\dfrac{-1-3}{4})=1-\Phi(-1)=1-0.1587=0.8413$$
-Qui calcoliamo col -1 perché ci chiede il valore maggiore
+Qui calcoliamo col 1- perché ci chiede il valore maggiore, quindi dobbiamo invertire l’ uguaglianza.
