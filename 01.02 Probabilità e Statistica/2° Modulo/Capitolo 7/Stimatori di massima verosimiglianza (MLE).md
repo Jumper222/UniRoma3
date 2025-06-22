@@ -14,6 +14,9 @@ $$L(\theta)=\prod^n_{i=1}\lambda e^{-\lambda x_{i}}$$
 Quindi usiamo il suo $\log$, e poi deriviamo.
 Allora calcoliamo il massimo:
 $$\dfrac{d\ln L(\theta)}{dt}$$
+
+<font color="#ff0000">!!!</font> Quando si va a [[Metodo dei Momenti]] o [[Stimatori di massima verosimiglianza (MLE)]] il valore di $\theta$ è lo stesso
+
 Facciamo un esempio:
 
 Sia $(x_{1},\dots,x_{n})$ un [[Campione Aleatorio]] [[IID]] di [[Variabili Aleatorie di Bernoulli|bernoulliane]] $Bern(p)$

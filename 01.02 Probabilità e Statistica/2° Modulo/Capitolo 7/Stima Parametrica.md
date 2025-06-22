@@ -9,7 +9,7 @@ Il nostro obiettivo è stimare $\theta$.
 Esistono 4 metodi per stimare $\theta$:
 Dobbiamo sapere anche quando stiamo stimando abbastanza con la [[Statistica sufficiente]]
 
-##### [[Metodo di Momenti]]
+##### [[Metodo dei Momenti]]
 Usiamo i momenti campionari (e la [[Legge debole dei grandi numeri|LDGN]]) per stimare i momenti teorici
 
 ##### [[Stimatori di massima verosimiglianza (MLE)]]
