@@ -10,7 +10,9 @@ $$\bar{X}=\dfrac{X_{1}+\dots+X_{n}}{n}$$
 Ci domandiamo quindi quanto vale il [[Valore Atteso]] e la [[Varianza]] di $\bar{X}$:
 
 Il [[Valore Atteso]] sarà uguale a $\mathbb{E}[X_{1}]$, questo per via della proprietà di IID.
-La [[Varianza]] invece sarà $\dfrac{Var(X_{1})}{n}$
+La [[Varianza]] invece sarà:
+$Var\left( \dfrac{1}{n}\sum^n_{i=1}X_{i} \right)=\dfrac{1}{n^2}Var\left( \sum^n_{i=1} X_{i} \right)=\dfrac{1}{n^2}nVar(X_{1})=\dfrac{Var(X_{1})}{n}$
+Questo avviene per la proprietà della varianza 
 
 Questo deriva dalla [[Legge debole dei grandi numeri]], che ci dice che per un [[Campione Aleatorio]] di grandezza $n$ che tende ad infinito, allora $\bar{X}_{n}$ è asintoticamente deterministica, e coincide con il valore atteso di un elemento del campione. 
 
