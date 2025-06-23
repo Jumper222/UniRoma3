@@ -22,6 +22,7 @@ Vediamo il procedimento:
 $$\mathbb{P}(\ |Z|>\dfrac{\sqrt{ n }}{\sigma}|\bar{x}-\mu|\ )=p-value$$
 - <font color="#f79646">Attenzione</font>:
 	1. Avendo il valore assoluto di Z, bisogna ricordarsi di levarlo e moltiplicare per 2 la probabilità
-	2. Accetterò $H_{0}$ se la <font color="#9bbb59">p-value</font> è maggiore o uguale ad $\alpha$, altrimenti rifiuto
-	3. Nella pratica non si fissa un valore $\alpha$, ma si riporta solo il <font color="#9bbb59">p-value</font>
+	2. Bisogna sempre ricordarsi di invertire l’ equazione, mettendo un $1-$ di fuori.
+	3. Accetterò $H_{0}$ se la <font color="#9bbb59">p-value</font> è maggiore o uguale ad $\alpha$, altrimenti rifiuto
+	4. Nella pratica non si fissa un valore $\alpha$, ma si riporta solo il <font color="#9bbb59">p-value</font>
 
