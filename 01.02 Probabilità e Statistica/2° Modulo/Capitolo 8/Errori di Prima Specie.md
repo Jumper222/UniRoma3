@@ -20,5 +20,8 @@ Vediamo il procedimento:
 
 3. Calcolo la probabilità che la statistica assuma il valore dello step 2:
 $$\mathbb{P}(\ |Z|>\dfrac{\sqrt{ n }}{\sigma}|\bar{x}-\mu|\ )=p-value$$
-- Attenzione:
-	-
+- <font color="#f79646">Attenzione</font>:
+	1. Avendo il valore assoluto di Z, bisogna ricordarsi di levarlo e moltiplicare per 2 la probabilità
+	2. Accetterò $H_{0}$ se la <font color="#9bbb59">p-value</font> è maggiore o uguale ad $\alpha$, altrimenti rifiuto
+	3. Nella pratica non si fissa un valore $\alpha$, ma si riporta solo il <font color="#9bbb59">p-value</font>
+
