@@ -4,7 +4,7 @@ tags:
 ---
 Nell’ accettare o rifiutare $H_{0}$ potremmo compiere degli errori di 2 tipi:
 
-1. <font color="#4bacc6">Errori di prima specie</font>
+1. [[Errori di Prima Specie]]
 	Compiamo un errore di prima specie quando rifiutiamo $H_{0}$ nonostante essa sia vera.
 2. <font color="#4bacc6">Errori di seconda specie</font>
 	Compiamo un errore di seconda specie quando accettiamo $H_{0}$ nonostante essa sia falsa
