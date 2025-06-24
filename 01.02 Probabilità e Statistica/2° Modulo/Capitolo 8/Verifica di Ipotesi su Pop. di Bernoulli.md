@@ -13,4 +13,12 @@ Allora svolgo come segue:
 
 Sia $X$ il numero di pezzi difettosi nel campione
 
-$$\mathbb{P}(X\geq k)=\sum^n_{i=k}\mathbb{P}(X=i)=\sum^n_{i=k}\binom{n}{i}p^i(1-p)$$
+$$\mathbb{P}(X\geq k)=\sum^n_{i=k}\mathbb{P}(X=i)=\sum^n_{i=k}\binom{n}{i}p^i(1-p)^{n-1}$$
+Allora cerchiamo la probabilità di avere più pezzi difettosi di un dato valore $k$.
+
+Fissiamo un [[Livello di Significatività]] $\alpha\in(0,1)$ e quindi cerchiamo il $k$ minimo che rispetta questo livello.
+
+$$K_{*}^\alpha=\min\left\{ k:\sum^n_{i=k}\binom{n}{i}p^i_{0}(1-p_{0})^{n-i} \right\}$$
+Detto allora $x$ il numero di pezzi difettosi nel campione,
+- Se $n\bar{x}<K_{*}^\alpha$ accetto $H_{0}$
+- Altrimenti rifiuto.
