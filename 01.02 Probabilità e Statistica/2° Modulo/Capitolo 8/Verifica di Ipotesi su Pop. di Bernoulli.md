@@ -25,5 +25,27 @@ Detto allora $x$ il numero di pezzi difettosi nel campione,
 
 Posso inoltre definire la [[p-value]]:
 
-$$\sum^n_{i=n\bar{x}}\binom{n}{i}p_{0}^i(1-p_{0})^{n-i}=\mathbb{P}(X>\bar{x}|H_{0})$$
+$$\sum^n_{i=n\bar{x}}\binom{n}{i}p_{0}^i(1-p_{0})^{n-i}=\mathbb{P}(X>\bar{x}n\ |\ H_{0})$$
 E allora posso dire di rifiutare $H_{0}$ per ogni [[Livello di Significatività]] $\alpha>p-value$.
+
+Facciamo un esempio:
+
+Un produttore afferma che non più del $2\%$ degli oggetti che produce è difettoso.
+Compriamo 300 pezzi e ne troviamo 10 difettosi.
+
+Allora testiamo:
+$H_{0}:p\leq 0.02$
+$H_{1}:p>0.02$
+
+Otteniamo che la [[p-value]] è:
+$$\mathbb{P}(X\geq 10 \ | \ X\sim Bin(n,0,02))\approx 0.082$$
+Qui usiamo 10 direttamente perché questa è la proporzione tra i difettosi e i pezzi totali, moltiplicata per i pezzi totali (quindi sono semplicemente i pezzi difettosi).
+
+I dati allora portano ad accettare $H_{0}$ con una significatività del $5\%$ 
+
+<font color="#f79646">ATTENZIONE</font>: Qui stiamo usando una [[p-value]] particolare apposta per le popolazioni di bernoulli, se provassimo a farlo con una normale, trasformando la bernoulli con il [[Teorema del Limite Centrale (CLT)]] arriveremmo ad una conclusione che ci farebbe rifiutare $H_{0}$.
+
+Allora ci ricordiamo sempre che per le popolazioni di bernoulli vale la seguente legge:
+$$p_{0}(1-p_{0})n>20$$
+allora posso usare l’ approssimazione normale.
+In questo esempio però otterremo circa $6$, che quindi porta ad imprecisioni gravi.
