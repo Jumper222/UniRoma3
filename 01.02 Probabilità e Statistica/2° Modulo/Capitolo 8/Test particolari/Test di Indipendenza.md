@@ -17,3 +17,25 @@ Allora chiamiamo due incognite $p_{a},q_{b}$, tali che:
 - $q_{b}=\mathbb{P}(Y_{i}=b)=\sum_{a\in A}\mathbb{P}(X_{i}=a,Y_{i}=b)$
 *Queste due v.a. ci serviranno poi per costruire l’ ipotesi $H_{0}$ di indipendenza*
 
+Guardiamo il campione e chiamiamo:
+$$N_{a,b}=\sum^n_{i=1}\mathbb{1}(X_{i}=a,Y_{i}=b)$$
+*Ossia quante volte appaiono i valori in tabella.*
+
+$M_{a}=\sum_{b\in B}N_{a,b}$ *Quanta gente è uomo o donna*
+$R_{b}=\sum_{a\in A}N_{a,b}$ *Quanta gente ha votato un partito*
+
+Uno stimatore è dato da:
+
+$\hat{p}_{a}=\dfrac{M_{a}}{n}$
+$\hat{q}_{b}=\dfrac{R_{b}}{n}$
+
+Se genere e appartenenza politica fossero indipendenti allora avremmo:
+$N_{a,b}\approx \hat{p}_{a}\hat{q}_{b}n$
+
+Posso finalmente creare le ipotesi: 
+$H_{0}:\mathbb{P}(X=a,Y=b)=p_{a}q_{b}$
+$H_{1}:\mathbb{P}(X=a,Y=b)\neq p_{a}q_{b}$
+
+Allora la nostra [[Statistica Test]] sarà:
+
+$$$$
