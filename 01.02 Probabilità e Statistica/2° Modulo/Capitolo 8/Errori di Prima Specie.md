@@ -14,7 +14,7 @@ Vediamo il procedimento:
 1.  Fisso un [[Livello di Significatività]] $\alpha\in(0,1)$
 	*Ossia fisso un valore per il quale voglio che la statistica che ho ottenuto dai campioni si avvicini a* $H_{0}$.
 
-2. Calcolo la [[p-value e Statistica Test|Statistica Test]]:
+2. Calcolo la [[Statistica Test|Statistica Test]]:
  $$\dfrac{\bar{x}-\mu_{0}}{\sqrt{ \dfrac{\sigma}{n} }}$$
 	 *La statistica test è una funzione dell’ insieme dei dati, che allora li rappresenta.*
 

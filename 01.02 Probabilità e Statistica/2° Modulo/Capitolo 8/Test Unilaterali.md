@@ -1,13 +1,15 @@
 ---
 tags:
   - Probabilità_e_statistica
+aliases:
+  - Test Unilaterale
 ---
 
 Vogliamo testare le ipotesi:
 $H_{0}:\mu=\mu_{0}$
 $H_{1}:\mu>\mu_{0}$
 
-Ricordandoci che i valori della [[p-value e Statistica Test|Statistica Test]] $<\mu_{0}$ rafforzerebbero la “credibilità” di $H_{0}$ vs $H_{1}$
+Ricordandoci che i valori della [[Statistica Test|Statistica Test]] $<\mu_{0}$ rafforzerebbero la “credibilità” di $H_{0}$ vs $H_{1}$
 
 In questo caso stiamo parlando di Test Unilaterali, e la [[Regione Critica]] assumerà la forma:
 $$C=\{(x_{1},\dots ,x_{n})\in \mathbb{R}^n|\ \bar{x}-\mu>c\}$$
