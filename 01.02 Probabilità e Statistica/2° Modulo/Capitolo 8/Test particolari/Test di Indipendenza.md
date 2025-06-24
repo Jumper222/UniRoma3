@@ -40,9 +40,9 @@ Allora la nostra [[Statistica Test]] sarà:
 
 $$T=\sum_{a\in A}\sum_{b\in B} \dfrac{(N_{a,b}-\hat{p}_{a}\hat{q}_{b}n)^2}{n\hat{p}_{a}\hat{q}_{b}}$$
 Fortunatamente quando abbiamo un campione grande, T assomiglia ad una [[Chi Quadro]]:
-Il che significa che una volta calcolato T usando la formula di sopra 
+Il che significa che una volta calcolato T usando la formula di sopra poi lo confronteremo con un valore della tabella di $\chi^2$ per capire se è un valore troppo “estremo”
 $$T\approx \chi^2_{(|A|-1)(|B|-1)}$$
-Questa [[Statistica Test]] la andiamo poi a confrontare con il [[Livello di Significatività]] richisto:
+Questa [[Statistica Test]] la andiamo poi a confrontare con il [[Livello di Significatività]] richiesto:
 
 Preso un $\alpha\in(0,1)$:
 
@@ -51,4 +51,4 @@ Preso un $\alpha\in(0,1)$:
 
 La [[p-value]] invece si calcola:
 
-$$\mathbb{P}(\chi^2_{})$$
+$$\mathbb{P}(\chi^2_{2,0.05}>T)$$
