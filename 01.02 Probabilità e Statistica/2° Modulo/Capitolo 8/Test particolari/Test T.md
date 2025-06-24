@@ -13,3 +13,12 @@ E questa sarà la nuova [[Statistica Test]].
 
 #### <font color="#4bacc6">Test T bilaterale</font>
 
+$H_{0}:\mu=\mu_{0}$
+$H_{1}:\mu\neq \mu_{0}$
+
+[[p-value]]: 
+$$\mathbb{P}(\ |T_{n-1}|\ > \dfrac{\sqrt{ n }}{S}|\bar{x}-\mu_{0}|\ )=2\mathbb{P}(T_{n-1}\geq \dfrac{\sqrt{ n }}{S}|\bar{x}-\mu_{0}|\ )$$
+Quindi per un fissato [[Livello di Significatività]] $\alpha$:
+
+- Se $\dfrac{\sqrt{ n }}{S}|\bar{x}-\mu_{0}|\leq t_{\tfrac{\alpha}{2},n-1}$ allora accetto $H_{0}$
+- Altrimenti rifiuto.
