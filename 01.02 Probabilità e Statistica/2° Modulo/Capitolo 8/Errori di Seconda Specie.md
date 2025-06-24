@@ -9,5 +9,8 @@ Abbiamo la [[Funzioni|Funzione]] <font color="#f79646">OC</font> (Operating Char
 $$\beta(\mu)=\Phi(z_{\dfrac{\alpha}{2}}+\dfrac{\sqrt{ n }}{\sigma}(\mu_{0}-\mu))-\Phi(-z_{\dfrac{\alpha}{2}}+\dfrac{\sqrt{ n }}{\sigma}(\mu_{0}-\mu))$$
 1. $1-\beta(\mu)$ è detta potenza del test.
 
+La funzione OC rappresenta la probabilità di accettare $H_{0}$ quando $\mu=\mu_{1}$, ossia $H_{0}$ è falsa.
+Noi vogliamo che questa probabilità sia minore di un valore dato $\delta$.
+
 Se voglio un errore di 2° specie $<\delta$ quando $\mu=\mu_{1}$ (e il [[Livello di Significatività]] è fissato ad $\alpha$), allora voglio un campione con numerosità:
 $$n>\left[\dfrac{(z_{\dfrac{\alpha}{2}}+z_{\delta})\sigma}{\mu_{1}-\mu_{0}}\right]^2$$
