@@ -22,3 +22,11 @@ Quindi per un fissato [[Livello di Significatività]] $\alpha$:
 
 - Se $\dfrac{\sqrt{ n }}{S}|\bar{x}-\mu_{0}|\leq t_{\tfrac{\alpha}{2},n-1}$ allora accetto $H_{0}$
 - Altrimenti rifiuto.
+
+#### <font color="#4bacc6">Test T Unilaterale da destra</font>
+
+![[Test T Destra.png]]
+
+#### <font color="#4bacc6">Test T Unilaterale da sinistra</font>
+
+![[Test T Sinistra.png]]
