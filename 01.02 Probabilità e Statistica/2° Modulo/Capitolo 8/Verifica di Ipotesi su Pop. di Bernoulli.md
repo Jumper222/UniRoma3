@@ -22,3 +22,8 @@ $$K_{*}^\alpha=\min\left\{ k:\sum^n_{i=k}\binom{n}{i}p^i_{0}(1-p_{0})^{n-i} \rig
 Detto allora $x$ il numero di pezzi difettosi nel campione,
 - Se $n\bar{x}<K_{*}^\alpha$ accetto $H_{0}$
 - Altrimenti rifiuto.
+
+Posso inoltre definire la [[p-value]]:
+
+$$\sum^n_{i=n\bar{x}}\binom{n}{i}p_{0}^i(1-p_{0})^{n-i}=\mathbb{P}(X>\bar{x}|H_{0})$$
+E allora posso dire di rifiutare $H_{0}$ per ogni [[Livello di Significatività]] $\alpha>p-value$.
