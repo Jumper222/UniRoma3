@@ -36,5 +36,5 @@ Fisso un $\alpha$:
 $$\mathbb{P}(T<st )$$ *Con T avente n-m-2 gradi di libertà*
 
 Fisso un $\alpha$:
-- Accetto $H_{0}$ se $|st|\leq t_{n+m-2,\alpha}$
+- Accetto $H_{0}$ se $st\geq -t_{n+m-2,\alpha}$
 - Rifiuto altrimenti.
