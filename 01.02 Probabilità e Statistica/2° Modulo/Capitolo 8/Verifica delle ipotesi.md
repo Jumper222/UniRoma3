@@ -10,9 +10,9 @@ Andiamo a fare esercizi di questo tipo calcolando prima la [[Statistica Test]]
 Esistono 2 tipi di Ipotesi Nulle, quelle semplici e quelle composte.
 
 In quelle semplici abbiamo che $H_{0}$ assume un solo valore, ad esempio $H_{0}:\theta=4$
-In quelle composte invece $H_{0}$ assume un range di valori, ad esempio $H_{0}:\theta\leq4$
+Nelle [[Ipotesi Composte]] invece $H_{0}$ assume un range di valori, ad esempio $H_{0}:\theta\leq4$
 
 Una nota per le $H_{0}$ semplici:
 Se so a priori che $H_{0}$ sia vera, ed ho varianza e tipo di distribuzione, allora posso subito conoscere anche il valore medio.
 
-Una  $H_{0}$ diciamo che è verificata se è fuori dalla [[Regione Critica]]
+Una $H_{0}$ diciamo che è verificata se è fuori dalla [[Regione Critica]]
