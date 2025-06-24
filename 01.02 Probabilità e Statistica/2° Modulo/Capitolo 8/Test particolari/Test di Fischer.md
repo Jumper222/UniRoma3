@@ -21,4 +21,17 @@ $X_{tot}+Y_{tot}\sim bin(n+m,p)$
 
 Facciamo finta di prendere pezzi a caso da queste linee di produzione, la prima li fa rossi e la seconda blu.
 
-Possiamo sempre dire allora ch
+Possiamo sempre dire allora che la probabilità di estrarre $k$ rosse è:
+$$\mathbb{P}(X_{tot}=k\ | X_{tot}+Y_{tot}=l )=\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}$$
+*Senza reinserimento!*
+
+Allora calcolo $x_{tot}$ e $y_{tot}$ *Semplicemente il numero totale di campioni di x e y*
+ed anche $l=x_{tot}+y_{tot}$
+
+Posso allora fissare un [[Livello di Significatività]] $\alpha$, ed avere due situazioni:
+
+Se:
+$$\sum^{x_{tot}}_{k=0}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}\leq \alpha$$
+Oppure se:
+$$\sum^l_{k=x_{tot}}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}\leq \alpha$$
+
