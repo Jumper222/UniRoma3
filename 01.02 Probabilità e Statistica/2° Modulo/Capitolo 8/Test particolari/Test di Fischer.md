@@ -35,3 +35,7 @@ $$\sum^{x_{tot}}_{k=0}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}\leq \al
 Oppure se:
 $$\sum^l_{k=x_{tot}}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}\leq \alpha$$
 
+Allora rifiuterò $H_{0}$
+
+Allora la [[p-value]] è il minimo tra i due, formalizzato:
+$$p-value=\min\left\{\sum^{x_{tot}}_{k=0}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}},\sum^l_{k=x_{tot}}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}} \right\}$$
