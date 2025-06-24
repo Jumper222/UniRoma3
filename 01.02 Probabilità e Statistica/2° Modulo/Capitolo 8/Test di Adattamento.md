@@ -18,4 +18,13 @@ $H_{1}:\mathbb{P}(Y=i)\neq \dfrac{1}{12}$
 
 Allora per individuare la [[Statistica Test]] procedo come segue:
 
-$$T=\sum^5_{i=-6}$$
+$$\left(\sum^k_{i=1}$$
+
+
+Se $H_{0}$ è vera ed $n\gg 1$, allora $T\sim \chi^2_{11}$ *La dimostrazione verrà saltata a piè pari*
+Allora fissato un [[Livello di Significatività]] $\alpha$:
+- Se $T\leq \chi^2_{\alpha,11}$ Accetto $H_{0}$
+- Se $T>\chi^2_{11}$ Rifiuto $H_{0}$
+
+Nota: I gradi di liberta della $\chi^2$ sono categorie-1.
+
