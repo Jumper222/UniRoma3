@@ -46,9 +46,10 @@ Questa [[Statistica Test]] la andiamo poi a confrontare con il [[Livello di Sign
 
 Preso un $\alpha\in(0,1)$:
 
-- Se $T\leq \chi^2_{2,\alpha}$ Accetto $H_{0}$
+- Se $T\leq \chi^2_{(|A|-1)(|B|-1),\alpha}$ Accetto $H_{0}$
 - Altrimenti rifiuto.
 
 La [[p-value]] invece si calcola:
 
-$$\mathbb{P}(\chi^2_{2,0.05}>T)$$
+$$\mathbb{P}(\chi^2_{(|A|-1)(|B|-1),\alpha}>T)$$
+
