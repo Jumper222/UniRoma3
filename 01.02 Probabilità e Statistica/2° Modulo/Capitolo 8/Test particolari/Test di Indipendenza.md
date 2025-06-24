@@ -38,4 +38,17 @@ $H_{1}:\mathbb{P}(X=a,Y=b)\neq p_{a}q_{b}$
 
 Allora la nostra [[Statistica Test]] sarà:
 
-$$$$
+$$T=\sum_{a\in A}\sum_{b\in B} \dfrac{(N_{a,b}-\hat{p}_{a}\hat{q}_{b}n)^2}{n\hat{p}_{a}\hat{q}_{b}}$$
+Fortunatamente quando abbiamo un campione grande, T assomiglia ad una [[Chi Quadro]]:
+Il che significa che una volta calcolato T usando la formula di sopra 
+$$T\approx \chi^2_{(|A|-1)(|B|-1)}$$
+Questa [[Statistica Test]] la andiamo poi a confrontare con il [[Livello di Significatività]] richisto:
+
+Preso un $\alpha\in(0,1)$:
+
+- Se $T\leq \chi^2_{2,\alpha}$ Accetto $H_{0}$
+- Altrimenti rifiuto.
+
+La [[p-value]] invece si calcola:
+
+$$\mathbb{P}(\chi^2_{})$$
