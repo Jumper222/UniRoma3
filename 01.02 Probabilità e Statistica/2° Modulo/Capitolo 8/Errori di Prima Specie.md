@@ -15,7 +15,7 @@ Vediamo il procedimento:
 	*Ossia fisso un valore per il quale voglio che la statistica che ho ottenuto dai campioni si avvicini a* $H_{0}$.
 
 2. Calcolo la [[Statistica Test|Statistica Test]]:
- $$\dfrac{\bar{x}-\mu_{0}}{\sqrt{ \dfrac{\sigma}{n} }}$$
+ $$\dfrac{\bar{x}-\mu_{0}}{ \dfrac{\sigma}{\sqrt{ n }} }$$
 	 *La statistica test è una funzione dell’ insieme dei dati, che allora li rappresenta.*
 
 3. Calcolo la probabilità che la statistica assuma il valore dello step 2:
