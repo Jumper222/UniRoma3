@@ -19,7 +19,7 @@ Vediamo il procedimento:
 	 *La statistica test è una funzione dell’ insieme dei dati, che allora li rappresenta.*
 
 3. Calcolo la probabilità che la statistica assuma il valore dello step 2:
-$$\mathbb{P}\left(\ |Z|>\dfrac{\bar{x}-\mu_{0}}{\sqrt{ \dfrac{\sigma}{n} }}\right)=p-value$$
+$$\mathbb{P}\left(\ |Z|>\dfrac{\bar{x}-\mu_{0}}{ \dfrac{\sigma}{\sqrt{ n }} }\right)=p-value$$
 - <font color="#f79646">Attenzione</font>:
 	1. Avendo il valore assoluto di Z, bisogna ricordarsi di levarlo e moltiplicare per 2 la probabilità
 	2. Bisogna sempre ricordarsi di invertire l’ equazione, mettendo un $1-$ di fuori.
