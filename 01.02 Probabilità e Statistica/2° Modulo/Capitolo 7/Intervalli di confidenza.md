@@ -2,7 +2,7 @@
 tags:
   - Probabilità_e_statistica
 ---
-
+w
 Utilizzare gli Intervalli di confidenza si rivela utile quando ci serve una <font color="#c0504d">stima per quanto sia giusta la nostra stima</font>
 
 >[!Definizione]  Definizione
