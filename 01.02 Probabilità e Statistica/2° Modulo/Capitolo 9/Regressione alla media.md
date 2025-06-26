@@ -19,3 +19,4 @@ Invece la [[Statistica Test]] per $H_{0}:\alpha=\alpha_{0}$ ([[Test T]])
 $$\sqrt{ \dfrac{n(n-2)S_{XX}}{SS_{R}\sum^n_{i=1}x^2_{i}} }|A-\alpha_{0}|$$ *se $H_{1}:\alpha\neq\alpha_{0}$*
 oppure $$\sqrt{ \dfrac{n(n-2)S_{XX}}{SS_{R}\sum^n_{i=1}x^2_{i}} }(A-\alpha_{0})$$
 se $H_{1}:\alpha>\alpha_{0}$ o $H_{1}:\alpha<\alpha_{0}$
+
