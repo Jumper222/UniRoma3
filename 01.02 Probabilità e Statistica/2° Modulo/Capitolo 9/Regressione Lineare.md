@@ -63,3 +63,6 @@ Riassumendo:
 
 - $B=\dfrac{S_{XY}}{S_{XX}}\sim\mathcal{N}(\beta, \dfrac{\sigma^2}{S_{XX}})$
 - $A=\bar{Y}-B$
+
+E per quanto riguarda la [[Distribuzione dei parametri della Regressione Lineare]]
+
