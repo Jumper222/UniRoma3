@@ -15,4 +15,4 @@ Chiamo allora $A$ lo stimatore per $\alpha$, e $B$ lo stimatore per $\beta$
 
 Ora considero la somma degli scarti quadratrici: 
 
-$$SS=\sum^n$$
+$$SS=\sum^n_{i=1}(Y_{i}-(A+Bx_{i}))^2$$
