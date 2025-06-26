@@ -45,3 +45,8 @@ $$Y_{i}-(A+Bx_{i})$$
 
 Chiamo allora $SS_{R}$ la somma dei quadrati dei residui:
 $$SS_{R}=\sum^n_{i=1}[Y_{i}-(A+Bx_{i})]^2$$
+Può essere dimostrato che $\dfrac{1}{\sigma^2}SS_{R}\sim \chi^2_{n-2}$
+E per definizione di [[Chi Quadro]], il suo valore atteso è uguale ai suoi gradi di libertà, quindi:
+$$\sigma^2=\dfrac{\mathbb{E}[SS_{R}]}{n-2}$$
+E allora uno stimatore non distorto di $\sigma^2$ è dato da:
+$$\dfrac{SS_{R}}{n-2}$$
