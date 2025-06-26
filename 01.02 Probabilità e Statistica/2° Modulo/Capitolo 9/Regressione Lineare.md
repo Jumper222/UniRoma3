@@ -24,5 +24,13 @@ $$\dfrac{\delta SS}{\delta B}=-2\sum^n_{i=1}x_{i}(Y_{i}-A-Bx_{i})$$
 Quindi pongo a sistema:
 $$\begin{cases}
 \dfrac{\delta SS}{\delta A}=0 \\
-\dfrac{\delta SS}{\delta B}
+\dfrac{\delta SS}{\delta B}=0
 \end{cases}$$
+
+Risolvendo il sistema otterremo una soluzione del tipo:
+$$\begin{cases}
+A=\bar{Y}-B\bar{x} \\
+B=\dfrac{\sum^n_{i=1}Y_{i}(x_{i}-\bar{x})}{\left( \sum^n_{i=1} \right)-n\bar{x}^2}
+\end{cases}$$
+
+Per questa scelta di $A$,$B$ chiamerò $y=A+Bx$ la <font color="#f79646">retta di regressione stimata</font>
