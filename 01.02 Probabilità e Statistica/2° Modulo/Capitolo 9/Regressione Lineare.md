@@ -50,3 +50,16 @@ E per definizione di [[Chi Quadro]], il suo valore atteso è uguale ai suoi grad
 $$\sigma^2=\dfrac{\mathbb{E}[SS_{R}]}{n-2}$$
 E allora uno stimatore non distorto di $\sigma^2$ è dato da:
 $$\dfrac{SS_{R}}{n-2}$$
+
+Avendo molte somme, è utile la seguente notazione:
+
+$$S_{XY}=\sum^n_{i=1}(x_{i}-\bar{x})(Y_{i}-\bar{Y})$$
+$$S_{XX}=\sum^n_{i=1}(x_{i}-\bar{x})^2$$
+$$S_{YY}=\sum^n_{i=1}(Y_{i}-\bar{Y})^2$$
+E allora definiamo $SS_{R}$ in funzione di queste notazioni:
+$$SS_{R}=\dfrac{S_{XX}S_{YY}-S^2_{XY}}{S_{XX}}$$
+
+Riassumendo:
+
+- $B=\dfrac{S_{XY}}{S_{XX}}\sim\mathcal{N}(\beta, \dfrac{\sigma^2}{S_{XX}})$
+- $A=\bar{Y}-B$
