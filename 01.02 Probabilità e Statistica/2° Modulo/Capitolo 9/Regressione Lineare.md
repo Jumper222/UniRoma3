@@ -34,3 +34,14 @@ B=\dfrac{\sum^n_{i=1}Y_{i}(x_{i}-\bar{x})}{\left( \sum^n_{i=1} \right)-n\bar{x}^
 \end{cases}$$
 
 Per questa scelta di $A$,$B$ chiamerò $y=A+Bx$ la <font color="#f79646">retta di regressione stimata</font>
+
+Per quanto riguarda la varianza degli stimatori:
+
+$$Var(A)=\sigma^2 \dfrac{\dfrac{1}{n}\sum^n_{i=1}x^2_{i}}{\sum^n_{i=1}x^2_{i}-n\bar{x}^2}$$
+$$Var(B)=\sigma^2 \dfrac{1}{\sum^n_{i=1}x^2_{i}-n\bar{x}^2}$$
+
+Però qui mi viene chiesto di stimare $\sigma^2$, e per farlo dovrò stimare i “Residui”, ossia l’ errore dato all’ approssimare $Y_{i}$ con $A+Bx_{i}$, Questi residui avranno quindi la forma:
+$$Y_{i}-(A+Bx_{i})$$
+
+Chiamo allora $SS_{R}$ la somma dei quadrati dei residui:
+$$SS_{R}=\sum^n_{i=1}[Y_{i}-(A+Bx_{i})]^2$$
