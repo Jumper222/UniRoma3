@@ -18,9 +18,9 @@ $H_{1}:\mathbb{P}(Y=i)\neq \dfrac{1}{12}$
 
 Allora per individuare la [[Statistica Test]] uso la formula:
 
-$$\left(\sum^k_{i=1} \dfrac{x_{i}^2}{np_{i}}\right)-n$$
-- $x^2_{i}$ è il numero di osservazioni nella categoria $i$, portato al quadrato.
-- $np_{i}$ è il [[Valore Atteso]] per quella categoria, in questo caso $\dfrac{n}{12}$ dove $n$ è il numero di osservazioni in quella categoria, e $\dfrac{1}{12}$ è la grandezza di quella categoria.
+$$\sum^k_{i=1} \dfrac{(x_{i}-np_{i})^2}{np_{i}}$$
+- $x_{i}$ è il numero di osservazioni nella categoria $i$, poi sottratto a $np_{i}$
+- $np_{i}$ è il [[Valore Atteso]] per quella categoria, si ottiene moltiplicando la media teoria per il numero reale di elementi di quella categoria.
 
 
 Se $H_{0}$ è vera ed $n\gg 1$, allora $T\sim \chi^2_{11}$ *La dimostrazione verrà saltata a piè pari*
