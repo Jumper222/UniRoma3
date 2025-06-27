@@ -1,4 +1,4 @@
-Date delle coppie di dati $((x_{1},y_{1}),\dots,(x_{n},y_{n}))$, voglio predire $y_{n+1}$ conoscendo solo $x_{n+1}$
+ Date delle coppie di dati $((x_{1},y_{1}),\dots,(x_{n},y_{n}))$, voglio predire $y_{n+1}$ conoscendo solo $x_{n+1}$
 
 Poniamo allora $Y$ come variabile dipendente, e risolviamo l’ equazione:
 
