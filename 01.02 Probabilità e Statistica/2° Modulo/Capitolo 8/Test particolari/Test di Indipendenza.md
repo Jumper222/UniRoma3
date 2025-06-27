@@ -19,12 +19,9 @@ Innanzitutto abbiamo la tabella osservata:
 
 Ora andiamo a crearci la tabella E (Expected, per [[Valore Atteso]]) dove ogni cella avrà il valore $E_{{i,j}}$:
 $$E_{i,j}=\dfrac{(\text{tot colonna})(\text{tot riga})}{n}$$
-Una volta ottenuta la tabella E, andiamo a calcolarne i valori veri (Non lasciamo in frazione)
+Una volta ottenuta la tabella E, andiamo a calcolarne i valori veri (Non lasciamo in frazione) e si ottiene la [[Statistica Test]]:
 
-
-Allora la nostra [[Statistica Test]] sarà:
-
-$$T=\sum_{a\in A}\sum_{b\in B} \dfrac{(N_{a,b}-\hat{p}_{a}\hat{q}_{b}n)^2}{n\hat{p}_{a}\hat{q}_{b}}$$
+$$T=\sum_{i=1}^\text{tot colonne}\sum^\text{tot righe}_{j=1}$$
 Fortunatamente quando abbiamo un campione grande, T assomiglia ad una [[Chi Quadro]]:
 Il che significa che una volta calcolato T usando la formula di sopra poi lo confronteremo con un valore della tabella di $\chi^2$ per capire se è un valore troppo “estremo”
 $$T\approx \chi^2_{(|A|-1)(|B|-1)}$$
