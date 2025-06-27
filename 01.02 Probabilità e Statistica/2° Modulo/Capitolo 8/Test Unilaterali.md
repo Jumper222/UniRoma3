@@ -29,7 +29,7 @@ Riassumendo:
 	- Accetto $H_{0}$ se $\dfrac{\sqrt{ n }}{\sigma}(\bar{x}-\mu_{0})\leq z_{\alpha}$
 	- Rifiuto $H_{0}$ altrimenti.
 2. La [[p-value]] è $1-\Phi\left(\dfrac{\sqrt{ n }}{\sigma}(\bar{x}-\mu_{0})\right)$
-3. La OC è: $\beta(\mu)=\Phi\left(\dfrac{\sqrt{ n }}{\sigma}(\mu-\mu_{0})+z_{\alpha}\right)$
+3. La OC è: $\beta(\mu)=\Phi\left(\dfrac{\sqrt{ n }}{\sigma}(\mu-\mu_{0})-z_{\alpha}\right)$
 
 Se invece avessimo $H_{1}:\mu<\mu_{0}$ allora useremmo le seguenti formule:
 
