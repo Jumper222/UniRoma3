@@ -5,36 +5,22 @@ tags:
 
 Il test di Indipendenza lo usiamo per sapere se esiste una dipendenza di un qualche tipo tra i dati studiati, Quindi prende sempre in considerazione vettori di [[Variabili Aleatorie|v.a.]]
 
-Facciamo un esempio:
+Ci aspettiamo allora le seguenti ipotesi:
+$H_{0}:\mathbb{P}(X=a)\mathbb{P}(Y=b)=\mathbb{P}(X=a,Y=b)$
+$H_{1}:\text{altrimenti}$
 
-![[Test di Indipendenza ESEMPIO.png]]
+Innanzitutto abbiamo la tabella osservata:
 
-Abbiamo un campione $((x_{1},y_{1}),\dots,(x_{n},y_{n}))$
-Dove $x_{i}\in\{\text{Donna, Uomo}\}=A$, $y_{i}\in\{\text{Dem,Rep,Ind}\}=B$
 
-Allora chiamiamo due incognite $p_{a},q_{b}$, tali che:
-- $p_{a}=\mathbb{P}(X_{i}=a)=\sum_{b\in B}\mathbb{P}(X_{i}=a,Y_{i}=b)$
-- $q_{b}=\mathbb{P}(Y_{i}=b)=\sum_{a\in A}\mathbb{P}(X_{i}=a,Y_{i}=b)$
-*Queste due v.a. ci serviranno poi per costruire l’ ipotesi $H_{0}$ di indipendenza*
+|     | 1         | 2         |
+| --- | --------- | --------- |
+| 1   | $O_{1,1}$ | $O_{1,2}$ |
+| 2   | $O_{2,1}$ | $O_{2,2}$ |
 
-Guardiamo il campione e chiamiamo:
-$$N_{a,b}=\sum^n_{i=1}\mathbb{1}(X_{i}=a,Y_{i}=b)$$
-*Ossia quante volte appaiono i valori in tabella.*
+Ora andiamo a crearci la tabella E (Expected, per [[Valore Atteso]]) dove ogni cella avrà il valore $E_{{i,j}}$:
+$$E_{i,j}=\dfrac{(\text{tot colonna})(\text{tot riga})}{n}$$
+Una volta ottenuta la tabella E, andiamo a calcolarne i valori veri (Non lasciamo in frazione)
 
-$M_{a}=\sum_{b\in B}N_{a,b}$ *Quanta gente è uomo o donna*
-$R_{b}=\sum_{a\in A}N_{a,b}$ *Quanta gente ha votato un partito*
-
-Uno stimatore è dato da:
-
-$\hat{p}_{a}=\dfrac{M_{a}}{n}$
-$\hat{q}_{b}=\dfrac{R_{b}}{n}$
-
-Se genere e appartenenza politica fossero indipendenti allora avremmo:
-$N_{a,b}\approx \hat{p}_{a}\hat{q}_{b}n$
-
-Posso finalmente creare le ipotesi: 
-$H_{0}:\mathbb{P}(X=a,Y=b)=p_{a}q_{b}$
-$H_{1}:\mathbb{P}(X=a,Y=b)\neq p_{a}q_{b}$
 
 Allora la nostra [[Statistica Test]] sarà:
 
