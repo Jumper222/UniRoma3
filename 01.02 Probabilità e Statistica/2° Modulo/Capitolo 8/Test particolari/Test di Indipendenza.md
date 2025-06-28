@@ -21,18 +21,18 @@ Ora andiamo a crearci la tabella E (Expected, per [[Valore Atteso]]) dove ogni c
 $$E_{i,j}=\dfrac{(\text{tot colonna})(\text{tot riga})}{n}$$
 Una volta ottenuta la tabella E, andiamo a calcolarne i valori veri (Non lasciamo in frazione) e si ottiene la [[Statistica Test]]:
 
-$$T=\sum_{i=1}^\text{tot colonne}\sum^\text{tot righe}_{j=1}$$
+$$T=\sum_{i=1}^\text{tot colonne}\sum^\text{tot righe}_{j=1}\left(\dfrac{(O_{i,j}-E_{i,j})^2}{E_{i,j}}\right)$$
 Fortunatamente quando abbiamo un campione grande, T assomiglia ad una [[Chi Quadro]]:
 Il che significa che una volta calcolato T usando la formula di sopra poi lo confronteremo con un valore della tabella di $\chi^2$ per capire se è un valore troppo “estremo”
-$$T\approx \chi^2_{(|A|-1)(|B|-1)}$$
+$$T\approx \chi^2_{\text{tot colonne * tot righe}}$$
 Questa [[Statistica Test]] la andiamo poi a confrontare con il [[Livello di Significatività]] richiesto:
 
 Preso un $\alpha\in(0,1)$:
 
-- Se $T\leq \chi^2_{(|A|-1)(|B|-1),\alpha}$ Accetto $H_{0}$
+- Se $T\leq \chi^2_{\text{tot colonne * tot righe},\alpha}$ Accetto $H_{0}$
 - Altrimenti rifiuto.
 
 La [[p-value]] invece si calcola:
 
-$$\mathbb{P}(\chi^2_{(|A|-1)(|B|-1),\alpha}>T)$$
+$$\mathbb{P}(\chi^2_{\text{tot colonne * tot righe},\alpha}>T)$$
 
