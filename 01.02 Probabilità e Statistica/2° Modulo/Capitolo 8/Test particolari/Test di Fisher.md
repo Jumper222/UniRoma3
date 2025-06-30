@@ -5,27 +5,15 @@ tags:
 
 Dati 2 [[Campione Aleatorio|Campioni Aleatori]] $(x_{1},\dots,x_{n}),(y_{1},\dots,y_{m})$
 Possiamo creare una tabella di contingenza, dove incrociamo predizione e realtà. quindi andiamo a vedere quante volte la predizione ha preso la realtà (nella tabella è $x$) e quante volte si è sbagliata ($y$)
-
+quindi andiamo a sottrarre dal campione studiato e creiamo la tabella.
 
 |            | Predizione = 1 | Predizione = 0 |
 | ---------- | -------------- | -------------- |
 | Realtà = 1 | $x$            | $n-x$          |
 | Realtà = 2 | $y$            | $m-x$          |
 
+Quindi creo le ipotesi $H_{0},H_{1}$:
 
----
-
-## 3  Ipotesi
-
-- **H₀** (indipendenza): stessa proporzione → nessuna associazione.
-    
-- **H₁**:
-    
-    - _Bilaterale_: esiste qualsiasi associazione.
-        
-    - _Unilaterale destra_: proporzione di successi più alta nella prima riga.
-        
-    - _Unilaterale sinistra_: proporzione più bassa.
         
 
 ---
