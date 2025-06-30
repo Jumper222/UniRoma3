@@ -13,16 +13,10 @@ quindi andiamo a sottrarre dal campione studiato e creiamo la tabella.
 | Realtà = 2 | $y$            | $m-x$          |
 
 Quindi creo le ipotesi $H_{0},H_{1}$:
-
+$H_{0}:$ Le due [[Variabili Aleatorie]] sono indipendenti, la predizione non rispecchia la realtà.
+$H_{1}:$ La predizione rispecchia la realtà.
         
-
----
-
-## 4  Distribuzione sotto H₀
-
-Condizionando ai margini, il numero di successi di riga 1 segue
-
----
+Trovo allora la [[Statistica Test]]:
 
 ## 5  Calcolo della p‑value
 
