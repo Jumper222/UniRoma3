@@ -12,18 +12,12 @@ quindi andiamo a sottrarre dal campione studiato e creiamo la tabella.
 | Realtà = 1 | $x$            | $n-x$          |
 | Realtà = 2 | $y$            | $m-x$          |
 
+
 Quindi creo le ipotesi $H_{0},H_{1}$:
 $H_{0}:$ Le due [[Variabili Aleatorie]] sono indipendenti, la predizione non rispecchia la realtà.
 $H_{1}:$ La predizione rispecchia la realtà.
         
 Trovo allora la [[Statistica Test]]:
 
-## 5  Calcolo della p‑value
-
-### 5.1  Unilaterale destra (associazione positiva)
-
-### 5.2  Unilaterale sinistra (associazione negativa)
-
-### 5.3  Bilaterale classico ("2 × min")
-
+$$\mathbb{P}(X=k|\ell)=\dfrac{\binom{n}{k}\binom{m}{\ell-k}}{\binom{N}{\ell}}$$
     
