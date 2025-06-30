@@ -2,40 +2,46 @@
 tags:
   - Probabilità_e_statistica
 ---
-Ho due popolazioni di [[Variabili Aleatorie di Bernoulli|bernoulliane]]: $Bern(p),Bern(q)$,
-Con [[Campione Aleatorio|Campioni]]: $(x_{1},\dots,x_{n})$,$(y_{1},\dots,y_{m})$
 
-Come testo se $p\neq q$ ?
+Dati 2 [[Campione Aleatorio|Campioni Aleatori]] $(x_{1},\dots,x_{n}),(y_{1},\dots,y_{m})$
+Possiamo creare una tabella di contingenza, dove incrociamo predizione e realtà. quindi andiamo a vedere quante volte la predizione ha preso la realtà (nella tabella è $x$) e quante volte si è sbagliata ($y$)
 
-Facciamo un esempio:
 
-Prendiamo due linee di produzione:
+|            | Predizione = 1 | Predizione = 0 |
+| ---------- | -------------- | -------------- |
+| Realtà = 1 | $x$            | $n-x$          |
+| Realtà = 2 | $y$            | $m-x$          |
 
-- Linea 1: $(X_{1},\dots,X_{n})$ [[IID]] $Bern(p)$
-- Linea 2: $(Y_{1},\dots,Y_{n})$ [[IID]] $Bern(q)$
 
-Chiamo $X_{tot}=\sum^n_{i=1}X_{i}$, $Y_{tot}=\sum^m_{i=1}Y_{i}$
+---
 
-Se $H_{0}$ è vera, ossia $p=q$ allora
-$X_{tot}+Y_{tot}\sim bin(n+m,p)$
+## 3  Ipotesi
 
-Facciamo finta di prendere pezzi a caso da queste linee di produzione, la prima li fa rossi e la seconda blu.
+- **H₀** (indipendenza): stessa proporzione → nessuna associazione.
+    
+- **H₁**:
+    
+    - _Bilaterale_: esiste qualsiasi associazione.
+        
+    - _Unilaterale destra_: proporzione di successi più alta nella prima riga.
+        
+    - _Unilaterale sinistra_: proporzione più bassa.
+        
 
-Possiamo sempre dire allora che la probabilità di estrarre $k$ rosse è:
-$$\mathbb{P}(X_{tot}=k\ | X_{tot}+Y_{tot}=l )=\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}$$
-*Senza reinserimento!*
+---
 
-Allora calcolo $x_{tot}$ e $y_{tot}$ *Semplicemente il numero totale di campioni di x e y*
-ed anche $l=x_{tot}+y_{tot}$
+## 4  Distribuzione sotto H₀
 
-Posso allora fissare un [[Livello di Significatività]] $\alpha$, ed avere due situazioni:
+Condizionando ai margini, il numero di successi di riga 1 segue
 
-Se:
-$$\sum^{x_{tot}}_{k=0}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}\leq \alpha$$
-Oppure se:
-$$\sum^l_{k=x_{tot}}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}}\leq \alpha$$
+---
 
-Allora rifiuterò $H_{0}$
+## 5  Calcolo della p‑value
 
-Allora la [[p-value]] è il minimo tra i due, formalizzato:
-$$p-value=\min\left\{\sum^{x_{tot}}_{k=0}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}},\sum^l_{k=x_{tot}}\dfrac{\binom{n}{k}\binom{m}{l-k}}{\binom{n+m}{l}} \right\}$$
+### 5.1  Unilaterale destra (associazione positiva)
+
+### 5.2  Unilaterale sinistra (associazione negativa)
+
+### 5.3  Bilaterale classico ("2 × min")
+
+    
