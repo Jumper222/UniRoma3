@@ -5,51 +5,34 @@ tags:
 
 Il test di Indipendenza lo usiamo per sapere se esiste una dipendenza di un qualche tipo tra i dati studiati, Quindi prende sempre in considerazione vettori di [[Variabili Aleatorie|v.a.]]
 
-Facciamo un esempio:
+Ci aspettiamo allora le seguenti ipotesi:
+$H_{0}:\mathbb{P}(X=a)\mathbb{P}(Y=b)=\mathbb{P}(X=a,Y=b)$
+$H_{1}:\text{altrimenti}$
 
-![[Test di Indipendenza ESEMPIO.png]]
+Innanzitutto abbiamo la tabella osservata:
 
-Abbiamo un campione $((x_{1},y_{1}),\dots,(x_{n},y_{n}))$
-Dove $x_{i}\in\{\text{Donna, Uomo}\}=A$, $y_{i}\in\{\text{Dem,Rep,Ind}\}=B$
 
-Allora chiamiamo due incognite $p_{a},q_{b}$, tali che:
-- $p_{a}=\mathbb{P}(X_{i}=a)=\sum_{b\in B}\mathbb{P}(X_{i}=a,Y_{i}=b)$
-- $q_{b}=\mathbb{P}(Y_{i}=b)=\sum_{a\in A}\mathbb{P}(X_{i}=a,Y_{i}=b)$
-*Queste due v.a. ci serviranno poi per costruire l’ ipotesi $H_{0}$ di indipendenza*
+|     | 1         | 2         |
+| --- | --------- | --------- |
+| 1   | $O_{1,1}$ | $O_{1,2}$ |
+| 2   | $O_{2,1}$ | $O_{2,2}$ |
 
-Guardiamo il campione e chiamiamo:
-$$N_{a,b}=\sum^n_{i=1}\mathbb{1}(X_{i}=a,Y_{i}=b)$$
-*Ossia quante volte appaiono i valori in tabella.*
+Ora andiamo a crearci la tabella E (Expected, per [[Valore Atteso]]) dove ogni cella avrà il valore $E_{{i,j}}$:
+$$E_{i,j}=\dfrac{(\text{tot colonna})(\text{tot riga})}{n}$$
+Una volta ottenuta la tabella E, andiamo a calcolarne i valori veri (Non lasciamo in frazione) e si ottiene la [[Statistica Test]]:
 
-$M_{a}=\sum_{b\in B}N_{a,b}$ *Quanta gente è uomo o donna*
-$R_{b}=\sum_{a\in A}N_{a,b}$ *Quanta gente ha votato un partito*
-
-Uno stimatore è dato da:
-
-$\hat{p}_{a}=\dfrac{M_{a}}{n}$
-$\hat{q}_{b}=\dfrac{R_{b}}{n}$
-
-Se genere e appartenenza politica fossero indipendenti allora avremmo:
-$N_{a,b}\approx \hat{p}_{a}\hat{q}_{b}n$
-
-Posso finalmente creare le ipotesi: 
-$H_{0}:\mathbb{P}(X=a,Y=b)=p_{a}q_{b}$
-$H_{1}:\mathbb{P}(X=a,Y=b)\neq p_{a}q_{b}$
-
-Allora la nostra [[Statistica Test]] sarà:
-
-$$T=\sum_{a\in A}\sum_{b\in B} \dfrac{(N_{a,b}-\hat{p}_{a}\hat{q}_{b}n)^2}{n\hat{p}_{a}\hat{q}_{b}}$$
+$$T=\sum_{i=1}^\text{tot colonne}\sum^\text{tot righe}_{j=1}\left(\dfrac{(O_{i,j}-E_{i,j})^2}{E_{i,j}}\right)$$
 Fortunatamente quando abbiamo un campione grande, T assomiglia ad una [[Chi Quadro]]:
 Il che significa che una volta calcolato T usando la formula di sopra poi lo confronteremo con un valore della tabella di $\chi^2$ per capire se è un valore troppo “estremo”
-$$T\approx \chi^2_{(|A|-1)(|B|-1)}$$
+$$T\approx \chi^2_{\text{tot colonne * tot righe}}$$
 Questa [[Statistica Test]] la andiamo poi a confrontare con il [[Livello di Significatività]] richiesto:
 
 Preso un $\alpha\in(0,1)$:
 
-- Se $T\leq \chi^2_{(|A|-1)(|B|-1),\alpha}$ Accetto $H_{0}$
+- Se $T\leq \chi^2_{\text{tot colonne * tot righe},\alpha}$ Accetto $H_{0}$
 - Altrimenti rifiuto.
 
 La [[p-value]] invece si calcola:
 
-$$\mathbb{P}(\chi^2_{(|A|-1)(|B|-1),\alpha}>T)$$
+$$\mathbb{P}(\chi^2_{\text{tot colonne * tot righe},\alpha}>T)$$
 
