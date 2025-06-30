@@ -14,7 +14,7 @@ Prendiamo due linee di produzione:
 - Linea 1: $(X_{1},\dots,X_{n})$ [[IID]] $Bern(p)$
 - Linea 2: $(Y_{1},\dots,Y_{n})$ [[IID]] $Bern(q)$
 
-Chiamo $X_{tot}=\sum^n_{i=1}X_{i}$, $Y_{tot}=\sum^n_{i=1}Y_{i}$
+Chiamo $X_{tot}=\sum^n_{i=1}X_{i}$, $Y_{tot}=\sum^m_{i=1}Y_{i}$
 
 Se $H_{0}$ è vera, ossia $p=q$ allora
 $X_{tot}+Y_{tot}\sim bin(n+m,p)$
