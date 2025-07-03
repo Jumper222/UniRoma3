@@ -15,7 +15,7 @@ $$st= \dfrac{\bar{x}-\bar{y}}{S_{p}\left(\dfrac{1}{n}+\dfrac{1}{m}\right)}$$
 #### <font color="#4bacc6">Test bilaterale</font>
 
 [[p-value]]:
-$$2\mathbb{P}(T>|st|\ )$$ *Con T avente n-m-2 gradi di libertà*
+$$2\mathbb{P}(T>|st|\ )$$ *Con T avente n+m-2 gradi di libertà*
 
 Fisso un $\alpha$:
 - Accetto $H_{0}$ se $|st|\leq t_{n+m-2, \tfrac{\alpha}{2}}$
