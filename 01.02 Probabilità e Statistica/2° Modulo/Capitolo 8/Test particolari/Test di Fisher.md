@@ -20,4 +20,7 @@ $H_{1}:$ La predizione rispecchia la realtà.
 Trovo allora la [[Statistica Test]]:
 
 $$\mathbb{P}(X=k|\ell)=\dfrac{\binom{n}{k}\binom{m}{\ell-k}}{\binom{N}{\ell}}$$
-    
+dove $\ell$ è la somma di $x$ e $y$.
+
+Il [[p-value]] dipende da cosa stiamo cercando, ma generalmente è semplicemente:
+$$\mathbb{P}(X\geq k)$$
