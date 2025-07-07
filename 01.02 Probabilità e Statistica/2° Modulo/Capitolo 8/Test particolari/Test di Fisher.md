@@ -11,7 +11,7 @@ quindi andiamo a sottrarre dal campione studiato e creiamo la tabella.
 | ---------- | -------------- | -------------- |
 | Realtà = 1 | $x$            | $n-x$          |
 | Realtà = 2 | $y$            | $m-x$          |
-
+Dove $\ell=x+y$
 
 Quindi creo le ipotesi $H_{0},H_{1}$:
 $H_{0}:$ Le due [[Variabili Aleatorie]] sono indipendenti, la predizione non rispecchia la realtà.

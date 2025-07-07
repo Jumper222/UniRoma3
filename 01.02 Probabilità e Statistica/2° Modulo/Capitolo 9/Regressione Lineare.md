@@ -1,4 +1,4 @@
- Date delle coppie di dati $((x_{1},y_{1}),\dots,(x_{n},y_{n}))$, voglio predire $y_{n+1}$ conoscendo solo $x_{n+1}$
+Date delle coppie di dati $((x_{1},y_{1}),\dots,(x_{n},y_{n}))$, voglio predire $y_{n+1}$ conoscendo solo $x_{n+1}$
 
 Poniamo allora $Y$ come variabile dipendente, e risolviamo l’ equazione:
 
@@ -61,8 +61,6 @@ $$SS_{R}=\dfrac{S_{XX}S_{YY}-S^2_{XY}}{S_{XX}}$$
 
 Riassumendo:
 
-- $B=\dfrac{S_{XY}}{S_{XX}}\sim\mathcal{N}(\beta, \dfrac{\sigma^2}{S_{XX}})$
-- $A=\bar{Y}-B$
-
-E per quanto riguarda la [[Distribuzione dei parametri della Regressione Lineare]]
-
+- $B=\dfrac{S_{XY}}{S_{XX}}\sim\mathcal{N}(\beta, \dfrac{\sigma^2}{S_{XX}})$ *Stimatore per $\beta$*
+- $A=\bar{Y}-B_{\bar{x}}\sim\mathcal{N}\left( \sigma, \dfrac{\sigma^2\sum^n_{i=1}x^2_{i}}{S_{XX}*n}\right)$ *Stimatore per $\alpha$*
+- $\dfrac{SS_{R}}{\sigma^2}=\dfrac{1}{\sigma^2} \dfrac{S_{XX}S_{YY}-S^2_{XY}}{S_{XX}}\sim \chi^2_{n-2}\to \dfrac{SS_{R}}{n-2}$ *Stimatore per $\sigma^2$*
