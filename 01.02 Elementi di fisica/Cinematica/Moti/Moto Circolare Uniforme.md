@@ -20,7 +20,6 @@ Tabella per lookup veloce delle formule:
 > - Velocità: $v_{\tan}=\omega *R$
 > - Accelerazione: $a_{\tan}=\alpha*R$
 
-
 Ricordarsi sempre che $\hat{\nu}$ è il versore che agisce come “prolunga” del vettore posizione, che si va a riposizionare sulla circonferenza mentre il punto materiale gira
 
 Invece $\tau$ rappresenta il versore tangente alla circonferenza
