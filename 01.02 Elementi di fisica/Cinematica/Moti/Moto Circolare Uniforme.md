@@ -14,6 +14,10 @@ Tabella per lookup veloce delle formule:
 | Accelerazione centripeta  | $a_{c}=-r\omega^2 \hat{\nu}$                                    |
 | Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
 | Accelerazione tangenziale | $a_{t}=r\alpha\hat{\tau}$                                       |
+> [!osservazione]
+> Il “Mondo” delle grandezze tangenziali (quelle del versore $\tau$) è collegato al mondo delle grandezze angolari $\nu$ tramite le relazioni: 
+
+
 Ricordarsi sempre che $\hat{\nu}$ è il versore che agisce come “prolunga” del vettore posizione, che si va a riposizionare sulla circonferenza mentre il punto materiale gira
 
 Invece $\tau$ rappresenta il versore tangente alla circonferenza
