@@ -16,6 +16,9 @@ Tabella per lookup veloce delle formule:
 | Accelerazione tangenziale | $a_{t}=r\alpha\hat{\tau}$                                       |
 > [!osservazione]
 > Il “Mondo” delle grandezze tangenziali (quelle del versore $\tau$) è collegato al mondo delle grandezze angolari $\nu$ tramite le relazioni: 
+> - Posizione: $s$ (punto sull’ arco) =  $\theta*R$
+> - Velocità: $v_{\tan}=\omega *R$
+> - Accelerazione: $a_{\tan}=\alpha*R$
 
 
 Ricordarsi sempre che $\hat{\nu}$ è il versore che agisce come “prolunga” del vettore posizione, che si va a riposizionare sulla circonferenza mentre il punto materiale gira
