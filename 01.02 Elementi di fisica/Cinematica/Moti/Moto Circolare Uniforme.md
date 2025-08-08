@@ -7,13 +7,14 @@
 
 Tabella per lookup veloce delle formule:
 
-| Nome                      | Formula                                                         |
-| ------------------------- | --------------------------------------------------------------- |
-| Velocità angolare media   | $\omega=\dfrac{\Delta\theta}{\Delta t}$                         |
-| Velocità tangenziale      | $v=r\omega$                                                     |
-| Accelerazione centripeta  | $a_{c}=-r\omega^2 \hat{\nu}$                                    |
-| Accelerazione istantanea  | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
-| Accelerazione tangenziale | $a_{t}=r\alpha\hat{\tau}$                                       |
+| Nome                          | Formula                                                         |
+| ----------------------------- | --------------------------------------------------------------- |
+| Velocità angolare media       | $\omega=\dfrac{\Delta\theta}{\Delta t}$                         |
+| Velocità angolare istantanea: | $\omega(t)=\omega_{0}+\alpha t$                                 |
+| Velocità tangenziale          | $v=r\omega$                                                     |
+| Accelerazione centripeta      | $a_{c}=-r\omega^2$                                              |
+| Accelerazione istantanea      | $\alpha=\lim_{ \Delta t \to 0 } \dfrac{\Delta\omega}{\Delta t}$ |
+| Accelerazione tangenziale     | $a_{t}=r\alpha\hat{\tau}$                                       |
 > [!osservazione]
 > Il “Mondo” delle grandezze tangenziali (quelle del versore $\tau$) è collegato al mondo delle grandezze angolari $\nu$ tramite le relazioni: 
 > - Posizione: $s$ (punto sull’ arco) =  $\theta*R$
